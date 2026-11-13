@@ -5,13 +5,13 @@
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
 | [AFFiNE Community Edition](https://affine.pro/) ([source](https://github.com/toeverything/AFFiNE)) | Workspace app for documents, whiteboards, knowledge notes, and team collaboration. | Mixed licensing: most files outside the… | Active | Official | 74,496 |
-| [Memos](https://usememos.com/) ([source](https://github.com/usememos/memos)) | Memo and note-taking app with a SQLite-backed server and lightweight web interface. | MIT | Active | Official | 64,357 |
+| [Memos](https://usememos.com/) ([source](https://github.com/usememos/memos)) | Memo and note-taking app with a SQLite-backed server and lightweight web interface. | MIT | Active | Official | 64,431 |
 | [Joplin](https://joplinapp.org/) ([source](https://github.com/laurent22/joplin)) | Note-taking and to-do app that can run in a browser through a community Docker image and sync with Joplin Server or other storage targets. | AGPL-3.0-or-later | Active | Community | 57,159 |
 | [SiYuan](https://b3log.org/siyuan) ([source](https://github.com/siyuan-note/siyuan)) | Privacy-first personal knowledge management software, written in typescript and golang. | AGPL-3.0 | Active | Official | 47,172 |
-| [Logseq](https://logseq.com/) ([source](https://github.com/logseq/logseq)) | Outliner and knowledge base for linking notes, tasks, journals, and local-first research. | AGPL-3.0 | Active | Official | 45,525 |
+| [Logseq](https://logseq.com/) ([source](https://github.com/logseq/logseq)) | Outliner and knowledge base for linking notes, tasks, journals, and local-first research. | AGPL-3.0 | Active | Official | 45,576 |
 | [Project N.O.M.A.D.](https://github.com/Crosstalk-Solutions/project-nomad) | Offline-first knowledge base with local tools for notes, references, and field workflows. | Apache-2.0 | Active | Official | 43,060 |
 | [Open Notebook](https://www.open-notebook.ai/) ([source](https://github.com/lfnovo/open-notebook)) | Organizes source material into notebooks for AI-assisted search, notes, podcasts, and research. | MIT | Active | Official | 41,800 |
-| [TriliumNext Notes](https://triliumnotes.org/) ([source](https://github.com/TriliumNext/Trilium)) | Cross-app hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes). | AGPL-3.0 | Active | Official | 38,869 |
+| [Trilium Notes](https://triliumnotes.org/) ([source](https://github.com/TriliumNext/Trilium)) | Cross-app hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes). | AGPL-3.0 | Active | Official | 38,869 |
 | [Khoj](https://khoj.dev/) ([source](https://github.com/khoj-ai/khoj)) | Personal AI assistant for searching notes, documents, web pages, and connected knowledge sources. | AGPL-3.0 | Active | Official | 38,120 |
 | [WeKnora](https://weknora.weixin.qq.com/) ([source](https://github.com/Tencent/WeKnora)) | Knowledge app for turning documents into searchable, cited answers and agent workflows. | MIT | Active | Official | 37,105 |
 | [Supermemory](https://supermemory.ai/) ([source](https://github.com/supermemoryai/supermemory)) | Stores and retrieves long-term context for AI applications through an API, web interface, and connected content sources. | MIT | Active | Official | 31,595 |
@@ -25,7 +25,7 @@
 | [CryptPad](https://cryptpad.org/) ([source](https://github.com/cryptpad/cryptpad)) | Collaboration suite built to enable collaboration, synchronizing changes to documents in real time. | AGPL-3.0 | Active | Official | 8,062 |
 | [ChatLab](https://chatlab.fun/) ([source](https://github.com/ChatLab/ChatLab)) | Local chat-history analyzer with a desktop app, SQL exploration, and an AI-powered web interface. | AGPL-3.0 | Active | No | 7,631 |
 | [HedgeDoc](https://hedgedoc.org/) ([source](https://github.com/hedgedoc/hedgedoc)) | Collaborative Markdown editor for real-time notes, meeting docs, and shared writing. | AGPL-3.0 | Active | Official | 7,512 |
-| [Snweb](https://standardnotes.org/) ([source](https://github.com/standardnotes/app)) | End-to-end encrypted note-taking app for writing and synchronizing private notes. | AGPL-3.0 | Active | No | 6,709 |
+| [Standard Notes](https://standardnotes.com/) ([source](https://github.com/standardnotes/app)) | Simple and private notes app, Protect your privacy while getting more done, That's Standard Notes. | AGPL-3.0 | Active | Official | 6,709 |
 | [SilverBullet](https://silverbullet.md/) ([source](https://github.com/silverbulletmd/silverbullet)) | Note-taking application optimized for people with a hacker mindset. | MIT | Active | Official | 6,510 |
 | [Livebook](https://livebook.dev/) ([source](https://github.com/livebook-dev/livebook)) | Collaborative notebook for Markdown, Elixir code, diagrams, and reproducible workflows. | Apache-2.0 | Active | Official | 5,918 |
 | [Colanode](https://colanode.com/) ([source](https://github.com/colanode/colanode)) | Local-first team workspace for chat, docs, files, and database-style collaboration. | Apache-2.0 | Active | Official | 5,198 |
@@ -34,11 +34,11 @@
 | [Speakr](https://github.com/murtaza-nasir/speakr) | Note-taking app for transcribing recordings and organizing meeting notes. | AGPL-3.0 | Active | Official | 4,170 |
 | [Alexandrie](https://alexandrie-hub.fr/) ([source](https://github.com/Smaug6739/Alexandrie)) | Knowledge-base app with Markdown editing, workspaces, search, permissions, Kanban, and offline PWA support. | MIT | Active | Official | 3,910 |
 | [Timelinize](https://timelinize.com/) ([source](https://github.com/timelinize/timelinize)) | Store your data from all your accounts and devices in a single cohesive timeline on your own computer. | AGPL-3.0 | Active | No | 3,702 |
-| [Acontext](https://acontext.io/) ([source](https://github.com/memodb-io/Acontext)) | Memory service that stores an AI agent's reusable skills as inspectable files. | Apache-2.0 | Archived | No | 3,697 |
+| [Acontext](https://acontext.io/) ([source](https://github.com/memodb-io/Acontext)) | Memory service that stores an AI agent's reusable skills as inspectable files. | Apache-2.0 | Archived | No | 3,694 |
 | [My Mind](https://github.com/ondras/my-mind) | Web mind-mapping app for organizing ideas and notes. | MIT | Active | No | 3,369 |
 | [flatnotes](https://github.com/dullage/flatnotes) | Database-less note-taking web app that utilises a flat folder of markdown files for storage. | MIT | Active | Official | 3,283 |
 | [Gramps](https://github.com/gramps-project/gramps) | Genealogy web app for building family trees, editing records, and collaborating on ancestry research. | GPL-2.0 | Active |  | 3,183 |
-| [NoteDiscovery](https://www.notediscovery.com/) ([source](https://github.com/gamosoft/NoteDiscovery)) | Note-taking app for writing linked notes, browsing knowledge, and organizing ideas. | MIT | Active | Official | 2,873 |
+| [NoteDiscovery](https://www.notediscovery.com/) ([source](https://github.com/gamosoft/NoteDiscovery)) | Note-taking app for writing linked notes, browsing knowledge, and organizing ideas. | MIT | Active | Official | 2,877 |
 | [ZenNotes](https://zennotes.org/) ([source](https://github.com/ZenNotes/zennotes)) | Keyboard-first Markdown note-taking app for writing and organizing notes. | MIT | Active | No | 2,588 |
 | [ByteStash](https://github.com/jordan-dalby/ByteStash) | Code snippet app for saving commands, notes, tags, and reusable text blocks. | GPL-3.0 | Active | Official | 2,572 |
 | [Textarea](https://textarea.my/) ([source](https://github.com/antonmedv/textarea)) | Notes webapp for writing and organizing notes or pages. | MIT | Active | No | 2,530 |
@@ -60,8 +60,8 @@
 | [Notesnook](https://notesnook.com/) ([source](https://github.com/streetwriters/notesnook-sync-server)) | Encrypted notes app with sync server support for private note storage. | AGPL-3.0 | Active | Official | 951 |
 | [webtrees](https://webtrees.net/) ([source](https://github.com/fisharebest/webtrees)) | Genealogy app for building, sharing, and collaborating on family trees online. | GPL-3.0 | Active |  | 839 |
 | [Hammer](https://hammer.ink/) ([source](https://github.com/Darkrock-Studios/hammer-editor)) | Offline writing app for drafting and organizing novels. | MIT | Active | No | 815 |
-| [Note Mark](https://notemark.docs.enchantedcode.co.uk/) ([source](https://github.com/enchant97/note-mark)) | Markdown notes app for writing, organizing, editing, and browsing notes from a web interface. | AGPL-3.0 | Active | Official | 775 |
-| [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) ([source](https://github.com/nextcloud/notes)) | Nextcloud notes app for writing, syncing, editing, and organizing plain text notes. | AGPL-3.0 | Active |  | 744 |
+| [Note Mark](https://notemark.docs.enchantedcode.co.uk/) ([source](https://github.com/enchant97/note-mark)) | Markdown notes app for writing, organizing, editing, and browsing notes from a web interface. | AGPL-3.0 | Active | Official | 776 |
+| [Nextcloud Notes](https://apps.nextcloud.com/apps/notes) ([source](https://github.com/nextcloud/notes)) | Nextcloud notes app for writing, syncing, editing, and organizing plain text notes. | AGPL-3.0 | Active |  | 745 |
 | [DailyNotes](https://github.com/djedi/DailyNotes) | Daily notes app for writing Markdown, tracking tasks, and editing code with syntax highlighting. | MIT | Active | Official | 709 |
 | [Ideon](https://www.theideon.com/) ([source](https://github.com/3xpyth0n/ideon)) | Canvas workspace for combining repositories, notes, links, and tasks in one project view. | AGPL-3.0 | Active | Official | 679 |
 | [Turtl](https://turtl.it/) ([source](https://github.com/turtl/server)) | Totally private personal database and note taking app. | AGPL-3.0 | Stale | Official | 631 |
@@ -82,8 +82,8 @@
 | [Textpod](https://github.com/freetonik/textpod) | Local, web note-taking app inspired by "One Big Text File" idea. | GPL-3.0 | Active | Community | 322 |
 | [knowledge-rag](https://pypi.org/project/knowledge-rag/) ([source](https://github.com/lyonzin/knowledge-rag)) | Local RAG MCP server for Claude Code - hybrid search (semantic + BM25), cross-encoder reranking, 13 MCP tools, 20 format parsers, Zero external servers, zero. | MIT | Active | No | 305 |
 | [Genea.app](https://www.genea.app/) ([source](https://github.com/genea-app/genea-app)) | Web app for creating and editing family trees from GEDCOM genealogy data. | MIT | Active |  | 287 |
+| [Minne](https://github.com/perstarkse/minne) | Read-later app for saving pages and building a personal knowledge base. | AGPL-3.0 | Active | Official | 268 |
 | [Silicon Notes](https://github.com/cu/silicon) | Stores personal notes and lightweight documentation in a small knowledge base. | Apache-2.0 | Active | Official | 266 |
-| [Minne](https://github.com/perstarkse/minne) | Read-later app for saving pages and building a personal knowledge base. | AGPL-3.0 | Active | Official | 265 |
 | [Gramps Web](https://www.grampsweb.org/) ([source](https://github.com/gramps-project/gramps-web-api)) | Collaborative genealogy web app compatible with Gramps data. | AGPL-3.0 | Active | Official | 232 |
 | [Sticky](https://www.sticky.today/) ([source](https://github.com/hamzasaleem2/sticky)) | Digital sticky note application for organizing thoughts, ideas, and tasks. | MIT | Archived |  | 168 |
 | [docpht](https://docpht.org/) ([source](https://github.com/docpht/docpht)) | DocPHT you can take notes and quickly document anything and without the use of any database. | MIT | Archived | Community | 166 |

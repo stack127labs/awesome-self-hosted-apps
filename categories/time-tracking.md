@@ -24,7 +24,7 @@
 | [Hackatime](https://hackatime.hackclub.com/) ([source](https://github.com/hackclub/hackatime)) | Records coding time from popular editors through a WakaTime-compatible API and activity dashboard. | MIT | Active | Official | 218 |
 | [dayGLANCE](https://dayglance.app/) ([source](https://github.com/krelltunez/dayGLANCE)) | Day planner with drag-and-drop time blocking, inbox, recurring tasks, habits, routines, goals, projects and Pomodoro focus mode, plus iCal and CalDAV. | MIT | Active | Official | 185 |
 | [Focus Flow](https://francesco-gaglione.github.io/focus_flow_cloud) ([source](https://github.com/francesco-gaglione/focus_flow_cloud)) | Complete ecosystem for time management using the Pomodoro technique. | MIT | Active | Official | 53 |
-| [pocketwatch](https://github.com/winnicodes/pocketwatch) | Minimal time tracking for freelancers, Start and stop a timer, edit entries, filter by client or period, and export a PDF report or CSV, Data lives in two. | MIT | Active | Community | 28 |
+| [pocketwatch](https://github.com/winnicodes/pocketwatch) | Minimal time tracking for freelancers, Start and stop a timer, edit entries, filter by client or period, and export a PDF report or CSV, Data lives in two. | MIT | Active | Community | 29 |
 | [ManictimeServer](https://www.manictime.com/) | Time-tracking server that collects client data and serves browser reports. |  | Active | Community |  |
 
 [Back to all categories](../README.md). Data from 2026-11-13.

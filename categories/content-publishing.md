@@ -10,7 +10,7 @@
 | [Payload CMS](https://payloadcms.com/) ([source](https://github.com/payloadcms/payload)) | Developer-first headless CMS and application framework for publishing and managing website content. | MIT | Active | Official | 45,741 |
 | [Halo](https://github.com/halo-dev/halo) | Blog and website CMS with themes, plugins, and a web admin interface. | GPL-3.0 | Active | Official | 40,261 |
 | [Directus](https://directus.com/) ([source](https://github.com/directus/directus)) | Data app and API layer for managing SQL databases through dashboards and generated APIs. | GPL-3.0-only | Active | Official | 38,687 |
-| [WordPress](https://wordpress.org/) ([source](https://github.com/WordPress/WordPress)) | CMS for publishing websites, blogs, pages, media libraries, themes, and plugins. | GPL-2.0 | Active | Community | 21,524 |
+| [WordPress](https://wordpress.org/) ([source](https://github.com/WordPress/WordPress)) | CMS for publishing websites, blogs, pages, media libraries, themes, and plugins. | GPL-2.0 | Active | Community | 21,538 |
 | [Wagtail](https://wagtail.org/) ([source](https://github.com/wagtail/wagtail)) | Django content management system focused on flexibility and user experience. | BSD-3-Clause | Active | Official | 20,728 |
 | [Zola](https://www.getzola.org/) ([source](https://github.com/getzola/zola)) | Static site generator for building websites from Markdown and templates. | EUPL-1.2 | Active | No | 17,600 |
 | [Grav](https://getgrav.org/) ([source](https://github.com/getgrav/grav)) | Flat-file CMS for publishing websites from files without a traditional database. | MIT | Active |  | 15,723 |
@@ -21,15 +21,15 @@
 | [Webiny](https://www.webiny.com/) ([source](https://github.com/webiny/webiny-js)) | Builds multi-tenant content applications on AWS Lambda, DynamoDB, S3, and CloudFront through a TypeScript framework. | MIT core; commercial enterprise modules | Active |  | 8,052 |
 | [Zensical](https://zensical.org/docs) ([source](https://github.com/zensical/zensical)) | Static site generator for building documentation and content-driven websites. | MIT | Active | Official | 6,127 |
 | [Isso](https://isso-comments.de/) ([source](https://github.com/isso-comments/isso)) | Comment system for adding threaded discussions to websites without using Disqus. | MIT | Active | Official | 5,313 |
-| [WriteFreely](https://writefreely.org/) ([source](https://github.com/writefreely/writefreely)) | Writing software for starting a minimalist, federated blog - or an entire community. | AGPL-3.0 | Active | Official | 5,287 |
+| [WriteFreely](https://writefreely.org/) ([source](https://github.com/writefreely/writefreely)) | Writing software for starting a minimalist, federated blog - or an entire community. | AGPL-3.0 | Active | Official | 5,290 |
 | [Umbraco](https://umbraco.com/) ([source](https://github.com/umbraco/Umbraco-CMS)) | CMS for managing structured website content, editors, media, templates, and publishing workflows. | MIT | Active | Official | 5,285 |
-| [MediaCMS](https://mediacms.io/) ([source](https://github.com/mediacms-io/mediacms)) | Video and media CMS for publishing libraries, user uploads, playlists, and API-backed catalogs. | AGPL-3.0 | Active | Official | 5,182 |
+| [MediaCMS](https://mediacms.io/) ([source](https://github.com/mediacms-io/mediacms)) | Video and media CMS for publishing libraries, user uploads, playlists, and API-backed catalogs. | AGPL-3.0 | Active | Official | 5,193 |
 | [Joomla!](https://www.joomla.org/) ([source](https://github.com/joomla/joomla-cms)) | Content management system for publishing websites, extensions, templates, and multilingual content. | GPL-2.0 | Active |  | 5,167 |
 | [CKAN](https://ckan.org/) ([source](https://github.com/ckan/ckan)) | Data portal app for publishing datasets, metadata, organizations, and public data catalogs. | AGPL-3.0 | Active |  | 5,153 |
 | [Statamic](https://statamic.com/) ([source](https://github.com/statamic/cms)) | Laravel CMS for editable sites, control panel publishing, and flat-file content workflows. | Statamic License | Active |  | 4,918 |
-| [Apostrophe](https://apostrophecms.com/) ([source](https://github.com/apostrophecms/apostrophe)) | CMS with a focus on extensible in-context editing tools. | MIT | Active | Official | 4,662 |
+| [Apostrophe](https://apostrophecms.com/) ([source](https://github.com/apostrophecms/apostrophe)) | CMS with a focus on extensible in-context editing tools. | MIT | Active | Official | 4,665 |
 | [LinkStack](https://linkstack.org/) ([source](https://github.com/LinkStackOrg/LinkStack)) | Link-in-bio page builder with branded buttons and an admin interface. | AGPL-3.0 | Active | Community | 3,949 |
-| [Mixpost](https://mixpost.app/) ([source](https://github.com/inovector/mixpost)) | Create, schedule, and publish social media content in one place. | MIT | Active | Official | 3,917 |
+| [Mixpost](https://mixpost.app/) ([source](https://github.com/inovector/mixpost)) | Create, schedule, and publish social media content in one place. | MIT | Active | Official | 3,930 |
 | [Pimcore](http://www.pimcore.com/) ([source](https://github.com/pimcore/pimcore)) | Manages product data, digital assets, customer data, and commerce content. | GPL-3.0 | Active | Official | 3,891 |
 | [Craft CMS](https://craftcms.com/) ([source](https://github.com/craftcms/cms)) | Models and publishes custom website content through a control panel, Twig templates, GraphQL, and an extension system. | Craft License | Active |  | 3,624 |
 | [Microweber](https://microweber.org/) ([source](https://github.com/microweber/microweber)) | Website and shop builder for editing pages, managing content, and running an online store. | MIT | Slow | Official | 3,441 |
@@ -37,22 +37,22 @@
 | [Silex](https://www.silex.me/) ([source](https://github.com/silexlabs/Silex)) | No-code website builder for designing pages visually and exporting static sites. | AGPL-3.0 | Active | Official | 3,037 |
 | [SQLPage](https://sql-page.com/) ([source](https://github.com/sqlpage/SQLPage)) | SQL-driven website builder for creating dynamic pages directly from database queries. | MIT | Active | Official | 2,584 |
 | [Squidex](https://squidex.io/) ([source](https://github.com/Squidex/squidex)) | Headless CMS for managing structured content, APIs, assets, and editorial workflows. | MIT | Active | Official | 2,516 |
-| [Artalk](https://artalk.js.org/) ([source](https://github.com/ArtalkJS/Artalk)) | Comment system built in Golang, providing a lightweight and highly customizable app for adding comments to your website. | MIT | Active | Official | 2,364 |
-| [Plume](https://joinplu.me/) ([source](https://github.com/Plume-org/Plume)) | Federated blogging application for publishing posts across ActivityPub. | AGPL-3.0 | Slow | No | 2,221 |
+| [Artalk](https://artalk.js.org/) ([source](https://github.com/ArtalkJS/Artalk)) | Comment system built in Golang, providing a lightweight and highly customizable app for adding comments to your website. | MIT | Active | Official | 2,365 |
+| [Plume](https://joinplu.me/) ([source](https://github.com/Plume-org/Plume)) | Federated blogging application for publishing posts across ActivityPub. | AGPL-3.0 | Slow | No | 2,222 |
 | [BroadcastChannel](https://memo.miantiao.me/) ([source](https://github.com/miantiao-me/BroadcastChannel)) | Microblog app that turns Telegram channel posts into a public web feed. | AGPL-3.0 | Active | Official | 2,091 |
 | [Ech0](https://ech0.app/) ([source](https://github.com/lin-snow/Ech0)) | Lightweight federated publishing app focused on personal idea sharing (documentation in Chinese). | AGPL-3.0 | Active | Official | 2,090 |
 | [Publify](http://publify.github.io/) ([source](https://github.com/publify/publify)) | Web publishing app for writing posts, managing blogs, and running small sites. | MIT | Active |  | 1,854 |
 | [Kirby](https://getkirby.com/) ([source](https://github.com/getkirby/kirby)) | Builds custom content-managed websites around a file-based PHP core and configurable editor. | Kirby License Agreement | Active |  | 1,539 |
 | [WinterCMS](https://wintercms.com/) ([source](https://github.com/wintercms/winter)) | Speedy and secure content management system built on the Laravel PHP framework. | MIT | Active |  | 1,521 |
 | [Bludit](https://www.bludit.com/) ([source](https://github.com/bludit/bludit)) | Content management system that stores websites and blogs as JSON files without a database. | MIT | Active | Official | 1,475 |
-| [MODX](https://modx.com/) ([source](https://github.com/modxcms/revolution)) | Content management framework for building websites with templates, pages, and custom fields. | GPL-2.0 | Active |  | 1,415 |
+| [MODX](https://modx.com/) ([source](https://github.com/modxcms/revolution)) | Content management framework for building websites with templates, pages, and custom fields. | GPL-2.0 | Active |  | 1,416 |
 | [HTMLy](https://github.com/danpros/htmly) | Simple and fast databaseless PHP blogging app, and Flat-File CMS. | GPL-2.0 | Active |  | 1,369 |
 | [pico](https://pico.sh/) ([source](https://github.com/picosh/pico)) | Publishes text, feeds, and simple web services through SSH-driven command-line tools. | MIT | Active | Official | 1,350 |
-| [Vvveb](https://www.vvveb.com/) ([source](https://github.com/givanz/Vvveb)) | CMS for building websites, blogs, and online stores. | AGPL-3.0 | Active | No | 1,321 |
+| [Vvveb CMS](https://www.vvveb.com/) ([source](https://github.com/givanz/Vvveb)) | CMS and ecommerce builder for creating websites, blogs, and online stores. | AGPL-3.0 | Active | Official | 1,321 |
 | [TYPO3](https://typo3.org/) ([source](https://github.com/TYPO3/typo3)) | Enterprise content management system for building and maintaining large websites. | GPL-2.0 | Active |  | 1,222 |
 | [Processwire](https://processwire.com/) ([source](https://github.com/processwire/processwire)) | Friendly and CMS with a strong API for publishing and managing website content. | None declared | Active | No | 1,160 |
 | [Known](https://withknown.com/opensource) ([source](https://github.com/idno/idno)) | Publishes articles, notes, photos, bookmarks, and status updates from a personal site. | Apache-2.0 | Active | Official | 1,126 |
-| [Backdrop](https://backdropcms.org/) ([source](https://github.com/backdrop/backdrop)) | Easy-to-use CMS for building professional websites for publishing and managing website content. | GPL-2.0 | Active | No | 1,053 |
+| [Backdrop CMS](https://backdropcms.org/) ([source](https://github.com/backdrop/backdrop)) | Comprehensive CMS for small to medium sized businesses and non-profits. | GPL-2.0 | Active |  | 1,053 |
 | [Ojs](https://pkp.sfu.ca/software/ojs) ([source](https://github.com/pkp/ojs)) | Publishing system for managing scholarly journals and their editorial workflows. | GPL-3.0 | Active | No | 1,052 |
 | [Automad](https://automad.org/) ([source](https://github.com/marcantondahmen/automad)) | Flat-file CMS and template engine for publishing websites without a database. | MIT | Active | Official | 962 |
 | [sigal](https://sigal.readthedocs.io/en/latest) ([source](https://github.com/saimn/sigal)) | Static gallery generator for turning image folders, albums, metadata, and themes into photo sites. | MIT | Active |  | 950 |
@@ -66,7 +66,7 @@
 | [Cockpit](https://getcockpit.com/) ([source](https://github.com/Cockpit-HQ/Cockpit)) | Simple content app to manage any structured content. | MIT | Active | Official | 761 |
 | [Superdesk](http://www.superdesk.org/) ([source](https://github.com/superdesk/superdesk)) | End-to-end news creation, production, curation, distribution, and publishing app. | AGPL-3.0 | Active | Official | 760 |
 | [WonderCMS](https://wondercms.com/) ([source](https://github.com/WonderCMS/wondercms)) | Small flat-file CMS for editing lightweight websites without a database. | MIT | Active |  | 747 |
-| [Xibo](https://xibosignage.com/) ([source](https://github.com/xibosignage/xibo)) | Digital signage CMS for scheduling layouts, media, and display content. | AGPL-3.0 | Active |  | 744 |
+| [Xibo](https://xibosignage.com/) ([source](https://github.com/xibosignage/xibo)) | Digital signage CMS for scheduling layouts, media, and display content. | AGPL-3.0 | Active |  | 743 |
 | [bin](https://github.com/w4/bin) | Shares text snippets from a small service with no external database. | WTFPL OR 0BSD | Slow | Official | 699 |
 | [Typemill](https://typemill.net/) ([source](https://github.com/typemill/typemill)) | Author-friendly flat-file-cms with a visual markdown editor based on vue.js. | MIT | Active | Official | 622 |
 | [Bolt CMS](https://boltcms.io/) ([source](https://github.com/bolt/core)) | Content Management Tool, which strives to be as simple and straightforward as possible. | MIT | Active | Official | 593 |
@@ -80,12 +80,12 @@
 | [TinyFeed](https://feed.lovergne.dev/) ([source](https://github.com/TheBigRoomXXL/tinyfeed)) | Generate a static HTML page from a collection of feeds with a simple CLI. | MIT | Active | Official | 386 |
 | [CouchCMS](https://www.couchcms.com/) ([source](https://github.com/CouchCMS/CouchCMS)) | Content management system aimed at designers building editable client websites. | CPAL-1.0 | Active |  | 379 |
 | [Hotglue](https://hotglue.me/) ([source](https://github.com/k0a1a/hotglue2)) | Content manipulation system for building websites for publishing and managing website content. | GPL-3.0 | Active | No | 378 |
-| [Mataroa](https://mataroa.blog/) ([source](https://github.com/mataroablog/mataroa)) | Minimal blogging app for publishing posts without a heavy CMS. | AGPL-3.0 | Active | Official | 375 |
 | [Indexhibit](https://www.indexhibit.org/) ([source](https://github.com/Indexhibit/indexhibit)) | Archetypal portfolio CMS for everybody for publishing and managing website content. | GPL-3.0 | Stale | No | 372 |
+| [Mataroa](https://mataroa.blog/) ([source](https://github.com/mataroablog/mataroa)) | Minimal blogging app for publishing posts without a heavy CMS. | AGPL-3.0 | Active | Official | 371 |
 | [Screenlite](https://screenlite.org/) ([source](https://github.com/screenlite/screenlite)) | Digital signage app for managing screens, playlists, and content playback. | MIT | Active | Official | 364 |
 | [REDAXO](https://redaxo.org/) ([source](https://github.com/redaxo/core)) | Simple, flexible and useful content management system (documentation in German). | MIT | Active | Official | 355 |
 | [fx](https://fx-demo.huijzer.xyz/) ([source](https://github.com/rikhuijzer/fx)) | Microblogging service for publishing short posts on a personal site. | MIT | Active | Official | 339 |
-| [Ycode](https://www.ycode.com/) ([source](https://github.com/ycode/ycode)) | Builds and manages custom websites through a visual editor, reusable components, and a content management system. | MIT | Active | Official | 335 |
+| [Ycode](https://www.ycode.com/) ([source](https://github.com/ycode/ycode)) | Builds and manages custom websites through a visual editor, reusable components, and a content management system. | MIT | Active | Official | 338 |
 | [Zenphoto](https://www.zenphoto.org/) ([source](https://github.com/zenphoto/zenphoto)) | Gallery CMS for publishing photo albums, media pages, themes, and image collections. | GPL-2.0 | Active | Official | 320 |
 | [Plone](https://plone.org/) ([source](https://github.com/plone/Products.CMFPlone)) | Content management system for building and maintaining websites. | GPL-2.0 | Active | Official | 312 |
 | [Neos](https://www.neos.io/) ([source](https://github.com/neos/neos-development-collection)) | Content management system for building websites with the Neos and TYPO3 Neos lineage. | GPL-3.0 | Active |  | 265 |

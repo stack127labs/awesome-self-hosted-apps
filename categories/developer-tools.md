@@ -1,6 +1,6 @@
 # Developer tools self-hosted apps
 
-472 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/developer-tools).
+470 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/developer-tools).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -20,9 +20,9 @@
 | [LiteLLM](https://github.com/berriai/litellm) | LiteLLM provides a proxy server to manage auth, loadbalancing, and spend tracking across 100+ LLMs, All in the OpenAI format. | MIT | Active | Community | 63,140 |
 | [PocketBase](https://pocketbase.io/) ([source](https://github.com/pocketbase/pocketbase)) | Backend platform with an embedded SQLite database, user authentication, file storage, and a REST API. | MIT | Archived | Community | 61,598 |
 | [Gitea](https://gitea.com/) ([source](https://github.com/go-gitea/gitea)) | Git with a cup of tea, Painless software development service, including Git hosting, code review, team collaboration, package registry and CI/CD. | MIT | Active | Official | 59,054 |
-| [Appwrite](https://appwrite.io/) ([source](https://github.com/appwrite/appwrite)) | End to end backend server for web, native, and mobile developers . | BSD-3-Clause | Active | Official | 57,915 |
-| [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/powershell-in-docker) ([source](https://github.com/PowerShell/PowerShell)) | PowerShell environment for running scripts and commands on a Linux server. | MIT | Active | Community | 56,064 |
-| [Multica](https://multica.ai/) ([source](https://github.com/multica-ai/multica)) | Coordinates coding agents around shared tasks, repositories, branches, reviews, and human approvals. | Modified Apache-2.0 | Active | Official | 55,340 |
+| [Appwrite](https://appwrite.io/) ([source](https://github.com/appwrite/appwrite)) | End to end backend server for web, native, and mobile developers . | BSD-3-Clause | Active | Official | 58,075 |
+| [PowerShell](https://learn.microsoft.com/en-us/powershell/scripting/install/powershell-in-docker) ([source](https://github.com/PowerShell/PowerShell)) | PowerShell environment for running scripts and commands on a Linux server. | MIT | Active | Community | 56,143 |
+| [Multica](https://multica.ai/) ([source](https://github.com/multica-ai/multica)) | Coordinates coding agents around shared tasks, repositories, branches, reviews, and human approvals. | Modified Apache-2.0 | Active | Official | 55,969 |
 | [LocalAI](https://localai.io/) ([source](https://github.com/mudler/LocalAI)) | Local AI inference server with OpenAI-compatible APIs for text, image, and audio models. | MIT | Active | Official | 50,343 |
 | [Tmux](https://tmux.github.io/) ([source](https://github.com/tmux/tmux)) | Terminal multiplexer for managing several shell sessions in one window. | ISC | Active | No | 50,244 |
 | [Gogs](https://gogs.io/) ([source](https://github.com/gogs/gogs)) | Git hosting service for repositories, issues, pull requests, and team access. | MIT | Active | Official | 47,928 |
@@ -33,9 +33,9 @@
 | [Payload CMS](https://payloadcms.com/) ([source](https://github.com/payloadcms/payload)) | Developer-first headless CMS and application framework for publishing and managing website content. | MIT | Active | Official | 45,741 |
 | [Jsoncrack](https://github.com/AykutSarac/jsoncrack.com) | Data visualization for JSON, YAML, XML, CSV formats and more. | Apache-2.0 | Active | No | 44,587 |
 | [Kong Gateway OSS](https://konghq.com/install) ([source](https://github.com/Kong/kong)) | API gateway for routing, securing, and observing services and microservice traffic. | Apache-2.0 | Active | Official | 44,378 |
+| [Appsmith](https://www.appsmith.com/) ([source](https://github.com/appsmithorg/appsmith)) | Build admin panels, CRUD apps and workflows, Build everything you need, 10x faster. | Apache-2.0 | Active | Official | 41,248 |
 | [IT Tools](https://it-tools.tech/) ([source](https://github.com/CorentinTh/it-tools)) | Browser toolbox with developer utilities for encoding, networking, crypto, dates, and text work. | GPL-3.0 | Active | Official | 41,238 |
 | [ToolJet](https://tooljet.com/) ([source](https://github.com/ToolJet/ToolJet)) | Low-code builder for internal tools, dashboards, forms, workflows, and database frontends. | AGPL-3.0 | Active | Official | 41,225 |
-| [Appsmith](https://www.appsmith.com/) ([source](https://github.com/appsmithorg/appsmith)) | Build admin panels, CRUD apps and workflows, Build everything you need, 10x faster. | Apache-2.0 | Active | Official | 41,194 |
 | [PostHog](https://posthog.com/) ([source](https://github.com/PostHog/posthog)) | Product analytics suite with web analytics, session replay, feature flags, and error tracking. | MIT | Active | Official | 40,717 |
 | [drawDB](https://drawdb.app/) ([source](https://github.com/drawdb-io/drawdb)) | Web database designer for creating schemas and generating SQL statements. | AGPL-3.0 | Active | Official | 40,307 |
 | [Drone CI](https://www.drone.io/) ([source](https://github.com/harness/harness/tree/drone)) | CI server that connects to Git repositories and runs pipeline jobs with separate runners. | Apache-2.0 | Active | Official | 38,891 |
@@ -45,7 +45,7 @@
 | [Apache Kafka](https://kafka.apache.org/) ([source](https://github.com/apache/kafka)) | Distributed event-streaming platform for publishing, storing, and consuming event streams. | Apache-2.0 | Active | Official | 34,213 |
 | [Tabby](https://tabbyml.com/) ([source](https://github.com/TabbyML/tabby)) | Runs an AI coding assistant server with code completion, chat, repository context, models, and editor integrations. | Apache-2.0 core; commercial enterprise… | Active | Official | 33,935 |
 | [CloakBrowser](https://cloakbrowser.dev/) ([source](https://github.com/cloakhq/cloakbrowser)) | Browser automation runtime built around a fingerprint-modified Chromium binary, with Playwright, Puppeteer and Selenium support. | MIT | Active | Official | 32,824 |
-| [Atuin](https://atuin.sh/) ([source](https://github.com/atuinsh/atuin)) | Shell history manager for syncing commands, searching history, and sharing snippets across machines. | MIT | Active | Official | 32,244 |
+| [Atuin](https://atuin.sh/) ([source](https://github.com/atuinsh/atuin)) | Shell history manager for syncing commands, searching history, and sharing snippets across machines. | MIT | Active | Official | 32,345 |
 | [Hasura](https://hasura.io/) ([source](https://github.com/hasura/graphql-engine)) | GraphQL engine that exposes databases as realtime APIs with permissions and event triggers. | Apache-2.0 | Active | Official | 32,125 |
 | [Docsify](https://docsify.js.org/) ([source](https://github.com/docsifyjs/docsify)) | Documentation site generator that builds websites directly from Markdown without a build step. | MIT | Active | No | 31,584 |
 | [Serena-MCP](https://oraios.github.io/serena/) ([source](https://github.com/oraios/serena)) | MCP server that gives coding agents semantic tools to search, understand, edit, refactor, and debug software projects. | GPL-3.0-or-later | Active | Official | 31,251 |
@@ -56,17 +56,17 @@
 | [Open Lovable](https://github.com/firecrawl/open-lovable) | Recreates a referenced website as an editable React application from a browser prompt. | MIT | Active |  | 28,883 |
 | [Label Studio](https://labelstud.io/) ([source](https://github.com/HumanSignal/label-studio)) | Data labeling and annotation workspace for preparing audio, text, image, video, and time-series datasets. | Apache-2.0 | Active | Official | 28,681 |
 | [Budibase](https://budibase.com/) ([source](https://github.com/Budibase/budibase)) | Low-code builder for creating internal tools, forms, workflows, and database-backed apps. | GPL-3.0-or-later core; BUSL-1.1 paid pa… | Active | Official | 28,396 |
-| [Locust](https://locust.io/) ([source](https://github.com/locustio/locust)) | Creates Python load tests that simulate user behavior against websites and other services. | MIT | Active | Official | 28,270 |
+| [Locust](https://locust.io/) ([source](https://github.com/locustio/locust)) | Creates Python load tests that simulate user behavior against websites and other services. | MIT | Active | Official | 28,279 |
 | [PostgREST](https://postgrest.org/) ([source](https://github.com/PostgREST/postgrest)) | Turns tables, views, and functions in an existing PostgreSQL database into a REST API. | MIT | Active | Official | 27,748 |
 | [Shields](https://shields.io/) ([source](https://github.com/badges/shields)) | Creates SVG and raster status badges for software projects and services. | Apache-2.0 | Active | Official | 27,376 |
 | [Jenkins](https://www.jenkins.io/) ([source](https://github.com/jenkinsci/jenkins)) | Automation server for building, testing, deploying, and scheduling software jobs. | MIT | Active | Official | 26,763 |
-| [NocoBase](https://www.nocobase.com/) ([source](https://github.com/nocobase/nocobase)) | No-code app builder for creating business systems, databases, workflows, and admin panels. | Apache-2.0 | Active | Official | 24,874 |
+| [NocoBase](https://www.nocobase.com/) ([source](https://github.com/nocobase/nocobase)) | No-code app builder for creating business systems, databases, workflows, and admin panels. | Apache-2.0 | Active | Official | 24,912 |
 | [SQLite Browser](https://sqlitebrowser.org/) ([source](https://github.com/sqlitebrowser/sqlitebrowser)) | Database browser for opening, editing, and querying SQLite files. | GPL-3.0 | Active | Official | 24,773 |
 | [Temporal](https://temporal.io/) ([source](https://github.com/temporalio/temporal)) | Executes durable application workflows that resume after process, network, and infrastructure failures. | MIT | Active | Official | 24,359 |
-| [age](https://github.com/FiloSottile/age) | Command-line tool and Go library for encrypting and decrypting files. | BSD-3-Clause | Active | No | 24,263 |
+| [age](https://github.com/FiloSottile/age) | Command-line tool and Go library for encrypting and decrypting files. | BSD-3-Clause | Active | No | 24,322 |
 | [Paseo](https://paseo.sh/) ([source](https://github.com/getpaseo/paseo)) | Orchestrator for coding agents like Claude Code, Codex, and Cursor, controlled from phone, desktop, web, or CLI. | AGPL-3.0 | Active | No | 23,929 |
-| [Prime Agent](https://primeintellect.ai/) ([source](https://github.com/PrimeIntellect-ai/prime-agent)) | Prime Agent is an coding and research agent intended for general-purpose and long-running work. | MIT | Active | No | 22,626 |
-| [MkDocs](https://www.mkdocs.org/) ([source](https://github.com/mkdocs/mkdocs)) | Static documentation generator for building project docs from Markdown files. | BSD-2-Clause | Slow |  | 22,539 |
+| [Prime Agent](https://primeintellect.ai/) ([source](https://github.com/PrimeIntellect-ai/prime-agent)) | Prime Agent is an coding and research agent intended for general-purpose and long-running work. | MIT | Active | No | 22,677 |
+| [MkDocs](https://www.mkdocs.org/) ([source](https://github.com/mkdocs/mkdocs)) | Static documentation generator for building project docs from Markdown files. | BSD-2-Clause | Slow |  | 22,544 |
 | [Airbyte](https://airbyte.com/) ([source](https://github.com/airbytehq/airbyte)) | Moves data between databases, APIs, files, and warehouses through configurable connectors and scheduled syncs. | Elastic License 2.0; protocol directory… | Active | Official | 22,370 |
 | [ralph](https://github.com/snarktank/ralph) | AI coding loop that runs an agent on project tasks and tracks progress in the code repository. | MIT | Active | Community | 22,192 |
 | [LiveKit](https://livekit.com/) ([source](https://github.com/livekit/livekit)) | Provides real-time audio, video, and data transport for applications and AI agents. | Apache-2.0 | Active | Official | 22,182 |
@@ -75,7 +75,7 @@
 | [bolt.diy](https://github.com/stackblitz-labs/bolt.diy) | Generates, edits, runs, and deploys full-stack web applications with a chosen language model. | MIT | Active | Official | 20,069 |
 | [Eleventy](https://www.11ty.dev/) ([source](https://github.com/11ty/eleventy)) | Static site generator that turns templates, Markdown, and data into HTML. | MIT | Active | No | 20,035 |
 | [Windmill](https://windmill.dev/) ([source](https://github.com/windmill-labs/windmill)) | Developer automation app for scripts, workflows, internal tools, jobs, and approval flows. | Apache-2.0 | Active | Official | 18,559 |
-| [Maxun](https://www.maxun.dev/) ([source](https://github.com/getmaxun/maxun)) | Web scraping app for building robots that collect data from sites without custom code. | AGPL-3.0 | Active | Official | 18,177 |
+| [Maxun](https://www.maxun.dev/) ([source](https://github.com/getmaxun/maxun)) | Web scraping app for building robots that collect data from sites without custom code. | AGPL-3.0 | Active | Official | 18,220 |
 | [Coder](https://coder.com/) ([source](https://github.com/coder/coder)) | Development environment manager for running remote workspaces on your infrastructure. | AGPL-3.0 | Active | Official | 17,344 |
 | [OpenSandbox](https://open-sandbox.ai/) ([source](https://github.com/opensandbox-group/OpenSandbox)) | Local sandbox app that runs isolated AI workloads through Docker and Kubernetes APIs. | Apache-2.0 | Active | Official | 17,259 |
 | [OpenWA](https://www.open-wa.org/) ([source](https://github.com/rmyndharis/OpenWA)) | WhatsApp API gateway for sending and receiving messages programmatically. | MIT | Active | No | 16,789 |
@@ -96,13 +96,13 @@
 | [httpbin](https://httpbin.org/) ([source](https://github.com/postmanlabs/httpbin)) | HTTP service that returns request data for testing clients and integrations. | ISC | Active | Official | 13,637 |
 | [Gotenberg](https://gotenberg.dev/) ([source](https://github.com/gotenberg/gotenberg)) | API server for converting HTML, Markdown, Office files, and URLs into PDFs. | MIT | Active | Official | 13,578 |
 | [Pelican](https://blog.getpelican.com/) ([source](https://github.com/getpelican/pelican)) | Static Site Generator for building websites from Markdown and templates. | AGPL-3.0 | Active | No | 13,374 |
-| [Nango](https://nango.dev/) ([source](https://github.com/NangoHQ/nango)) | Builds and runs API integrations with managed authentication, synchronization, webhooks, retries, and observability. | Elastic-2.0 | Active | Official | 13,150 |
+| [Nango](https://nango.dev/) ([source](https://github.com/NangoHQ/nango)) | Builds and runs API integrations with managed authentication, synchronization, webhooks, retries, and observability. | Elastic-2.0 | Active | Official | 13,215 |
 | [OpenReplay](https://openreplay.com/) ([source](https://github.com/openreplay/openreplay)) | Records browser sessions and connects replays with product analytics, errors, performance data, and developer tools. | AGPL-3.0 core; commercial enterprise mo… | Active | Official | 13,123 |
 | [google-webfonts-helper](https://gwfh.mranftl.com/) ([source](https://github.com/majodev/google-webfonts-helper)) | Hassle-Way to Self-Host Google Fonts, Get eot, ttf, svg, woff and woff2 files + CSS snippets. | MIT | Active | Official | 13,084 |
 | [Apache ZooKeeper](https://zookeeper.apache.org/) ([source](https://github.com/apache/zookeeper)) | Distributed coordination service for configuration, naming, synchronization, and group services. | Apache-2.0 | Active | Community | 12,832 |
 | [Convex](https://docs.convex.dev/) ([source](https://github.com/get-convex/convex-backend)) | Runs a reactive application backend with a database, server functions, scheduled jobs, file storage, and realtime clients. | FSL-1.1-Apache-2.0 | Active | Official | 12,784 |
 | [illa-builder](https://illacloud.com/) ([source](https://github.com/illacloud/illa-builder)) | Low-code app allows you to build business apps, enables you to quickly create internal tools such as dashboard, crud app, admin panel, crm, cms, etc. | Apache-2.0 | Slow | No | 12,351 |
-| [YOURLS](https://yourls.org/) ([source](https://github.com/YOURLS/YOURLS)) | The standard, and customizable, URL shortener in PHP. | MIT | Active |  | 12,301 |
+| [YOURLS](https://yourls.org/) ([source](https://github.com/YOURLS/YOURLS)) | The standard, and customizable, URL shortener in PHP. | MIT | Active |  | 12,306 |
 | [Phabricator](https://docker.nasqueron.org/) ([source](https://github.com/phacility/phabricator)) | Phabricator on nginx and php-fpm, With a recent PHP build. | Apache-2.0 | Active | Community | 12,285 |
 | [Camofox Browser](https://github.com/jo-inc/camofox-browser) | Local browser server that gives AI agents a REST API for stealth automation and page extraction. | MIT | Active | Official | 12,224 |
 | [Webhook](https://github.com/adnanh/webhook) | HTTP webhook server that runs configured commands when incoming requests match hook rules. | MIT | Active | Community | 12,213 |
@@ -114,13 +114,12 @@
 | [imgproxy](https://imgproxy.net/) ([source](https://github.com/imgproxy/imgproxy)) | Fast and secure standalone server for resizing and converting remote images. | Apache-2.0 | Active | Official | 11,196 |
 | [SonarQube](http://www.sonarqube.org/) ([source](https://github.com/SonarSource/sonarqube)) | Code quality scanner for finding bugs, vulnerabilities, and maintainability issues. | LGPL-3.0 | Active |  | 11,171 |
 | [Centrifugo](https://centrifugal.dev/) ([source](https://github.com/centrifugal/centrifugo)) | Real-time messaging server that delivers WebSocket or SockJS events to connected clients. | Apache-2.0 | Active | Official | 10,958 |
+| [Mailpit](https://mailpit.axllent.org/) ([source](https://github.com/axllent/mailpit)) | Email testing server for capturing messages, inspecting mail, and using a developer API. | MIT | Active | Official | 10,924 |
 | [Tyk](https://tyk.io/) ([source](https://github.com/TykTechnologies/tyk)) | Tyk API Gateway written in Go, supporting REST, GraphQL, TCP and gRPC protocols. | MPL-2.0 | Active | Official | 10,883 |
-| [Mailpit](https://mailpit.axllent.org/) ([source](https://github.com/axllent/mailpit)) | Email testing server for capturing messages, inspecting mail, and using a developer API. | MIT | Active | Official | 10,876 |
-| [Docker Registry](https://distribution.github.io/distribution/) ([source](https://github.com/distribution/distribution)) | Stores and serves container images through the Registry HTTP API. | Apache-2.0 | Active | Official | 10,688 |
+| [Distribution Registry](https://distribution.github.io/distribution/) ([source](https://github.com/distribution/distribution)) | Container registry service for storing, distributing, and managing OCI images. | Apache-2.0 | Active | Official | 10,688 |
 | [OmniTools](https://omnitools.app/) ([source](https://github.com/iib0011/omni-tools)) | Collection of web tools for everyday tasks (coding, manipulating images/videos, PDFs or crunching numbers...). | MIT | Active | Official | 10,671 |
 | [Orama](https://docs.orama.com/docs/orama-js) ([source](https://github.com/oramasearch/orama)) | Adds full-text, vector, and hybrid search to browser, server, and edge applications through a small JavaScript library. | Apache-2.0 | Active |  | 10,607 |
 | [KeystoneJS](https://keystonejs.com/) ([source](https://github.com/keystonejs/keystone)) | Headless CMS and app framework for building editable data models with an admin UI. | MIT | Active |  | 9,989 |
-| [Sentry Self-Hosted](https://sentry.io/) ([source](https://github.com/getsentry/self-hosted)) | Packages Sentry's error tracking and performance monitoring stack for private deployments. | FSL-1.1-Apache-2.0 | Active | Official | 9,649 |
 | [pgweb](https://sosedoff.github.io/pgweb) ([source](https://github.com/sosedoff/pgweb)) | Browser PostgreSQL explorer for connecting databases, running queries, and browsing tables. | MIT | Active | Official | 9,553 |
 | [Swagger Editor](https://editor.swagger.io/) ([source](https://github.com/swagger-api/swagger-editor)) | Browser-based editor for designing and validating OpenAPI and AsyncAPI definitions. | Apache-2.0 | Active | Official | 9,473 |
 | [Fresh Editor](https://getfresh.dev/) ([source](https://github.com/sinelaw/fresh)) | Fresh is a modern, full-featured terminal text editor with familiar keybindings, mouse support, and IDE-level features. | GPL-3.0 | Active |  | 9,472 |
@@ -128,18 +127,18 @@
 | [Highlight](https://app.highlight.io/) ([source](https://github.com/highlight/highlight)) | Combines session replay, error monitoring, logs, traces, and performance data for debugging applications. | Apache-2.0 core; commercial enterprise… | Active | Official | 9,390 |
 | [Redis Insight](https://redis.io/insight/) ([source](https://github.com/redis/RedisInsight)) | Redis Insight lets people inspect, query, and monitor Redis databases through a web interface. | SSPL-1.0 | Active | Official | 8,930 |
 | [Mage](https://www.mage.ai/) ([source](https://github.com/mage-ai/mage-ai)) | Data pipeline app for effortless data integration, transformation, and orchestration using Python, SQL, and R. | Apache-2.0 | Active | Official | 8,847 |
-| [Zerobin](https://privatebin.info/) ([source](https://github.com/PrivateBin/PrivateBin)) | Pastebin where the server has zero knowledge of pasted data. | GPL-3.0 | Active | No | 8,737 |
+| [PrivateBin](https://privatebin.info/) ([source](https://github.com/PrivateBin/PrivateBin)) | Minimalist pastebin/discussion board where the server has zero knowledge of hosted data. | Apache-2.0 | Active | Community | 8,744 |
 | [GrowthBook](https://www.growthbook.io/) ([source](https://github.com/growthbook/growthbook)) | Manages feature flags, experiments, metrics, and product analytics for controlled software rollouts. | MIT core; commercial enterprise modules | Active | Official | 8,588 |
 | [Antigen](https://github.com/zsh-users/antigen) | Zsh plugin manager for installing, updating, and organizing shell extensions. | MIT | Active | No | 8,365 |
 | [Capjs](https://capjs.js.org/) ([source](https://github.com/tiagorangel1/cap)) | CAPTCHA alternative that uses proof of work instead of image puzzles for human verification. | Apache-2.0 | Active | Official | 8,330 |
 | [Cap](https://trycap.dev/) ([source](https://github.com/tiagozip/cap)) | CAPTCHA service that issues proof-of-work challenges and verifies tokens for web forms. | Apache-2.0 | Active | Official | 8,300 |
 | [Hatchet](https://hatchet.run/) ([source](https://github.com/hatchet-dev/hatchet)) | Orchestrates background jobs, scheduled work, durable workflows, and long-running AI agent tasks. | MIT | Active | Official | 8,271 |
-| [Woodpecker](https://woodpecker-ci.org/) ([source](https://github.com/woodpecker-ci/woodpecker)) | CI engine with great extensibility integrated with GitHub, GitLab, Gitea. | Apache-2.0 | Active | No | 8,182 |
+| [Woodpecker CI](https://woodpecker-ci.org/) ([source](https://github.com/woodpecker-ci/woodpecker)) | CI/CD engine for running pipelines, builds, plugins, and repository automation. | Apache-2.0 | Active | Community | 8,182 |
 | [Fonoster](https://fonoster.com/) ([source](https://github.com/fonoster/fonoster)) | Builds programmable voice applications with calling, messaging, speech, and automation APIs. | MIT | Active | Official | 8,166 |
 | [Webiny](https://www.webiny.com/) ([source](https://github.com/webiny/webiny-js)) | Builds multi-tenant content applications on AWS Lambda, DynamoDB, S3, and CloudFront through a TypeScript framework. | MIT core; commercial enterprise modules | Active |  | 8,052 |
 | [Concourse](https://concourse-ci.org/) ([source](https://github.com/concourse/concourse)) | Container-based automation system for building repeatable CI/CD pipelines and workflows. | Apache-2.0 | Active | Official | 7,940 |
 | [Steel](https://steel.dev/) ([source](https://github.com/steel-dev/steel-browser)) | Browser automation API for AI agents with sessions, proxy support, and headless control. | Apache-2.0 | Active | Community | 7,939 |
-| [Manifest](https://manifest.build/) ([source](https://github.com/mnfst/manifest)) | Backend generator that defines APIs, data models, and admin behavior from a YAML file. | MIT | Active | Official | 7,626 |
+| [Manifest](https://manifest.build/) ([source](https://github.com/mnfst/manifest)) | Backend generator that defines APIs, data models, and admin behavior from a YAML file. | MIT | Active | Official | 7,630 |
 | [ha-mcp](https://homeassistant-ai.github.io/ha-mcp/) ([source](https://github.com/homeassistant-ai/ha-mcp)) | The Unofficial and Awesome Home Assistant MCP Server. | MIT | Active | No | 7,508 |
 | [Sink](https://sink.cool/) ([source](https://github.com/miantiao-me/Sink)) | Simple, speedy, secure link shortener with analytics and deployed with Cloudflare. | AGPL-3.0 | Active |  | 7,266 |
 | [Soft Serve](https://github.com/charmbracelet/soft-serve) | Git server for browsing repositories, managing access, and working from the command line. | MIT | Archived | Official | 7,265 |
@@ -148,7 +147,7 @@
 | [Evidence](https://evidence.dev/) ([source](https://github.com/evidence-dev/evidence)) | Data application framework for building SQL-backed visualizations and reports. | MIT | Active | Official | 7,109 |
 | [Hexclave](https://hexclave.com/) ([source](https://github.com/hexclave/hexclave)) | Adds authentication, teams, billing, email, analytics, and related user infrastructure to applications. | MIT clients; AGPL-3.0 server | Active |  | 6,891 |
 | [Rivet](https://www.rivet.dev/) ([source](https://github.com/rivet-dev/rivet)) | Runs durable stateful actors for agents, collaborative applications, queues, and real-time workloads. | Apache-2.0 | Active | Official | 6,825 |
-| [Lura](https://luraproject.org/) ([source](https://github.com/luraproject/lura)) | API gateway framework for composing backend services behind configurable endpoints. | Apache-2.0 | Active |  | 6,802 |
+| [Lura](https://luraproject.org/) ([source](https://github.com/luraproject/lura)) | API gateway framework for composing backend services behind configurable endpoints. | Apache-2.0 | Active |  | 6,805 |
 | [MailCatcher](https://mailcatcher.me/) ([source](https://github.com/sj26/mailcatcher)) | MailCatcher runs a super simple SMTP server which catches any message sent to it to display in a web interface. | MIT | Active | Official | 6,785 |
 | [Open-Meteo](https://open-meteo.com/) ([source](https://github.com/open-meteo/open-meteo)) | Weather API with open-data forecasts, historical and climate data from all major national weather services. | AGPL-3.0 | Active | Official | 6,624 |
 | [Piku](https://piku.github.io/) ([source](https://github.com/piku/piku)) | Deploys applications to small servers through Git pushes without requiring containers. | MIT | Active |  | 6,606 |
@@ -177,7 +176,7 @@
 | [Scraperr](https://github.com/jaypyles/scraperr) | Web scraper that extracts selected page data using user-defined XPath expressions. | MIT | Archived | Community | 4,909 |
 | [Agenta](http://www.agenta.ai/) ([source](https://github.com/Agenta-AI/agenta)) | Prompt management and evaluation app for developing and monitoring language-model applications. | MIT | Active | Official | 4,906 |
 | [Unregistry](https://uncloud.run/) ([source](https://github.com/psviderski/unregistry)) | Container image registry for distributing internal images without a full registry service. | Apache-2.0 | Active | Official | 4,899 |
-| [MicroBin](https://github.com/szabodanika/microbin) | Paste and file sharing app for short links, expiring uploads, and shared snippets. | BSD-3-Clause | Active | Official | 4,637 |
+| [MicroBin](https://github.com/szabodanika/microbin) | Paste and file sharing app for short links, expiring uploads, and shared snippets. | BSD-3-Clause | Active | Official | 4,639 |
 | [Judge0 CE](https://judge0.com/) ([source](https://github.com/judge0/judge0)) | Code execution API for compiling and running programs in isolated workers. | GPL-3.0 | Active | Official | 4,517 |
 | [Octobox](https://octobox.io/) ([source](https://github.com/octobox/octobox)) | GitHub notification inbox for triaging issues, pull requests, reviews, and repository updates. | AGPL-3.0 | Active | Official | 4,489 |
 | [Kubero](https://demo.kubero.dev/) ([source](https://github.com/kubero-dev/kubero)) | Kubernetes app launcher for deploying services, managing pipelines, and running workloads. | GPL-3.0 | Active | Official | 4,472 |
@@ -201,8 +200,8 @@
 | [localtunnel](https://localtunnel.me/) ([source](https://github.com/localtunnel/server)) | Expose your localhost to the world for easy testing and sharing. | MIT | Stale | Official | 3,321 |
 | [TextBee---API](https://textbee.dev/) ([source](https://github.com/textbee/textbee)) | Simple SMS gateway that allows users to send SMS messages from a web interface or from their application via a REST API. | AGPL-3.0 | Active | Community | 3,311 |
 | [graph-node](https://github.com/graphprotocol/graph-node) | Indexes blockchain data for subgraphs and serves queries through a GraphQL API. | Apache-2.0 | Active | Community | 3,166 |
-| [Phoronix-Test-Suite](https://github.com/phoronix-test-suite/phoronix-test-suite) | The Phoronix Test Suite is the most comprehensive testing and benchmarking app available that provides an extensible framework for which new tests can be. | GPL-3.0 | Active | Community | 3,162 |
-| [Lowdefy](https://lowdefy.com/) ([source](https://github.com/lowdefy/lowdefy)) | YAML and JSON framework for building internal tools, admin panels, and dashboards. | Apache-2.0 | Active | Official | 3,021 |
+| [Phoronix-Test-Suite](https://github.com/phoronix-test-suite/phoronix-test-suite) | The Phoronix Test Suite is the most comprehensive testing and benchmarking app available that provides an extensible framework for which new tests can be. | GPL-3.0 | Active | Community | 3,164 |
+| [Lowdefy](https://lowdefy.com/) ([source](https://github.com/lowdefy/lowdefy)) | YAML and JSON framework for building internal tools, admin panels, and dashboards. | Apache-2.0 | Active | Official | 3,023 |
 | [HubProxy](https://github.com/sky22333/hubproxy) | Proxy service for downloading GitHub releases and Docker images. | MIT | Active | Community | 2,994 |
 | [ZOT OCI Registry](https://zotregistry.dev/) ([source](https://github.com/project-zot/zot)) | OCI image registry for storing and serving container images. | Apache-2.0 | Active | Official | 2,979 |
 | [EventCatalog](https://www.eventcatalog.dev/) ([source](https://github.com/event-catalog/eventcatalog)) | Architecture catalog for documenting services, domains, events, messages, schemas, and ownership. | MIT | Active | Official | 2,968 |
@@ -214,7 +213,7 @@
 | [SQLPage](https://sql-page.com/) ([source](https://github.com/sqlpage/SQLPage)) | SQL-driven website builder for creating dynamic pages directly from database queries. | MIT | Active | Official | 2,584 |
 | [ByteStash](https://github.com/jordan-dalby/ByteStash) | Code snippet app for saving commands, notes, tags, and reusable text blocks. | GPL-3.0 | Active | Official | 2,572 |
 | [GitHub Actions Runner (Docker)](https://github.com/myoung34/docker-github-actions-runner) | Runs self-hosted GitHub Actions runners in Docker and can execute Docker-based workflow jobs. | GPL-3.0 | Active | Official | 2,533 |
-| [asciinema](https://docs.asciinema.org/manual/server) ([source](https://github.com/asciinema/asciinema-server)) | Terminal recording host for uploading, browsing, and sharing asciicast sessions. | Apache-2.0 | Active | Official | 2,505 |
+| [asciinema](https://docs.asciinema.org/manual/server) ([source](https://github.com/asciinema/asciinema-server)) | Terminal recording host for uploading, browsing, and sharing asciicast sessions. | Apache-2.0 | Active | Official | 2,506 |
 | [BOINC](https://boinc.berkeley.edu/) ([source](https://github.com/BOINC/boinc)) | Client that runs volunteer computing tasks for scientific research projects. | LGPL-3.0 | Active | Official | 2,503 |
 | [Charm](https://github.com/charmbracelet/charm) | Terminal user-interface toolkit and library for building interactive command-line applications. | MIT | Archived | Community | 2,489 |
 | [AnyCable](https://anycable.io/) ([source](https://github.com/anycable/anycable)) | Realtime server for reliable two-way communication to power-up any backend. | MIT | Active | Official | 2,391 |
@@ -223,7 +222,7 @@
 | [SignTools](https://github.com/signtools/signtools) | Service for signing and installing iOS applications without a Mac. | AGPL-3.0 | Active | Community | 2,250 |
 | [EmailEngine](https://emailengine.app/) ([source](https://github.com/postalsys/emailengine)) | Headless email client application that makes IMAP and SMTP resources available over REST, Integrate email accounts with your service with ease. | EmailEngine License Agreement v2.1 | Active | Community | 2,248 |
 | [PlantUML Server](https://plantuml.com/) ([source](https://github.com/plantuml/plantuml-server)) | Web app that turns PlantUML text into UML diagrams. | GPL-3.0 | Active | Official | 2,230 |
-| [Azimutt](https://azimutt.app/) ([source](https://github.com/azimuttapp/azimutt)) | Database explorer for visualizing schemas, relationships, documentation, and query context. | MIT | Active | Official | 2,198 |
+| [Azimutt](https://azimutt.app/) ([source](https://github.com/azimuttapp/azimutt)) | Database explorer for visualizing schemas, relationships, documentation, and query context. | MIT | Active | Official | 2,199 |
 | [Corteza](https://cortezaproject.org/) ([source](https://github.com/cortezaproject/corteza)) | Low-code business app builder for CRM records, workflows, pages, and internal tools. | Apache-2.0 | Active | Official | 2,188 |
 | [Bugsink](https://www.bugsink.com/) ([source](https://github.com/bugsink/bugsink)) | Error tracking server for collecting stack traces, grouping issues, alerts, teams, and project events. | PolyForm Shield License 1.0.0 | Active | Official | 2,181 |
 | [ghorg](https://github.com/gabrie30/ghorg) | Use to quickly clone all of an organization's or user's git repositories into a single directory. | Apache-2.0 | Active | Community | 2,164 |
@@ -237,16 +236,16 @@
 | [QuickChart](https://github.com/typpo/quickchart) | QuickChart is a service that generates images of charts from a URL. | AGPL-3.0 | Stale | Community | 2,058 |
 | [Languine](https://languine.ai/) ([source](https://github.com/languine-ai/languine)) | Translates application content through a CLI and CI workflow while keeping localization files in the project repository. | MIT | Active |  | 2,033 |
 | [c15t](https://c15t.com/) ([source](https://github.com/c15t/c15t)) | Consent management service for adding banners, policies, audit records, and consent APIs to web applications. | Apache-2.0 | Active |  | 2,026 |
-| [Yaade](https://docs.yaade.io/) ([source](https://github.com/EsperoTech/yaade)) | Stores and shares API requests, collections, scripts, and documentation within a team. | MIT | Slow | Official | 1,993 |
+| [Yaade](https://docs.yaade.io/) ([source](https://github.com/EsperoTech/yaade)) | Stores and shares API requests, collections, scripts, and documentation within a team. | MIT | Slow | Official | 1,994 |
 | [Featbit](https://www.featbit.co/) ([source](https://github.com/featbit/featbit)) | Enterprise-grade feature flag app that you can self-host. | MIT | Active | Official | 1,984 |
 | [Azure-Pipelines-Agent](https://github.com/microsoft/azure-pipelines-agent) | Azure Pipelines build agent for running continuous-integration jobs on Ubuntu. | MIT | Active | Community | 1,929 |
 | [IT-Tools by sharevb](https://sharevb-it-tools.vercel.app/) ([source](https://github.com/sharevb/it-tools)) | Browser-based toolbox with converters, encoders, generators, and developer utilities. | GPL-3.0 | Active | Official | 1,812 |
-| [Mantis](https://mantisbt.org/) ([source](https://github.com/mantisbt/mantisbt)) | Bug tracking system for reporting, organizing, and resolving software issues. | GPL-3.0 | Active | No | 1,809 |
+| [MantisBT](https://mantisbt.org/) ([source](https://github.com/mantisbt/mantisbt)) | Bug tracker for reporting issues, assigning work, and following software fixes. | GPL-2.0 | Active | Community | 1,809 |
 | [DreamFactory](https://www.dreamfactory.com/) ([source](https://github.com/dreamfactorysoftware/dreamfactory)) | Service that turns SQL and NoSQL data sources into REST APIs. | Apache-2.0 | Active | Official | 1,789 |
 | [Doco-CD](https://doco.cd/latest) ([source](https://github.com/kimdre/doco-cd)) | Updates Docker Compose stacks through continuous delivery workflows and deployment hooks. | Apache-2.0 | Active | Official | 1,781 |
 | [LLM Gateway](https://llmgateway.io/) ([source](https://github.com/theopenco/llmgateway)) | Routes OpenAI-compatible requests across language model providers and records cost, latency, and usage data. | AGPL-3.0 core; commercial enterprise mo… | Active | Official | 1,736 |
 | [Review Board](https://www.reviewboard.org/) ([source](https://github.com/reviewboard/reviewboard)) | Extensible and friendly code review tool for projects and companies of all sizes. | MIT | Active | Official | 1,730 |
-| [Atomic Server](https://atomicserver.eu/) ([source](https://github.com/ontola/atomic-server)) | Serves linked records with tables, real-time updates, full-text search, and data APIs. | MIT | Active | Official | 1,638 |
+| [Atomic Server](https://atomicserver.eu/) ([source](https://github.com/ontola/atomic-server)) | Serves linked records with tables, real-time updates, full-text search, and data APIs. | MIT | Active | Official | 1,639 |
 | [Semaphore](https://semaphore.io/) ([source](https://github.com/semaphoreio/semaphore)) | CI/CD system for running builds, tests, deployments, and automation pipelines. | Apache-2.0 | Active | Official | 1,637 |
 | [Middleware](https://middlewarehq.com/) ([source](https://github.com/middlewarehq/middleware)) | Tool designed to help engineering leaders measure and analyze the effectiveness of their teams using the DORA metrics. | Apache-2.0 | Active | Official | 1,633 |
 | [Keygen](https://keygen.sh/) ([source](https://github.com/keygen-sh/keygen-api)) | Issues and validates software licenses, entitlements, activations, and signed artifacts. | FCL-1.0-ALv2 | Active | Official | 1,630 |
@@ -289,8 +288,8 @@
 | [Bugzilla](http://www.bugzilla.org/) ([source](https://github.com/bugzilla/bugzilla)) | General-purpose bugtracker and testing tool originally developed and used by the Mozilla project. | MPL-2.0 | Active | Official | 866 |
 | [deltafin](https://github.com/gavamedia/deltafin) | Run full Kimi K3 on a single device, And an OpenAI-compatible API server for local chat and coding agents. | Other | Active | No | 858 |
 | [Structr](https://structr.org/) ([source](https://github.com/structr/structr)) | Builds data-backed applications with a graph schema, visual interface editor, generated APIs, and server-side automation. | GPL-3.0-or-later OR AGPL-3.0-or-later | Active | Official | 830 |
+| [Meilisearch UI](https://meilisearch-ui.vercel.app/) ([source](https://github.com/eyeix/meilisearch-ui)) | Browses indexes, documents, settings, and tasks in a Meilisearch server. | Apache-2.0 | Active | Official | 788 |
 | [Figranium](https://figranium.dev/) ([source](https://github.com/figranium/figranium)) | Browser automation tool for extracting page data and running repeatable web tasks. | GPL-3.0 | Active | Official | 787 |
-| [Meilisearch UI](https://meilisearch-ui.vercel.app/) ([source](https://github.com/eyeix/meilisearch-ui)) | Browses indexes, documents, settings, and tasks in a Meilisearch server. | Apache-2.0 | Active | Official | 787 |
 | [Docker Registry Browser](https://github.com/klausmeyer/docker-registry-browser) | Web interface for browsing Docker registry repositories, tags, image layers, and metadata. | MIT | Active | Official | 701 |
 | [bin](https://github.com/w4/bin) | Shares text snippets from a small service with no external database. | WTFPL OR 0BSD | Slow | Official | 699 |
 | [Git-Sync](https://github.com/AkashRajpurohit/git-sync/wiki) ([source](https://github.com/AkashRajpurohit/git-sync)) | Git backup and sync tool for mirroring repositories, updating copies, and preserving project history. | MIT | Active | Official | 699 |
@@ -334,7 +333,7 @@
 | [forge](https://go.useforge.ai/launch?ref=github) ([source](https://github.com/initializ/forge)) | Forge is the runtime for Anthropic's Agent Skills standard - built for the agent that runs next to a service, in your environment, on infrastructure you. | Apache-2.0 | Active | No | 229 |
 | [OrcaQ](https://orca-q.com/) ([source](https://github.com/cin12211/orca-q)) | Modern database client and IDE for managing, querying, and exploring multiple database types with built-in AI assistant, (Source Code) MIT Nodejs/deb/Docker. | MIT | Active | No | 225 |
 | [noStrudel](https://github.com/hzrd149/nostrudel) | Web client and sandbox for exploring the Nostr protocol. | MIT | Active | Official | 224 |
-| [mkcert Web UI](https://github.com/jeffcaldwellca/mkcertWeb) | Web interface for mkcert certificate generation, local certificate requests, and development TLS setup. | GPL-3.0 | Active | Official | 220 |
+| [mkcert Web UI](https://github.com/jeffcaldwellca/mkcertWeb) | Web interface for mkcert certificate generation, local certificate requests, and development TLS setup. | GPL-3.0 | Active | Official | 222 |
 | [Hackatime](https://hackatime.hackclub.com/) ([source](https://github.com/hackclub/hackatime)) | Records coding time from popular editors through a WakaTime-compatible API and activity dashboard. | MIT | Active | Official | 218 |
 | [OpenRepo](https://github.com/openkilt/openrepo) | Web repository server for Debian, Red Hat, and generic packages. | AGPL-3.0 | Active | Community | 215 |
 | [rgit](https://github.com/w4/rgit) | Serves browsable web pages for repositories stored as bare Git directories. | WTFPL | Slow | Official | 215 |
@@ -379,12 +378,11 @@
 | [Simple-URL-Shortener](https://git.azlux.fr/Azlux/Simple-URL-Shortener) ([source](https://github.com/azlux/Simple-URL-Shortener)) | URL shortener for creating compact links with users, history, and MySQL or SQLite storage. | MIT | Slow |  | 60 |
 | [Hasheous](https://hasheous.org/) ([source](https://github.com/gaseous-project/hasheous)) | Public server to proxy and cache IGDB queries and provide hash matching and lookups for the Gaseous server and other projects. | AGPL-3.0 | Active | Community | 59 |
 | [BugPin](https://bugpin.io/) ([source](https://github.com/aranticlabs/bugpin)) | Self-hosted visual bug reporting for web apps, with screenshots, attachments, and issue triage. | AGPL-3.0 | Active | Official | 51 |
-| [minimal-git-server](https://github.com/mcarbonne/minimal-git-server) | Lightweight git server with a basic CLI to manage repositories, supporting multiple accounts and running in a container. | MIT | Active | Official | 49 |
+| [minimal-git-server](https://github.com/mcarbonne/minimal-git-server) | Lightweight git server with a basic CLI to manage repositories, supporting multiple accounts and running in a container. | MIT | Active | Official | 51 |
 | [RapidForge](https://rapidforge.io/) ([source](https://github.com/rapidforge-io/rapidforge)) | Lightweight app for building webhooks, scheduled tasks and pages, Implement your logic with Bash or Lua. | Apache-2.0 | Active | Official | 43 |
 | [inotify-command](https://github.com/coppit/docker-inotify-command) | Utility that runs configured commands when files or directories change. | LGPL-2.1 | Archived | Community | 40 |
 | [Gull](https://s.aeoly.us/) ([source](https://github.com/aeolyus/gull)) | Modern URL shortener for creating compact links and redirecting visitors. | MPL-2.0 | Stale | No | 38 |
 | [Schoco](https://github.com/PhiTux/schoco) | Browser-based Java classroom for assigning, testing, and reviewing programming exercises. | MIT | Slow | Official | 37 |
-| [sqlitebrowser](https://github.com/linuxserver/docker-sqlitebrowser) | Visual SQLite database browser for creating, editing, and querying database files. | GPL-3.0 | Active | Community | 37 |
 | [vscodium-web](https://github.com/linuxserver/docker-vscodium-web) | Web version of VSCodium for browser-based remote code editing. | GPL-3.0 | Active | Community | 32 |
 | [hishtory-server](https://github.com/linuxserver/docker-hishtory-server) | Shell history service that stores and searches command history across machines. | GPL-3.0 | Active | Community | 30 |
 | [App-Store-Webhook-Proxy](https://github.com/yannisalexiou/appstore-webhook-proxy) | Webhook endpoint for tracking Apple App Store status changes. | None declared | Active | Community | 29 |
@@ -429,7 +427,7 @@
 | [Apache-NIFI](https://github.com/danregalia/nifi-unraid) | Apache NiFi supports and scalable directed graphs of data routing, transformation, and system mediation logic. | None declared | Stale | Community | 0 |
 | [Docmost-MCP-Wrapper](https://github.com/bitcryptic-gw/docmost-mcp-wrapper) | MCP bridge that lets AI assistants interact with Docmost. | MIT | Active | Community | 0 |
 | [hastebin](https://github.com/nzzane/haste-server) | Paste service for sharing text snippets through a web interface. | None declared | Stale | Community | 0 |
-| [Openg2p Selfservice Api](https://openg2p.org/) ([source](https://github.com/OpenG2P/openg2p-spar-self-service)) | Self-service API for the openG2P digital public infrastructure stack. | MPL-2.0 | Archived | Community | 0 |
+| [Openg2p Spar Self Service Api](https://openg2p.org/) ([source](https://github.com/OpenG2P/openg2p-spar-self-service)) | Self-service API for the openG2P SPAR identity and access stack. | MPL-2.0 | Archived | Community | 0 |
 | [Phpinfo](https://www.php.net/manual/fr/function.phpinfo.php) ([source](https://github.com/yunohost-apps/phpinfo_ynh)) | PHP page that displays the current runtime configuration and environment. | GPL-3.0 | Active | No | 0 |
 | [pmse-to-wwb](https://github.com/stoatworks-labs/pmse-to-wwb) | Turns an Ofcom PMSE licence schedule PDF into Shure Wireless Workbench import files. | MIT | Archived | Community | 0 |
 | [py-stocks-api](https://github.com/patrickstigler/py-stocks) | HTTP API for retrieving stock prices and company information from Yahoo Finance data. | MIT | Stale | Community | 0 |

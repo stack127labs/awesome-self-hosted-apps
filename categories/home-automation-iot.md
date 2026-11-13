@@ -14,7 +14,7 @@
 | [Zigbee2MQTT](https://www.zigbee2mqtt.io/) ([source](https://github.com/Koenkk/zigbee2mqtt)) | Bridge that connects Zigbee devices to MQTT for home automation. | GPL-3.0 | Active | Official | 15,805 |
 | [go2rtc](https://github.com/AlexxIT/go2rtc) ([source](https://github.com/alexxit/go2rtc)) | Streams camera video using formats and protocols such as RTSP and WebRTC. | MIT | Active | Official | 14,637 |
 | [ESPHome](https://esphome.io/) ([source](https://github.com/esphome/esphome)) | Builds and manages firmware configurations for ESP-based home automation devices. | MIT and GPL-3.0 split | Active | Official | 12,089 |
-| [Mosquitto](https://mosquitto.org/) ([source](https://github.com/eclipse-mosquitto/mosquitto)) | MQTT broker for routing messages between IoT devices, sensors, apps, and automations. | EPL-2.0 OR BSD-3-Clause | Active | Official | 11,348 |
+| [Mosquitto](https://mosquitto.org/) ([source](https://github.com/eclipse-mosquitto/mosquitto)) | MQTT broker for routing messages between IoT devices, sensors, apps, and automations. | EPL-2.0 OR BSD-3-Clause | Active | Official | 11,364 |
 | [grocy](https://grocy.info/) ([source](https://github.com/grocy/grocy)) | Household management app for groceries, chores, batteries, recipes, and inventory. | MIT | Active | Community | 9,674 |
 | [Octoprint](https://octoprint.org/) ([source](https://github.com/OctoPrint/OctoPrint)) | Snappy web interface for controlling consumer 3D printers. | AGPL-3.0 | Active | Community | 9,184 |
 | [evcc](https://evcc.io/) ([source](https://github.com/evcc-io/evcc)) | Extensible Electric Vehicle Charge Controller and home energy management system. | MIT | Active | Official | 7,593 |
@@ -25,12 +25,12 @@
 | [Domoticz](https://www.domoticz.com/) ([source](https://github.com/domoticz/domoticz)) | Home automation system for controlling devices and sensors. | GPL-3.0 | Active | Official | 3,836 |
 | [VerneMQ](https://vernemq.com/) ([source](https://github.com/vernemq/vernemq)) | Distributed MQTT broker for routing IoT messages across clustered nodes and client connections. | Apache-2.0 | Active | Official | 3,653 |
 | [Wyze Bridge](https://github.com/mrlt8/docker-wyze-bridge) | Create a local WebRTC, RTSP, RTMP, or HLS/Low-Latency HLS stream for most of your Wyze cameras. | AGPL-3.0 | Stale | No | 3,285 |
-| [Gladys](https://gladysassistant.com/) ([source](https://github.com/GladysAssistant/Gladys)) | Home assistant for controlling devices, building automations, and keeping smart home data local. | Apache-2.0 | Active | Official | 3,273 |
+| [Gladys Assistant](https://gladysassistant.com/) ([source](https://github.com/gladysassistant/gladys)) | Home automation app that runs locally and connects household devices. | Apache-2.0 | Active | Official | 3,273 |
 | [Willow](https://heywillow.io/) ([source](https://github.com/HeyWillow/willow)) | Local voice assistant runtime for speech commands, wake words, and hardware integrations. | Apache-2.0 | Active | Official | 3,137 |
 | [HA-Fusion](https://github.com/matt8707/ha-fusion) | Custom Home Assistant dashboard for organizing controls and sensor views. | MIT | Active | Official | 3,020 |
 | [CNCjs](https://cnc.js.org/) ([source](https://github.com/cncjs/cncjs)) | Web interface for CNC milling controllers running Grbl, Smoothieware, or TinyG. | MIT | Active | Official | 2,667 |
 | [WebThings Gateway](http://webthings.io/gateway) ([source](https://github.com/WebThingsIO/gateway)) | Smart home gateway for managing WebThings devices, rules, adapters, and local automation. | MPL-2.0 | Active | Official | 2,646 |
-| [HyperHDR](https://www.hyperhdr.eu/) ([source](https://github.com/awawa-dev/HyperHDR)) | Analyzes video and audio to control ambient LED lighting. | MIT | Active | Community | 2,300 |
+| [HyperHDR](https://www.hyperhdr.eu/) ([source](https://github.com/awawa-dev/HyperHDR)) | Analyzes video and audio to control ambient LED lighting. | MIT | Active | Community | 2,315 |
 | [OpenRemote](https://openremote.io/) ([source](https://github.com/openremote/openremote)) | 100% IoT app - Integrate your devices, add intelligence, build custom apps. | AGPL-3.0 | Active | Official | 2,126 |
 | [Obico](https://obico.io/) ([source](https://github.com/TheSpaghettiDetective/obico-server)) | Monitors and remotely controls 3D printers with video, print alerts, and AI failure detection. | AGPL-3.0 | Active | Official | 1,924 |
 | [unifi-cam-proxy](https://unifi-cam-proxy.com/) ([source](https://github.com/keshavdv/unifi-cam-proxy)) | Proxy that connects non-Ubiquiti RTSP cameras to UniFi Protect for live viewing, recording, and motion detection. | MIT | Stale | Community | 1,872 |
@@ -42,7 +42,7 @@
 | [ioBroker](http://iobroker.net/) ([source](https://github.com/ioBroker/ioBroker)) | Home automation controller for connecting smart devices, metering, rules, and dashboards. | MIT | Active |  | 1,387 |
 | [Emoncms](https://emoncms.org/) ([source](https://github.com/emoncms/emoncms)) | Collects energy sensor readings and turns them into logs, dashboards, graphs, and reports. | AGPL-3.0 | Active |  | 1,324 |
 | [Z-Wave JS UI](https://zwave-js.github.io/zwave-js-ui) ([source](https://github.com/zwave-js/zwave-js-ui)) | Full featured Z-Wave control panel UI and MQTT gateway. | MIT | Active | Official | 1,254 |
-| [zwavejs2mqtt](https://github.com/zwave-js/zwavejs2mqtt) | Fully configurable Zwave to MQTT Gateway and Control Panel. | MIT | Active | Community | 1,253 |
+| [zwavejs2mqtt](https://github.com/zwave-js/zwavejs2mqtt) | Fully configurable Zwave to MQTT Gateway and Control Panel. | MIT | Active | Community | 1,254 |
 | [WeeWX](http://weewx.com/) ([source](https://github.com/weewx/weewx)) | Collects weather station data, generates reports, and publishes forecasts from sensor readings. | GPL-3.0 | Active |  | 1,211 |
 | [openHAB](https://www.openhab.org/) ([source](https://github.com/openhab/openhab-core)) | Vendor and technology agnostic software for home automation. | EPL-2.0 | Active |  | 1,160 |
 | [ESPHomeDesigner](https://koosoli.github.io/ESPHomeDesigner/) ([source](https://github.com/koosoli/ESPHomeDesigner)) | Visual editor for designing ESPHome display layouts for E-Ink, OLED, LCD, and touch devices. | GPL-3.0 | Active |  | 1,157 |
@@ -67,7 +67,7 @@
 | [NSPanelManager](https://nspanelmanager.com/) ([source](https://github.com/NSPManager/NSPanelManager)) | NSPanel Manager is a custom software app for the Sonoff NSPanel (not the NSPanel pro). | GPL-3.0 | Active | Community | 349 |
 | [hassConfigurator](https://github.com/danielperna84/hass-configurator) | Web-based file editor for configuring Home Assistant installations. | MIT | Active | Community | 339 |
 | [ecowitt2mqtt](https://github.com/bachya/ecowitt2mqtt) | Ecowitt2mqtt is a small CLI/web server that can receive data from Fine Offset weather stations. | MIT | Active | Community | 299 |
-| [MQTT Web Interface](https://github.com/terdia/mqttui) | MQTT web interface for viewing broker messages, topics, and live device traffic. | MIT | Active | Official | 227 |
+| [MQTT Web Interface](https://github.com/terdia/mqttui) | MQTT web interface for viewing broker messages, topics, and live device traffic. | MIT | Active | Official | 228 |
 | [WhoRang](https://github.com/Beast12/who-rang) | Detects doorbell visitors and summarizes camera events for home entry monitoring. | MIT | Slow | Official | 226 |
 | [hass-unraid](https://github.com/idmedia/hass-unraid) | Bridge that forwards Unraid WebSocket events to Home Assistant through MQTT. | None declared | Active | Community | 217 |
 | [openWakeWord](https://github.com/rhasspy/wyoming-openwakeword) | Wyoming server for detecting wake words with openWakeWord. | Apache-2.0 | Slow | Community | 208 |

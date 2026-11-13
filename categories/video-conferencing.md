@@ -4,10 +4,10 @@
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
-| [Jitsi](https://jitsi.org/) ([source](https://github.com/jitsi/jitsi-meet)) | Video conferencing server for browser-based meetings and group calls. | Apache-2.0 | Active | No | 30,220 |
+| [Jitsi Meet](https://jitsi.org/meet) ([source](https://github.com/jitsi/jitsi-meet)) | WebRTC application that uses Jitsi Videobridge to provide high quality, scalable video conferences. | Apache-2.0 | Active | Official | 30,220 |
 | [SRS](https://github.com/ossrs/srs) | Video streaming server for RTMP, WebRTC, HLS, HTTP-FLV, SRT, and live media workflows. | MIT | Active | Official | 29,439 |
 | [LiveKit](https://livekit.com/) ([source](https://github.com/livekit/livekit)) | Provides real-time audio, video, and data transport for applications and AI agents. | Apache-2.0 | Active | Official | 22,182 |
-| [MediaMTX](https://mediamtx.org/) ([source](https://github.com/bluenviron/mediamtx)) | Realtime media server for publishing, proxying, recording, and playing video or audio streams. | MIT | Active | Official | 20,646 |
+| [MediaMTX](https://mediamtx.org/) ([source](https://github.com/bluenviron/mediamtx)) | Realtime media server for publishing, proxying, recording, and playing video or audio streams. | MIT | Active | Official | 20,676 |
 | [Owncast](https://owncast.online/) ([source](https://github.com/owncast/owncast)) | Take control over your live stream video by running it yourself, Streaming + chat out of the box. | MIT | Active | Official | 11,648 |
 | [Screego](https://app.screego.net/) ([source](https://github.com/screego/server)) | Screen sharing server for quickly broadcasting a browser tab or desktop to other people. | GPL-3.0 | Active | Official | 10,750 |
 | [BigBlueButton](https://bigbluebutton.org/) ([source](https://github.com/bigbluebutton/bigbluebutton)) | Web conferencing server for virtual classrooms, meetings, recordings, polls, and screen sharing. | LGPL-3.0 | Active | Official | 9,272 |
@@ -16,14 +16,14 @@
 | [WorkAdventure](https://workadventu.re/) ([source](https://github.com/workadventure/workadventure)) | Creates collaborative virtual worlds with proximity video chat, custom maps, and avatar-based team spaces. | AGPL-3.0 with Commons Clause | Active | Official | 5,928 |
 | [FreeSWITCH](https://freeswitch.com/#getting-started) ([source](https://github.com/signalwire/freeswitch)) | Telephony server for voice, video, conferencing, routing, and SIP-based calling. | MPL-2.0 | Active | Official | 5,301 |
 | [Restreamer](https://docs.datarhei.com/restreamer) ([source](https://github.com/datarhei/restreamer)) | Access H.264 real-time video streaming on your website without a streaming provider. | Apache-2.0 | Active | Official | 5,235 |
-| [Mirotalk](https://meet.no42.org/) ([source](https://github.com/miroslavpejic85/mirotalk)) | Web video conferencing app for group calls and meetings. | AGPL-3.0 | Active | No | 4,839 |
+| [MiroTalk P2P](https://p2p.mirotalk.com/) ([source](https://github.com/miroslavpejic85/mirotalk)) | Peer-to-peer video meeting app with screen sharing, chat, and browser-based rooms. | AGPL-3.0 | Active | Official | 4,839 |
 | [OvenMediaEngine](https://ovenmedialabs.com/ome.html) ([source](https://github.com/OvenMediaLabs/OvenMediaEngine)) | Streaming server for ingesting live video and delivering sub-second latency playback. | AGPL-3.0 | Active | Official | 3,302 |
-| [MiroTalk SFU](https://sfu.mirotalk.com/) ([source](https://github.com/miroslavpejic85/mirotalksfu)) | WebRTC video conferencing server for browser meetings, screen sharing, chat, and SFU-based calls. | AGPL-3.0 | Active | Official | 3,152 |
+| [MiroTalk SFU](https://sfu.mirotalk.com/) ([source](https://github.com/miroslavpejic85/mirotalksfu)) | WebRTC video conferencing server for browser meetings, screen sharing, chat, and SFU-based calls. | AGPL-3.0 | Active | Official | 3,158 |
 | [Jitsi Video Bridge](https://jitsi.org/jitsi-videobridge) ([source](https://github.com/jitsi/jitsi-videobridge)) | WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. | Apache-2.0 | Active |  | 3,109 |
 | [Syncplay](https://syncplay.pl/) ([source](https://github.com/Syncplay/syncplay)) | Pausing, unpausing and seeking are synchronized over the Internet, giving everyone playing the same file in the same virtual room a shared viewing experience. | Apache-2.0 | Active | Community | 2,724 |
 | [Tox](https://tox.chat/) ([source](https://github.com/TokTok/c-toxcore)) | Distributed, secure messenger with audio and video chat capabilities. | GPL-3.0 | Active | Official | 2,703 |
 | [Meet](https://visio.numerique.gouv.fr/) ([source](https://github.com/suitenumerique/meet)) | HD video calls, screen sharing, and chats directly from the browser. | MIT | Active | Official | 2,478 |
-| [Nextcloud Talk](https://nextcloud.com/talk) ([source](https://github.com/nextcloud/spreed)) | Nextcloud app for chat, video calls, audio calls, rooms, and team communication. | AGPL-3.0 | Active |  | 2,224 |
+| [Nextcloud Talk](https://nextcloud.com/talk) ([source](https://github.com/nextcloud/spreed)) | Nextcloud app for chat, video calls, audio calls, rooms, and team communication. | AGPL-3.0 | Active |  | 2,225 |
 | [Peer Calls](https://github.com/peer-calls/peer-calls) | Peer-to-peer video calling app for group conversations in a web browser. | Apache-2.0 | Slow | No | 1,900 |
 | [Briefing](https://brie.fi/ng) ([source](https://github.com/holtwick/briefing)) | Runs private group video calls directly between participants. | AGPL-3.0 | Active | Official | 1,638 |
 | [Sharkord](https://sharkord.com/) ([source](https://github.com/Sharkord/sharkord)) | Real-time communication app for chat rooms, messages, users, and live updates. | MIT | Active | Official | 1,573 |

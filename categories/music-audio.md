@@ -1,62 +1,62 @@
 # Music and audio self-hosted apps
 
-180 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/music-audio).
+179 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/music-audio).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
 | [SpotDL-WebGUI](https://github.com/spotdl/spotify-downloader) | Web interface that downloads songs from Spotify playlists through spotDL. | MIT | Active | Community | 26,779 |
-| [Navidrome](https://www.navidrome.org/) ([source](https://github.com/navidrome/navidrome)) | Music server for streaming personal audio libraries through Subsonic clients. | GPL-3.0 | Active | Official | 24,599 |
+| [Navidrome](https://www.navidrome.org/) ([source](https://github.com/navidrome/navidrome)) | Music server for streaming personal audio libraries through Subsonic clients. | GPL-3.0 | Active | Official | 24,693 |
 | [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Conversion tool for turning ebooks into audiobooks with chapters, metadata, and generated audio. | Apache-2.0 | Active | Official | 20,537 |
 | [koel](https://koel.dev/) ([source](https://github.com/koel/koel)) | Music streaming server for organizing a personal library and playing songs through the web. | MIT | Active |  | 17,343 |
 | [Beets](https://beets.io/) ([source](https://github.com/beetbox/beets)) | Music library manager and MusicBrainz tagger (command-line and Web interface). | MIT | Active | Community | 15,917 |
-| [Audiobookshelf](https://audiobookshelf.org/) ([source](https://github.com/advplyr/audiobookshelf)) | Audiobook and podcast server for libraries, listening progress, metadata, and mobile clients. | GPL-3.0 | Active | Official | 14,963 |
-| [ACE-Step 1.5](https://ace-step.github.io/) ([source](https://github.com/ace-step/ACE-Step-1.5)) | Generates music from text and lyrics, with tools for remixing and editing songs. | MIT | Active | Official | 14,573 |
+| [Audiobookshelf](https://audiobookshelf.org/) ([source](https://github.com/advplyr/audiobookshelf)) | Audiobook and podcast server for libraries, listening progress, metadata, and mobile clients. | GPL-3.0 | Active | Official | 14,988 |
+| [ACE-Step 1.5](https://ace-step.github.io/) ([source](https://github.com/ace-step/ACE-Step-1.5)) | Generates music from text and lyrics, with tools for remixing and editing songs. | MIT | Active | Official | 14,708 |
 | [Feishin](https://feishin.vercel.app/) ([source](https://github.com/jeffvli/feishin)) | Modern music player for browsing and playing songs from a Navidrome server. | GPL-3.0 | Active | Community | 10,385 |
-| [Mopidy](https://mopidy.com/) ([source](https://github.com/mopidy/mopidy)) | Extensible Python music server for playing local libraries and streaming services. | Apache-2.0 | Active |  | 8,606 |
+| [Mopidy](https://mopidy.com/) ([source](https://github.com/mopidy/mopidy)) | Extensible Python music server for playing local libraries and streaming services. | Apache-2.0 | Active |  | 8,611 |
 | [Snapcast](https://github.com/snapcast/snapcast) | Multiroom audio server for syncing playback across speakers and network clients. | GPL-3.0 | Active |  | 8,059 |
 | [Lidarr](http://lidarr.audio/) ([source](https://github.com/Lidarr/Lidarr)) | Music collection manager for Usenet and BitTorrent users. | GPL-3.0 | Active | Community | 5,821 |
 | [MusicBrainz Picard](https://picard.musicbrainz.org/) ([source](https://github.com/metabrainz/picard)) | Music tagger that identifies tracks with MusicBrainz and organizes music file metadata. | GPL-2.0 | Active | Community | 5,360 |
-| [musikcube](https://musikcube.com/) ([source](https://github.com/clangen/musikcube)) | Music server and player for streaming audio across desktop and mobile devices. | BSD-3-Clause | Active |  | 4,861 |
-| [Your Spotify](https://github.com/Yooooomi/your_spotify) | Allows you to record your Spotify listening activity and have statistics about them served through a web app. | GPL-3.0 | Active | Official | 4,618 |
+| [musikcube](https://musikcube.com/) ([source](https://github.com/clangen/musikcube)) | Music server and player for streaming audio across desktop and mobile devices. | BSD-3-Clause | Active |  | 4,865 |
+| [Your Spotify](https://github.com/Yooooomi/your_spotify) | Allows you to record your Spotify listening activity and have statistics about them served through a web app. | GPL-3.0 | Active | Official | 4,627 |
 | [Black Candy](https://github.com/blackcandy-org/blackcandy) | Music streaming server for browsing local libraries and playing tracks in the browser. | MIT | Active | Official | 4,432 |
 | [slskd](https://slskd.org/) ([source](https://github.com/slskd/slskd)) | Soulseek server app for searching, sharing, and downloading music through a web interface. | AGPL-3.0 | Active | Official | 4,271 |
 | [AirConnect](https://github.com/philippe44/AirConnect) | Bridges AirPlay audio to UPnP, Sonos, and Chromecast players. | MIT | Active | Community | 4,230 |
 | [AzuraCast](https://www.azuracast.com/) ([source](https://github.com/AzuraCast/AzuraCast)) | Radio station manager for streams, media libraries, playlists, DJs, relays, and listener pages. | AGPL-3.0 | Active | Official | 4,091 |
-| [Moodist](https://moodist.mvze.net/) ([source](https://github.com/remvze/moodist)) | Ambient sound mixer for focus sessions, background noise, and custom soundscapes. | MIT | Active | Official | 3,943 |
+| [Moodist](https://moodist.mvze.net/) ([source](https://github.com/remvze/moodist)) | Ambient sound mixer for focus sessions, background noise, and custom soundscapes. | MIT | Active | Official | 3,952 |
 | [Ampache](http://ampache.org/) ([source](https://github.com/ampache/ampache)) | Web audio and video streaming app for browsing, playing, and managing a media library. | AGPL-3.0 | Active | Official | 3,849 |
 | [Headphones](https://github.com/rembo10/headphones) | Finds and downloads music releases through configured Usenet and torrent clients. | GPL-3.0 | Slow |  | 3,767 |
-| [Music Assistant](https://music-assistant.io/) ([source](https://github.com/music-assistant/server)) | Music library controller for combining local libraries, streaming services, players, and multi-room playback. | Apache-2.0 | Active | Official | 3,298 |
+| [Music Assistant](https://music-assistant.io/) ([source](https://github.com/music-assistant/server)) | Music library controller for combining local libraries, streaming services, players, and multi-room playback. | Apache-2.0 | Active | Official | 3,323 |
 | [SudhanPlayz-Discord-MusicBot-v5](https://github.com/sudhanplayz/discord-musicbot) | Discord music bot for playing audio in voice channels. | None declared | Archived | Community | 3,261 |
 | [binhex-nicotineplus](https://github.com/Nicotine-Plus/nicotine-plus) | Soulseek client for searching, downloading, and sharing music files. | GPL-3.0 | Active | Community | 3,237 |
-| [AudioMass](https://audiomass.co/) ([source](https://github.com/pkalogiros/AudioMass)) | Edits and mixes audio tracks directly in a browser. | MIT | Active |  | 3,044 |
+| [AudioMass](https://audiomass.co/) ([source](https://github.com/pkalogiros/AudioMass)) | Edits and mixes audio tracks directly in a browser. | MIT | Active |  | 3,050 |
 | [AudioMuse-AI](https://neptunehub.github.io/AudioMuse-AI/) ([source](https://github.com/neptunehub/audiomuse-ai)) | Music analysis service that builds related-track playlists for common home media servers. | AGPL-3.0 | Active | Official | 2,918 |
-| [mpd](https://www.musicpd.org/) ([source](https://github.com/MusicPlayerDaemon/MPD)) | Music daemon for playing local audio libraries through clients and remote controls. | GPL-2.0 | Active |  | 2,813 |
+| [mpd](https://www.musicpd.org/) ([source](https://github.com/MusicPlayerDaemon/MPD)) | Music daemon for playing local audio libraries through clients and remote controls. | GPL-2.0 | Active |  | 2,815 |
 | [Polaris](https://github.com/agersant/polaris) | Music browsing and streaming application optimized for large music collections, ease of use and high performance. | MIT | Active |  | 2,739 |
-| [Matchering](https://pypi.org/project/matchering) ([source](https://github.com/sergree/matchering)) | Audio mastering app for matching a track's loudness and tone against a reference. | GPL-3.0 | Active | Official | 2,684 |
+| [Matchering](https://pypi.org/project/matchering) ([source](https://github.com/sergree/matchering)) | Audio mastering app for matching a track's loudness and tone against a reference. | GPL-3.0 | Active | Official | 2,689 |
 | [gonic](https://web.libera.chat/?channels=#gonic) ([source](https://github.com/sentriz/gonic)) | Music streaming server / free-software subsonic server API implementation. | GPL-3.0 | Active | Official | 2,658 |
 | [owntone](https://github.com/owntone/owntone-server) | OwnTone is a media server that lets you play audio sources such as local files, Spotify, pipe input or internet radio to AirPlay 1 and 2 receivers. | GPL-2.0 | Active | Community | 2,589 |
-| [mStream](http://mstream.io/) ([source](https://github.com/IrosTheBeggar/mStream)) | Music streaming server for browsing local audio libraries and playing tracks remotely. | GPL-3.0 | Active | Community | 2,429 |
+| [mStream](http://mstream.io/) ([source](https://github.com/IrosTheBeggar/mStream)) | Music streaming server for browsing local audio libraries and playing tracks remotely. | GPL-3.0 | Active | Community | 2,431 |
 | [SoulSync](https://ssync.net/) ([source](https://github.com/Nezreka/SoulSync)) | Music discovery and collection manager for finding releases and organizing libraries. | MIT | Active | Official | 2,368 |
 | [SwingMusic](https://swingmx.com/) ([source](https://github.com/swingmx/swingmusic)) | Music streaming server for browsing local audio files and playing them from the web. | AGPL-3.0 | Active | Official | 2,092 |
 | [Explo](https://github.com/LumePart/Explo) | Explores artists, albums, and listening recommendations for finding new music. | MIT | Active | Official | 2,081 |
 | [Airsonic](https://airsonic.github.io/) ([source](https://github.com/airsonic/airsonic)) | Streams a self-hosted music library to web browsers and Subsonic-compatible players. | GPL-3.0 | Archived | Official | 2,045 |
-| [podgrab](https://github.com/akhilrex/podgrab) | Podcast manager that downloads new episodes from subscribed feeds. | GPL-3.0 | Active | Community | 1,992 |
+| [podgrab](https://github.com/akhilrex/podgrab) | Podcast manager that downloads new episodes from subscribed feeds. | GPL-3.0 | Active | Community | 1,993 |
 | [Podsync](https://github.com/mxpv/podsync) | Turns YouTube channels and playlists into podcast feeds that audio players can subscribe to. | MIT | Active | Official | 1,979 |
+| [Aurral](https://aurral.org/) ([source](https://github.com/lklynet/aurral)) | Handles Lidarr artist requests, music discovery, collection planning, and library additions. | MIT | Active | Official | 1,944 |
 | [Lavalink](https://github.com/freyacodes/lavalink) | Audio server that provides playback nodes for music bots and other clients. | MIT | Active | Community | 1,935 |
-| [Aurral](https://aurral.org/) ([source](https://github.com/lklynet/aurral)) | Handles Lidarr artist requests, music discovery, collection planning, and library additions. | MIT | Active | Official | 1,917 |
-| [Maloja](https://github.com/krateng/maloja) | Collects music scrobbles and turns listening history into charts, artists, and personal stats. | GPL-3.0 | Active | Official | 1,859 |
-| [Lyrion Music Server](https://lyrion.org/) ([source](https://github.com/LMS-Community/slimserver)) | Server software which controls a wide range of Squeezebox/Slim Devices audio players and compatible hardware (formerly Logitech Media Server). | GPL-2.0 | Active | Community | 1,817 |
+| [Maloja](https://github.com/krateng/maloja) | Collects music scrobbles and turns listening history into charts, artists, and personal stats. | GPL-3.0 | Active | Official | 1,862 |
+| [Lyrion Music Server](https://lyrion.org/) ([source](https://github.com/LMS-Community/slimserver)) | Server software which controls a wide range of Squeezebox/Slim Devices audio players and compatible hardware (formerly Logitech Media Server). | GPL-2.0 | Active | Community | 1,823 |
 | [yubal](https://github.com/guillevc/yubal) | YouTube Music album downloader with automatic metadata tagging. | MIT | Active | Official | 1,751 |
 | [LMS](https://github.com/epoupon/lms) | Streams local music libraries through a browser with browsing, playback, and queue controls. | GPL-3.0 | Active |  | 1,700 |
 | [SUB/WAVE](https://www.getsubwave.com/) ([source](https://github.com/perminder-klair/subwave)) | Internet radio app for running a personal station from a local audio library. | MIT | Active | Official | 1,650 |
-| [Musicseerr](https://musicseerr.com/) ([source](https://github.com/HabiRabbu/Musicseerr)) | Sends music requests to Lidarr after users discover albums and artists. | AGPL-3.0 | Active | Official | 1,548 |
+| [Musicseerr](https://musicseerr.com/) ([source](https://github.com/HabiRabbu/Musicseerr)) | Sends music requests to Lidarr after users discover albums and artists. | AGPL-3.0 | Active | Official | 1,551 |
 | [Nightingale](https://nightingale.cafe/) ([source](https://github.com/rzru/nightingale)) | Machine learning karaoke app for generating and singing along with lyrics. | GPL-3.0 | Active | No | 1,545 |
-| [moOde Audio](https://moodeaudio.org/) ([source](https://github.com/moode-player/moode)) | Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. | GPL-3.0 | Active |  | 1,456 |
+| [moOde Audio](https://moodeaudio.org/) ([source](https://github.com/moode-player/moode)) | Audiophile-quality music playback for the wonderful Raspberry Pi family of single board computers. | GPL-3.0 | Active |  | 1,462 |
 | [gPodder](https://gpodder.github.io/) ([source](https://github.com/gpodder/gpodder)) | GPodder is a simple, podcast client written in Python using GTK+, In development since 2005 with a proven, mature codebase, Configuration: /config - Location. | GPL-3.0 | Active | Community | 1,455 |
-| [Meelo](https://github.com/Arthi-chaud/Meelo) | Music server for organizing and streaming a personal collection. | GPL-3.0 | Active | Official | 1,448 |
+| [Meelo](https://github.com/Arthi-chaud/Meelo) | Music server for organizing and streaming a personal collection. | GPL-3.0 | Active | Official | 1,447 |
 | [airsonic-advanced](https://github.com/airsonic-advanced/airsonic-advanced) | Streams a personal music library with a Subsonic-compatible server and web player. | GPL-3.0 | Stale | Official | 1,405 |
 | [muse](https://github.com/codetheweb/muse) | Discord music bot for playing audio in local communities. | MIT | Active | Community | 1,315 |
-| [multi-scrobbler](https://docs.multi-scrobbler.app/) ([source](https://github.com/FoxxMD/multi-scrobbler)) | Scrobble plays from multiple sources to multiple scrobbling services. | MIT | Active | Official | 1,302 |
+| [multi-scrobbler](https://docs.multi-scrobbler.app/) ([source](https://github.com/FoxxMD/multi-scrobbler)) | Scrobble plays from multiple sources to multiple scrobbling services. | MIT | Active | Official | 1,307 |
 | [Deemix](https://github.com/bambanah/deemix) | Desktop and web tool for downloading music from Deezer. | GPL-3.0 | Active | Community | 1,288 |
 | [VibraVid](https://github.com/astraelabs/vibravid) | Music downloader with web, terminal, Telegram, and arr integrations. | GPL-3.0 | Active | Community | 1,278 |
 | [jcorp-nomad](http://nomad.jcorptech.net/) ([source](https://github.com/Jstudner/jcorp-nomad)) | Compact offline media server for organizing and streaming movies, shows, books, and music. | Other | Active | No | 1,250 |
@@ -75,7 +75,7 @@
 | [Audioserve](https://github.com/izderadicka/audioserve) | Audio server for streaming audiobooks, podcasts, and music from folders with playback position sync. | MIT | Active | Official | 865 |
 | [Soulbeet](https://github.com/terry90/soulbeet) | Music tool for finding tracks and downloading songs into a local library. | MIT | Active | Official | 766 |
 | [welle.io-cli](https://github.com/albrechtl/welle.io) | Welle.io is an DAB and DAB+ software defined radio (SDR) with support for rtl-sdr (RTL2832U) and airspy. | None declared | Slow | Community | 760 |
-| [Metadata Remote](https://github.com/wow-signal-dev/metadata-remote) | Audio metadata manager for editing tags, albums, artists, track details, and file information. | AGPL-3.0 | Slow | Official | 737 |
+| [Metadata Remote](https://github.com/wow-signal-dev/metadata-remote) | Audio metadata manager for editing tags, albums, artists, track details, and file information. | AGPL-3.0 | Slow | Official | 738 |
 | [Fast Music Remover](https://github.com/omeryusufyagci/fast-music-remover) | Removes background music and noise from audio tracks for cleaner speech or media clips. | MIT | Slow | Official | 732 |
 | [Stretto](https://next.kaiserapps.com/) ([source](https://github.com/benkaiser/stretto)) | Music player with Youtube/Soundcloud import and iTunes/Spotify discovery. | MIT | Active | Official | 634 |
 | [Vocard](https://vocard.xyz/) ([source](https://github.com/ChocoMeow/Vocard)) | Discord music bot with queue controls, playback customization, and chat commands. | MIT | Active | Official | 616 |
@@ -83,7 +83,7 @@
 | [It's MyTabs](https://github.com/louislam/its-mytabs) | Guitar tab viewer and player for practicing songs in the browser. | MIT | Active | Official | 584 |
 | [MyMpd](https://jcorporation.github.io/myMPD/) ([source](https://github.com/jcorporation/myMPD)) | MPD web client preconfigured for Snapcast multi-room audio. | GPL-3.0 | Active | Community | 562 |
 | [reader](https://reader.readthedocs.io/) ([source](https://github.com/lemon24/reader)) | Feed reader web app and library (so you can use it to build your own), with only standard library and pure-Python dependencies. | BSD-3-Clause | Active |  | 562 |
-| [MinusPod](https://github.com/ttlequals0/MinusPod) | Podcast server that downloads episodes and removes ads from audio files. | MIT | Active | Official | 537 |
+| [MinusPod](https://github.com/ttlequals0/MinusPod) | Podcast server that downloads episodes and removes ads from audio files. | MIT | Active | Official | 542 |
 | [PodFetch](https://podfetch-docs.samtv.fyi/) ([source](https://github.com/SamTV12345/PodFetch)) | Podcast downloader for saving episodes and serving them to podcast apps. | Apache-2.0 | Active | Official | 523 |
 | [YuE-GP](https://github.com/deepbeepmeep/yuegp) | GPU-friendly AI music generator that creates songs from text prompts. | None declared | Slow | Community | 500 |
 | [Sheetable](https://sheetable.net/) ([source](https://github.com/SheetAble/SheetAble)) | Music sheet organizer for cataloging and browsing sheet music. | AGPL-3.0 | Stale | No | 465 |
@@ -115,7 +115,6 @@
 | [gpodder2go](https://github.com/oxtyped/gpodder2go) | Manages podcast subscriptions for compatible gPodder clients through a server API. | AGPL-3.0 | Stale | Community | 128 |
 | [Make-A-Wrapped](https://wrapped.devmatei.com/) ([source](https://github.com/DevMatei/make-a-wrapped)) | Spotify Wrapped style recap generator for ListenBrainz, Last.fm, and Navidrome. | AGPL-3.0 | Active | Community | 119 |
 | [CleanCast](https://github.com/ikoyhn/clean-cast) | This is a GO application that will take any podcast that is on Youtube and will generate a RSS feed with the audio only and all sponsored sections auto. | MIT | Active | Community | 118 |
-| [MusicBrainzPicard](https://github.com/jlesage/docker-musicbrainz-picard) | Music tagger that identifies and organizes files using the MusicBrainz database. | MIT | Active | Community | 117 |
 | [slskdn](https://github.com/snapetech/slskdn) | SlskdN is a feature-rich Soulseek web client and an unofficial batteries-included fork of slskd, FEATURES: - Auto-replace stuck downloads with alternative. | AGPL-3.0 | Active | Community | 110 |
 | [audiodeck](https://github.com/casantosmu/audiodeck) | Web spectrogram analyzer for inspecting and exploring music libraries. | AGPL-3.0 | Active | Community | 107 |
 | [RTLSDR-Airband](https://github.com/sdr-enthusiasts/docker-rtlsdrairband) | This container runs an Icecast audio server that RTLSDR-Airband can connect to so that you can use an RTLSDR dongle to listen to Air Traffic Control VHF. | GPL-3.0 | Active | Community | 85 |

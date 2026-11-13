@@ -12,10 +12,10 @@
 | [Traccar](https://www.traccar.org/) ([source](https://github.com/traccar/traccar)) | GPS tracking server for devices, trips, live positions, geofences, and mobile clients. | Apache-2.0 | Active | Official | 8,121 |
 | [GraphHopper](https://www.graphhopper.com/open-source) ([source](https://github.com/graphhopper/graphhopper)) | Routing engine and server for calculating paths from OpenStreetMap data. | Apache-2.0 | Active |  | 6,812 |
 | [Valhalla](https://github.com/valhalla/valhalla) | Routing engine for OpenStreetMap data with distance matrices, isochrones, and map-matching support. | None declared | Active | Community | 6,443 |
-| [Nominatim](https://nominatim.org/) ([source](https://github.com/osm-search/Nominatim)) | Server application for geocoding (address -\> coordinates) and reverse geocoding (coordinates -\> address) on OpenStreetMap data. | GPL-3.0 | Active |  | 4,560 |
+| [Nominatim](https://nominatim.org/) ([source](https://github.com/osm-search/Nominatim)) | Server application for geocoding (address -\> coordinates) and reverse geocoding (coordinates -\> address) on OpenStreetMap data. | GPL-3.0 | Active |  | 4,562 |
 | [wanderer](https://wanderer.to/) ([source](https://github.com/open-wanderer/wanderer)) | Saves GPS trails in a searchable map-based catalogue, with route planning and sharing. | AGPL-3.0 | Active | Official | 4,066 |
 | [AdventureLog](https://adventurelog.app/) ([source](https://github.com/seanmorley15/AdventureLog)) | Travel tracker for logging trips, planning adventures, saving locations, and sharing travel history. | GPL-3.0 | Active | Official | 3,878 |
-| [LubeLogger](https://lubelogger.com/) ([source](https://github.com/hargata/lubelog)) | Vehicle maintenance tracker for service records, fuel logs, reminders, and costs. | MIT | Active | Official | 2,955 |
+| [LubeLogger](https://lubelogger.com/) ([source](https://github.com/hargata/lubelog)) | Vehicle maintenance tracker for service records, fuel logs, reminders, and costs. | MIT | Active | Official | 2,956 |
 | [TileServer GL](https://tileserver.readthedocs.io/en/latest) ([source](https://github.com/maptiler/tileserver-gl)) | Map tile server for vector and raster maps with GL styles and server-side rendering. | Apache-2.0 | Active | Official | 2,922 |
 | [OpenStreetMap](https://www.openstreetmap.org/) ([source](https://github.com/openstreetmap/openstreetmap-website)) | Collaborative project to create a editable map of the world. | GPL-2.0 | Active | Official | 2,885 |
 | [OpenTripPlanner](http://www.opentripplanner.org/) ([source](https://github.com/opentripplanner/OpenTripPlanner)) | Trip planner for routing across walking, cycling, transit, and multimodal journeys. | LGPL-3.0 | Active |  | 2,772 |
@@ -43,7 +43,7 @@
 | [Facilmap](https://facilmap.org/) ([source](https://github.com/FacilMap/facilmap)) | Collaborative maps and routing with a straightforward interface. | AGPL-3.0 | Active | No | 412 |
 | [Scratch Map](https://github.com/ad3m3r5/scratch-map) | Travel map for marking visited places with a scratch-off style view. | AGPL-3.0 | Active | Official | 412 |
 | [jetlog](https://github.com/pbogre/jetlog) | Flight tracker for recording trips and viewing personal aviation history. | GPL-2.0 | Active | Official | 352 |
-| [Photon](https://github.com/rtuszik/photon-docker) | Geocoding service for searching OpenStreetMap data and resolving coordinates. | Apache-2.0 | Active | Community | 327 |
+| [Photon](https://github.com/rtuszik/photon-docker) | Geocoding service for searching OpenStreetMap data and resolving coordinates. | Apache-2.0 | Active | Community | 328 |
 | [fr24feed-piaware](https://github.com/thom-x/docker-fr24feed-piaware-dump1090-mutability) | Image for feeding FlightRadar24/FlightAware ADS-B/MLAT data with an RTL-SDR device and local web server for displaying aircraft positions on a map. | MIT | Active | Community | 310 |
 | [NextGIS Web](https://nextgis.com/nextgis-web/) ([source](https://github.com/nextgis/nextgisweb)) | Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows, (Demo, Source Code) GPL-3.0 Docker. | GPL-3.0 | Active | No | 294 |
 | [Surmai](https://surmai.app/) ([source](https://github.com/rohitkumbhar/surmai)) | Travel organizer for planning and tracking personal or family trips. | MIT | Active | Official | 291 |

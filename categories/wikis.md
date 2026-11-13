@@ -20,7 +20,7 @@
 | [Otter Wiki](https://otterwiki.com/) ([source](https://github.com/redimp/otterwiki)) | Writes Markdown wiki pages, links notes, and stores documentation history in Git. | MIT | Active | Official | 1,579 |
 | [XWiki](http://platform.xwiki.org/) ([source](https://github.com/xwiki/xwiki-platform)) | Second generation wiki that allows the user to extend its functionalities with a extension-based architecture. | LGPL-2.1 | Active |  | 1,333 |
 | [LeafWiki](https://leafwiki.com/) ([source](https://github.com/perber/leafwiki)) | Fast wiki for people who think in folders, not feeds, Fast editing, Tree navigation, Markdown on disk. | MIT | Active | Community | 1,224 |
-| [Kiwix](https://www.kiwix.org/) ([source](https://github.com/kiwix/kiwix-tools)) | Sharing Web content with people without Internet access. | GPL-3.0 | Active | No | 993 |
+| [kiwix-serve](https://download.kiwix.org/release/kiwix-tools) ([source](https://github.com/kiwix/kiwix-tools)) | HTTP server for browsing offline ZIM archives such as Wikipedia dumps. | GPL-3.0 | Active | Official | 993 |
 | [Cowyo](https://github.com/schollz/cowyo) | Feature-rich wiki webserver for minimalists for writing and organizing notes or pages. | MIT | Active | No | 984 |
 | [CodeX-Docs](https://docs.codex.so/) ([source](https://github.com/codex-team/codex.docs)) | Documentation app for creating internal, public, and personal docs. | Apache-2.0 | Active | Community | 846 |
 | [Wiki-Go](https://wikigo.leomoon.com/) ([source](https://github.com/leomoon-studios/wiki-go)) | Flat-file wiki app that stores pages without a database. | GPL-3.0 | Active | Official | 627 |

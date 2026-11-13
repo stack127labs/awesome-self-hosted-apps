@@ -10,7 +10,7 @@
 | [LibrePhotos](https://docs.librephotos.com/) ([source](https://github.com/LibrePhotos/librephotos)) | Photo library with face recognition, albums, timelines, and Google Photos-style browsing. | MIT | Active | Official | 8,156 |
 | [PixelFed](https://pixelfed.org/) ([source](https://github.com/pixelfed/pixelfed)) | Federated photo-sharing server for running an Instagram-style community on ActivityPub. | AGPL-3.0 | Active | Official | 7,141 |
 | [Photoview](https://photoview.github.io/) ([source](https://github.com/photoview/photoview)) | Simple and user-friendly photo gallery for personal servers. | AGPL-3.0 | Active | Community | 6,570 |
-| [Lychee](https://lycheeorg.dev/) ([source](https://github.com/LycheeOrg/Lychee)) | Photo gallery app for organizing albums, uploading images, and sharing collections. | MIT | Active | Official | 4,328 |
+| [Lychee](https://lycheeorg.dev/) ([source](https://github.com/LycheeOrg/Lychee)) | Photo gallery app for organizing albums, uploading images, and sharing collections. | MIT | Active | Official | 4,329 |
 | [Piwigo](https://piwigo.org/) ([source](https://github.com/Piwigo/Piwigo)) | Photo gallery software for the web, built by an active community of users and developers. | GPL-2.0 | Active | Community | 3,883 |
 | [Nextcloud Memories](https://memories.gallery/) ([source](https://github.com/pulsejet/memories)) | Nextcloud photo app for browsing timelines, albums, metadata, maps, and image libraries. | AGPL-3.0 | Active |  | 3,876 |
 | [Zipline](https://zipline.diced.sh/) ([source](https://github.com/diced/zipline)) | Lightweight, fast and reliable file sharing server that is commonly used with ShareX, offering a react-based Web UI and fast API. | MIT | Active | Official | 3,493 |
@@ -32,7 +32,7 @@
 | [Picsur](https://github.com/CaramelFur/Picsur) | Simple imaging hosting app that allows you to easily host, edit, and share images. | AGPL-3.0 | Slow | Community | 1,248 |
 | [Immich-AutoAlbums](https://github.com/salvoxia/immich-folder-album-creator) | Immich Folder Album Creator This is a python script designed to automatically create albums in Immich from a folder structure mounted into the Immich. | MIT | Active | Community | 1,217 |
 | [HomeGallery](https://home-gallery.org/) ([source](https://github.com/xemle/home-gallery)) | Browse personal photos and videos featuring tagging, mobile-friendly, and AI powered image discovery. | MIT | Active | Official | 1,214 |
-| [pho](https://pho.tools/) ([source](https://github.com/fregie/pho)) | Serverless application for viewing and synchronizing photos to cloud storage. | GPL-3.0 | Active | No | 1,174 |
+| [pho](https://pho.tools/) ([source](https://github.com/fregie/pho)) | Serverless application for viewing and synchronizing photos to cloud storage. | GPL-3.0 | Active | No | 1,177 |
 | [XBackBone](http://xbackbone.app/) ([source](https://github.com/sergix44/xbackbone)) | Simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a and screenshot utility for Windows). | Apache-2.0 | Active |  | 1,171 |
 | [szurubooru-api](https://github.com/rr-/szurubooru) | Backend API container for Szurubooru, an image board engine for small and medium communities. | GPL-3.0 | Active | Community | 1,031 |
 | [Chevereto](https://chevereto.com/) ([source](https://github.com/chevereto/chevereto)) | Image sharing software, Create your very own personal image hosting website in just minutes. | AGPL-3.0 | Active |  | 1,014 |

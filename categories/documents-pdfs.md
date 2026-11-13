@@ -1,11 +1,11 @@
 # Documents and PDFs self-hosted apps
 
-104 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/documents-pdfs).
+103 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/documents-pdfs).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
 | [Stirling-PDF](https://stirling.com/) ([source](https://github.com/Stirling-Tools/Stirling-PDF)) | Browser-based PDF toolbox for merging, splitting, converting, OCR, signing, and editing documents. | MIT for core files; engine and listed m… | Active | Official | 96,468 |
-| [NocoDB](https://nocodb.com/) ([source](https://github.com/nocodb/nocodb)) | Turns databases into collaborative spreadsheets, forms, and APIs. | Sustainable Use License 1.0 | Active | Official | 65,454 |
+| [NocoDB](https://nocodb.com/) ([source](https://github.com/nocodb/nocodb)) | Turns databases into collaborative spreadsheets, forms, and APIs. | Sustainable Use License 1.0 | Active | Official | 65,521 |
 | [Paperless-ngx](http://docs.paperless-ngx.com/) ([source](https://github.com/paperless-ngx/paperless-ngx)) | Scan, index, and archive all of your paper documents with an improved interface (fork of Paperless). | GPL-3.0 | Active | Official | 47,953 |
 | [Reactive Resume](https://rxresu.me/) ([source](https://github.com/amruthpillai/reactive-resume)) | One-of-a-kind resume builder that keeps your privacy in mind, Completely secure, customizable, portable, and forever. | MIT | Active | Official | 45,563 |
 | [Docuseal](https://www.docuseal.com/) ([source](https://github.com/docusealco/docuseal)) | Document signing app for creating forms, collecting signatures, and managing completed files. | AGPL-3.0 | Active | Official | 19,041 |
@@ -43,7 +43,7 @@
 | [EuroOffice Document Server](https://github.com/Euro-Office) ([source](https://github.com/euro-office/documentserver)) | Online office document server for editing and collaborating on text documents and spreadsheets. | AGPL-3.0 | Active | No | 1,892 |
 | [PdfDing](https://www.pdfding.com/) ([source](https://github.com/mrmn2/PdfDing)) | PDF manager, viewer, and editor with a web interface for accessing documents across devices. | AGPL-3.0 | Archived | Official | 1,839 |
 | [Writer Computer](https://writer.computer/) ([source](https://github.com/joelbqz/writer-computer)) | Desktop writing app for managing Markdown content in workspaces. | GPL-3.0 | Active | No | 1,769 |
-| [YAMLResume](https://yamlresume.dev/) ([source](https://github.com/yamlresume/yamlresume)) | Stores resume data in YAML and exports versioned CVs for publishing or sharing. | MIT | Active | Official | 1,555 |
+| [YAMLResume](https://yamlresume.dev/) ([source](https://github.com/yamlresume/yamlresume)) | Stores resume data in YAML and exports versioned CVs for publishing or sharing. | MIT | Active | Official | 1,558 |
 | [eLabFTW](https://www.elabftw.net/) ([source](https://github.com/elabftw/elabftw)) | ELabFTW is the most popular electronic lab notebook for research labs. | AGPL-3.0 | Active | Official | 1,492 |
 | [Transmute](https://transmute.sh/) ([source](https://github.com/transmute-app/transmute)) | File converter for images, video, audio, JSON, spreadsheets, and other formats. | MIT | Active | Official | 1,470 |
 | [HRConvert2](https://github.com/zelon88/hrconvert2) | Drag-and-drop file conversion server and file sharing tool that supports 400+ file formats. | GPL-3.0 | Active | Community | 1,391 |
@@ -60,17 +60,17 @@
 | [Reubah](https://github.com/dendianugerah/reubah) | Simple web tool for processing images and converting documents with a simple interface. | MIT | Active | Community | 701 |
 | [Fiduswriter](https://fiduswriter.org/) ([source](https://github.com/fiduswriter/fiduswriter)) | Collaborative academic editor for writing and sharing scholarly documents. | AGPL-3.0 | Active | No | 569 |
 | [OpenReader](https://github.com/richardr1126/openreader) | Text-to-speech reader for EPUB, PDF, TXT, Markdown, and DOCX documents with synchronized playback. | MIT | Active | Official | 568 |
-| [MediKeep](https://github.com/afairgiant/MediKeep) | Stores personal health records, medical contacts, documents, and care details. | Apache-2.0 | Active | Official | 554 |
+| [MediKeep](https://github.com/afairgiant/MediKeep) | Stores personal health records, medical contacts, documents, and care details. | Apache-2.0 | Active | Official | 557 |
 | [Papermerge](https://papermerge.com/) ([source](https://github.com/papermerge/papermerge-core)) | Papermerge DMS core backend, REST API server, and frontend UI. | Apache-2.0 | Active | Official | 554 |
 | [Nextcloud Office](https://nextcloud.com/collaboraonline) ([source](https://github.com/nextcloud/richdocuments)) | Connects Nextcloud with Collabora Online for browser-based document editing. | AGPL-3.0-or-later | Active |  | 459 |
-| [ArchivesSpace](http://archivesspace.org/) ([source](https://github.com/archivesspace/archivesspace)) | Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. | ECL-2.0 | Active | Official | 447 |
+| [ArchivesSpace](http://archivesspace.org/) ([source](https://github.com/archivesspace/archivesspace)) | Archives information management application for managing and providing Web access to archives, manuscripts and digital objects. | ECL-2.0 | Active | Official | 449 |
 | [signserver-ce](https://github.com/keyfactor/signserver-ce) | SignServer CE:, PKI-based signing software to sign code, documents, timestamps and more, Unofficial Community Application not endorsed or maintained by. | LGPL-2.1 | Active | Community | 442 |
 | [EveryDocs](https://github.com/jonashellmann/everydocs-core) | Simple Document Management System for private use with basic functionality to organize your documents digitally. | GPL-3.0 | Active | Official | 431 |
 | [Collective Access - Providence](https://collectiveaccess.org/) ([source](https://github.com/collectiveaccess/providence)) | Collections management system for cataloging cultural and archival materials. | GPL-3.0 | Active |  | 389 |
 | [I, Librarian](https://i-librarian.net/) ([source](https://github.com/mkucej/i-librarian-free)) | Reference library for organizing PDFs, papers, notes, and research metadata. | GPL-3.0 | Active | Official | 359 |
 | [Fedora Commons Repository](https://wiki.lyrasis.org/display/FF/Fedora+Repository+Home) ([source](https://github.com/fcrepo/fcrepo)) | Digital repository system for storing, managing, and exposing structured Fedora content. | Apache-2.0 | Active | Official | 254 |
 | [Alfresco Community Edition](https://www.alfresco.com/it/ecm-software/alfresco-community-edition) ([source](https://github.com/Alfresco/alfresco-community-repo)) | The Enterprise Content Management software that handles any type of content, allowing users to easily share and collaborate on content. | LGPL-3.0 | Active | Official | 242 |
-| [Nextcloud Tables](https://apps.nextcloud.com/apps/tables) ([source](https://github.com/nextcloud/tables)) | Nextcloud table builder for creating structured lists, lightweight workflows, and internal data views. | AGPL-3.0 | Active |  | 220 |
+| [Nextcloud Tables](https://apps.nextcloud.com/apps/tables) ([source](https://github.com/nextcloud/tables)) | Nextcloud table builder for creating structured lists, lightweight workflows, and internal data views. | AGPL-3.0 | Active |  | 221 |
 | [Ackify](https://ackify.eu/) ([source](https://github.com/kOlapsis/ackify)) | Document acknowledgment app for sharing internal files and tracking who has read them. | AGPL-3.0 | Active | Official | 209 |
 | [calligra](https://github.com/KDE/calligra) | Office and graphic-art suite for word processing, spreadsheets, presentations, vector graphics, and database editing. | GPL-2.0 | Active | Community | 209 |
 | [Samvera Hyrax](http://hyrax.samvera.org/) ([source](https://github.com/samvera/hyrax)) | Front-end for the Samvera framework, which itself is a Ruby on Rails application for browsing and managing Fedora-based digital repositories. | Apache-2.0 | Active | Official | 201 |
@@ -91,7 +91,7 @@
 | [Bindery](https://github.com/jarynclouatre/bindery) | Folder-watching converter for e-books and comics, EPUB to Kobo KEPUB via kepubify, CBZ/CBR/PDF via Kindle Comic Converter, with per-device profiles. | MIT | Active | Official | 67 |
 | [EPrints](http://www.eprints.org/uk/index.php/eprints-3-4) ([source](https://github.com/eprints/eprints3.4)) | Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions. | LGPL-3.0 | Active |  | 47 |
 | [cv-manager](https://github.com/vincentmakes/cv-manager) | CV Manager - Admin Interface Professional CV/Resume management with full editing capabilities, Create, manage and organize your professional CV with: •. | MIT | Active | Community | 43 |
-| [Collabora-CODE](https://www.collaboraonline.com/code/) ([source](https://github.com/CollaboraOnline/online.mirror)) | Online office suite for editing documents, spreadsheets, and presentations in a browser. | Mozilla Public License 2.0 (primary lic… | Active | Official | 33 |
+| [Collabora-CODE](https://www.collaboraonline.com/code/) ([source](https://github.com/CollaboraOnline/online.mirror)) | Online office suite for editing documents, spreadsheets, and presentations in a browser. | Mozilla Public License 2.0 (primary lic… | Active | Official | 34 |
 | [Knitting-Library](https://github.com/zeetlex/knitting-library) | Knitting pattern manager with PDF/image uploads, searchable pattern library, annotations, project tracking, and yarn inventory. | MIT | Active | Community | 19 |
 | [PRPDF](https://github.com/maschhoff/prpdf) | PDF utility for previewing, renaming, OCR-scanning, and merging documents. | MIT | Active | Community | 16 |
 | [paperless-telegram-bot](https://github.com/geiserx/paperless-telegram-bot) | Telegram bot for managing your Paperless-NGX document archive, Upload documents by sending files or photos, search your archive, tag documents, and organize. | GPL-3.0 | Active | Community | 15 |
@@ -104,7 +104,6 @@
 | [Typr](https://github.com/max-prime-math/typr) | Browser workspace for Typst, LaTeX, and Markdown documents. | AGPL-3.0 | Active | Community | 3 |
 | [Paperless-NGX-MCP](https://github.com/paulmeier/paperless-ngx-mcp-container) | Paperless-NGX MCP is a Model Context Protocol server that connects AI assistants and other MCP clients to your Paperless-NGX document archive, A client such. | MIT | Active | Community | 0 |
 | [pmse-to-wwb](https://github.com/stoatworks-labs/pmse-to-wwb) | Turns an Ofcom PMSE licence schedule PDF into Shure Wireless Workbench import files. | MIT | Archived | Community | 0 |
-| [Collabora Online](https://www.collaboraonline.com/code/) ([source](https://gerrit.collaboraoffice.com/core)) | Browser office suite for editing documents, spreadsheets, and presentations with live collaboration. | MPL-2.0 with additional product terms | Active | Official |  |
 | [ecoDMS](https://www.ecodms.de/index.php/en/) | EcoDMS 18.09 (apu) Full Installation - Document Management System (DMS) - Audit-compliant archive for scanning, archiving, managing and retrieving all data. | ecoDMS End User License Agreement | Active | Community |  |
 | [stackedit](https://stackedit.io/) | Browser-based Markdown editor with live preview and syntax highlighting. |  | Active | Community |  |
 | [Zettelrobbe](https://zettelrob.be/) | Document analyzer for classifying and tagging Paperless-NGX files with language models. |  | Active | Community |  |

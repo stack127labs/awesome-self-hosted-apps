@@ -1,12 +1,12 @@
 # System admin and hosting self-hosted apps
 
-384 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/system-admin-hosting).
+383 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/system-admin-hosting).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
 | [Aquacomputer D5Next](https://github.com/torvalds/linux/blob/master/drivers/hwmon/aquacomputer_d5next.c) | Linux driver that exposes sensors from Aquacomputer devices such as D5 Next, Quadro, and Aquastream XT. | GPL-2.0-or-later | Active |  | 255,150 |
 | [Caddy](https://caddyserver.com/) ([source](https://github.com/caddyserver/caddy)) | Web server and reverse proxy with automatic HTTPS and Caddyfile configuration. | Apache-2.0 | Active | Official | 78,937 |
-| [Ansible](https://www.ansible.com/) ([source](https://github.com/ansible/ansible)) | Automation tool for configuring systems, deploying apps, and running repeatable playbooks. | GPL-3.0 | Active |  | 71,308 |
+| [Ansible](https://www.ansible.com/) ([source](https://github.com/ansible/ansible)) | Automation tool for configuring systems, deploying apps, and running repeatable playbooks. | GPL-3.0 | Active |  | 71,454 |
 | [Coolify](https://coolify.io/) ([source](https://github.com/coollabsio/coolify)) | Deployment app for running services, databases, and projects on your own servers. | Apache-2.0 | Active | Official | 65,865 |
 | [Windows in Docker](https://github.com/dockur/windows) | Runs Windows as a virtual machine inside a Docker container. | MIT | Active | Official | 54,173 |
 | [Puter](https://puter.com/) ([source](https://github.com/HeyPuter/puter)) | Web operating system designed to be feature-rich, exceptionally fast, and highly extensible. | AGPL-3.0 | Active | Official | 44,120 |
@@ -20,7 +20,7 @@
 | [rancher](https://www.rancher.com/) ([source](https://github.com/rancher/rancher)) | Container management app for deploying and administering Kubernetes clusters. | Apache-2.0 | Active | Official | 26,047 |
 | [Dockge](https://dockge.kuma.pet/) ([source](https://github.com/louislam/dockge)) | Docker Compose stack manager for editing, deploying, and monitoring compose projects. | MIT | Active | Official | 24,802 |
 | [watchtower](https://containrrr.dev/watchtower/) ([source](https://github.com/containrrr/watchtower)) | With watchtower you can update the running version of your containerized app simply by pushing a new image to the Docker Hub or your own image registry. | Apache-2.0 | Archived | Official | 24,586 |
-| [NetBox](https://netboxlabs.com/products/netbox) ([source](https://github.com/netbox-community/netbox)) | Network source-of-truth app for modeling IP addresses, racks, circuits, devices, and sites. | Apache-2.0 | Active |  | 21,859 |
+| [NetBox](https://netboxlabs.com/products/netbox) ([source](https://github.com/netbox-community/netbox)) | Network source-of-truth app for modeling IP addresses, racks, circuits, devices, and sites. | Apache-2.0 | Active |  | 21,877 |
 | [macOS in Docker](https://github.com/dockur/macos) | Runs macOS as a virtual machine in Docker with a browser-based viewer. | MIT | Active | Official | 21,741 |
 | [Nomad](https://www.nomadproject.io/) ([source](https://github.com/hashicorp/nomad)) | Workload orchestrator for scheduling services across a cluster. | BUSL-1.1 | Active | No | 17,094 |
 | [Termix](https://termix.site/) ([source](https://github.com/Termix-SSH/Termix)) | Clientless web server management app with SSH terminal, tunneling, and file editing capabilities. | Apache-2.0 | Active | Official | 15,957 |
@@ -29,13 +29,12 @@
 | [CapRover](https://caprover.com/) ([source](https://github.com/caprover/caprover)) | Deployment panel for running apps, databases, HTTPS, and web services on Docker servers. | Apache-2.0 | Active |  | 15,205 |
 | [Semaphore UI](https://semaphoreui.com/) ([source](https://github.com/semaphoreui/semaphore)) | Web UI for running Ansible playbooks, Terraform jobs, OpenTofu tasks, and shell commands. | MIT | Active | Official | 14,391 |
 | [Komodo](https://komo.do/) ([source](https://github.com/moghtech/komodo)) | Deployment dashboard for building, updating, and monitoring services across multiple servers. | GPL-3.0 | Active | Official | 12,923 |
-| [Umbrel](https://umbrel.com/) ([source](https://github.com/getumbrel/umbrel)) | UmbrelOS is a home server operating system intended for people who want the convenience of cloud-style services without handing their data to a third party. | None declared | Active | No | 12,552 |
-| [Nginx UI](https://nginxui.com/) ([source](https://github.com/0xJacky/nginx-ui)) | Web interface for managing NGINX configuration, certificates, logs, and server settings. | AGPL-3.0 | Active | Official | 11,749 |
-| [Nextcloud All-in-One](https://nextcloud.com/) ([source](https://github.com/nextcloud/all-in-one)) | Deploys Nextcloud with its database, cache, and optional office, backup, and collaboration services. | AGPL-3.0 | Active | Official | 10,823 |
+| [umbrelOS](https://umbrel.com/) ([source](https://github.com/getumbrel/umbrel)) | Home server OS for running personal cloud services and app-store apps. | PolyForm Noncommercial 1.0.0 | Active | No | 12,552 |
+| [Nginx UI](https://nginxui.com/) ([source](https://github.com/0xJacky/nginx-ui)) | Web interface for managing NGINX configuration, certificates, logs, and server settings. | AGPL-3.0 | Active | Official | 11,767 |
 | [Tipi](https://www.runtipi.io/) ([source](https://github.com/runtipi/runtipi)) | Homeserver manager, One command setup, one click installs for your favorites apps. | GPL-3.0 | Active | Official | 9,738 |
 | [Pterodactyl](https://pterodactyl.io/) ([source](https://github.com/pterodactyl/panel)) | Management panel for game servers, with an intuitive UI for end users. | MIT | Active | Community | 9,488 |
-| [Arcane](https://getarcane.app/) ([source](https://github.com/getarcaneapp/arcane)) | Docker management interface for viewing containers, images, volumes, networks, and compose projects. | BSD-3-Clause | Active | Official | 8,252 |
-| [Homebox](https://homebox.software/en/) ([source](https://github.com/sysadminsmedia/homebox)) | Inventory and organization system built for the Home User. | AGPL-3.0 | Active | No | 7,842 |
+| [Arcane](https://getarcane.app/) ([source](https://github.com/getarcaneapp/arcane)) | Docker management interface for viewing containers, images, volumes, networks, and compose projects. | BSD-3-Clause | Active | Official | 8,330 |
+| [HomeBox (SysAdminsMedia)](https://homebox.software/) ([source](https://github.com/sysadminsmedia/homebox)) | Inventory and organization system built for the home user. | AGPL-3.0 | Active | Official | 7,842 |
 | [Sandstorm](https://sandstorm.org/) ([source](https://github.com/sandstorm-io/sandstorm)) | Personal server runtime for installing and isolating web apps per user. | Apache-2.0 | Active | Official | 7,082 |
 | [OpenMediaVault](https://www.openmediavault.org/) ([source](https://github.com/openmediavault/openmediavault)) | Debian-based NAS manager for file sharing, media services, backups, SSH, FTP, SMB, and rsync. | GPL-3.0 | Active |  | 7,078 |
 | [Dockhand](https://dockhand.pro/) ([source](https://github.com/Finsys/dockhand)) | Docker management app for administering containers, services, images, and server state. | BUSL-1.1 | Active | Official | 7,075 |
@@ -65,11 +64,11 @@
 | [Radar](https://radarhq.io/) ([source](https://github.com/skyhook-io/radar)) | Shows Kubernetes resources, workload health, topology, events, and Helm releases. | Apache-2.0 | Active | Official | 4,083 |
 | [virtual-dsm](https://github.com/vdsm/virtual-dsm) | Docker container for running Synology Virtual DSM version 7.2. | MIT | Active | Community | 4,029 |
 | [OliveTin](https://olivetin.app/) ([source](https://github.com/OliveTin/OliveTin)) | Web command launcher for running predefined Linux shell commands from buttons. | AGPL-3.0 | Active | Official | 3,869 |
-| [Ansible NAS](https://ansible-nas.io/) ([source](https://github.com/DaveStephens/ansible-nas)) | Builds an Ubuntu-based home server and deploys selected services through Ansible and Docker. | MIT | Slow |  | 3,798 |
+| [Ansible NAS](https://ansible-nas.io/) ([source](https://github.com/DaveStephens/ansible-nas)) | Builds an Ubuntu-based home server and deploys selected services through Ansible and Docker. | MIT | Slow |  | 3,801 |
 | [PatchMon](https://patchmon.net/) ([source](https://github.com/PatchMon/PatchMon)) | Linux patch monitor for checking available updates and tracking server maintenance. | AGPL-3.0 | Active | Official | 3,615 |
+| [ProxMenux](https://proxmenux.com/en/) ([source](https://github.com/MacRimi/ProxMenux)) | Menu-driven Proxmox VE toolkit - post-install, backup/restore and a live web dashboard for the homelab. | GPL-3.0 | Active | No | 3,308 |
 | [Headplane](https://github.com/tale/headplane) | Web interface for managing Headscale networks and devices. | MIT | Active | No | 3,297 |
 | [Bambuddy](https://bambuddy.cool/) ([source](https://github.com/maziggy/bambuddy)) | Your Bambu Lab, No Cloud, Your Rules, command center for Bambu Lab - from one A1 to a 40-printer farm. | AGPL-3.0 | Active | No | 3,294 |
-| [ProxMenux](https://proxmenux.com/en/) ([source](https://github.com/MacRimi/ProxMenux)) | Menu-driven Proxmox VE toolkit - post-install, backup/restore and a live web dashboard for the homelab. | GPL-3.0 | Active | No | 3,288 |
 | [LLM Harbor](https://discord.gg/8nDRphrhSF) ([source](https://github.com/av/harbor)) | Containerized LLM toolkit, Run LLM backends, APIs, frontends, and additional services via a concise CLI. | Apache-2.0 | Active | Official | 3,274 |
 | [Vito](https://vitodeploy.com/) ([source](https://github.com/vitodeploy/vito)) | Server control panel for provisioning servers, deploying apps, managing databases, and configuring sites. | AGPL-3.0 | Active | Official | 3,274 |
 | [Kite](https://github.com/kite-org/kite) | Kubernetes dashboard for viewing cluster resources, workloads, and deployment state. | Apache-2.0 | Active | Official | 3,196 |
@@ -89,7 +88,7 @@
 | [Pelican Panel](https://pelican.dev/) ([source](https://github.com/pelican-dev/panel)) | Game server panel for managing servers, users, allocations, and deployment tasks. | AGPL-3.0 | Active | Official | 2,432 |
 | [Static Web Server](https://static-web-server.net/) ([source](https://github.com/static-web-server/static-web-server)) | Cross-app, high-performance, and asynchronous web server for static file serving. | Apache-2.0 | Active | Official | 2,407 |
 | [Cozystack](https://cozystack.io/) ([source](https://github.com/cozystack/cozystack)) | Turns bare-metal servers into a Kubernetes-based cloud with managed clusters, databases, virtual machines, and storage. | Apache-2.0 | Active |  | 2,388 |
-| [Mainsail](https://docs.mainsail.xyz/) ([source](https://github.com/mainsail-crew/mainsail)) | Web interface for controlling and monitoring Klipper-powered 3D printers. | GPL-3.0 | Active | Official | 2,245 |
+| [Mainsail](https://docs.mainsail.xyz/) ([source](https://github.com/mainsail-crew/mainsail)) | Web interface for controlling and monitoring Klipper-powered 3D printers. | GPL-3.0 | Active | Official | 2,248 |
 | [Ferron](https://ferron.sh/) ([source](https://github.com/ferronweb/ferron)) | Rust web server for serving sites, reverse proxying, and handling HTTP traffic. | MIT | Active | Official | 2,203 |
 | [Websoft9](https://www.websoft9.com/) ([source](https://github.com/Websoft9/websoft9)) | GitOps-driven, multi-application hosting for cloud servers and home servers, one-click deployment of 200+ apps. | LGPL-3.0 | Active | Official | 2,131 |
 | [Dockpeek](https://github.com/dockpeek/dockpeek) | Shows exposed Docker container ports, service endpoints, and network details in a dashboard. | MIT | Active | Official | 2,119 |
@@ -120,7 +119,7 @@
 | [RunsOn](https://runs-on.com/) ([source](https://github.com/runs-on/runs-on)) | Manages GitHub Actions runners on AWS-backed infrastructure for CI jobs. | MIT | Active |  | 1,410 |
 | [ZaneOps](https://zaneops.dev/) ([source](https://github.com/zane-ops/zane-ops)) | Deployment panel for running apps, databases, static sites, and scheduled jobs. | MIT | Active | Official | 1,392 |
 | [Cup](https://cup.sergi0g.dev/) ([source](https://github.com/sergi0g/cup)) | Checks Docker container image versions and reports available updates for running services. | AGPL-3.0 | Active | Official | 1,369 |
-| [Lodestone](https://www.lodestone.cc/) ([source](https://github.com/Lodestone-Team/lodestone)) | Hosting tool for Minecraft and other multiplayer games. | AGPL-3.0 | Active | Official | 1,315 |
+| [Lodestone](https://www.lodestone.cc/) ([source](https://github.com/Lodestone-Team/lodestone)) | Hosting tool for Minecraft and other multiplayer games. | AGPL-3.0 | Active | Official | 1,314 |
 | [Omada Controller](https://support.omadanetworks.com/us/product/omada-software-controller/) | Manages TP-Link Omada access points, switches, and gateways from one on-premises controller. | AGPL-3.0 | Active | Community | 1,313 |
 | [CoreControl](https://github.com/crocofied/CoreObs) | Infrastructure dashboard for managing servers, services, resources, and operational state. | MIT | Active |  | 1,295 |
 | [PortNote](https://github.com/crocofied/PortNote) | Documents services, exposed ports, hosts, protocols, and network notes in one tracker. | MIT | Slow | Official | 1,257 |
@@ -129,11 +128,11 @@
 | [headscale-admin](https://github.com/goodieshq/headscale-admin) | Headscale-Admin is meant to be a simple, modern web interface for juanfont/headscale - "An, implementation of the Tailscale control server." Headscale-Admin. | GPL-3.0 | Slow | Community | 1,131 |
 | [teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) | Local alternative cloud server for Toniebox devices that keeps their media service on your network. | GPL-2.0 | Active | Community | 1,101 |
 | [Isaiah](https://github.com/will-moss/isaiah) | Clone of lazydocker for the web, Manage your Docker fleet with ease. | MIT | Active | Community | 1,088 |
-| [Pterodactyl-Deamons](https://github.com/pterodactyl) ([source](https://github.com/pterodactyl/wings)) | Game server management panel for deploying and operating multiplayer servers. | MIT | Active | Community | 1,076 |
+| [Pterodactyl-Deamons](https://github.com/pterodactyl) ([source](https://github.com/pterodactyl/wings)) | Game server management panel for deploying and operating multiplayer servers. | MIT | Active | Community | 1,079 |
 | [mbpfan](https://github.com/linux-on-mac/mbpfan) | Linux daemon that controls fan speed on MacBooks and other Apple computers. | GPL-3.0 | Active | Community | 1,075 |
 | [DweebUI](https://www.dweebui.com/) ([source](https://github.com/lllllllillllllillll/DweebUI)) | Docker management interface for browsing services, containers, logs, and runtime state. | MIT | Stale | Official | 1,063 |
 | [Compose Craft](https://composecraft.com/) ([source](https://github.com/composecraft/composecraft)) | Interface for managing, editing, and sharing Docker Compose files. | MIT | Active | Official | 1,037 |
-| [XenOrchestra](https://xen-orchestra.com/) ([source](https://github.com/vatesfr/xen-orchestra)) | Web interface for managing XenServer and XCP-ng infrastructure. | AGPL-3.0-or-later | Active | Community | 996 |
+| [XenOrchestra](https://xen-orchestra.com/) ([source](https://github.com/vatesfr/xen-orchestra)) | Web interface for managing XenServer and XCP-ng infrastructure. | AGPL-3.0-or-later | Active | Community | 999 |
 | [Squirrel Servers Manager](https://github.com/SquirrelCorporation/SquirrelServersManager) | Server management app for configuring hosts, running automations, and managing infrastructure tasks. | AGPL-3.0 | Archived | Official | 992 |
 | [Home-Information](https://github.com/cassandra/home-information) | Home Information transforms how you manage your property by creating a visual, spatial, centralized hub for everything about your home, Instead of hunting. | None declared | Active | Community | 989 |
 | [GeoIP Update](https://dev.maxmind.com/geoip/updating-databases/) ([source](https://github.com/maxmind/geoipupdate)) | Downloads and updates MaxMind GeoIP and GeoLite binary databases. | Apache-2.0 | Active | Official | 986 |
@@ -142,9 +141,9 @@
 | [Temps](https://temps.sh/docs) ([source](https://github.com/gotempsh/temps)) | Deploys applications and combines logs, errors, analytics, session replay, uptime checks, and managed databases. | Apache-2.0 | Active | Official | 911 |
 | [Portall](https://github.com/need4swede/Portall) | Generate, track, and organize container ports across multiple hosts. | MIT | Slow | Official | 905 |
 | [Calagopus](https://calagopus.com/) ([source](https://github.com/calagopus/panel)) | Game server panel for deploying, monitoring, and managing Minecraft, Hytale, and other servers. | MIT | Active | Official | 899 |
-| [Atlas CMMS](https://atlas-cmms.com/) ([source](https://github.com/Grashjs/cmms)) | Maintenance management app for assets, work orders, service schedules, parts, and repair records. | AGPL-3.0 | Active | Official | 862 |
+| [Atlas CMMS](https://atlas-cmms.com/) ([source](https://github.com/Grashjs/cmms)) | Maintenance management app for assets, work orders, service schedules, parts, and repair records. | AGPL-3.0 | Active | Official | 865 |
 | [Deployrr](https://www.deployrr.app/) ([source](https://github.com/SimpleHomelab/Deployrr)) | Builds Docker compose stacks for common homelab services and deployment presets. | MIT | Active | Official | 860 |
-| [Managarr](https://github.com/Dark-Alex-17/managarr) | Terminal manager for Sonarr, Radarr, and related media automation apps from the command line. | MIT | Active | Official | 795 |
+| [Managarr](https://github.com/Dark-Alex-17/managarr) | Terminal manager for Sonarr, Radarr, and related media automation apps from the command line. | MIT | Active | Official | 794 |
 | [OpenPanel](https://openpanel.com/) ([source](https://github.com/stefanpejcic/OpenPanel)) | Web hosting control panel for managing Linux sites, servers, domains, and services. | OpenPanel EULA and CC-BY-NC-4.0 | Active | Official | 770 |
 | [dokemon-agent](https://dokemon.dev/) ([source](https://github.com/productiveops/dokemon)) | Dokémon-Agent to connect to a Dokémon-Server to manage multiple docker servers from a single webui. | MIT | Stale | Community | 767 |
 | [Agate](https://github.com/mbrubeck/agate) | Rust-based Gemini server for delivering static files to compatible clients. | Apache-2.0 | Active | Official | 750 |
@@ -161,7 +160,7 @@
 | [kasm](https://github.com/linuxserver/docker-kasm) | Browser-accessible service for running remote desktops, applications, and web services in disposable sessions. | GPL-3.0 | Active | Community | 495 |
 | [Mantrae](https://mantrae.pages.dev/) ([source](https://github.com/MizuchiLabs/mantrae)) | Traefik management UI for configuring routers, services, and middleware. | MIT | Active | Official | 493 |
 | [Dockerizalo](https://github.com/undernightcore/dockerizalo) | Container deployment app for managing Docker services from a web interface. | AGPL-3.0 | Active | Official | 483 |
-| [Dell-iDRAC-Fan-Controller](https://github.com/tigerblue77/Dell_iDRAC_fan_controller_Docker) | Controls fan speeds on Dell PowerEdge servers through iDRAC. | AGPL-3.0 | Active | Official | 472 |
+| [Dell-iDRAC-Fan-Controller](https://github.com/tigerblue77/Dell_iDRAC_fan_controller_Docker) | Controls fan speeds on Dell PowerEdge servers through iDRAC. | AGPL-3.0 | Active | Official | 473 |
 | [PruneMate](https://prunemate.org/) ([source](https://github.com/anoniemerd/PruneMate)) | Docker cleanup helper for removing unused images and recovering disk space. | AGPL-3.0 | Active | Official | 467 |
 | [Debian-APT-Mirror](https://www.debian.org/) ([source](https://github.com/apt-mirror/apt-mirror)) | APT mirror service for caching Debian packages on a local Apache web server. | GPL-2.0 | Stale | Community | 465 |
 | [macinabox](https://github.com/spaceinvaderone/macinabox) | Unraid tool that installs macOS versions as virtual machines. |  | Stale | Community | 453 |
@@ -193,7 +192,7 @@
 | [Cupdate](https://alexgustafsson.github.io/cupdate) ([source](https://github.com/AlexGustafsson/cupdate)) | Container update service that checks images and helps keep deployments current. | MIT | Active | Official | 312 |
 | [Runtm](https://github.com/runtm-ai/runtm) | Provides isolated execution environments for AI agents and developer tools. | AGPL-3.0, Apache-2.0, and MIT | Active | Official | 304 |
 | [LogForge](https://www.logforge.dev/) ([source](https://github.com/log-forge/logforge)) | Dashboard for monitoring logs, metrics, and Docker events with alerts and guarded control actions. | Apache-2.0 | Active | Official | 301 |
-| [puppetmaster](http://www.puppet.com/) ([source](https://github.com/puppetlabs/puppetserver)) | Simple puppet master docker based on Centos7 # docker-puppetmaster Docker image for puppet server v5 designed to run on Unraid If you want the 3.5 version. | Apache-2.0 | Stale | Community | 297 |
+| [puppetmaster](http://www.puppet.com/) ([source](https://github.com/puppetlabs/puppetserver)) | Simple puppet master docker based on Centos7 # docker-puppetmaster Docker image for puppet server v5 designed to run on Unraid If you want the 3.5 version. | Apache-2.0 | Stale | Community | 298 |
 | [LLMKube](https://llmkube.com/) ([source](https://github.com/defilantech/LLMKube)) | Kubernetes operator for llama.cpp-native LLM inference with GPU scheduling, Apple Silicon Metal support, and OpenAI-compatible API. | Apache-2.0 | Active | Official | 266 |
 | [Docker-Controller-Bot](https://github.com/dgongut/docker-controller-bot) | Chat bot for monitoring and controlling Docker containers from one place. | GPL-3.0 | Active | Community | 263 |
 | [ContainerNursery](https://github.com/itsecholot/containernursery) | HTTP reverse proxy that stops inactive Docker containers and starts them when requests arrive. | MIT | Stale | Community | 256 |
@@ -206,7 +205,7 @@
 | [tronbyt-server](https://github.com/tronbyt) ([source](https://github.com/tronbyt/server)) | Server for configuring Tronbyt apps and serving them to compatible display hardware. | Apache-2.0 | Active | Community | 229 |
 | [Ptah.sh](https://github.com/ptah-sh/ptah-server) | Deploys applications and supporting services to Docker Swarm from a web control plane. | FSL-1.1-Apache-2.0 | Slow | Official | 228 |
 | [Cups-Airprint](https://github.com/chuckcharlie/cups-avahi-airprint) | AirPrint relay that exposes network printers to devices without native AirPrint support. | GPL-3.0 | Active | Community | 222 |
-| [Materia](https://primamateria.systems/) ([source](https://github.com/stryan/materia)) | Applies Git-managed Podman Quadlet configurations across one or more Linux hosts. | GPL-3.0 | Active |  | 221 |
+| [Materia](https://primamateria.systems/) ([source](https://github.com/stryan/materia)) | Applies Git-managed Podman Quadlet configurations across one or more Linux hosts. | GPL-3.0 | Active |  | 222 |
 | [AnyAppStart](https://github.com/aceberg/AnyAppStart) | Basic control panel for Docker, Systemd, VMs, and everything else. | MIT | Slow | Official | 214 |
 | [Cloud Seeder](https://ipv6.rs/cloudseeder/) ([source](https://github.com/ipv6rslimited/cloudseeder)) | Guides users through provisioning and configuring a server from a web interface. | COOLER 1.0 | Slow |  | 199 |
 | [FDM-Monster](https://github.com/fdm-monster/fdm-monster) | 3D printer farm management app for local or in-cloud usage using OctoPrint, Moonraker, PrusaLink and Bambu Lab. | AGPL-3.0 | Active | Community | 197 |
@@ -220,7 +219,7 @@
 | [Garlic-Hub](https://garlic-signage.com/garlic-hub/) ([source](https://github.com/garlic-signage/garlic-hub)) | Digital signage device and content management system with SMIL playlist support and scheduling, (Source Code) AGPL-3.0 Docker. | AGPL-3.0 | Active | Official | 152 |
 | [LanLens](https://github.com/alexrosbach/lanlens) | LanLens is a network discovery and documentation tool for home labs and small environments. | None declared | Active | Community | 149 |
 | [K2D](https://k2d.io/) ([source](https://github.com/portainer/k2d)) | Translates a limited Kubernetes API into Docker commands for managing industrial edge devices. | Portainer.io Source Available License | Archived | Official | 148 |
-| [proxmox-datacenter-manager](https://github.com/proxmox/proxmox-datacenter-manager) | Central management interface for multiple Proxmox VE and Proxmox Backup Server instances. | AGPL-3.0 | Active | Community | 146 |
+| [proxmox-datacenter-manager](https://github.com/proxmox/proxmox-datacenter-manager) | Central management interface for multiple Proxmox VE and Proxmox Backup Server instances. | AGPL-3.0 | Active | Community | 147 |
 | [GameAP](https://gameap.com/) ([source](https://github.com/gameap/gameap)) | Game Administration Panel for managing game servers on Linux and Windows. | MIT | Active | Official | 142 |
 | [Unraid-progressive-web-app](https://github.com/laurensguijt/unraid-pwa) | Progressive web app for monitoring and controlling Unraid through its GraphQL API. | MIT | Active | Community | 129 |
 | [KDEInDocker](https://github.com/ms-jpq/kde-in-docker) | KDE In Docker + VNC + noVNC Web UI Default Password: admin. | None declared | Stale | Community | 127 |
@@ -283,10 +282,10 @@
 | [Parity Check Tuning](https://github.com/itimpi/parity.check.tuning) | Unraid plugin that pauses and resumes parity checks and other long array operations during scheduled time windows. |  | Active |  | 10 |
 | [Unattended Upgrades](https://wiki.debian.org/UnattendedUpgrades) ([source](https://github.com/yunohost-apps/unattended_upgrades_ynh)) | Service for automatically installing operating system security updates on a schedule. | GPL-3.0 | Stale | No | 9 |
 | [ScriptLogs](https://github.com/jo-sobo/scriptlogs-unraid-plugin) | Unraid dashboard widget for viewing logs from selected User Scripts. | GPL-3.0 | Active |  | 8 |
+| [AE NetScope](https://netscope.aewhitedevs.com/) ([source](https://github.com/WhiteAssassins/AE-NetScope)) | Tracks IP addresses, networks, sites, and devices in a self-hosted network inventory. | MIT | Active | Official | 7 |
 | [AutoSlackPack](https://github.com/spaceinvaderone/autoslackpack) | Slackware build environment with common development tools and dependencies. | MIT | Stale | Community | 7 |
 | [binhex-healarr](https://github.com/binhex/arch-healarr) | Healarr monitors Docker containers for unhealthy status and automatically performs configurable actions (restart, stop, etc.) with retry logic to prevent. | GPL-3.0 | Active | Community | 7 |
 | [Community Applications](https://docs.unraid.net/community-applications/) ([source](https://github.com/unraid/community.applications)) | Unraid plugin that adds an Apps tab for finding and installing Docker containers and plugins. | GPL-2.0-or-later | Active | No | 7 |
-| [AE NetScope](https://netscope.aewhitedevs.com/) ([source](https://github.com/WhiteAssassins/AE-NetScope)) | Tracks IP addresses, networks, sites, and devices in a self-hosted network inventory. | MIT | Active | Official | 6 |
 | [Docker Networks](https://github.com/mstrhakr/docker.networks) | Manage Docker networks directly from the Unraid web UI, Adds a native web UI for creating, editing, connecting, and deleting Docker networks from the Unraid. | MIT | Active |  | 6 |
 | [Factorio-Server-Control](https://github.com/tricade/factorio-server-manager) | Web interface for configuring and operating a Factorio dedicated server. | MIT | Active | Community | 6 |
 | [Nestview](https://github.com/kylejschultz/nestview) | Nestview is a lightweight, Docker visibility and health tool for homelabbers, Zero-config autodiscovery of all running containers, a health dashboard. | GPL-3.0 | Active | Community | 6 |

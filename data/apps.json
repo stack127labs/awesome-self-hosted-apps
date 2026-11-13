@@ -22,13 +22,13 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "13ft-ladder",
-   "name": "13ft Ladder",
-   "summary": "Web proxy interface for viewing pages with ads and paywall overlays removed.",
+   "slug": "13ft",
+   "name": "13ft",
+   "summary": "Self-hosted article reader that fetches pages as Googlebot to bypass some paywalls.",
    "categories": [
-    "security-privacy"
+    "bookmarks-read-it-later"
    ],
-   "website_url": "https://13ft-ladder.vercel.app/",
+   "website_url": "",
    "source_code_url": "https://github.com/wasi-master/13ft",
    "other_url": "",
    "license": "MIT",
@@ -93,9 +93,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 89,
+   "stars": 93,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -188,9 +188,9 @@
    "license": "3proxy Public License Agreement (BSD-style)",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-10",
    "docker_support": "official",
-   "stars": 5582,
+   "stars": 5595,
    "ram_estimate_min_mb": 64,
    "ram_estimate_max_mb": 256
   },
@@ -443,7 +443,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-08-29",
    "docker_support": "official",
-   "stars": 14573,
+   "stars": 14708,
    "ram_estimate_min_mb": 16384,
    "ram_estimate_max_mb": 32768
   },
@@ -521,7 +521,7 @@
    "maintenance_status": "archived",
    "last_commit_date": "2026-10-24",
    "docker_support": "none",
-   "stars": 3697,
+   "stars": 3694,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -617,9 +617,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 30125,
+   "stars": 30212,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -657,7 +657,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-04",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
    "stars": 76,
    "ram_estimate_min_mb": 512,
@@ -754,7 +754,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
    "stars": 166,
    "ram_estimate_min_mb": 128,
@@ -774,9 +774,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 38298,
+   "stars": 38409,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -949,9 +949,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-30",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 6,
+   "stars": 7,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 4096
   },
@@ -1030,7 +1030,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-08-29",
    "docker_support": "none",
-   "stars": 24263,
+   "stars": 24322,
    "ram_estimate_min_mb": 64,
    "ram_estimate_max_mb": 512
   },
@@ -1049,7 +1049,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-07-22",
    "docker_support": "community",
-   "stars": 835,
+   "stars": 836,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -1127,7 +1127,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-01",
    "docker_support": "official",
-   "stars": 19811,
+   "stars": 19847,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -2676,7 +2676,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-24",
    "docker_support": "official",
-   "stars": 214,
+   "stars": 215,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -2754,7 +2754,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-29",
    "docker_support": "official",
-   "stars": 4944,
+   "stars": 4951,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -2792,9 +2792,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-11",
    "docker_support": "",
-   "stars": 71308,
+   "stars": 71454,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1024
   },
@@ -2814,27 +2814,8 @@
    "maintenance_status": "slow",
    "last_commit_date": "2025-05-13",
    "docker_support": "",
-   "stars": 3798,
+   "stars": 3801,
    "ram_estimate_min_mb": 256,
-   "ram_estimate_max_mb": 1024
-  },
-  {
-   "slug": "answer",
-   "name": "Answer",
-   "summary": "Q&A community app for product support, customer support, knowledge sharing, and user discussions.",
-   "categories": [
-    "communities-social"
-   ],
-   "website_url": "https://answer.apache.org/",
-   "source_code_url": "https://github.com/apache/answer",
-   "other_url": "",
-   "license": "Apache-2.0",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-09-22",
-   "docker_support": "official",
-   "stars": 15712,
-   "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1024
   },
   {
@@ -2910,7 +2891,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-06",
    "docker_support": "official",
-   "stars": 24043,
+   "stars": 24141,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 1024
   },
@@ -2947,7 +2928,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-05",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
    "stars": 2391,
    "ram_estimate_min_mb": 512,
@@ -2966,9 +2947,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 68115,
+   "stars": 68238,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -3023,11 +3004,30 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 47428,
+   "stars": 47467,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
+  },
+  {
+   "slug": "apache-answer",
+   "name": "Apache Answer",
+   "summary": "Runs a question-and-answer community with voting, moderation, reputation, tags, search, and plugin support.",
+   "categories": [
+    "communities-social"
+   ],
+   "website_url": "https://answer.apache.org/",
+   "source_code_url": "https://github.com/apache/answer",
+   "other_url": "",
+   "license": "Apache-2.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-09-22",
+   "docker_support": "official",
+   "stars": 15710,
+   "ram_estimate_min_mb": 512,
+   "ram_estimate_max_mb": 1536
   },
   {
    "slug": "apache-apisix",
@@ -3047,6 +3047,26 @@
    "stars": 17311,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
+  },
+  {
+   "slug": "apache-druid",
+   "name": "Apache Druid",
+   "summary": "Columnar, time-indexed analytics database built for streaming and batch data at scale, handling billions to trillions of rows with millisecond query response.",
+   "categories": [
+    "dashboards",
+    "databases"
+   ],
+   "website_url": "https://druid.apache.org/",
+   "source_code_url": "https://github.com/apache/druid",
+   "other_url": "",
+   "license": "Apache-2.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-10",
+   "docker_support": "official",
+   "stars": 14097,
+   "ram_estimate_min_mb": 4096,
+   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "apacheds",
@@ -3371,9 +3391,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 4662,
+   "stars": 4665,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -3505,9 +3525,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 41194,
+   "stars": 41248,
    "ram_estimate_min_mb": 8192,
    "ram_estimate_max_mb": 12288
   },
@@ -3545,9 +3565,9 @@
    "license": "BSD-3-Clause",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 57915,
+   "stars": 58075,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -3586,7 +3606,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-06",
    "docker_support": "official",
-   "stars": 1868,
+   "stars": 1871,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -3665,7 +3685,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-07-09",
    "docker_support": "official",
-   "stars": 2024,
+   "stars": 2025,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1024
   },
@@ -3721,9 +3741,9 @@
    "license": "BSD-3-Clause",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 8252,
+   "stars": 8330,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -3779,9 +3799,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 28992,
+   "stars": 29017,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -3801,7 +3821,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-05",
    "docker_support": "official",
-   "stars": 447,
+   "stars": 449,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -3938,9 +3958,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 769,
+   "stars": 780,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 256
   },
@@ -3977,9 +3997,9 @@
    "license": "Elastic-2.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 12219,
+   "stars": 12267,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -4231,7 +4251,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-06",
    "docker_support": "official",
-   "stars": 2364,
+   "stars": 2365,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 256
   },
@@ -4310,7 +4330,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-07",
    "docker_support": "official",
-   "stars": 2505,
+   "stars": 2506,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1024
   },
@@ -4443,7 +4463,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-05",
    "docker_support": "",
-   "stars": 3676,
+   "stars": 3685,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1024
   },
@@ -4482,7 +4502,7 @@
    "maintenance_status": "slow",
    "last_commit_date": "2025-01-21",
    "docker_support": "official",
-   "stars": 772,
+   "stars": 773,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 4096
   },
@@ -4580,7 +4600,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-03-02",
    "docker_support": "official",
-   "stars": 1344,
+   "stars": 1346,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -4600,7 +4620,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-05",
    "docker_support": "official",
-   "stars": 862,
+   "stars": 865,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -4636,9 +4656,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-13",
    "docker_support": "",
-   "stars": 1439,
+   "stars": 1442,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -4656,9 +4676,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 1638,
+   "stars": 1639,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -4793,9 +4813,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 32244,
+   "stars": 32345,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -4852,7 +4872,7 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-27",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
    "stars": 726,
    "ram_estimate_min_mb": 256,
@@ -4872,9 +4892,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 14963,
+   "stars": 14988,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1536
   },
@@ -4932,7 +4952,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-08-20",
    "docker_support": "",
-   "stars": 3044,
+   "stars": 3050,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
   },
@@ -4970,7 +4990,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
    "stars": 865,
    "ram_estimate_min_mb": 128,
@@ -5010,7 +5030,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-05",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
    "stars": 13,
    "ram_estimate_min_mb": 512,
@@ -5051,7 +5071,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-06",
    "docker_support": "official",
-   "stars": 12189,
+   "stars": 12208,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -5069,9 +5089,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 1917,
+   "stars": 1944,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -5088,9 +5108,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 29607,
+   "stars": 29643,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -5126,9 +5146,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 26285,
+   "stars": 26333,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -5145,9 +5165,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 2149,
+   "stars": 2151,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -5246,7 +5266,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-09",
    "docker_support": "official",
-   "stars": 3199,
+   "stars": 3208,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
   },
@@ -5303,9 +5323,9 @@
    "license": "PolyForm Shield License 1.0.0 for autogpt_platform; MIT for other repository components",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-05",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 187974,
+   "stars": 188006,
    "ram_estimate_min_mb": 8192,
    "ram_estimate_max_mb": 16384
   },
@@ -5381,7 +5401,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
    "stars": 962,
    "ram_estimate_min_mb": 256,
@@ -5442,7 +5462,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-01-15",
    "docker_support": "official",
-   "stars": 14016,
+   "stars": 14020,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -5656,7 +5676,7 @@
    "other_url": "",
    "license": "GPL-3.0",
    "source_model": "open_source",
-   "maintenance_status": "active",
+   "maintenance_status": "slow",
    "last_commit_date": "2025-11-10",
    "docker_support": "",
    "stars": 439,
@@ -5736,7 +5756,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-08-25",
    "docker_support": "official",
-   "stars": 2198,
+   "stars": 2199,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1024
   },
@@ -5935,9 +5955,9 @@
    "ram_estimate_max_mb": 8192
   },
   {
-   "slug": "backdrop",
-   "name": "Backdrop",
-   "summary": "Easy-to-use CMS for building professional websites for publishing and managing website content.",
+   "slug": "backdrop-cms",
+   "name": "Backdrop CMS",
+   "summary": "Comprehensive CMS for small to medium sized businesses and non-profits.",
    "categories": [
     "content-publishing"
    ],
@@ -5948,10 +5968,10 @@
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-10-15",
-   "docker_support": "none",
+   "docker_support": "",
    "stars": 1053,
-   "ram_estimate_min_mb": 512,
-   "ram_estimate_max_mb": 2048
+   "ram_estimate_min_mb": 256,
+   "ram_estimate_max_mb": 512
   },
   {
    "slug": "backdrop-generator",
@@ -6069,23 +6089,23 @@
    "ram_estimate_max_mb": 8192
   },
   {
-   "slug": "ba-kal",
-   "name": "Baïkal",
-   "summary": "Lightweight CalDAV and CardDAV server based on sabre/dav.",
+   "slug": "baikal",
+   "name": "Baikal",
+   "summary": "Lightweight CalDAV and CardDAV server for synchronizing calendars and contacts.",
    "categories": [
     "calendars-contacts"
    ],
-   "website_url": "https://sabre.io/baikal",
+   "website_url": "https://sabre.io/baikal/",
    "source_code_url": "https://github.com/sabre-io/Baikal",
    "other_url": "",
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-03",
-   "docker_support": "community",
+   "docker_support": "none",
    "stars": 3370,
-   "ram_estimate_min_mb": 128,
-   "ram_estimate_max_mb": 256
+   "ram_estimate_min_mb": 256,
+   "ram_estimate_max_mb": 1024
   },
   {
    "slug": "bambuddy",
@@ -8967,9 +8987,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-02",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 560,
+   "stars": 563,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -13622,30 +13642,11 @@
    "license": "Mozilla Public License 2.0 (primary license)",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 33,
+   "stars": 34,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
-  },
-  {
-   "slug": "collabora",
-   "name": "Collabora Online",
-   "summary": "Browser office suite for editing documents, spreadsheets, and presentations with live collaboration.",
-   "categories": [
-    "documents-pdfs"
-   ],
-   "website_url": "https://www.collaboraonline.com/code/",
-   "source_code_url": "https://gerrit.collaboraoffice.com/core",
-   "other_url": "",
-   "license": "MPL-2.0 with additional product terms",
-   "source_model": "source_available",
-   "maintenance_status": "active",
-   "last_commit_date": "",
-   "docker_support": "official",
-   "stars": null,
-   "ram_estimate_min_mb": 2048,
-   "ram_estimate_max_mb": 4096
   },
   {
    "slug": "collective-access-providence",
@@ -14386,9 +14387,9 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "converse",
-   "name": "Converse",
-   "summary": "Web XMPP/Jabber chat client for connecting to and managing federated chat services.",
+   "slug": "converse-js",
+   "name": "Converse.js",
+   "summary": "Browser XMPP chat client for messaging, group chats, contacts, and embedded web conversations.",
    "categories": [
     "communication"
    ],
@@ -14399,7 +14400,7 @@
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-10",
-   "docker_support": "none",
+   "docker_support": "",
    "stars": 3307,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
@@ -17198,25 +17199,6 @@
    "ram_estimate_max_mb": 128
   },
   {
-   "slug": "ddnet",
-   "name": "DDNet",
-   "summary": "This Docker will download and install a simple DDNet Dedicated server with a default autoexec.cfg preconfigured.",
-   "categories": [
-    "games"
-   ],
-   "website_url": "https://ddnet.tw/",
-   "source_code_url": "https://github.com/ddnet/ddnet",
-   "other_url": "",
-   "license": "Custom permissive DDNet license; bundled game data, fonts, and third-party libraries have separate licenses",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
-   "docker_support": "community",
-   "stars": 860,
-   "ram_estimate_min_mb": 512,
-   "ram_estimate_max_mb": 2048
-  },
-  {
    "slug": "ddns",
    "name": "ddns",
    "summary": "Personal DDNS client with Digital Ocean Networking DNS as backend.",
@@ -17311,6 +17293,25 @@
    "stars": 3289,
    "ram_estimate_min_mb": 32,
    "ram_estimate_max_mb": 128
+  },
+  {
+   "slug": "ddracenetwork",
+   "name": "DDraceNetwork",
+   "summary": "Cooperative Teeworlds game server and client with race maps and online play.",
+   "categories": [
+    "games"
+   ],
+   "website_url": "https://ddnet.org/",
+   "source_code_url": "https://github.com/ddnet/ddnet",
+   "other_url": "",
+   "license": "MIT",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-09",
+   "docker_support": "none",
+   "stars": 860,
+   "ram_estimate_min_mb": 256,
+   "ram_estimate_max_mb": 1024
   },
   {
    "slug": "debian-apt-mirror",
@@ -17683,7 +17684,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-13",
    "docker_support": "official",
-   "stars": 472,
+   "stars": 473,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
   },
@@ -18505,6 +18506,25 @@
    "ram_estimate_max_mb": 4096
   },
   {
+   "slug": "distribution",
+   "name": "Distribution Registry",
+   "summary": "Container registry service for storing, distributing, and managing OCI images.",
+   "categories": [
+    "developer-tools"
+   ],
+   "website_url": "https://distribution.github.io/distribution/",
+   "source_code_url": "https://github.com/distribution/distribution",
+   "other_url": "",
+   "license": "Apache-2.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-12",
+   "docker_support": "official",
+   "stars": 10688,
+   "ram_estimate_min_mb": 128,
+   "ram_estimate_max_mb": 512
+  },
+  {
    "slug": "dittofeed",
    "name": "Dittofeed",
    "summary": "Customer engagement, Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more .",
@@ -19104,25 +19124,6 @@
    "last_commit_date": "2026-11-06",
    "docker_support": "official",
    "stars": 62,
-   "ram_estimate_min_mb": 256,
-   "ram_estimate_max_mb": 2048
-  },
-  {
-   "slug": "dockerregistry",
-   "name": "Docker Registry",
-   "summary": "Stores and serves container images through the Registry HTTP API.",
-   "categories": [
-    "developer-tools"
-   ],
-   "website_url": "https://distribution.github.io/distribution/",
-   "source_code_url": "https://github.com/distribution/distribution",
-   "other_url": "",
-   "license": "Apache-2.0",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-12",
-   "docker_support": "official",
-   "stars": 10688,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -20666,25 +20667,6 @@
    "stars": 93,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
-  },
-  {
-   "slug": "druid",
-   "name": "Druid",
-   "summary": "Distributed analytics database for storing and querying large event streams in real time.",
-   "categories": [
-    "databases"
-   ],
-   "website_url": "https://druid.apache.org/",
-   "source_code_url": "https://github.com/apache/druid",
-   "other_url": "",
-   "license": "Apache-2.0",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-10",
-   "docker_support": "official",
-   "stars": 14097,
-   "ram_estimate_min_mb": 4096,
-   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "drupal-cms",
@@ -22563,7 +22545,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-09-19",
    "docker_support": "official",
-   "stars": 295,
+   "stars": 296,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -25147,22 +25129,22 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "firefly-iii-di",
-   "name": "Firefly Iii Di",
-   "summary": "Data importer that brings transactions and account data into Firefly III.",
+   "slug": "firefly-iii-data-importer",
+   "name": "Firefly III Data Importer",
+   "summary": "Imports bank transactions and files into the self-hosted Firefly III finance manager.",
    "categories": [
     "finance-budgeting"
    ],
-   "website_url": "https://docs.firefly-iii.org/data-importer/",
+   "website_url": "https://firefly-iii.org/",
    "source_code_url": "https://github.com/firefly-iii/data-importer",
    "other_url": "",
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-11",
-   "docker_support": "none",
+   "docker_support": "official",
    "stars": 857,
-   "ram_estimate_min_mb": 256,
+   "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
   {
@@ -26630,25 +26612,6 @@
    "stars": 1748,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
-  },
-  {
-   "slug": "foundry",
-   "name": "Foundry Virtual Tabletop",
-   "summary": "Virtual tabletop for hosting role-playing game sessions with game systems, maps, and shared worlds.",
-   "categories": [
-    "games"
-   ],
-   "website_url": "https://foundryvtt.com/",
-   "source_code_url": "",
-   "other_url": "",
-   "license": "Proprietary software under the Foundry Virtual Tabletop EULA",
-   "source_model": "closed_source",
-   "maintenance_status": "active",
-   "last_commit_date": "",
-   "docker_support": "community",
-   "stars": null,
-   "ram_estimate_min_mb": 2048,
-   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "foundry-virtual-tabletop",
@@ -29094,14 +29057,14 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "gladys",
-   "name": "Gladys",
-   "summary": "Home assistant for controlling devices, building automations, and keeping smart home data local.",
+   "slug": "gladys-assistant",
+   "name": "Gladys Assistant",
+   "summary": "Home automation app that runs locally and connects household devices.",
    "categories": [
     "home-automation-iot"
    ],
    "website_url": "https://gladysassistant.com/",
-   "source_code_url": "https://github.com/GladysAssistant/Gladys",
+   "source_code_url": "https://github.com/gladysassistant/gladys",
    "other_url": "",
    "license": "Apache-2.0",
    "source_model": "open_source",
@@ -29109,7 +29072,7 @@
    "last_commit_date": "2026-11-11",
    "docker_support": "official",
    "stars": 3273,
-   "ram_estimate_min_mb": 512,
+   "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
   {
@@ -32907,25 +32870,6 @@
    "ram_estimate_max_mb": 8192
   },
   {
-   "slug": "homebox",
-   "name": "Homebox",
-   "summary": "Inventory and organization system built for the Home User.",
-   "categories": [
-    "system-admin-hosting"
-   ],
-   "website_url": "https://homebox.software/en/",
-   "source_code_url": "https://github.com/sysadminsmedia/homebox",
-   "other_url": "",
-   "license": "AGPL-3.0",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
-   "docker_support": "none",
-   "stars": 7842,
-   "ram_estimate_min_mb": 256,
-   "ram_estimate_max_mb": 512
-  },
-  {
    "slug": "homeboxlabel",
    "name": "HomeboxLabel",
    "summary": "External label service for Homebox that generates 4 x 6 inch location labels while preserving compact item labels and QR-code links back to Homebox.",
@@ -32943,6 +32887,25 @@
    "stars": 5,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
+  },
+  {
+   "slug": "homebox-sysadminsmedia",
+   "name": "HomeBox (SysAdminsMedia)",
+   "summary": "Inventory and organization system built for the home user.",
+   "categories": [
+    "system-admin-hosting"
+   ],
+   "website_url": "https://homebox.software/",
+   "source_code_url": "https://github.com/sysadminsmedia/homebox",
+   "other_url": "",
+   "license": "AGPL-3.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-07",
+   "docker_support": "official",
+   "stars": 7842,
+   "ram_estimate_min_mb": 256,
+   "ram_estimate_max_mb": 1024
   },
   {
    "slug": "homebridge",
@@ -34350,7 +34313,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-01",
    "docker_support": "community",
-   "stars": 2300,
+   "stars": 2315,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -36191,7 +36154,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-09",
    "docker_support": "community",
-   "stars": 8869,
+   "stars": 8879,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 256
   },
@@ -36758,25 +36721,6 @@
    "stars": 335,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1536
-  },
-  {
-   "slug": "jan",
-   "name": "Jan",
-   "summary": "Runs local language models in a desktop chat interface with model downloads, assistants, extensions, and an API server.",
-   "categories": [
-    "ai-ml"
-   ],
-   "website_url": "https://jan.ai/",
-   "source_code_url": "https://github.com/janhq/jan",
-   "other_url": "",
-   "license": "Apache-2.0",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-12",
-   "docker_support": "none",
-   "stars": 45697,
-   "ram_estimate_min_mb": 8192,
-   "ram_estimate_max_mb": 16384
   },
   {
    "slug": "jan-ai",
@@ -37502,22 +37446,22 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "jitsi",
-   "name": "Jitsi",
-   "summary": "Video conferencing server for browser-based meetings and group calls.",
+   "slug": "jitsi-meet",
+   "name": "Jitsi Meet",
+   "summary": "WebRTC application that uses Jitsi Videobridge to provide high quality, scalable video conferences.",
    "categories": [
     "video-conferencing"
    ],
-   "website_url": "https://jitsi.org/",
+   "website_url": "https://jitsi.org/meet",
    "source_code_url": "https://github.com/jitsi/jitsi-meet",
    "other_url": "",
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-11",
-   "docker_support": "none",
+   "docker_support": "official",
    "stars": 30220,
-   "ram_estimate_min_mb": 1024,
+   "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
   {
@@ -38922,9 +38866,9 @@
    "license": "Elastic-2.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 21369,
+   "stars": 21377,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 4096
   },
@@ -39201,21 +39145,21 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "kiwix",
-   "name": "Kiwix",
-   "summary": "Sharing Web content with people without Internet access.",
+   "slug": "kiwix-serve",
+   "name": "kiwix-serve",
+   "summary": "HTTP server for browsing offline ZIM archives such as Wikipedia dumps.",
    "categories": [
     "ebooks-libraries",
     "wikis"
    ],
-   "website_url": "https://www.kiwix.org/",
+   "website_url": "https://download.kiwix.org/release/kiwix-tools",
    "source_code_url": "https://github.com/kiwix/kiwix-tools",
    "other_url": "",
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-09",
-   "docker_support": "none",
+   "docker_support": "official",
    "stars": 993,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
@@ -43151,9 +43095,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-10",
    "docker_support": "official",
-   "stars": 28270,
+   "stars": 28279,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -43171,9 +43115,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 1315,
+   "stars": 1314,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -43209,9 +43153,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-29",
+   "last_commit_date": "2026-11-09",
    "docker_support": "official",
-   "stars": 930,
+   "stars": 931,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -43229,9 +43173,9 @@
    "license": "AGPL-3.0 core; commercial enterprise modules",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 1136,
+   "stars": 1137,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -43250,7 +43194,7 @@
    "maintenance_status": "slow",
    "last_commit_date": "2025-08-25",
    "docker_support": "official",
-   "stars": 2316,
+   "stars": 2319,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -43307,9 +43251,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 45525,
+   "stars": 45576,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 512
   },
@@ -43365,9 +43309,9 @@
    "license": "MPL-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 14867,
+   "stars": 14923,
    "ram_estimate_min_mb": 8192,
    "ram_estimate_max_mb": 12288
   },
@@ -43404,9 +43348,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 29140,
+   "stars": 29170,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 4096
   },
@@ -43463,9 +43407,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 2627,
+   "stars": 2628,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -43482,9 +43426,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-04",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 466,
+   "stars": 467,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -43521,7 +43465,7 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-12",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
    "stars": 1625,
    "ram_estimate_min_mb": 256,
@@ -43541,9 +43485,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-27",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 3021,
+   "stars": 3023,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -43640,7 +43584,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-14",
    "docker_support": "official",
-   "stars": 2955,
+   "stars": 2956,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1024
   },
@@ -43814,7 +43758,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-08",
    "docker_support": "official",
-   "stars": 733,
+   "stars": 734,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -43831,7 +43775,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-10",
    "docker_support": "",
    "stars": 3771,
    "ram_estimate_min_mb": 256,
@@ -43872,7 +43816,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-29",
    "docker_support": "",
-   "stars": 6802,
+   "stars": 6805,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -43910,7 +43854,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-09-05",
    "docker_support": "official",
-   "stars": 1606,
+   "stars": 1615,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1024
   },
@@ -44043,9 +43987,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-10",
    "docker_support": "official",
-   "stars": 4328,
+   "stars": 4329,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -44101,9 +44045,9 @@
    "license": "GPL-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "community",
-   "stars": 1817,
+   "stars": 1823,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -44120,9 +44064,9 @@
    "license": "CC-BY-NC-SA-4.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 889,
+   "stars": 891,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -44277,9 +44221,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 6125,
+   "stars": 6129,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -44298,7 +44242,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-06-07",
    "docker_support": "official",
-   "stars": 761,
+   "stars": 760,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -44354,9 +44298,9 @@
    "license": "OSL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-13",
    "docker_support": "",
-   "stars": 12224,
+   "stars": 12231,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -44454,9 +44398,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 2244,
+   "stars": 2252,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -44514,7 +44458,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-05",
    "docker_support": "official",
-   "stars": 13767,
+   "stars": 13796,
    "ram_estimate_min_mb": 6144,
    "ram_estimate_max_mb": 8192
   },
@@ -44551,9 +44495,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 663,
+   "stars": 684,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -44592,7 +44536,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-08",
    "docker_support": "",
-   "stars": 15461,
+   "stars": 15466,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -44629,9 +44573,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-09",
    "docker_support": "official",
-   "stars": 10876,
+   "stars": 10924,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
   },
@@ -44688,9 +44632,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-10",
    "docker_support": "official",
-   "stars": 7609,
+   "stars": 7618,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -44770,7 +44714,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-31",
    "docker_support": "official",
-   "stars": 2245,
+   "stars": 2248,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -44788,9 +44732,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 2394,
+   "stars": 2404,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -44845,9 +44789,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-10",
    "docker_support": "official",
-   "stars": 535,
+   "stars": 548,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -44985,7 +44929,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-06",
    "docker_support": "official",
-   "stars": 1859,
+   "stars": 1862,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 512
   },
@@ -45024,7 +44968,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-14",
    "docker_support": "official",
-   "stars": 795,
+   "stars": 794,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -45080,9 +45024,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-09-13",
+   "last_commit_date": "2026-11-09",
    "docker_support": "official",
-   "stars": 646,
+   "stars": 647,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -45119,9 +45063,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 7626,
+   "stars": 7630,
    "ram_estimate_min_mb": 768,
    "ram_estimate_max_mb": 2048
   },
@@ -45158,29 +45102,29 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 12079,
+   "stars": 12082,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 4096
   },
   {
-   "slug": "mantis",
-   "name": "Mantis",
-   "summary": "Bug tracking system for reporting, organizing, and resolving software issues.",
+   "slug": "mantisbt",
+   "name": "MantisBT",
+   "summary": "Bug tracker for reporting issues, assigning work, and following software fixes.",
    "categories": [
     "developer-tools"
    ],
    "website_url": "https://mantisbt.org/",
    "source_code_url": "https://github.com/mantisbt/mantisbt",
    "other_url": "",
-   "license": "GPL-3.0",
+   "license": "GPL-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-09",
-   "docker_support": "none",
+   "docker_support": "community",
    "stars": 1809,
-   "ram_estimate_min_mb": 256,
+   "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
   {
@@ -45196,9 +45140,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-01",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 146,
+   "stars": 147,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -45236,9 +45180,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 2238,
+   "stars": 2245,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -45296,7 +45240,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-04",
    "docker_support": "official",
-   "stars": 618,
+   "stars": 620,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 16384
   },
@@ -45431,7 +45375,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-21",
    "docker_support": "official",
-   "stars": 1229,
+   "stars": 1228,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -45467,9 +45411,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 50502,
+   "stars": 50595,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -45507,7 +45451,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-02",
    "docker_support": "official",
-   "stars": 375,
+   "stars": 371,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -45527,7 +45471,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-07",
    "docker_support": "official",
-   "stars": 2684,
+   "stars": 2689,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -45565,9 +45509,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-10",
    "docker_support": "",
-   "stars": 221,
+   "stars": 222,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -45585,9 +45529,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-10",
    "docker_support": "official",
-   "stars": 1240,
+   "stars": 1244,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -45606,7 +45550,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-26",
    "docker_support": "official",
-   "stars": 5170,
+   "stars": 5178,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 4096
   },
@@ -45623,9 +45567,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 22014,
+   "stars": 22027,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -45718,9 +45662,9 @@
    "license": "AGPL-3.0-only",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 39557,
+   "stars": 39597,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -45758,9 +45702,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 10953,
+   "stars": 10981,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -45876,7 +45820,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-07",
    "docker_support": "official",
-   "stars": 18177,
+   "stars": 18220,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -45915,7 +45859,7 @@
    "maintenance_status": "archived",
    "last_commit_date": "2025-07-24",
    "docker_support": "official",
-   "stars": 54195,
+   "stars": 54188,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -45954,7 +45898,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-09-20",
    "docker_support": "official",
-   "stars": 2737,
+   "stars": 2740,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -45971,9 +45915,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-10",
    "docker_support": "official",
-   "stars": 432,
+   "stars": 434,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -46011,7 +45955,7 @@
    "maintenance_status": "slow",
    "last_commit_date": "2025-10-07",
    "docker_support": "official",
-   "stars": 2498,
+   "stars": 2502,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -46145,9 +46089,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 13852,
+   "stars": 13884,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -46282,7 +46226,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-26",
    "docker_support": "official",
-   "stars": 5182,
+   "stars": 5193,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -46415,7 +46359,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-02",
    "docker_support": "official",
-   "stars": 509,
+   "stars": 511,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -46434,7 +46378,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-07-05",
    "docker_support": "official",
-   "stars": 3287,
+   "stars": 3291,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -46472,9 +46416,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 20646,
+   "stars": 20676,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 1024
   },
@@ -46744,9 +46688,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 554,
+   "stars": 557,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -46765,7 +46709,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-18",
    "docker_support": "official",
-   "stars": 1992,
+   "stars": 1994,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -46782,9 +46726,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 37132,
+   "stars": 37211,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 6144
   },
@@ -46803,7 +46747,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-06",
    "docker_support": "official",
-   "stars": 1448,
+   "stars": 1447,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -46839,9 +46783,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 305,
+   "stars": 308,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -46896,9 +46840,9 @@
    "license": "MIT for Community Edition; Business Source License for Enterprise Edition",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-04",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 59816,
+   "stars": 59851,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -46918,7 +46862,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-09-08",
    "docker_support": "official",
-   "stars": 787,
+   "stars": 788,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -46957,7 +46901,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-27",
    "docker_support": "official",
-   "stars": 651,
+   "stars": 652,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -47092,7 +47036,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-19",
    "docker_support": "official",
-   "stars": 770,
+   "stars": 774,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -47128,9 +47072,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 64357,
+   "stars": 64431,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
   },
@@ -47225,7 +47169,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-07",
    "docker_support": "official",
-   "stars": 323,
+   "stars": 325,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -47300,9 +47244,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-10",
    "docker_support": "official",
-   "stars": 7639,
+   "stars": 7684,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 3072
   },
@@ -47511,9 +47455,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 50241,
+   "stars": 50311,
    "ram_estimate_min_mb": 3072,
    "ram_estimate_max_mb": 5120
   },
@@ -47532,7 +47476,7 @@
    "maintenance_status": "slow",
    "last_commit_date": "2025-07-22",
    "docker_support": "official",
-   "stars": 737,
+   "stars": 738,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -47587,9 +47531,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 1356,
+   "stars": 1359,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -47625,9 +47569,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 15222,
+   "stars": 15255,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1536
   },
@@ -47647,7 +47591,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-09-08",
    "docker_support": "official",
-   "stars": 4637,
+   "stars": 4639,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 512
   },
@@ -47781,9 +47725,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-09",
    "docker_support": "official",
-   "stars": 379,
+   "stars": 380,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -47823,7 +47767,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-23",
    "docker_support": "official",
-   "stars": 39850,
+   "stars": 39864,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -47842,7 +47786,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-04",
    "docker_support": "",
-   "stars": 29718,
+   "stars": 29806,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 4096
   },
@@ -47861,7 +47805,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-08",
    "docker_support": "official",
-   "stars": 142,
+   "stars": 143,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -47878,9 +47822,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 2375,
+   "stars": 2394,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -47995,9 +47939,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 9905,
+   "stars": 9930,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 768
   },
@@ -48014,9 +47958,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-03",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 49,
+   "stars": 51,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -48091,9 +48035,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-04-19",
+   "last_commit_date": "2026-11-09",
    "docker_support": "",
-   "stars": 3492,
+   "stars": 3497,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -48112,7 +48056,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-08-07",
    "docker_support": "official",
-   "stars": 2447,
+   "stars": 2452,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -48150,7 +48094,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-03",
    "docker_support": "official",
-   "stars": 8108,
+   "stars": 8134,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
   },
@@ -48170,7 +48114,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-24",
    "docker_support": "official",
-   "stars": 265,
+   "stars": 268,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -48189,7 +48133,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-06",
    "docker_support": "official",
-   "stars": 437,
+   "stars": 438,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -48226,30 +48170,11 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 537,
+   "stars": 542,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
-  },
-  {
-   "slug": "mirotalk",
-   "name": "Mirotalk",
-   "summary": "Web video conferencing app for group calls and meetings.",
-   "categories": [
-    "video-conferencing"
-   ],
-   "website_url": "https://meet.no42.org/",
-   "source_code_url": "https://github.com/miroslavpejic85/mirotalk",
-   "other_url": "",
-   "license": "AGPL-3.0",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-12",
-   "docker_support": "none",
-   "stars": 4839,
-   "ram_estimate_min_mb": 1024,
-   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "mirotalk-c2c",
@@ -48264,11 +48189,30 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-09",
    "docker_support": "official",
    "stars": 521,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
+  },
+  {
+   "slug": "mirotalk-p2p",
+   "name": "MiroTalk P2P",
+   "summary": "Peer-to-peer video meeting app with screen sharing, chat, and browser-based rooms.",
+   "categories": [
+    "video-conferencing"
+   ],
+   "website_url": "https://p2p.mirotalk.com/",
+   "source_code_url": "https://github.com/miroslavpejic85/mirotalk",
+   "other_url": "",
+   "license": "AGPL-3.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-12",
+   "docker_support": "official",
+   "stars": 4839,
+   "ram_estimate_min_mb": 512,
+   "ram_estimate_max_mb": 2048
   },
   {
    "slug": "mirotalk-sfu",
@@ -48283,9 +48227,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 3152,
+   "stars": 3158,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -48360,9 +48304,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 11362,
+   "stars": 11389,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -48443,7 +48387,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-03-16",
    "docker_support": "official",
-   "stars": 3917,
+   "stars": 3930,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -48480,9 +48424,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-30",
+   "last_commit_date": "2026-11-10",
    "docker_support": "official",
-   "stars": 220,
+   "stars": 222,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -48501,7 +48445,7 @@
    "maintenance_status": "slow",
    "last_commit_date": "2025-10-20",
    "docker_support": "",
-   "stars": 22539,
+   "stars": 22544,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -48595,7 +48539,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-09-25",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
    "stars": 75,
    "ram_estimate_min_mb": 1024,
@@ -48786,9 +48730,9 @@
    "license": "ISC",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 3542,
+   "stars": 3543,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -48826,7 +48770,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-28",
    "docker_support": "",
-   "stars": 1415,
+   "stars": 1416,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -48959,9 +48903,9 @@
    "license": "FSL-1.1-MIT",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 691,
+   "stars": 692,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -49037,7 +48981,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-28",
    "docker_support": "official",
-   "stars": 25747,
+   "stars": 25767,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -49210,9 +49154,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-11",
    "docker_support": "",
-   "stars": 1456,
+   "stars": 1462,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -49231,7 +49175,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-09-27",
    "docker_support": "official",
-   "stars": 3943,
+   "stars": 3952,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -49250,7 +49194,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-02",
    "docker_support": "",
-   "stars": 8606,
+   "stars": 8611,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -49344,7 +49288,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-09",
    "docker_support": "official",
    "stars": 314,
    "ram_estimate_min_mb": 256,
@@ -49365,7 +49309,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-05",
    "docker_support": "official",
-   "stars": 11348,
+   "stars": 11364,
    "ram_estimate_min_mb": 64,
    "ram_estimate_max_mb": 256
   },
@@ -49420,16 +49364,16 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 4720,
+   "stars": 4721,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "motion-tools-antragsgrun",
-   "name": "Motion Tools Antragsgrun",
-   "summary": "Web participation and decision-support tool for organizations and civic groups.",
+   "slug": "motion-tools-antragsgr-n",
+   "name": "motion.tools (Antragsgrün)",
+   "summary": "Web tool for managing motions and amendments during political conventions.",
    "categories": [
     "forms-polls-events"
    ],
@@ -49442,8 +49386,8 @@
    "last_commit_date": "2026-11-07",
    "docker_support": "official",
    "stars": 151,
-   "ram_estimate_min_mb": 2048,
-   "ram_estimate_max_mb": 8192
+   "ram_estimate_min_mb": 256,
+   "ram_estimate_max_mb": 2048
   },
   {
    "slug": "mousehole",
@@ -49479,7 +49423,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-08",
    "docker_support": "official",
-   "stars": 789,
+   "stars": 791,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -49555,9 +49499,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 2074,
+   "stars": 2076,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -49576,7 +49520,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-27",
    "docker_support": "official",
-   "stars": 5935,
+   "stars": 5942,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -49631,9 +49575,9 @@
    "license": "GPL-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "",
-   "stars": 2813,
+   "stars": 2815,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -49751,7 +49695,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-03-25",
    "docker_support": "official",
-   "stars": 227,
+   "stars": 228,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -49828,7 +49772,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-09",
    "docker_support": "community",
-   "stars": 2429,
+   "stars": 2431,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -49845,9 +49789,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 1891,
+   "stars": 1893,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -49961,9 +49905,9 @@
    "license": "Modified Apache-2.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 55340,
+   "stars": 55969,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -49999,9 +49943,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 1302,
+   "stars": 1307,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -50097,9 +50041,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 3298,
+   "stars": 3323,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -50121,25 +50065,6 @@
    "stars": 5360,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
-  },
-  {
-   "slug": "musicbrainzpicard",
-   "name": "MusicBrainzPicard",
-   "summary": "Music tagger that identifies and organizes files using the MusicBrainz database.",
-   "categories": [
-    "music-audio"
-   ],
-   "website_url": "",
-   "source_code_url": "https://github.com/jlesage/docker-musicbrainz-picard",
-   "other_url": "",
-   "license": "MIT",
-   "source_model": "source_available",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-04",
-   "docker_support": "community",
-   "stars": 117,
-   "ram_estimate_min_mb": 2048,
-   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "music-librarian",
@@ -50196,7 +50121,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-09-28",
    "docker_support": "official",
-   "stars": 1548,
+   "stars": 1551,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -50255,7 +50180,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-03-23",
    "docker_support": "",
-   "stars": 4861,
+   "stars": 4865,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -50312,7 +50237,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-06",
    "docker_support": "",
-   "stars": 1250,
+   "stars": 1251,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -50331,7 +50256,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-08",
    "docker_support": "official",
-   "stars": 597,
+   "stars": 599,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -50463,9 +50388,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 806,
+   "stars": 807,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -50503,7 +50428,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-24",
    "docker_support": "official",
-   "stars": 318,
+   "stars": 320,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -50540,9 +50465,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 12326,
+   "stars": 12363,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 512
   },
@@ -50696,9 +50621,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-05",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 3049,
+   "stars": 3055,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
   },
@@ -50774,7 +50699,7 @@
    "license": "GPL-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "",
    "stars": 203,
    "ram_estimate_min_mb": 256,
@@ -50794,9 +50719,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 1283,
+   "stars": 1291,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -50870,9 +50795,9 @@
    "license": "Sustainable Use License; n8n also uses a separate Enterprise License for enterprise-only files",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 209872,
+   "stars": 210353,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 4096
   },
@@ -50986,9 +50911,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-28",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 1116,
+   "stars": 1120,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -51006,9 +50931,9 @@
    "license": "Elastic-2.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 13150,
+   "stars": 13215,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -51045,9 +50970,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 31099,
+   "stars": 31110,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -51201,9 +51126,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 24599,
+   "stars": 24693,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 512
   },
@@ -51282,7 +51207,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-18",
    "docker_support": "official",
-   "stars": 1307,
+   "stars": 1311,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -51299,9 +51224,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 22622,
+   "stars": 22675,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -51339,7 +51264,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-20",
    "docker_support": "official",
-   "stars": 17416,
+   "stars": 17430,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 16384
   },
@@ -51357,9 +51282,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 906,
+   "stars": 908,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -51378,7 +51303,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-11",
    "docker_support": "official",
-   "stars": 419,
+   "stars": 420,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -51454,9 +51379,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 7396,
+   "stars": 7408,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -51474,9 +51399,9 @@
    "license": "AGPL-3.0-only",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 30814,
+   "stars": 30945,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -51494,9 +51419,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-13",
    "docker_support": "",
-   "stars": 21859,
+   "stars": 21877,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -51513,9 +51438,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 81312,
+   "stars": 81390,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
   },
@@ -51609,9 +51534,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-11",
    "docker_support": "",
-   "stars": 33665,
+   "stars": 33687,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 4096
   },
@@ -51823,9 +51748,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 7685,
+   "stars": 7691,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -51940,7 +51865,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-20",
    "docker_support": "official",
-   "stars": 88942,
+   "stars": 88950,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -51957,31 +51882,11 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "community",
-   "stars": 37453,
+   "stars": 37502,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
-  },
-  {
-   "slug": "nextcloud-aio-mastercontainer",
-   "name": "Nextcloud All-in-One",
-   "summary": "Deploys Nextcloud with its database, cache, and optional office, backup, and collaboration services.",
-   "categories": [
-    "file-sharing-sync",
-    "system-admin-hosting"
-   ],
-   "website_url": "https://nextcloud.com/",
-   "source_code_url": "https://github.com/nextcloud/all-in-one",
-   "other_url": "",
-   "license": "AGPL-3.0",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-12",
-   "docker_support": "official",
-   "stars": 10823,
-   "ram_estimate_min_mb": 4096,
-   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "nextcloud-cronjob",
@@ -52016,7 +51921,7 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
    "stars": 1439,
    "ram_estimate_min_mb": 256,
@@ -52035,9 +51940,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-13",
    "docker_support": "",
-   "stars": 383,
+   "stars": 384,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -52054,7 +51959,7 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "",
    "stars": 1060,
    "ram_estimate_min_mb": 256,
@@ -52092,7 +51997,7 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
    "stars": 1014,
    "ram_estimate_min_mb": 256,
@@ -52111,9 +52016,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-11",
    "docker_support": "",
-   "stars": 744,
+   "stars": 745,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -52130,7 +52035,7 @@
    "license": "AGPL-3.0-or-later",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "",
    "stars": 459,
    "ram_estimate_min_mb": 256,
@@ -52206,9 +52111,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "",
-   "stars": 220,
+   "stars": 221,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -52226,9 +52131,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "",
-   "stars": 2224,
+   "stars": 2225,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -52245,9 +52150,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-01",
+   "last_commit_date": "2026-11-12",
    "docker_support": "",
-   "stars": 709,
+   "stars": 711,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -52303,9 +52208,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 5121,
+   "stars": 5129,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -52343,7 +52248,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-27",
    "docker_support": "official",
-   "stars": 1199,
+   "stars": 1203,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -52457,7 +52362,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-29",
    "docker_support": "official",
-   "stars": 10390,
+   "stars": 10400,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1536
   },
@@ -52594,7 +52499,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-07",
    "docker_support": "official",
-   "stars": 19937,
+   "stars": 19939,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
   },
@@ -52613,7 +52518,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-09",
    "docker_support": "official",
-   "stars": 34657,
+   "stars": 34685,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -52631,9 +52536,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 11749,
+   "stars": 11767,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 512
   },
@@ -52652,7 +52557,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-24",
    "docker_support": "official",
-   "stars": 584,
+   "stars": 585,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 512
   },
@@ -52920,9 +52825,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 24874,
+   "stars": 24912,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -52940,9 +52845,9 @@
    "license": "Sustainable Use License 1.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 65454,
+   "stars": 65521,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -52959,9 +52864,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 15246,
+   "stars": 15247,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -52980,7 +52885,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-08",
    "docker_support": "official",
-   "stars": 1597,
+   "stars": 1600,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -53152,7 +53057,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-03",
    "docker_support": "",
-   "stars": 4560,
+   "stars": 4562,
    "ram_estimate_min_mb": 8192,
    "ram_estimate_max_mb": 16384
   },
@@ -53171,7 +53076,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-05",
    "docker_support": "official",
-   "stars": 1524,
+   "stars": 1532,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -53304,9 +53209,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-02",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 2873,
+   "stars": 2877,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -53325,7 +53230,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-07",
    "docker_support": "official",
-   "stars": 775,
+   "stars": 776,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1024
   },
@@ -53402,9 +53307,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "community",
-   "stars": 945,
+   "stars": 947,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -53440,9 +53345,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-05",
+   "last_commit_date": "2026-11-07",
    "docker_support": "official",
-   "stars": 2275,
+   "stars": 2278,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -54099,9 +54004,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-11",
    "docker_support": "community",
-   "stars": 1744,
+   "stars": 1747,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -55253,26 +55158,6 @@
    "ram_estimate_max_mb": 1024
   },
   {
-   "slug": "onetimesecret",
-   "name": "OneTimeSecret",
-   "summary": "Containerized OneTimeSecret with customization, and without paid/account features, Just simple, secure password sharing, Keep sensitive info (passwords) out.",
-   "categories": [
-    "password-managers",
-    "security-privacy"
-   ],
-   "website_url": "",
-   "source_code_url": "https://github.com/siw36/onetimesecret",
-   "other_url": "",
-   "license": "MIT",
-   "source_model": "source_available",
-   "maintenance_status": "stale",
-   "last_commit_date": "2023-01-19",
-   "docker_support": "community",
-   "stars": 11,
-   "ram_estimate_min_mb": 2048,
-   "ram_estimate_max_mb": 8192
-  },
-  {
    "slug": "oneuptime",
    "name": "OneUptime",
    "summary": "Observability app for uptime checks, incidents, status pages, and alert routing.",
@@ -56113,25 +55998,6 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "openg2p-selfservice-api",
-   "name": "Openg2p Selfservice Api",
-   "summary": "Self-service API for the openG2P digital public infrastructure stack.",
-   "categories": [
-    "developer-tools"
-   ],
-   "website_url": "https://openg2p.org/",
-   "source_code_url": "https://github.com/OpenG2P/openg2p-spar-self-service",
-   "other_url": "",
-   "license": "MPL-2.0",
-   "source_model": "open_source",
-   "maintenance_status": "archived",
-   "last_commit_date": "2025-04-30",
-   "docker_support": "community",
-   "stars": 0,
-   "ram_estimate_min_mb": 2048,
-   "ram_estimate_max_mb": 8192
-  },
-  {
    "slug": "openg2p-selfservice-ui",
    "name": "Openg2p Selfservice Ui",
    "summary": "Web self-service interface for the openG2P digital public infrastructure stack.",
@@ -56147,6 +56013,26 @@
    "last_commit_date": "",
    "docker_support": "community",
    "stars": null,
+   "ram_estimate_min_mb": 2048,
+   "ram_estimate_max_mb": 8192
+  },
+  {
+   "slug": "openg2p-spar-self-service-api",
+   "name": "Openg2p Spar Self Service Api",
+   "summary": "Self-service API for the openG2P SPAR identity and access stack.",
+   "categories": [
+    "developer-tools",
+    "identity-access"
+   ],
+   "website_url": "https://openg2p.org/",
+   "source_code_url": "https://github.com/OpenG2P/openg2p-spar-self-service",
+   "other_url": "",
+   "license": "MPL-2.0",
+   "source_model": "open_source",
+   "maintenance_status": "archived",
+   "last_commit_date": "2025-04-30",
+   "docker_support": "community",
+   "stars": 0,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -60373,16 +60259,16 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "pgadmin",
-   "name": "pgAdmin",
-   "summary": "PostgreSQL administration app for managing servers, databases, queries, and schema objects.",
+   "slug": "pgadmin4",
+   "name": "pgAdmin 4",
+   "summary": "pgAdmin manages PostgreSQL servers, databases, and queries through a web interface.",
    "categories": [
     "databases"
    ],
    "website_url": "https://www.pgadmin.org/",
    "source_code_url": "https://github.com/pgadmin-org/pgadmin4",
    "other_url": "",
-   "license": "PostgreSQL",
+   "license": "PostgreSQL License",
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-07",
@@ -60444,9 +60330,9 @@
    "license": "PostgreSQL License",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 23625,
+   "stars": 23665,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -60502,9 +60388,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-10",
    "docker_support": "none",
-   "stars": 1516,
+   "stars": 1518,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -60522,9 +60408,9 @@
    "license": "GPL-3.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-11",
    "docker_support": "community",
-   "stars": 846,
+   "stars": 847,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -60564,7 +60450,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-19",
    "docker_support": "none",
-   "stars": 1174,
+   "stars": 1177,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -60602,7 +60488,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-01",
    "docker_support": "community",
-   "stars": 3162,
+   "stars": 3164,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -60661,7 +60547,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-25",
    "docker_support": "community",
-   "stars": 327,
+   "stars": 328,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -60757,7 +60643,7 @@
    "maintenance_status": "stale",
    "last_commit_date": "2021-10-16",
    "docker_support": "none",
-   "stars": 381,
+   "stars": 382,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -60833,7 +60719,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-02",
    "docker_support": "community",
-   "stars": 2825,
+   "stars": 2828,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -60852,7 +60738,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-30",
    "docker_support": "none",
-   "stars": 747,
+   "stars": 749,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -60914,23 +60800,23 @@
    "ram_estimate_max_mb": 768
   },
   {
-   "slug": "phpservermon",
-   "name": "Phpservermon",
-   "summary": "Script that checks whether your websites and servers are up and running.",
+   "slug": "phpservermonitor",
+   "name": "PHPServerMonitor",
+   "summary": "PHP Server Monitor checks whether your websites and servers are up and running.Web based user interface where you can manage your checks, users, etc, Email.",
    "categories": [
     "monitoring-status"
    ],
-   "website_url": "https://www.phpservermonitor.org/",
+   "website_url": "",
    "source_code_url": "https://github.com/phpservermon/phpservermon",
    "other_url": "",
    "license": "GPL-3.0",
-   "source_model": "open_source",
+   "source_model": "source_available",
    "maintenance_status": "slow",
    "last_commit_date": "2025-04-23",
-   "docker_support": "none",
-   "stars": 2188,
-   "ram_estimate_min_mb": 256,
-   "ram_estimate_max_mb": 2048
+   "docker_support": "community",
+   "stars": 2189,
+   "ram_estimate_min_mb": 2048,
+   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "phpsysinfo",
@@ -60945,9 +60831,9 @@
    "license": "GPL-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-31",
+   "last_commit_date": "2026-11-11",
    "docker_support": "none",
-   "stars": 1414,
+   "stars": 1415,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -61236,7 +61122,7 @@
    "license": "GPL-3.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-04",
+   "last_commit_date": "2026-11-12",
    "docker_support": "community",
    "stars": 13,
    "ram_estimate_min_mb": 256,
@@ -61332,9 +61218,9 @@
    "license": "EUPL-1.2",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 61720,
+   "stars": 61908,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -61508,7 +61394,7 @@
    "license": "MIT",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-12",
+   "last_commit_date": "2026-11-11",
    "docker_support": "community",
    "stars": 0,
    "ram_estimate_min_mb": 2048,
@@ -61529,7 +61415,7 @@
    "maintenance_status": "archived",
    "last_commit_date": "2026-05-18",
    "docker_support": "official",
-   "stars": 4645,
+   "stars": 4643,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -61644,7 +61530,7 @@
    "license": "GPL-3.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-02",
+   "last_commit_date": "2026-11-12",
    "docker_support": "community",
    "stars": 71,
    "ram_estimate_min_mb": 2048,
@@ -61780,7 +61666,7 @@
    "license": "MIT",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-05",
+   "last_commit_date": "2026-11-12",
    "docker_support": "community",
    "stars": 2,
    "ram_estimate_min_mb": 1024,
@@ -61856,7 +61742,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-25",
+   "last_commit_date": "2026-11-10",
    "docker_support": "none",
    "stars": 6,
    "ram_estimate_min_mb": 2048,
@@ -61894,9 +61780,9 @@
    "license": "ISC",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-12",
    "docker_support": "none",
-   "stars": 2123,
+   "stars": 2170,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -62225,7 +62111,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-28",
    "docker_support": "none",
-   "stars": 271,
+   "stars": 270,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -62263,7 +62149,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-22",
+   "last_commit_date": "2026-11-12",
    "docker_support": "community",
    "stars": 132,
    "ram_estimate_min_mb": 2048,
@@ -62383,7 +62269,7 @@
    "license": "MIT",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-01",
+   "last_commit_date": "2026-11-10",
    "docker_support": "community",
    "stars": 2,
    "ram_estimate_min_mb": 2048,
@@ -62441,7 +62327,7 @@
    "license": "MIT",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-10",
    "docker_support": "community",
    "stars": 24,
    "ram_estimate_min_mb": 1024,
@@ -62541,9 +62427,9 @@
    "license": "MIT",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-02",
+   "last_commit_date": "2026-11-09",
    "docker_support": "community",
-   "stars": 2161,
+   "stars": 2160,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -62601,7 +62487,7 @@
    "license": "MIT",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-26",
+   "last_commit_date": "2026-11-11",
    "docker_support": "community",
    "stars": 64,
    "ram_estimate_min_mb": 1024,
@@ -62739,7 +62625,7 @@
    "maintenance_status": "slow",
    "last_commit_date": "2025-04-08",
    "docker_support": "none",
-   "stars": 2221,
+   "stars": 2222,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -62971,7 +62857,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-08-18",
    "docker_support": "community",
-   "stars": 28,
+   "stars": 29,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -63010,7 +62896,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-07-15",
    "docker_support": "community",
-   "stars": 1992,
+   "stars": 1993,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -63550,7 +63436,7 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-03",
+   "last_commit_date": "2026-11-12",
    "docker_support": "community",
    "stars": 22,
    "ram_estimate_min_mb": 256,
@@ -63630,7 +63516,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-09-05",
    "docker_support": "community",
-   "stars": 654,
+   "stars": 653,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -63686,9 +63572,9 @@
    "license": "PostgreSQL License",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-13",
    "docker_support": "none",
-   "stars": 22748,
+   "stars": 22814,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -63825,7 +63711,7 @@
    "license": "MIT",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-04",
+   "last_commit_date": "2026-11-12",
    "docker_support": "none",
    "stars": 3,
    "ram_estimate_min_mb": 256,
@@ -63844,9 +63730,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-05",
+   "last_commit_date": "2026-11-12",
    "docker_support": "community",
-   "stars": 56064,
+   "stars": 56143,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -63902,7 +63788,7 @@
    "license": "GPL-3.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-03",
+   "last_commit_date": "2026-11-10",
    "docker_support": "community",
    "stars": 2,
    "ram_estimate_min_mb": 256,
@@ -63922,9 +63808,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-12",
    "docker_support": "none",
-   "stars": 24137,
+   "stars": 24152,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -63982,7 +63868,7 @@
    "license": "GPL-3.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-28",
+   "last_commit_date": "2026-11-11",
    "docker_support": "community",
    "stars": 83,
    "ram_estimate_min_mb": 2048,
@@ -64004,7 +63890,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-06",
    "docker_support": "official",
-   "stars": 11821,
+   "stars": 11885,
    "ram_estimate_min_mb": 8192,
    "ram_estimate_max_mb": 32768
   },
@@ -64080,7 +63966,7 @@
    "license": "MIT",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-04",
+   "last_commit_date": "2026-11-12",
    "docker_support": "community",
    "stars": 1,
    "ram_estimate_min_mb": 2048,
@@ -64099,7 +63985,7 @@
    "license": "GPL-3.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-02",
+   "last_commit_date": "2026-11-12",
    "docker_support": "community",
    "stars": 38,
    "ram_estimate_min_mb": 2048,
@@ -64119,9 +64005,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "none",
-   "stars": 22626,
+   "stars": 22677,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -64158,7 +64044,7 @@
    "license": "MIT",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-04-05",
+   "last_commit_date": "2026-11-11",
    "docker_support": "community",
    "stars": 3,
    "ram_estimate_min_mb": 2048,
@@ -64238,7 +64124,7 @@
    "license": "AGPL-3.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-27",
+   "last_commit_date": "2026-11-10",
    "docker_support": "community",
    "stars": 2,
    "ram_estimate_min_mb": 2048,
@@ -64258,9 +64144,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-01",
+   "last_commit_date": "2026-11-10",
    "docker_support": "community",
-   "stars": 241,
+   "stars": 246,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -64280,7 +64166,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-21",
    "docker_support": "none",
-   "stars": 474,
+   "stars": 477,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -64342,6 +64228,26 @@
    "stars": 0,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
+  },
+  {
+   "slug": "privatebin",
+   "name": "PrivateBin",
+   "summary": "Minimalist pastebin/discussion board where the server has zero knowledge of hosted data.",
+   "categories": [
+    "developer-tools",
+    "security-privacy"
+   ],
+   "website_url": "https://privatebin.info/",
+   "source_code_url": "https://github.com/PrivateBin/PrivateBin",
+   "other_url": "",
+   "license": "Apache-2.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-09",
+   "docker_support": "community",
+   "stars": 8744,
+   "ram_estimate_min_mb": 256,
+   "ram_estimate_max_mb": 768
   },
   {
    "slug": "private-captcha",
@@ -64570,9 +64476,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 8687,
+   "stars": 8700,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
   },
@@ -64629,7 +64535,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-28",
    "docker_support": "community",
-   "stars": 197,
+   "stars": 196,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -64646,9 +64552,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 29140,
+   "stars": 29170,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
   },
@@ -64802,7 +64708,7 @@
    "maintenance_status": "slow",
    "last_commit_date": "2025-05-31",
    "docker_support": "none",
-   "stars": 2153,
+   "stars": 2157,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -64820,9 +64726,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "none",
-   "stars": 3288,
+   "stars": 3308,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -64877,9 +64783,9 @@
    "license": "AGPL-3.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-10",
    "docker_support": "community",
-   "stars": 146,
+   "stars": 147,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -64957,7 +64863,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-29",
    "docker_support": "community",
-   "stars": 24,
+   "stars": 25,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -65013,7 +64919,7 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
    "stars": 3793,
    "ram_estimate_min_mb": 2048,
@@ -65053,7 +64959,7 @@
    "license": "GPL-3.0",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-07",
+   "last_commit_date": "2026-11-11",
    "docker_support": "community",
    "stars": 133,
    "ram_estimate_min_mb": 2048,
@@ -65150,9 +65056,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-14",
+   "last_commit_date": "2026-11-11",
    "docker_support": "community",
-   "stars": 1076,
+   "stars": 1079,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -65210,7 +65116,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-06-05",
    "docker_support": "official",
-   "stars": 453,
+   "stars": 452,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -65401,9 +65307,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-13",
    "docker_support": "community",
-   "stars": 12892,
+   "stars": 12941,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -65422,7 +65328,7 @@
    "maintenance_status": "stale",
    "last_commit_date": "2024-11-02",
    "docker_support": "community",
-   "stars": 297,
+   "stars": 298,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
   },
@@ -65439,7 +65345,7 @@
    "license": "None declared",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-11",
    "docker_support": "none",
    "stars": 129,
    "ram_estimate_min_mb": 256,
@@ -66040,9 +65946,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-21",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 35479,
+   "stars": 35531,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -66791,9 +66697,9 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 5196,
+   "stars": 5211,
    "ram_estimate_min_mb": 64,
    "ram_estimate_max_mb": 256
   },
@@ -66811,9 +66717,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 93798,
+   "stars": 94105,
    "ram_estimate_min_mb": 16384,
    "ram_estimate_max_mb": 32768
   },
@@ -67142,9 +67048,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 60894,
+   "stars": 60993,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -67261,7 +67167,7 @@
    "maintenance_status": "archived",
    "last_commit_date": "2025-06-27",
    "docker_support": "community",
-   "stars": 3456,
+   "stars": 3457,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1536
   },
@@ -70126,9 +70032,9 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "rustdesk-server",
-   "name": "Rustdesk Server",
-   "summary": "Server component for remote desktop access with RustDesk clients.",
+   "slug": "rustdesk",
+   "name": "RustDesk Server OSS",
+   "summary": "Self-hosted rendezvous and relay server for RustDesk remote desktop clients.",
    "categories": [
     "remote-access"
    ],
@@ -70139,7 +70045,7 @@
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-08",
-   "docker_support": "none",
+   "docker_support": "official",
    "stars": 10722,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
@@ -72215,26 +72121,6 @@
    "ram_estimate_max_mb": 16384
   },
   {
-   "slug": "sentry-self-hosted",
-   "name": "Sentry Self-Hosted",
-   "summary": "Packages Sentry's error tracking and performance monitoring stack for private deployments.",
-   "categories": [
-    "developer-tools",
-    "monitoring-status"
-   ],
-   "website_url": "https://sentry.io/",
-   "source_code_url": "https://github.com/getsentry/self-hosted",
-   "other_url": "",
-   "license": "FSL-1.1-Apache-2.0",
-   "source_model": "source_available",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
-   "docker_support": "official",
-   "stars": 9649,
-   "ram_estimate_min_mb": 4096,
-   "ram_estimate_max_mb": 16384
-  },
-  {
    "slug": "sentry-self-hosted-local",
    "name": "Sentry Self Hosted Local",
    "summary": "Sentry error-tracking service for collecting and investigating application errors.",
@@ -73182,23 +73068,23 @@
    "ram_estimate_max_mb": 8192
   },
   {
-   "slug": "shopware",
-   "name": "Shopware",
-   "summary": "Flexible and customizable ecommerce app that enables businesses to build responsive online stores with advanced features and automation capabilities.",
+   "slug": "shopware-community-edition",
+   "name": "Shopware Community Edition",
+   "summary": "Ecommerce system for managing products, storefronts, orders, customers, and checkout flows.",
    "categories": [
     "business-commerce"
    ],
-   "website_url": "https://www.shopware.com/en/community/community-edition/",
+   "website_url": "https://shopware.com/",
    "source_code_url": "https://github.com/shopware/shopware",
    "other_url": "",
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-10",
-   "docker_support": "none",
+   "docker_support": "official",
    "stars": 3470,
-   "ram_estimate_min_mb": 256,
-   "ram_estimate_max_mb": 2048
+   "ram_estimate_min_mb": 4096,
+   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "shortipy",
@@ -74833,25 +74719,6 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "snipeit",
-   "name": "Snipeit",
-   "summary": "IT asset management system for tracking hardware, software, licenses, and ownership.",
-   "categories": [
-    "business-commerce"
-   ],
-   "website_url": "https://snipeitapp.com/",
-   "source_code_url": "https://github.com/snipe/snipe-it",
-   "other_url": "",
-   "license": "AGPL-3.0",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
-   "docker_support": "none",
-   "stars": 15167,
-   "ram_estimate_min_mb": 256,
-   "ram_estimate_max_mb": 2048
-  },
-  {
    "slug": "snipo",
    "name": "Snipo",
    "summary": "Snippet manager for saving reusable code, notes, commands, and small text blocks.",
@@ -74985,25 +74852,6 @@
    "last_commit_date": "2026-10-05",
    "docker_support": "none",
    "stars": 482,
-   "ram_estimate_min_mb": 256,
-   "ram_estimate_max_mb": 2048
-  },
-  {
-   "slug": "snweb",
-   "name": "Snweb",
-   "summary": "End-to-end encrypted note-taking app for writing and synchronizing private notes.",
-   "categories": [
-    "knowledge-notes"
-   ],
-   "website_url": "https://standardnotes.org/",
-   "source_code_url": "https://github.com/standardnotes/app",
-   "other_url": "",
-   "license": "AGPL-3.0",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-02",
-   "docker_support": "none",
-   "stars": 6709,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -76624,26 +76472,6 @@
    "ram_estimate_max_mb": 8192
   },
   {
-   "slug": "sqlitebrowser",
-   "name": "sqlitebrowser",
-   "summary": "Visual SQLite database browser for creating, editing, and querying database files.",
-   "categories": [
-    "databases",
-    "developer-tools"
-   ],
-   "website_url": "",
-   "source_code_url": "https://github.com/linuxserver/docker-sqlitebrowser",
-   "other_url": "",
-   "license": "GPL-3.0",
-   "source_model": "source_available",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
-   "docker_support": "community",
-   "stars": 37,
-   "ram_estimate_min_mb": 1024,
-   "ram_estimate_max_mb": 8192
-  },
-  {
    "slug": "sqlpage",
    "name": "SQLPage",
    "summary": "SQL-driven website builder for creating dynamic pages directly from database queries.",
@@ -77031,6 +76859,26 @@
    "stars": null,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
+  },
+  {
+   "slug": "standard-notes",
+   "name": "Standard Notes",
+   "summary": "Simple and private notes app, Protect your privacy while getting more done, That's Standard Notes.",
+   "categories": [
+    "knowledge-notes",
+    "security-privacy"
+   ],
+   "website_url": "https://standardnotes.com/",
+   "source_code_url": "https://github.com/standardnotes/app",
+   "other_url": "",
+   "license": "AGPL-3.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-02",
+   "docker_support": "official",
+   "stars": 6709,
+   "ram_estimate_min_mb": 2048,
+   "ram_estimate_max_mb": 4096
   },
   {
    "slug": "starbase-80",
@@ -78976,25 +78824,6 @@
    "ram_estimate_max_mb": 8192
   },
   {
-   "slug": "swag",
-   "name": "Swag",
-   "summary": "Reverse proxy with automatic Let's Encrypt certificates for local services.",
-   "categories": [
-    "networking-dns"
-   ],
-   "website_url": "http://linuxserver.io/",
-   "source_code_url": "https://github.com/linuxserver/docker-swag",
-   "other_url": "",
-   "license": "GPL-3.0",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
-   "docker_support": "official",
-   "stars": 3755,
-   "ram_estimate_min_mb": 128,
-   "ram_estimate_max_mb": 512
-  },
-  {
    "slug": "swagger-editor",
    "name": "Swagger Editor",
    "summary": "Browser-based editor for designing and validating OpenAPI and AsyncAPI definitions.",
@@ -79031,6 +78860,26 @@
    "stars": 29080,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 256
+  },
+  {
+   "slug": "swag-secure-web-application-gateway",
+   "name": "SWAG (Secure Web Application Gateway)",
+   "summary": "Nginx webserver and reverse proxy with PHP support, built-in Certbot (Let's Encrypt) and fail2ban integration.",
+   "categories": [
+    "networking-dns",
+    "security-privacy"
+   ],
+   "website_url": "https://docs.linuxserver.io/general/swag",
+   "source_code_url": "https://github.com/linuxserver/docker-swag",
+   "other_url": "",
+   "license": "GPL-3.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-07",
+   "docker_support": "official",
+   "stars": 3755,
+   "ram_estimate_min_mb": 512,
+   "ram_estimate_max_mb": 2048
   },
   {
    "slug": "swatch",
@@ -79888,42 +79737,23 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "tandoor",
-   "name": "Tandoor",
-   "summary": "Manage and share recipes, plan meals, build shopping lists.",
+   "slug": "tandoor-recipes",
+   "name": "Tandoor Recipes",
+   "summary": "Recipe manager for planning meals, organizing ingredients, and building shopping lists.",
    "categories": [
     "recipes-food"
    ],
-   "website_url": "https://tandoor.dev/",
+   "website_url": "https://docs.tandoor.dev/",
    "source_code_url": "https://github.com/TandoorRecipes/recipes",
    "other_url": "",
-   "license": "AGPL-3.0",
+   "license": "AGPL-3.0-only",
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-10-27",
-   "docker_support": "none",
+   "docker_support": "official",
    "stars": 8730,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
-  },
-  {
-   "slug": "tandoorrecipes",
-   "name": "TandoorRecipes",
-   "summary": "The recipe manager that allows you to manage your ever growing collection of digital recipes.",
-   "categories": [
-    "recipes-food"
-   ],
-   "website_url": "",
-   "source_code_url": "https://github.com/vabene1111/recipes",
-   "other_url": "",
-   "license": "None declared",
-   "source_model": "source_available",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-10-27",
-   "docker_support": "community",
-   "stars": 8730,
-   "ram_estimate_min_mb": 512,
-   "ram_estimate_max_mb": 1024
   },
   {
    "slug": "tanoshi",
@@ -80591,24 +80421,24 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "technitium-dns",
-   "name": "Technitium Dns",
-   "summary": "DNS server for privacy and security for filtering ads, trackers, and unwanted domains across a network.",
+   "slug": "technitium-dns-server",
+   "name": "Technitium DNS Server",
+   "summary": "Authoritative/recursive DNS server with ad blocking functionality for filtering ads, trackers, and unwanted domains across a network.",
    "categories": [
     "networking-dns",
     "security-privacy"
    ],
-   "website_url": "https://technitium.com/dns/",
+   "website_url": "https://technitium.com/dns",
    "source_code_url": "https://github.com/TechnitiumSoftware/DnsServer",
    "other_url": "",
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-04",
-   "docker_support": "none",
+   "docker_support": "official",
    "stars": 10329,
    "ram_estimate_min_mb": 512,
-   "ram_estimate_max_mb": 1024
+   "ram_estimate_max_mb": 1536
   },
   {
    "slug": "techopolis",
@@ -82226,7 +82056,7 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
    "stars": 39,
    "ram_estimate_min_mb": 1024,
@@ -82289,25 +82119,6 @@
    "stars": null,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
-  },
-  {
-   "slug": "tinymediamanager",
-   "name": "tinyMediaManager",
-   "summary": "Media manager that organizes movie and TV files and fetches metadata for Kodi, Emby, Jellyfin, and Plex.",
-   "categories": [
-    "media-servers"
-   ],
-   "website_url": "",
-   "source_code_url": "https://github.com/jlesage/docker-tinymediamanager",
-   "other_url": "",
-   "license": "MIT",
-   "source_model": "source_available",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-10-30",
-   "docker_support": "community",
-   "stars": 4,
-   "ram_estimate_min_mb": 2048,
-   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "tinyproxy",
@@ -83933,7 +83744,7 @@
   },
   {
    "slug": "triliumnext-notes",
-   "name": "TriliumNext Notes",
+   "name": "Trilium Notes",
    "summary": "Cross-app hierarchical note taking application with focus on building large personal knowledge bases (fork of Trilium Notes).",
    "categories": [
     "knowledge-notes"
@@ -85087,22 +84898,22 @@
    "ram_estimate_max_mb": 4096
   },
   {
-   "slug": "umbrel",
-   "name": "Umbrel",
-   "summary": "UmbrelOS is a home server operating system intended for people who want the convenience of cloud-style services without handing their data to a third party.",
+   "slug": "umbrelos",
+   "name": "umbrelOS",
+   "summary": "Home server OS for running personal cloud services and app-store apps.",
    "categories": [
     "system-admin-hosting"
    ],
    "website_url": "https://umbrel.com/",
    "source_code_url": "https://github.com/getumbrel/umbrel",
    "other_url": "",
-   "license": "None declared",
+   "license": "PolyForm Noncommercial 1.0.0",
    "source_model": "source_available",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-03",
    "docker_support": "none",
    "stars": 12552,
-   "ram_estimate_min_mb": 2048,
+   "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
   {
@@ -88211,10 +88022,11 @@
    "ram_estimate_max_mb": 512
   },
   {
-   "slug": "vvveb",
-   "name": "Vvveb",
-   "summary": "CMS for building websites, blogs, and online stores.",
+   "slug": "vvveb-cms",
+   "name": "Vvveb CMS",
+   "summary": "CMS and ecommerce builder for creating websites, blogs, and online stores.",
    "categories": [
+    "business-commerce",
     "content-publishing"
    ],
    "website_url": "https://www.vvveb.com/",
@@ -88224,9 +88036,9 @@
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-10-29",
-   "docker_support": "none",
+   "docker_support": "official",
    "stars": 1321,
-   "ram_estimate_min_mb": 256,
+   "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
   {
@@ -90626,9 +90438,9 @@
    "ram_estimate_max_mb": 2048
   },
   {
-   "slug": "woodpecker",
-   "name": "Woodpecker",
-   "summary": "CI engine with great extensibility integrated with GitHub, GitLab, Gitea.",
+   "slug": "woodpecker-ci",
+   "name": "Woodpecker CI",
+   "summary": "CI/CD engine for running pipelines, builds, plugins, and repository automation.",
    "categories": [
     "developer-tools"
    ],
@@ -90639,10 +90451,10 @@
    "source_model": "open_source",
    "maintenance_status": "active",
    "last_commit_date": "2026-11-12",
-   "docker_support": "none",
+   "docker_support": "community",
    "stars": 8182,
    "ram_estimate_min_mb": 2048,
-   "ram_estimate_max_mb": 8192
+   "ram_estimate_max_mb": 4096
   },
   {
    "slug": "woofbot-without-lightning",
@@ -90696,9 +90508,9 @@
    "license": "GPL-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-13",
    "docker_support": "community",
-   "stars": 21524,
+   "stars": 21538,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -90754,9 +90566,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-05",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 3300,
+   "stars": 3307,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -90794,7 +90606,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-02",
    "docker_support": "official",
-   "stars": 8670,
+   "stars": 8687,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -90813,7 +90625,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-26",
    "docker_support": "official",
-   "stars": 1251,
+   "stars": 1252,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -90831,9 +90643,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 90382,
+   "stars": 90557,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
   },
@@ -90928,9 +90740,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 5287,
+   "stars": 5290,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1024
   },
@@ -91063,9 +90875,9 @@
    "license": "AGPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 912,
+   "stars": 913,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -91179,9 +90991,9 @@
    "license": "AGPL-3.0-or-later",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-12",
    "docker_support": "community",
-   "stars": 996,
+   "stars": 999,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -91238,7 +91050,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-22",
    "docker_support": "",
-   "stars": 744,
+   "stars": 743,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -91370,7 +91182,7 @@
    "license": "GPL-3.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-11",
    "docker_support": "",
    "stars": 413,
    "ram_estimate_min_mb": 256,
@@ -91504,7 +91316,7 @@
    "license": "LGPL-2.1",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-12",
    "docker_support": "",
    "stars": 1333,
    "ram_estimate_min_mb": 4096,
@@ -91524,9 +91336,9 @@
    "license": "BSD-3-Clause",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-07",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 6328,
+   "stars": 6338,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -91545,7 +91357,7 @@
    "maintenance_status": "slow",
    "last_commit_date": "2025-05-19",
    "docker_support": "official",
-   "stars": 1993,
+   "stars": 1994,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1536
   },
@@ -91602,7 +91414,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-03",
    "docker_support": "official",
-   "stars": 4104,
+   "stars": 4108,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
   },
@@ -91678,9 +91490,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-02",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 1555,
+   "stars": 1558,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -91699,7 +91511,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-10-31",
    "docker_support": "official",
-   "stars": 3797,
+   "stars": 3817,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -91754,9 +91566,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-05",
+   "last_commit_date": "2026-11-11",
    "docker_support": "official",
-   "stars": 4088,
+   "stars": 4097,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 256
   },
@@ -91793,9 +91605,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-09",
    "docker_support": "official",
-   "stars": 335,
+   "stars": 338,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -91814,7 +91626,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-09-14",
    "docker_support": "official",
-   "stars": 240,
+   "stars": 241,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -91834,7 +91646,7 @@
    "maintenance_status": "archived",
    "last_commit_date": "2026-01-02",
    "docker_support": "official",
-   "stars": 312,
+   "stars": 314,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 2048
   },
@@ -91890,7 +91702,7 @@
    "license": "GPL-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-10-21",
+   "last_commit_date": "2026-11-09",
    "docker_support": "none",
    "stars": 68,
    "ram_estimate_min_mb": 256,
@@ -91928,9 +91740,9 @@
    "license": "Apache-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-09",
+   "last_commit_date": "2026-11-13",
    "docker_support": "official",
-   "stars": 3234,
+   "stars": 3239,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 256
   },
@@ -91987,9 +91799,9 @@
    "license": "MIT",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-10",
    "docker_support": "",
-   "stars": 12301,
+   "stars": 12306,
    "ram_estimate_min_mb": 256,
    "ram_estimate_max_mb": 1024
   },
@@ -92009,7 +91821,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-07-10",
    "docker_support": "official",
-   "stars": 4618,
+   "stars": 4627,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 2048
   },
@@ -92029,7 +91841,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-06",
    "docker_support": "official",
-   "stars": 1805,
+   "stars": 1813,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -92108,7 +91920,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-03-08",
    "docker_support": "official",
-   "stars": 3199,
+   "stars": 3201,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 4096
   },
@@ -92168,7 +91980,7 @@
    "maintenance_status": "active",
    "last_commit_date": "2026-11-03",
    "docker_support": "official",
-   "stars": 319,
+   "stars": 320,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -92205,9 +92017,9 @@
    "license": "GPL-2.0",
    "source_model": "open_source",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-08",
+   "last_commit_date": "2026-11-12",
    "docker_support": "official",
-   "stars": 810,
+   "stars": 813,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 8192
   },
@@ -92227,7 +92039,7 @@
    "maintenance_status": "archived",
    "last_commit_date": "2026-08-21",
    "docker_support": "official",
-   "stars": 2598,
+   "stars": 2595,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 2048
   },
@@ -92675,26 +92487,6 @@
    "stars": 1718,
    "ram_estimate_min_mb": 1024,
    "ram_estimate_max_mb": 4096
-  },
-  {
-   "slug": "zerobin",
-   "name": "Zerobin",
-   "summary": "Pastebin where the server has zero knowledge of pasted data.",
-   "categories": [
-    "developer-tools",
-    "security-privacy"
-   ],
-   "website_url": "https://privatebin.info/",
-   "source_code_url": "https://github.com/PrivateBin/PrivateBin",
-   "other_url": "",
-   "license": "GPL-3.0",
-   "source_model": "open_source",
-   "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
-   "docker_support": "none",
-   "stars": 8737,
-   "ram_estimate_min_mb": 256,
-   "ram_estimate_max_mb": 512
   },
   {
    "slug": "zerobyte",
@@ -93403,9 +93195,9 @@
    "license": "MIT",
    "source_model": "source_available",
    "maintenance_status": "active",
-   "last_commit_date": "2026-11-06",
+   "last_commit_date": "2026-11-10",
    "docker_support": "community",
-   "stars": 1253,
+   "stars": 1254,
    "ram_estimate_min_mb": 512,
    "ram_estimate_max_mb": 1024
   },

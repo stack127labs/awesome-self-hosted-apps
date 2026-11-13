@@ -1,24 +1,25 @@
 # Bookmarks and read-it-later self-hosted apps
 
-83 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/bookmarks-read-it-later).
+84 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/bookmarks-read-it-later).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
 | [RSSHub](https://docs.rsshub.app/) ([source](https://github.com/DIYgod/RSSHub)) | RSS feed generator for turning websites, services, and social feeds into subscribable feeds. | AGPL-3.0 | Active | Official | 46,896 |
 | [Glance](https://github.com/glanceapp/glance) | Highly customizable dashboard that puts all your feeds in one place. | AGPL-3.0 | Active | Official | 38,165 |
 | [Karakeep](https://karakeep.app/) ([source](https://github.com/karakeep-app/karakeep)) | Bookmark-everything app with a touch of AI for the data hoarders out there. | AGPL-3.0 | Active | Official | 30,491 |
-| [ArchiveBox](https://archivebox.io/) ([source](https://github.com/ArchiveBox/ArchiveBox)) | web archiving, Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more. | MIT | Active | Official | 28,992 |
+| [ArchiveBox](https://archivebox.io/) ([source](https://github.com/ArchiveBox/ArchiveBox)) | web archiving, Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more. | MIT | Active | Official | 29,017 |
 | [LinkWarden](https://linkwarden.app/) ([source](https://github.com/linkwarden/linkwarden)) | Bookmark and archive manager to store your useful links. | AGPL-3.0 | Active | Official | 20,400 |
 | [FreshRSS](https://freshrss.org/) ([source](https://github.com/FreshRSS/FreshRSS)) | Collects RSS feeds into a web reader with subscriptions, categories, and article history. | AGPL-3.0 | Active | Official | 16,573 |
 | [Wallabag](https://wallabag.org/) ([source](https://github.com/wallabag/wallabag)) | Wallabag, formerly Poche, is a web app allowing you to save articles to read them later with improved readability. | MIT | Active | Official | 13,061 |
 | [Shiori](https://github.com/go-shiori/shiori) | Bookmark manager for saving web pages, tags, archives, and readable page copies. | MIT | Active | Official | 11,828 |
 | [linkding](https://linkding.link/) ([source](https://github.com/sissbruecker/linkding)) | Minimal bookmark manager with tags, search, archiving, and browser-friendly save flows. | MIT | Active | Official | 11,417 |
-| [Miniflux](https://miniflux.app/) ([source](https://github.com/miniflux/v2)) | RSS reader for subscribing to feeds, reading articles, and keeping a minimal news inbox. | Apache-2.0 | Active | Official | 9,905 |
+| [Miniflux](https://miniflux.app/) ([source](https://github.com/miniflux/v2)) | RSS reader for subscribing to feeds, reading articles, and keeping a minimal news inbox. | Apache-2.0 | Active | Official | 9,930 |
 | [RSS-Bridge](https://rss-bridge.org/bridge01) ([source](https://github.com/RSS-Bridge/rss-bridge)) | Generate RSS/ATOM feeds for websites which don't have one. | Unlicense | Active | Official | 9,342 |
-| [NewsBlur](http://www.newsblur.com/) ([source](https://github.com/samuelclay/NewsBlur)) | Personal news reader that brings people together to talk about the world, A new sound of an old instrument. | MIT | Active | Official | 7,685 |
+| [NewsBlur](http://www.newsblur.com/) ([source](https://github.com/samuelclay/NewsBlur)) | Personal news reader that brings people together to talk about the world, A new sound of an old instrument. | MIT | Active | Official | 7,691 |
 | [Buku](https://github.com/jarun/Buku) ([source](https://github.com/jarun/buku)) | Command-line bookmark manager for saving links, tagging pages, and searching a personal web index. | GPL-3.0 | Active | Official | 7,256 |
+| [13ft](https://github.com/wasi-master/13ft) | Self-hosted article reader that fetches pages as Googlebot to bypass some paywalls. | MIT | Active | Official | 4,365 |
 | [Stringer](https://github.com/stringer-rss/stringer) | RSS reader for private feed subscriptions, unread queues, and browser reading. | MIT | Active | Official | 4,126 |
-| [Yarr](https://github.com/nkanaev/yarr) | Yarr (yet another rss reader) is a web feed aggregator which can be used both as a desktop application and a personal server. | MIT | Active | Official | 4,088 |
+| [Yarr](https://github.com/nkanaev/yarr) | Yarr (yet another rss reader) is a web feed aggregator which can be used both as a desktop application and a personal server. | MIT | Active | Official | 4,097 |
 | [Shaarli](https://shaarli.readthedocs.io/) ([source](https://github.com/shaarli/Shaarli)) | Personal, minimalist, super-fast, no-database bookmarking and link sharing app. | AGPL-3.0-only | Active | Official | 3,919 |
 | [Feedbin](https://feedbin.com/) ([source](https://github.com/feedbin/feedbin)) | RSS reader for following websites, newsletters, podcasts, YouTube channels, and saved articles. | MIT | Active |  | 3,785 |
 | [CommaFeed](https://www.commafeed.com/) ([source](https://github.com/Athou/commafeed)) | RSS reader for following feeds, organizing subscriptions, and reading articles in a Google Reader-style layout. | Apache-2.0 | Active |  | 3,650 |
@@ -49,7 +50,7 @@
 | [Postmarks](https://sharepostmarks.org/) ([source](https://github.com/ckolderup/postmarks)) | Single-user bookmarking app with ActivityPub sharing and tagged saved links. | MIT | Active | Official | 547 |
 | [Upvote RSS](https://www.upvote-rss.com/) ([source](https://github.com/johnwarne/upvote-rss)) | Generate rich RSS feeds from Reddit, Hacker News, Lemmy, Mbin, and more. | MIT | Active | Official | 515 |
 | [Readflow](https://about.readflow.app/) ([source](https://github.com/ncarlier/readflow)) | News reader and read-it-later app for saving articles and following feeds. | AGPL-3.0 | Active | Official | 476 |
-| [NeonLink](https://github.com/AlexSciFier/neonlink) | Bookmark service with unique design and simple installation with Docker. | MIT | Active | Official | 419 |
+| [NeonLink](https://github.com/AlexSciFier/neonlink) | Bookmark service with unique design and simple installation with Docker. | MIT | Active | Official | 420 |
 | [Feeds Fun](https://feeds.fun/) ([source](https://github.com/Tiendil/feeds.fun)) | Feed reader for organizing news with tags, scoring rules, and AI-assisted filtering. | BSD-3-Clause | Active | Official | 398 |
 | [Anchr](https://anchr.io/) ([source](https://github.com/muety/anchr)) | Anchr provides you with a toolbox for tiny tasks on the internet, especially bookmark collections. | GPL-3.0 | Active | Official | 394 |
 | [Feedpushr](https://github.com/ncarlier/feedpushr) | Collects feeds, applies filters and transformations, and sends entries to configured outputs. | GPL-3.0 | Slow | Official | 387 |
@@ -59,7 +60,7 @@
 | [FeedCord](https://github.com/Qolors/FeedCord) | Simple, lightweight & customizable RSS News Feed for your Discord Server. | MIT | Slow | Official | 320 |
 | [Kriss Feed](https://github.com/tontof/kriss_feed) | RSS reader for collecting feeds, reading entries, and filtering updates. | CC0-1.0 | Active |  | 293 |
 | [Mkfd](https://github.com/TBosak/mkfd) ([source](https://github.com/tbosak/mkfd)) | Mkfd is a RSS feed generator supporting web scraping, API data sources, and IMAP email feeds with webhook integration. | MIT | Active | No | 286 |
-| [Minne](https://github.com/perstarkse/minne) | Read-later app for saving pages and building a personal knowledge base. | AGPL-3.0 | Active | Official | 265 |
+| [Minne](https://github.com/perstarkse/minne) | Read-later app for saving pages and building a personal knowledge base. | AGPL-3.0 | Active | Official | 268 |
 | [feedmixer](https://github.com/cristoper/feedmixer) | Micro web service which takes a list of feed URLs and returns a new feed consisting of the most recent n entries from each given feed. | WTFPL | Slow | Official | 237 |
 | [Bubo Reader](https://buboreader.com/) ([source](https://github.com/georgemandis/bubo-rss)) | Minimal RSS reader for following feeds, scanning new posts, and keeping subscriptions tidy. | MIT | Active |  | 236 |
 | [Leed](https://github.com/LeedRSS/Leed) | Leed (for Light Feed) is a and minimalist RSS aggregator. | AGPL-3.0 | Active |  | 235 |

@@ -1,15 +1,14 @@
 # Recipes and food self-hosted apps
 
-24 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/recipes-food).
+23 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/recipes-food).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
-| [Mealie](https://docs.mealie.io/) ([source](https://github.com/mealie-recipes/mealie)) | Recipe manager and meal planner with shopping lists, household sharing, and import tools. | AGPL-3.0 | Active | Official | 13,852 |
+| [Mealie](https://docs.mealie.io/) ([source](https://github.com/mealie-recipes/mealie)) | Recipe manager and meal planner with shopping lists, household sharing, and import tools. | AGPL-3.0 | Active | Official | 13,884 |
 | [grocy](https://grocy.info/) ([source](https://github.com/grocy/grocy)) | Household management app for groceries, chores, batteries, recipes, and inventory. | MIT | Active | Community | 9,674 |
-| [Tandoor](https://tandoor.dev/) ([source](https://github.com/TandoorRecipes/recipes)) | Manage and share recipes, plan meals, build shopping lists. | AGPL-3.0 | Active | No | 8,730 |
-| [TandoorRecipes](https://github.com/vabene1111/recipes) | The recipe manager that allows you to manage your ever growing collection of digital recipes. | None declared | Active | Community | 8,730 |
+| [Tandoor Recipes](https://docs.tandoor.dev/) ([source](https://github.com/TandoorRecipes/recipes)) | Recipe manager for planning meals, organizing ingredients, and building shopping lists. | AGPL-3.0-only | Active | Official | 8,730 |
 | [KitchenOwl](https://kitchenowl.org/) ([source](https://github.com/TomBursch/kitchenowl)) | Household recipe and grocery app for meal planning, shopping lists, and pantry items. | AGPL-3.0 | Active | Official | 3,853 |
-| [Norish](https://github.com/norish-recipes/norish) | Helps households plan meals, collect recipes, choose cooking ideas, and manage lists. | AGPL-3.0 | Active | Official | 1,524 |
+| [Norish](https://github.com/norish-recipes/norish) | Helps households plan meals, collect recipes, choose cooking ideas, and manage lists. | AGPL-3.0 | Active | Official | 1,532 |
 | [CookCLI](https://demo.cooklang.org/) ([source](https://github.com/cooklang/cookcli)) | Command-line tool for automating meal planning and shopping with Cooklang recipes, scriptable for UNIX workflows, includes web server. | MIT | Active | Official | 1,435 |
 | [Bar Assistant](https://barassistant.app/) ([source](https://github.com/karlomikus/bar-assistant)) | Manage your home bar while adding your ingredients, searching for cocktails and creating custom cocktail recipes. | MIT | Active | Official | 1,116 |
 | [RecipeSage](https://recipesage.com/) ([source](https://github.com/julianpoy/RecipeSage)) | Recipe keeper, meal plan organizer, and shopping list manager that can import recipes directly from any URL. | AGPL-3.0 | Active | Official | 996 |

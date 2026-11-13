@@ -4,7 +4,7 @@
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
-| [Workout.cool](https://workout.cool/) ([source](https://github.com/Snouzy/workout-cool)) | Fitness coaching app for exercises, routines, workout plans, and progress tracking. | MIT | Active | Official | 8,670 |
+| [Workout.cool](https://workout.cool/) ([source](https://github.com/Snouzy/workout-cool)) | Fitness coaching app for exercises, routines, workout plans, and progress tracking. | MIT | Active | Official | 8,687 |
 | [wger](https://wger.de/) ([source](https://github.com/wger-project/wger)) | Web app for tracking workouts, body measurements, nutrition, and fitness progress. | AGPL-3.0 | Active | Official | 7,265 |
 | [SparkyFitness](https://codewithcj.github.io/SparkyFitness) ([source](https://github.com/CodeWithCJ/SparkyFitness)) | Fitness tracker for meals, workouts, water, sleep, body metrics, and family progress. | Non-commercial license | Active | Official | 6,757 |
 | [OpenEMR](https://open-emr.org/) ([source](https://github.com/openemr/openemr)) | Electronic health records and medical practice management app. | GPL-3.0 | Active | Official | 5,589 |
@@ -18,18 +18,18 @@
 | [Dreeve](https://dreeve.app/) ([source](https://github.com/dreeveapp/dreeve)) | Dashboard for Strava data for tracking workouts and fitness activities. | AGPL-3.0 | Active | Official | 2,213 |
 | [Beaver Habit Tracker](https://beaverhabits.com/demo) ([source](https://github.com/daya0576/beaverhabits)) | Habit tracking app to save your precious moments in your fleeting life. | BSD-3-Clause | Active | Official | 1,857 |
 | [Journiv](https://www.journiv.com/) ([source](https://github.com/journiv/journiv-app)) | Keeps private journal entries, memories, and personal notes in a focused writing workspace. | PolyForm-Noncommercial-1.0.0 | Active | Official | 1,256 |
-| [Workout Tracker](https://github.com/jovandeginste/workout-tracker) | Tracks runs, workouts, GPX routes, and activity history in a personal fitness log. | MIT | Active | Official | 1,251 |
+| [Workout Tracker](https://github.com/jovandeginste/workout-tracker) | Tracks runs, workouts, GPX routes, and activity history in a personal fitness log. | MIT | Active | Official | 1,252 |
 | [FitTrackee](https://docs.fittrackee.org/) ([source](https://github.com/SamR1/FitTrackee)) | Tracks workouts, routes, sports, activity history, and personal fitness progress. | AGPL-3.0 | Active | Official | 1,177 |
 | [Fitbit Health Dashboard](https://github.com/arpanghosh8453/fitbit-grafana) | Script for FitBit data retrieval, storage, and visualization. | BSD-4-Clause | Active | Official | 931 |
 | [HabitTrove](https://demo.habittrove.com/) ([source](https://github.com/dohsimpson/HabitTrove)) | Gamified habit tracking application for building positive habits. | AGPL-3.0 | Active | Official | 695 |
-| [MediKeep](https://github.com/afairgiant/MediKeep) | Stores personal health records, medical contacts, documents, and care details. | Apache-2.0 | Active | Official | 554 |
+| [MediKeep](https://github.com/afairgiant/MediKeep) | Stores personal health records, medical contacts, documents, and care details. | Apache-2.0 | Active | Official | 557 |
 | [Wingfit](https://wingfit.fr/) ([source](https://github.com/itskovacs/wingfit)) | Minimalist fitness app to plan your workouts, track your personal records and leverage smartwatch data. | CC-BY-SA-4.0 | Slow | Official | 538 |
 | [Perfice](https://perfice.adoe.dev/) ([source](https://github.com/p0lloc/perfice)) | Self-tracking app for logging habits, metrics, and personal life data. | MIT | Active | Official | 474 |
 | [Exercise Diary](https://github.com/aceberg/ExerciseDiary) | Workout diary that tracks activities with a GitHub-style yearly visualization. | MIT | Slow | Official | 473 |
 | [Sprout Track](https://www.sprout-track.com/) ([source](https://github.com/Oak-and-Sprout/sprout-track)) | Logs baby diapers, feedings, sleep, pumping, and other childcare activity history. | Sprout Track custom license | Active | Official | 403 |
 | [NutriTrace](https://github.com/TraceApps/nutritrace) | Nutrition tracker for logging meals, reviewing intake, and following personal diet goals. | AGPL-3.0 | Active | Official | 368 |
 | [HabitSync](https://demo.habitsync.de/) ([source](https://github.com/jofoerster/habitsync)) | Habit tracker with social features for sharing progress and accountability. | BSD-3-Clause | Active | Official | 349 |
-| [Mere Medical](https://meremedical.co/) ([source](https://github.com/cfu288/mere-medical)) | Medical record manager for collecting and organizing patient portal data offline. | MIT | Active | Official | 323 |
+| [Mere Medical](https://meremedical.co/) ([source](https://github.com/cfu288/mere-medical)) | Medical record manager for collecting and organizing patient portal data offline. | MIT | Active | Official | 325 |
 | [nightscout-librelink-up-uploader](https://github.com/timoschlueter/nightscout-librelink-up) | Service that uploads glucose readings from LibreLink Up to Nightscout. | MIT | Active | Community | 296 |
 | [Clean Slate](https://cleanslate.sh/) ([source](https://github.com/successible/cleanslate)) | Calorie tracker for logging meals, reviewing intake, and following nutrition goals without judgment. | Apache-2.0 | Active | Official | 237 |
 | [MedAssist](https://github.com/njic/medassist) | Medication manager for scheduling doses, tracking daily reminders, and reviewing medicine routines. | GPL-3.0 | Active | Official | 162 |

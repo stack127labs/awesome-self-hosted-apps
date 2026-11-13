@@ -1,20 +1,20 @@
 # File sharing and sync self-hosted apps
 
-324 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/file-sharing-sync).
+323 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/file-sharing-sync).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
 | [Syncthing](https://syncthing.net/) ([source](https://github.com/syncthing/syncthing)) | Peer-to-peer file sync app for keeping folders matched across computers without a central server. | MPL-2.0 | Active | Official | 90,324 |
-| [Rclone](https://rclone.org/) ([source](https://github.com/rclone/rclone)) | Command-line tool for syncing, copying, mounting, and managing files across cloud storage providers. | MIT | Active | Official | 60,894 |
+| [Rclone](https://rclone.org/) ([source](https://github.com/rclone/rclone)) | Command-line tool for syncing, copying, mounting, and managing files across cloud storage providers. | MIT | Active | Official | 60,993 |
 | [AList](https://alistgo.com/) ([source](https://github.com/alistgo/alist)) | Web file-listing and sharing service that connects local and cloud storage providers through one interface. | AGPL-3.0 | Active | Official | 50,437 |
 | [copyparty](https://github.com/9001/copyparty) | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ file. | MIT | Active | Official | 47,312 |
 | [Cobalt](https://cobalt.tools/) ([source](https://github.com/imputnet/cobalt)) | Web app and API for saving public media links as downloadable files. | AGPL-3.0 | Active | Official | 45,952 |
 | [qBittorrent](https://www.qbittorrent.org/) ([source](https://github.com/qbittorrent/qBittorrent)) | Downloads and shares files over BitTorrent with a web interface for remote control. | GNU GPL v2 or later for source code; GN… | Active | Official | 41,485 |
 | [CasaOS](https://casaos.zimaspace.com/) ([source](https://github.com/IceWhaleTech/CasaOS)) | Home server dashboard for managing files, storage, Docker apps, and personal services. | Apache-2.0 | Active | No | 37,614 |
-| [Nextcloud](https://nextcloud.com/) ([source](https://github.com/nextcloud/server)) | Access and share your files, calendars, contacts, mail and more from any device, on your terms. | AGPL-3.0 | Active | Community | 37,453 |
+| [Nextcloud](https://nextcloud.com/) ([source](https://github.com/nextcloud/server)) | Access and share your files, calendars, contacts, mail and more from any device, on your terms. | AGPL-3.0 | Active | Community | 37,502 |
 | [filebrowser](https://filebrowser.org/) ([source](https://github.com/filebrowser/filebrowser)) | Web File Browser with a Material Design web interface. | Apache-2.0 | Archived | Official | 35,854 |
 | [Czkawka](https://github.com/qarmin/czkawka) | Desktop cleanup tool for finding duplicate files, empty folders, broken files, and similar media. | MIT and GPL-3.0-only; media under CC-BY… | Active |  | 35,030 |
-| [Atuin](https://atuin.sh/) ([source](https://github.com/atuinsh/atuin)) | Shell history manager for syncing commands, searching history, and sharing snippets across machines. | MIT | Active | Official | 32,244 |
+| [Atuin](https://atuin.sh/) ([source](https://github.com/atuinsh/atuin)) | Shell history manager for syncing commands, searching history, and sharing snippets across machines. | MIT | Active | Official | 32,345 |
 | [Ente](https://ente.com/) ([source](https://github.com/ente/ente)) | Encrypted storage app for photos, videos, files, passwords, and authentication codes. | AGPL-3.0 | Active | Official | 30,056 |
 | [Cloudreve](https://cloudreve.org/) ([source](https://github.com/cloudreve/cloudreve)) | File management and sharing service that supports multiple storage providers. | GPL-3.0 | Active | Official | 28,953 |
 | [Gopeed](https://gopeed.com/) ([source](https://github.com/GopeedLab/gopeed)) | Download manager for HTTP, BitTorrent, Magnet, and ed2k transfers with a web interface. | GPL-3.0 | Active | Official | 27,613 |
@@ -26,19 +26,18 @@
 | [transfer.sh](https://github.com/dutchcoders/transfer.sh) | Command-line file sharing service for uploading files and returning temporary download links. | MIT | Active | Official | 15,911 |
 | [Seafile](http://seafile.com/) ([source](https://github.com/haiwen/seafile)) | File hosting and sharing app primary for teams and organizations. | GPL-2.0-only | Active | Community | 15,445 |
 | [Transmission](https://transmissionbt.com/) ([source](https://github.com/transmission/transmission)) | Downloads and manages BitTorrent transfers through desktop, web, and daemon interfaces. | GPL-3.0 | Active | Community | 15,410 |
-| [MeTube](https://github.com/alexta69/metube) | Video downloader for YouTube and other sites (web UI for yt-dlp). | AGPL-3.0 | Active | Official | 15,222 |
+| [MeTube](https://github.com/alexta69/metube) | Video downloader for YouTube and other sites (web UI for yt-dlp). | AGPL-3.0 | Active | Official | 15,255 |
 | [Filestash](https://www.filestash.app/) ([source](https://github.com/mickael-kerjean/filestash)) | Provides browser file management across storage backends, servers, and data sources. | AGPL-3.0 | Active | Official | 14,894 |
 | [OneDrive Client for Linux](https://abraunegg.github.io/) ([source](https://github.com/abraunegg/onedrive)) | Command-line client for synchronizing personal, business, and SharePoint OneDrive files. | GPL-3.0 | Active | Community | 12,995 |
 | [Self-hosted LiveSync](https://github.com/vrtmrz/obsidian-livesync) | An Obsidian plugin that syncs vaults through a self-hosted CouchDB server or peer-to-peer connection. | MIT | Active | Official | 12,892 |
 | [SFTPGo](https://sftpgo.com/) ([source](https://github.com/drakkan/sftpgo)) | Fully featured and highly configurable SFTP server for transferring files securely over a network. | AGPL-3.0 | Active | Official | 12,787 |
 | [PairDrop](https://pairdrop.net/) ([source](https://github.com/schlagmichdoch/PairDrop)) | Local file sharing in your browser inspired by Apple's AirDrop. | GPL-3.0 | Active | Official | 11,775 |
 | [Dufs](https://github.com/sigoden/dufs) | Static file server with uploads, searching, and access control. | Apache-2.0 | Active | Official | 11,091 |
-| [Nextcloud All-in-One](https://nextcloud.com/) ([source](https://github.com/nextcloud/all-in-one)) | Deploys Nextcloud with its database, cache, and optional office, backup, and collaboration services. | AGPL-3.0 | Active | Official | 10,823 |
 | [FilePizza](https://file.pizza/) ([source](https://github.com/kern/filepizza)) | Browser-based peer-to-peer file transfer app with short sharing links. | BSD-3-Clause | Active | Official | 10,276 |
 | [FileBrowser Quantum](https://github.com/gtsteffaniak/filebrowser) | Web file manager for browsing folders, uploading files, and sharing server storage. | Apache-2.0 | Active | Official | 9,141 |
 | [ownCloud](https://owncloud.com/) ([source](https://github.com/owncloud/core)) | App for saving, synchronizing, viewing, editing and sharing files, calendars, address books and more. | AGPL-3.0 | Active | Community | 8,846 |
 | [Tube Archivist](https://www.tubearchivist.com/) ([source](https://github.com/tubearchivist/tubearchivist)) | YouTube archiver for downloading videos, indexing channels, and browsing saved media. | GPL-3.0 | Active | Official | 8,595 |
-| [miniserve](https://github.com/svenstaro/miniserve) | Command-line file server for sharing folders and downloads over HTTP. | MIT | Active | Official | 8,108 |
+| [miniserve](https://github.com/svenstaro/miniserve) | Command-line file server for sharing folders and downloads over HTTP. | MIT | Active | Official | 8,134 |
 | [OnionShare](https://onionshare.org/) ([source](https://github.com/onionshare/onionshare)) | Securely and anonymously share a file of any size. | GPL-3.0 | Active |  | 7,218 |
 | [VueTorrent](https://vuetorrent.github.io/demo) ([source](https://github.com/VueTorrent/VueTorrent)) | Vue.js interface for managing qBittorrent downloads from a cleaner browser UI. | GPL-3.0 | Active | Official | 7,048 |
 | [Libation](https://github.com/rmcrackan/libation) | Audiobook downloader for importing Audible books into a personal library. | GPL-3.0 | Active | Community | 6,433 |
@@ -51,8 +50,8 @@
 | [Colanode](https://colanode.com/) ([source](https://github.com/colanode/colanode)) | Local-first team workspace for chat, docs, files, and database-style collaboration. | Apache-2.0 | Active | Official | 5,198 |
 | [HTTrack](https://www.httrack.com/) ([source](https://github.com/xroche/httrack)) | Website copier for downloading sites and browsing them offline. | GPL-3.0 | Active | Community | 4,832 |
 | [Qui](https://getqui.com/) ([source](https://github.com/autobrr/qui)) | Web interface for managing one or more qBittorrent instances. | GPL-2.0 | Active | No | 4,778 |
-| [Pingvin Share](https://stonith404.github.io/pingvin-share/introduction) ([source](https://github.com/stonith404/pingvin-share)) | File-sharing app for uploading and sending files to other people. | BSD-2-Clause | Archived | Official | 4,645 |
-| [MicroBin](https://github.com/szabodanika/microbin) | Paste and file sharing app for short links, expiring uploads, and shared snippets. | BSD-3-Clause | Active | Official | 4,637 |
+| [Pingvin Share](https://stonith404.github.io/pingvin-share/introduction) ([source](https://github.com/stonith404/pingvin-share)) | File-sharing app for uploading and sending files to other people. | BSD-2-Clause | Archived | Official | 4,643 |
+| [MicroBin](https://github.com/szabodanika/microbin) | Paste and file sharing app for short links, expiring uploads, and shared snippets. | BSD-3-Clause | Active | Official | 4,639 |
 | [Transmission OpenVPN](https://haugene.github.io/docker-transmission-openvpn/) ([source](https://github.com/haugene/docker-transmission-openvpn)) | Runs the Transmission BitTorrent client behind an OpenVPN tunnel and provides a web interface for managing torrents. | GPL-3.0 | Active | Community | 4,576 |
 | [bitmagnet](https://bitmagnet.io/) ([source](https://github.com/bitmagnet-io/bitmagnet)) | BitTorrent indexer, DHT crawler, content classifier and torrent search engine with web UI, GraphQL API and Servarr stack integration. | MIT | Active | Official | 4,451 |
 | [slskd](https://slskd.org/) ([source](https://github.com/slskd/slskd)) | Soulseek server app for searching, sharing, and downloading music through a web interface. | AGPL-3.0 | Active | Official | 4,271 |
@@ -67,7 +66,7 @@
 | [CookieCloud](https://github.com/easychen/cookiecloud) | Synchronizes browser cookies and same-domain local storage across devices through an encrypted server. | GPL-3.0 | Active | Community | 3,219 |
 | [TorrServer](https://github.com/yourok/torrserver) | Simple and tool for streaming torrents, Introduction TorrServer is a program that allows users to view torrents online without the need for preliminary file. | GPL-3.0 | Active | Community | 3,208 |
 | [Tartube](https://github.com/axcore/tartube) | Graphical frontend for downloading videos with yt-dlp and compatible tools. | LGPL-2.1 | Active | Community | 3,205 |
-| [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) | Material Design web app for downloading videos, managing queues, and organizing media from supported sites. | MIT | Active | Official | 3,199 |
+| [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) | Material Design web app for downloading videos, managing queues, and organizing media from supported sites. | MIT | Active | Official | 3,201 |
 | [SABnzbd](https://sabnzbd.org/) ([source](https://github.com/sabnzbd/sabnzbd)) | Downloads, verifies, and unpacks files from Usenet. | GPL-2.0-or-later | Active | Community | 3,173 |
 | [magnetico-environment](https://github.com/boramalper/magnetico) | Magnetico is an autonomous BitTorrent DHT indexer / crawler / search engine suite. | AGPL-3.0 | Archived | Community | 3,127 |
 | [FileGator](https://filegator.io/) ([source](https://github.com/filegator/filegator)) | Multi-user file manager with a web interface for browsing, uploading, and sharing server files. | MIT | Active | Official | 3,087 |
@@ -75,14 +74,14 @@
 | [Gokapi](https://github.com/Forceu/gokapi) ([source](https://github.com/Forceu/Gokapi)) | Temporary file sharing server with expiring downloads and optional encryption. | AGPL-3.0 | Active | Official | 3,012 |
 | [Flood](https://flood.js.org/) ([source](https://github.com/jesec/flood)) | Web interface for torrent clients with downloads, filters, labels, and transfer controls. | GPL-3.0 | Active | Official | 2,868 |
 | [Chibisafe](https://chibisafe.app/) ([source](https://github.com/chibisafe/chibisafe)) | Chibisafe lets people upload files and share them through links. | MIT | Active | Official | 2,810 |
-| [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) | Web interface for yt-dlp downloads, queues, video metadata, and download history. | GPL-3.0 | Archived | Official | 2,598 |
+| [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) | Web interface for yt-dlp downloads, queues, video metadata, and download history. | GPL-3.0 | Archived | Official | 2,595 |
 | [Peergos](https://peergos.org/) ([source](https://github.com/Peergos/Peergos)) | Combines encrypted file storage, sharing, social features, and app protocol support. | AGPL-3.0 | Active | Official | 2,553 |
 | [Directory Lister](https://www.directorylister.com/) ([source](https://github.com/DirectoryLister/DirectoryLister)) | Simple PHP based directory lister that lists a directory and all its sub-directories and allows you to navigate there within. | MIT | Active | Official | 2,542 |
-| [asciinema](https://docs.asciinema.org/manual/server) ([source](https://github.com/asciinema/asciinema-server)) | Terminal recording host for uploading, browsing, and sharing asciicast sessions. | Apache-2.0 | Active | Official | 2,505 |
+| [asciinema](https://docs.asciinema.org/manual/server) ([source](https://github.com/asciinema/asciinema-server)) | Terminal recording host for uploading, browsing, and sharing asciicast sessions. | Apache-2.0 | Active | Official | 2,506 |
 | [Telegram-Files](https://github.com/jarvis2f/telegram-files) | Telegram file downloader for saving files from chats. | MIT | Active | Community | 2,428 |
 | [Palmr](https://palmr.kyantech.com.br/) ([source](https://github.com/kyantech/palmr)) | File transfer service for sending files through a web interface. | Apache-2.0 | Active | Official | 2,396 |
 | [Pydio](https://pydio.com/) ([source](https://github.com/pydio/cells)) | File collaboration server for sharing folders, syncing content, and managing team workspaces. | AGPL-3.0 | Active | Official | 2,259 |
-| [Manyfold](https://manyfold.app/) ([source](https://github.com/manyfold3d/manyfold)) | Digital asset manager for organizing, previewing, and sharing 3D printing files. | AGPL-3.0 | Active | Official | 2,238 |
+| [Manyfold](https://manyfold.app/) ([source](https://github.com/manyfold3d/manyfold)) | Digital asset manager for organizing, previewing, and sharing 3D printing files. | AGPL-3.0 | Active | Official | 2,245 |
 | [Rutorrent](https://github.com/Novik/ruTorrent) | Web frontend for controlling the rTorrent BitTorrent client. | GPL-3.0 | Active | No | 2,193 |
 | [ownCloud Infinite Scale](https://doc.owncloud.com/ocis/next/) ([source](https://github.com/owncloud/ocis)) | File sync and share server for folders, users, permissions, and collaborative storage. | Apache-2.0 | Active | Official | 2,185 |
 | [ProjectSend](https://www.projectsend.org/) ([source](https://github.com/projectsend/projectsend)) | ProjectSend is a local application for getting files to the people you work with. | GPL-2.0 | Active | Official | 2,054 |
@@ -113,7 +112,7 @@
 | [HRConvert2](https://github.com/zelon88/hrconvert2) | Drag-and-drop file conversion server and file sharing tool that supports 400+ file formats. | GPL-3.0 | Active | Community | 1,391 |
 | [Rmfakecloud](https://ddvk.github.io/rmfakecloud/) ([source](https://github.com/ddvk/rmfakecloud)) | Cloud replacement for synchronizing and backing up files from reMarkable tablets. | AGPL-3.0 | Active | No | 1,375 |
 | [Sharry](https://eikek.github.io/sharry) ([source](https://github.com/eikek/sharry)) | Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. | GPL-3.0 | Active | Official | 1,357 |
-| [MyTube](https://franklioxygen.github.io/mytube) ([source](https://github.com/franklioxygen/MyTube)) | Downloader and player for yt-dlp-supported sites with channel subscriptions, cloud upload support, and local library organization. | MIT | Active | Official | 1,283 |
+| [MyTube](https://franklioxygen.github.io/mytube) ([source](https://github.com/franklioxygen/MyTube)) | Downloader and player for yt-dlp-supported sites with channel subscriptions, cloud upload support, and local library organization. | MIT | Active | Official | 1,291 |
 | [VibraVid](https://github.com/astraelabs/vibravid) | Music downloader with web, terminal, Telegram, and arr integrations. | GPL-3.0 | Active | Community | 1,278 |
 | [Cozy Cloud](https://cozy.io/) ([source](https://github.com/cozy/cozy-stack)) | Personal cloud where you can manage and sync your files, notes, contacts, passwords, and documents. | AGPL-3.0 | Active | Official | 1,268 |
 | [Uguu](https://uguu.se/) ([source](https://github.com/nokonoko/Uguu)) | Hosts temporary file uploads that expire after a configured retention period. | GPL-3.0 | Active | Official | 1,253 |
@@ -123,10 +122,10 @@
 | [Hyphanet](https://www.hyphanet.org/) ([source](https://github.com/hyphanet/fred)) | Anonymous network for sharing files, publishing sites, and using forums over Freenet-style routing. | GPL-2.0 | Active |  | 1,228 |
 | [rustypaste](https://blog.orhun.dev/blazingly-fast-file-sharing) ([source](https://github.com/orhun/rustypaste)) | Shares paste snippets, uploaded files, temporary links, and command-line uploads. | MIT | Active | Official | 1,215 |
 | [Next Explorer](https://github.com/vikramsoni2/nextExplorer) ([source](https://github.com/vikramsoni2/nextexplorer)) | Web file explorer with access controls for browsing and managing files. | GPL-3.0 | Active | No | 1,203 |
-| [NextExplorer](https://explorer.nxz.ai/) ([source](https://github.com/nxzai/NextExplorer)) | Web file explorer for browsing directories, uploading files, downloading files, and managing server storage. | GPL-3.0 | Active | Official | 1,199 |
+| [NextExplorer](https://explorer.nxz.ai/) ([source](https://github.com/nxzai/NextExplorer)) | Web file explorer for browsing directories, uploading files, downloading files, and managing server storage. | GPL-3.0 | Active | Official | 1,203 |
 | [Nzb DAV](https://github.com/nzbdav-dev/nzbdav) | Mounts Usenet NZB downloads through WebDAV for streaming and file access. | MIT | Active | Official | 1,191 |
 | [Erugo](https://erugo.app/) ([source](https://github.com/ErugoOSS/Erugo)) | Easy-to-deploy file sharing app with a sleek interface. | MIT | Active | Official | 1,185 |
-| [pho](https://pho.tools/) ([source](https://github.com/fregie/pho)) | Serverless application for viewing and synchronizing photos to cloud storage. | GPL-3.0 | Active | No | 1,174 |
+| [pho](https://pho.tools/) ([source](https://github.com/fregie/pho)) | Serverless application for viewing and synchronizing photos to cloud storage. | GPL-3.0 | Active | No | 1,177 |
 | [XBackBone](http://xbackbone.app/) ([source](https://github.com/sergix44/xbackbone)) | Simple, fast and lightweight file manager with instant sharing tools integration, like ShareX (a and screenshot utility for Windows). | Apache-2.0 | Active |  | 1,171 |
 | [Gossa](https://github.com/pldubouilh/gossa) | Serves web file browsing for shared folders, downloads, previews, and directory navigation. | MIT | Slow | Official | 1,102 |
 | [YTPTube](https://github.com/arabcoders/ytptube) | Web interface for yt-dlp downloads, video URLs, queues, formats, and saved media files. | MIT | Active | Official | 1,062 |
@@ -163,7 +162,7 @@
 | [QuickDrop](https://github.com/RoastSlav/quickdrop) | File sharing app for sending files through short-lived browser links. | MIT | Active | Official | 431 |
 | [amule](https://www.amule.org/) ([source](https://github.com/amule-org/amule)) | AMule is a free peer-to-peer file sharing utility that works with the eDonkey network and the Kad network, offering similar features to eMule and adding. | GPL-2.0-or-later | Active | Community | 430 |
 | [015](https://send.fudaoyuan.icu/) ([source](https://github.com/keven1024/015)) | Self-hosted temporary file and text sharing with expiring, one-time links. | AGPL-3.0 | Active | Official | 427 |
-| [mikochi](https://github.com/zer0tonin/Mikochi) | Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. | MIT | Active | Official | 379 |
+| [mikochi](https://github.com/zer0tonin/Mikochi) | Browse remote folders, upload files, delete, rename, download and stream files to VLC/mpv. | MIT | Active | Official | 380 |
 | [IFM](https://github.com/misterunknown/ifm) | Single-file PHP file manager for browsing folders, uploads, downloads, and server files. | MIT | Active | Official | 373 |
 | [Firefiles](https://www.firefiles.app/) ([source](https://github.com/faisalsayed10/firefiles)) | Firefiles turns S3 buckets and other cloud backends into a unified file manager with browser-based previews, multi-drive support, and a clean light/dark. | AGPL-3.0 | Slow | No | 371 |
 | [BoxBox](https://boxbox.radhey.dev/) ([source](https://github.com/jR4dh3y/BoxBox)) | File manager for homelab servers with browsing, search, previews, and large-file uploads. | MIT | Active | Official | 366 |
@@ -172,9 +171,9 @@
 | [FerriShare](https://ferrishare-demo.tobiasm.dev/) ([source](https://github.com/TobiasMarschner/ferrishare)) | Encrypted file sharing app for sending files with end-to-end protection. | MIT | Active | Official | 335 |
 | [Karadav](https://github.com/kd2org/karadav) | WebDAV server compatible with ownCloud and Nextcloud file clients. | AGPL-3.0 | Active | No | 333 |
 | [Trakt-Tools](https://github.com/xbgmsharp/trakt) | Command-line utility for importing and exporting Trakt, Kodi, and CouchPotato data as CSV files. | GPL-3.0 | Active | Community | 320 |
-| [YoutubeDL-Server](https://github.com/nbr23/youtube-dl-server) | Web and REST interface to Youtube-DL for downloading videos onto a server. | MIT | Active | Official | 319 |
+| [YoutubeDL-Server](https://github.com/nbr23/youtube-dl-server) | Web and REST interface to Youtube-DL for downloading videos onto a server. | MIT | Active | Official | 320 |
+| [YeetFile](https://github.com/benbusby/yeetfile) | Encrypted file vault for sharing files with controlled access. | AGPL-3.0 | Archived | Official | 314 |
 | [rustatio](https://github.com/takitsu21/rustatio) | BitTorrent ratio manager that simulates seeding across uTorrent, qBittorrent, Transmission, and Deluge. | MIT | Active | Community | 313 |
-| [YeetFile](https://github.com/benbusby/yeetfile) | Encrypted file vault for sharing files with controlled access. | AGPL-3.0 | Archived | Official | 312 |
 | [goploader](https://depado.github.io/goploader) ([source](https://github.com/depado/goploader)) | Easy file sharing with server-side encryption, curl/httpie/wget compliant. | MIT | Active | Official | 304 |
 | [aMuTorrent](https://github.com/got3nks/amutorrent) | Web controller for aMule, rTorrent, qBittorrent, Deluge, and Transmission with real-time updates, Features a setup wizard, download history, search via. | MIT | Active | Community | 301 |
 | [Nyuu](https://github.com/animetosho/nyuu) | Command-line Usenet poster designed for fast and efficient uploads. | None declared | Active | Community | 294 |
@@ -186,7 +185,7 @@
 | [photomigrator](https://github.com/jaimetur/photomigrator) | PhotoMigrator lets you interact with and migrate between photo services such as Google Photos, Synology Photos, Immich Photos, NextCloud Photos, and Google. | GPL-3.0 | Active | Community | 268 |
 | [Jellysweep](https://github.com/jon4hz/jellysweep) | Jellyfin cleanup tool for finding stale media, reviewing libraries, and removing unwanted files. | GPL-3.0 | Active | Official | 261 |
 | [ngpost](https://github.com/mbruel/ngpost) | NgPost is a command-line and a minimalist GUI usenet poster for binaries developped in C++/QT designed to be as fast as. | GPL-3.0 | Stale | Community | 255 |
-| [ydlaping](https://github.com/Totonyus/ydl_api_ng) | Exposes a youtube-dl REST API for starting downloads on a remote server. | GPL-3.0 | Active | Official | 240 |
+| [ydlaping](https://github.com/Totonyus/ydl_api_ng) | Exposes a youtube-dl REST API for starting downloads on a remote server. | GPL-3.0 | Active | Official | 241 |
 | [Lufin](https://github.com/VityaSchel/lufin) | File sharing service for uploading files, creating share links, and controlling file availability. | MIT | Active | Official | 234 |
 | [AirDC++ Web Client](https://airdcpp.net/) ([source](https://github.com/airdcpp-web/airdcpp-webclient)) | Shares and downloads files through the Direct Connect network from a web interface. | GPL-3.0 | Slow | Community | 221 |
 | [telethon-downloader](https://github.com/jsavargas/telethon_downloader) | This is a simple container that downloads files sent to a telegram bot up to 2000mb using the Telethon library. | GPL-3.0 | Active | Community | 206 |
@@ -219,8 +218,8 @@
 | [Uploady](https://github.com/farisc0de/Uploady) | Shares uploaded files through a PHP web interface with user and administration controls. | MIT | Active | Official | 110 |
 | [PlikShare](https://plikshare.com/) ([source](https://github.com/damian-krychowski/plikshare)) | File sharing app for uploading files, creating links, and managing shared downloads. | AGPL-3.0 | Active | Official | 104 |
 | [nicotine-plus](https://github.com/fletchto99/nicotine-plus-docker) | Nicotine plus running in KasmVNC based off of linuxserver's KASMVNC docker image. | MIT | Active | Community | 96 |
+| [1time](https://1time.io/) ([source](https://github.com/shingrus/1time.io)) | Creates encrypted, limited-use links for sharing passwords and files. | MIT | Active | Official | 93 |
 | [Internxt-CLI](https://github.com/internxt/cli) | Command-line client for storing files in Internxt cloud storage. | None declared | Active | Community | 91 |
-| [1time](https://1time.io/) ([source](https://github.com/shingrus/1time.io)) | Creates encrypted, limited-use links for sharing passwords and files. | MIT | Active | Official | 89 |
 | [File Drop](https://github.com/besoeasy/file-drop) | Decentralized file-sharing service for uploading and exchanging files privately. | MIT | Active | Official | 89 |
 | [Originless](https://github.com/besoeasy/Originless) ([source](https://github.com/besoeasy/originless)) | Private, decentralized file sharing for Nostr and the web. | MIT | Active | Official | 89 |
 | [nut](https://github.com/shawly/docker-nut) | Nut server docker image for serving switch nsp and xci to tinfoil on local network, Default username and password is "guest" "guest". | GPL-3.0 | Active | Community | 85 |

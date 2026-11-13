@@ -6,7 +6,7 @@
 | --- | --- | --- | --- | --- | ---: |
 | [Rocket.Chat](https://rocket.chat/) ([source](https://github.com/RocketChat/Rocket.Chat)) | Team communication app for messaging, calls, and collaboration. | MIT | Active |  | 46,383 |
 | [Novu](https://go.novu.co/github) ([source](https://github.com/novuhq/novu)) | Notification infrastructure for managing email, SMS, chat, push, and in-app messages. | MIT | Active | Official | 40,268 |
-| [Mattermost](https://mattermost.com/) ([source](https://github.com/mattermost/mattermost)) | Team chat and collaboration app for organizations and work groups. | AGPL-3.0-only | Active | Official | 39,557 |
+| [Mattermost](https://mattermost.com/) ([source](https://github.com/mattermost/mattermost)) | Team chat and collaboration app for organizations and work groups. | AGPL-3.0-only | Active | Official | 39,597 |
 | [Chatwoot](https://www.chatwoot.com/help-center) ([source](https://github.com/chatwoot/chatwoot)) | Customer support inbox for live chat, email, social channels, and help-center conversations. | MIT Expat core; enterprise features sep… | Active | Official | 39,533 |
 | [Buzz](https://github.com/block/buzz) | Runs a relay where people and AI agents can share a workspace on infrastructure they control. | Apache-2.0 | Active | Official | 36,884 |
 | [ntfy](https://ntfy.sh/) ([source](https://github.com/binwiederhier/ntfy)) | Send push notifications to your phone or desktop using PUT/POST. | Apache-2.0 | Active | Official | 35,295 |
@@ -37,13 +37,13 @@
 | [Cinny](https://cinny.in/) ([source](https://github.com/cinnyapp/cinny)) | Matrix client focusing primarily on simple, elegant and secure interface. | AGPL-3.0 | Active | No | 3,977 |
 | [OpenClawChineseTranslation](https://openclaw.qt.cool/) ([source](https://github.com/1186258278/OpenClawChineseTranslation)) | Chinese-language OpenClaw personal AI assistant with chat integrations and dashboard. | Other | Active | No | 3,791 |
 | [Bark Server](https://bark.day.app/) ([source](https://github.com/Finb/bark-server)) | Self-hosted backend for the Bark iOS app that sends push notifications to your devices. | MIT | Active | Official | 3,704 |
-| [Asterisk](https://www.asterisk.org/) ([source](https://github.com/asterisk/asterisk)) | PBX server for building voice systems, SIP routing, voicemail, and call handling. | GPL-2.0 | Active |  | 3,676 |
+| [Asterisk](https://www.asterisk.org/) ([source](https://github.com/asterisk/asterisk)) | PBX server for building voice systems, SIP routing, voicemail, and call handling. | GPL-2.0 | Active |  | 3,685 |
 | [Tailchat](https://tailchat.msgbyte.com/) ([source](https://github.com/msgbyte/tailchat)) | Provides team chat, groups, plugins, and workspace tools through a browser-based collaboration service. | Apache-2.0 | Active | Official | 3,648 |
 | [Chaskiq](https://chaskiq.io/) ([source](https://github.com/chaskiq/chaskiq)) | Combines live chat, support conversations, campaigns, help articles, customer profiles, and messaging automation. | AGPL-3.0 with Commons Clause | Active | Official | 3,582 |
 | [Weechat](https://weechat.org/) ([source](https://github.com/weechat/weechat)) | Terminal chat client for IRC and extensible messaging through scripts, relays, and plugins. | GPL-3.0 | Active |  | 3,419 |
 | [Ergo](https://ergo.chat/) ([source](https://github.com/ergochat/ergo)) | IRCv3 server with built-in services, account management, history, and bouncer features. | MIT | Active | Official | 3,360 |
 | [TextBee---API](https://textbee.dev/) ([source](https://github.com/textbee/textbee)) | Simple SMS gateway that allows users to send SMS messages from a web interface or from their application via a REST API. | AGPL-3.0 | Active | Community | 3,311 |
-| [Converse](http://conversejs.org/) ([source](https://github.com/conversejs/converse.js)) | Web XMPP/Jabber chat client for connecting to and managing federated chat services. | MPL-2.0 | Active | No | 3,307 |
+| [Converse.js](http://conversejs.org/) ([source](https://github.com/conversejs/converse.js)) | Browser XMPP chat client for messaging, group chats, contacts, and embedded web conversations. | MPL-2.0 | Active |  | 3,307 |
 | [Fluffychat](https://fluffychat.im/) ([source](https://github.com/krille-chan/fluffychat)) | Matrix messenger client for connecting to and managing federated chat services. | AGPL-3.0 | Active | No | 3,293 |
 | [SudhanPlayz-Discord-MusicBot-v5](https://github.com/sudhanplayz/discord-musicbot) | Discord music bot for playing audio in voice channels. | None declared | Archived | Community | 3,261 |
 | [binhex-hexchat](https://github.com/hexchat/hexchat) | IRC client based on XChat for chatting on Windows and Unix-like systems. | GPL-2.0 | Archived | Community | 3,224 |
@@ -58,9 +58,9 @@
 | [AnyCable](https://anycable.io/) ([source](https://github.com/anycable/anycable)) | Realtime server for reliable two-way communication to power-up any backend. | MIT | Active | Official | 2,391 |
 | [Chitchatter](https://chitchatter.im/) ([source](https://github.com/jeremyckahn/chitchatter)) | Peer-to-peer chat app for ephemeral browser conversations without a central message server. | GPL-2.0 | Active |  | 2,343 |
 | [Live Helper Chat](http://livehelperchat.com/) ([source](https://github.com/LiveHelperChat/livehelperchat)) | Live chat support app for website conversations, agents, visitors, and support queues. | Apache-2.0 | Active | Official | 2,258 |
-| [Nextcloud Talk](https://nextcloud.com/talk) ([source](https://github.com/nextcloud/spreed)) | Nextcloud app for chat, video calls, audio calls, rooms, and team communication. | AGPL-3.0 | Active |  | 2,224 |
+| [Nextcloud Talk](https://nextcloud.com/talk) ([source](https://github.com/nextcloud/spreed)) | Nextcloud app for chat, video calls, audio calls, rooms, and team communication. | AGPL-3.0 | Active |  | 2,225 |
 | [ZNC](https://znc.in/) ([source](https://github.com/znc/znc)) | IRC bouncer for keeping sessions online, replaying messages, and connecting clients. | Apache-2.0 | Active | Official | 2,129 |
-| [Movim](https://movim.eu/) ([source](https://github.com/movim/movim)) | Federated XMPP social app for posts, chats, communities, feeds, and group conversations. | AGPL-3.0 | Active | Official | 2,074 |
+| [Movim](https://movim.eu/) ([source](https://github.com/movim/movim)) | Federated XMPP social app for posts, chats, communities, feeds, and group conversations. | AGPL-3.0 | Active | Official | 2,076 |
 | [SIPCAPTURE Homer](http://sipcapture.github.io/homer) ([source](https://github.com/sipcapture/homer)) | VoIP monitoring app for capturing SIP traffic, troubleshooting calls, and analyzing sessions. | AGPL-3.0 | Active | Official | 2,032 |
 | [RetroShare](https://retroshare.cc/) ([source](https://github.com/RetroShare/RetroShare)) | Secured and decentralized communication system, Offers decentralized chat, forums, messaging, file transfer. | GPL-2.0 | Active |  | 2,027 |
 | [binhex-official-teamspeak6-server](https://github.com/teamspeak/teamspeak6-server) | Voice communication server for gaming, education, and team collaboration. | None declared | Active | Community | 1,942 |
@@ -86,12 +86,12 @@
 | [Dendrite](https://matrix.org/) ([source](https://github.com/element-hq/dendrite)) | Matrix homeserver for running secure, federated chat communities. | AGPL-3.0 | Active | No | 993 |
 | [Kiwi IRC](https://kiwiirc.com/) ([source](https://github.com/kiwiirc/kiwiirc)) | Web IRC client for joining channels, using themes, managing networks, and chatting from a browser. | Apache-2.0 | Active |  | 990 |
 | [Glowing Bear](https://www.glowing-bear.org/) ([source](https://github.com/glowing-bear/glowing-bear)) | WeeChat relay frontend for browsing buffers, joining IRC conversations, and chatting from the web. | GPL-3.0 | Active |  | 982 |
-| [Notifiarr](https://notifiarr.wiki/) ([source](https://github.com/Notifiarr/notifiarr)) | Notification bridge for sending app events, alerts, status updates, and automation messages to Discord. | MIT | Active | Community | 945 |
+| [Notifiarr](https://notifiarr.wiki/) ([source](https://github.com/Notifiarr/notifiarr)) | Notification bridge for sending app events, alerts, status updates, and automation messages to Discord. | MIT | Active | Community | 947 |
 | [amongusdiscord](https://github.com/denverquane/amongusdiscord) | Discord bot that automatically mutes and unmutes Among Us players during matches. | MIT | Active | Community | 937 |
 | [Notifo](https://github.com/notifo-io/notifo) | Multi channel notification service for collaboration tools, e-commerce, news service and more. | MIT | Active | Official | 885 |
 | [MeshtasticWeb](https://meshtastic.org/de/) ([source](https://github.com/meshtastic/web)) | Web client for monitoring and messaging across Meshtastic nodes. | GPL-3.0 | Active | Community | 877 |
 | [Simplex](https://simplex.chat/) ([source](https://github.com/simplex-chat/simplexmq)) | Messaging system that connects users without requiring persistent user identifiers. | AGPL-3.0 | Active | No | 860 |
-| [PhantomBot-1](https://github.com/phantombot/phantombot) | Twitch chat bot with moderation, games, commands, and a web control panel. | GPL-3.0 | Active | Community | 846 |
+| [PhantomBot-1](https://github.com/phantombot/phantombot) | Twitch chat bot with moderation, games, commands, and a web control panel. | GPL-3.0 | Active | Community | 847 |
 | [Quassel IRC](https://github.com/quassel/quassel) | Distributed IRC, meaning that one (or multiple) (s) can attach to and detach from a central core. | GPL-2.0 | Active |  | 793 |
 | [TC2-BBS-Mesh](https://github.com/thecommschannel/tc2-bbs-mesh) | BBS server for Meshtastic for posting bulletins, sending mail to users, and channel directory. | GPL-3.0 | Slow | Community | 744 |
 | [altus](https://github.com/amanharwara/altus) | Altus is an Electron-based WhatsApp client with themes and multiple account support. | GPL-3.0 | Active | Community | 717 |
@@ -101,7 +101,7 @@
 | [Enigma 1/2 BBS](https://nuskooler.github.io/enigma-bbs) ([source](https://github.com/NuSkooler/enigma-bbs)) | Runs a multi-user BBS with message areas, legacy door games, and terminal-style access. | BSD-2-Clause | Active | Official | 676 |
 | [Vocard](https://vocard.xyz/) ([source](https://github.com/ChocoMeow/Vocard)) | Discord music bot with queue controls, playback customization, and chat commands. | MIT | Active | Official | 616 |
 | [vocechat-server](https://voce.chat/) ([source](https://github.com/Privoce/vocechat-server-rust)) | VoceChat is the lightest chat server prioritizes private hosting, Easy integratation to your app with our open API. | Big Time Public License | Active | Community | 599 |
-| [ngircd](http://ngircd.barton.de/) ([source](https://github.com/ngircd/ngircd)) | Portable and lightweight Internet Relay Chat server for small or private networks. | GPL-2.0 | Active | Official | 584 |
+| [ngircd](http://ngircd.barton.de/) ([source](https://github.com/ngircd/ngircd)) | Portable and lightweight Internet Relay Chat server for small or private networks. | GPL-2.0 | Active | Official | 585 |
 | [OpenTogetherTube](https://opentogethertube.com/) ([source](https://github.com/dyc3/opentogethertube)) | Web app for watching YouTube videos together with remote participants. | AGPL-3.0 | Active | No | 579 |
 | [The One File](https://therecanonlybe.one/) ([source](https://github.com/gelatinescreams/The-One-File)) | Diagramming app with an optional Docker collaboration server for shared editable rooms. | Unlicense | Active | Official | 551 |
 | [UnrealIRCd](https://www.unrealircd.org/) ([source](https://github.com/unrealircd/unrealircd)) | Modular, advanced and highly configurable IRC server written in C for Linux, BSD, Windows, and macOS. | GPL-2.0 | Active |  | 528 |

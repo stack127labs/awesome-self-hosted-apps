@@ -4,17 +4,17 @@
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
-| [Mastodon](https://joinmastodon.org/) ([source](https://github.com/mastodon/mastodon)) | Federated social networking server for running communities that communicate across ActivityPub. | AGPL-3.0 | Active | Official | 50,502 |
+| [Mastodon](https://joinmastodon.org/) ([source](https://github.com/mastodon/mastodon)) | Federated social networking server for running communities that communicate across ActivityPub. | AGPL-3.0 | Active | Official | 50,595 |
 | [Discourse](https://www.discourse.org/) ([source](https://github.com/discourse/discourse)) | Forum and community server for discussions, moderation, user accounts, and long-running topics. | GPL-2.0 | Active | Official | 48,074 |
 | [Postiz](https://postiz.com/) ([source](https://github.com/gitroomhq/postiz-app)) | Schedule posts, track the performance of your content, and manage all your social media accounts in one place. | AGPL-3.0 | Active | Official | 41,204 |
 | [Lila](https://lichess.org/) ([source](https://github.com/lichess-org/lila)) | Ad-less chess server powering lichess.org, with official iOS and Android apps. | AGPL-3.0 | Active |  | 18,981 |
 | [Flarum](https://flarum.org/) ([source](https://github.com/flarum/flarum)) | Forum software for running discussion communities with extensions, moderation, and user accounts. | MIT | Active |  | 16,441 |
-| [Answer](https://answer.apache.org/) ([source](https://github.com/apache/answer)) | Q&A community app for product support, customer support, knowledge sharing, and user discussions. | Apache-2.0 | Active | Official | 15,712 |
+| [Apache Answer](https://answer.apache.org/) ([source](https://github.com/apache/answer)) | Runs a question-and-answer community with voting, moderation, reputation, tags, search, and plugin support. | Apache-2.0 | Active | Official | 15,710 |
 | [PeerTube](https://joinpeertube.org/) ([source](https://github.com/Chocobozzz/PeerTube)) | Decentralized video streaming app using P2P (BitTorrent) directly in the web browser. | AGPL-3.0 | Active | Official | 15,402 |
-| [NodeBB](https://nodebb.org/) ([source](https://github.com/NodeBB/NodeBB)) | Forum app for discussions, categories, user accounts, moderation, and community posts. | GPL-3.0 | Active | Official | 15,246 |
+| [NodeBB](https://nodebb.org/) ([source](https://github.com/NodeBB/NodeBB)) | Forum app for discussions, categories, user accounts, moderation, and community posts. | GPL-3.0 | Active | Official | 15,247 |
 | [Lemmy](https://join-lemmy.org/) ([source](https://github.com/LemmyNet/lemmy)) | Federated discussion server for communities, posts, comments, voting, and moderation. | AGPL-3.0 | Active | Official | 14,678 |
 | [diaspora](https://diasporafoundation.org/) ([source](https://github.com/diaspora/diaspora)) | Federated social network server for posts, profiles, aspects, and community timelines. | AGPL-3.0 | Active | Official | 13,654 |
-| [Misskey](https://misskey-hub.net/) ([source](https://github.com/misskey-dev/misskey)) | Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. | AGPL-3.0 | Active | Official | 11,362 |
+| [Misskey](https://misskey-hub.net/) ([source](https://github.com/misskey-dev/misskey)) | Decentralized app-like microblogging server/SNS for the Fediverse, using the ActivityPub protocol like GNU social and Mastodon. | AGPL-3.0 | Active | Official | 11,389 |
 | [PixelFed](https://pixelfed.org/) ([source](https://github.com/pixelfed/pixelfed)) | Federated photo-sharing server for running an Instagram-style community on ActivityPub. | AGPL-3.0 | Active | Official | 7,141 |
 | [HumHub](https://www.humhub.com/) ([source](https://github.com/humhub/humhub)) | Social network kit for building private communities, member profiles, spaces, and activity feeds. | AGPL-3.0 | Active |  | 6,784 |
 | [Elk](https://github.com/elk-zone/elk) | Web client for browsing and posting to Mastodon communities. | MIT | Active | No | 6,037 |
@@ -26,30 +26,30 @@
 | [Misago](http://misago-project.org/) ([source](https://github.com/rafalp/Misago)) | Forum app for topics, replies, users, moderation, notifications, and community discussions. | GPL-2.0 | Active | Official | 2,779 |
 | [Cusdis](https://cusdis.com/) ([source](https://github.com/djyde/cusdis)) | Lightweight, privacy-friendly commenting system for publishing discussions on websites. | GPL-3.0 | Archived | No | 2,773 |
 | [Bluesky-PDS](https://atproto.com/guides/self-hosting) ([source](https://github.com/bluesky-social/pds)) | Personal Data Server for federating a Bluesky account with the wider network. | MIT License or Apache License 2.0 | Active | Community | 2,651 |
-| [Loomio](https://loomio.com/) ([source](https://github.com/loomio/loomio)) | Collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. | AGPL-3.0 | Active | Official | 2,627 |
+| [Loomio](https://loomio.com/) ([source](https://github.com/loomio/loomio)) | Collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. | AGPL-3.0 | Active | Official | 2,628 |
 | [Peergos](https://peergos.org/) ([source](https://github.com/Peergos/Peergos)) | Combines encrypted file storage, sharing, social features, and app protocol support. | AGPL-3.0 | Active | Official | 2,553 |
-| [Artalk](https://artalk.js.org/) ([source](https://github.com/ArtalkJS/Artalk)) | Comment system built in Golang, providing a lightweight and highly customizable app for adding comments to your website. | MIT | Active | Official | 2,364 |
-| [Plume](https://joinplu.me/) ([source](https://github.com/Plume-org/Plume)) | Federated blogging application for publishing posts across ActivityPub. | AGPL-3.0 | Slow | No | 2,221 |
+| [Artalk](https://artalk.js.org/) ([source](https://github.com/ArtalkJS/Artalk)) | Comment system built in Golang, providing a lightweight and highly customizable app for adding comments to your website. | MIT | Active | Official | 2,365 |
+| [Plume](https://joinplu.me/) ([source](https://github.com/Plume-org/Plume)) | Federated blogging application for publishing posts across ActivityPub. | AGPL-3.0 | Slow | No | 2,222 |
 | [phpBB](https://www.phpbb.com/) ([source](https://github.com/phpbb/phpbb)) | Flat-forum bulletin board software app that can be used to stay in touch with a group of people or can power your entire website. | GPL-2.0 | Active |  | 2,110 |
 | [BroadcastChannel](https://memo.miantiao.me/) ([source](https://github.com/miantiao-me/BroadcastChannel)) | Microblog app that turns Telegram channel posts into a public web feed. | AGPL-3.0 | Active | Official | 2,091 |
 | [Ech0](https://ech0.app/) ([source](https://github.com/lin-snow/Ech0)) | Lightweight federated publishing app focused on personal idea sharing (documentation in Chinese). | AGPL-3.0 | Active | Official | 2,090 |
-| [Movim](https://movim.eu/) ([source](https://github.com/movim/movim)) | Federated XMPP social app for posts, chats, communities, feeds, and group conversations. | AGPL-3.0 | Active | Official | 2,074 |
+| [Movim](https://movim.eu/) ([source](https://github.com/movim/movim)) | Federated XMPP social app for posts, chats, communities, feeds, and group conversations. | AGPL-3.0 | Active | Official | 2,076 |
 | [Coral](https://coralproject.net/) ([source](https://github.com/coralproject/talk)) | Commenting system for publishing moderated conversations, reader accounts, and discussion tools. | Apache-2.0 | Active | Official | 2,005 |
 | [Talkyard](https://www.talkyard.io/) ([source](https://github.com/debiki/talkyard)) | Discussion and community forum for questions, ideas, and chat. | AGPL-3.0 | Active | Official | 1,814 |
 | [Friendica](https://github.com/friendica/friendica) | Federated social server for profiles, timelines, contacts, and networked communities. | AGPL-3.0 | Active | Official | 1,700 |
 | [Elgg](https://elgg.org/) ([source](https://github.com/Elgg/Elgg)) | Runs social community sites with profiles, groups, activity feeds, users, and plugins. | GPL-2.0 | Active |  | 1,679 |
 | [Question2answer](https://www.question2answer.org/) ([source](https://github.com/q2a/question2answer)) | Question-and-answer site software for asking, answering, and organizing community knowledge. | GPL-3.0 | Stale | No | 1,670 |
 | [Pinkary](https://pinkary.com/) ([source](https://github.com/pinkary-project/pinkary.com)) | Federated landing page for links and connecting with others without the noise. | AGPL-3.0 | Active | Official | 1,543 |
-| [Phanpy](https://phanpy.social/) ([source](https://github.com/cheeaun/phanpy)) | Minimal web client for browsing and posting to Fediverse services. | MIT | Active | No | 1,516 |
+| [Phanpy](https://phanpy.social/) ([source](https://github.com/cheeaun/phanpy)) | Minimal web client for browsing and posting to Fediverse services. | MIT | Active | No | 1,518 |
 | [OSSN](https://www.opensource-socialnetwork.org/) ([source](https://github.com/opensource-socialnetwork/opensource-socialnetwork)) | Social network engine for profiles, activity feeds, groups, relationships, and community sites. | CAL-1.0 | Active |  | 1,257 |
-| [MyBB](https://mybb.com/) ([source](https://github.com/mybb/mybb)) | Runs discussion forums with users, threads, moderation, plugins, themes, and community tools. | LGPL-3.0 | Active |  | 1,250 |
+| [MyBB](https://mybb.com/) ([source](https://github.com/mybb/mybb)) | Runs discussion forums with users, threads, moderation, plugins, themes, and community tools. | LGPL-3.0 | Active |  | 1,251 |
 | [Known](https://withknown.com/opensource) ([source](https://github.com/idno/idno)) | Publishes articles, notes, photos, bookmarks, and status updates from a personal site. | Apache-2.0 | Active | Official | 1,126 |
 | [szurubooru-api](https://github.com/rr-/szurubooru) | Backend API container for Szurubooru, an image board engine for small and medium communities. | GPL-3.0 | Active | Community | 1,031 |
 | [Dendrite](https://matrix.org/) ([source](https://github.com/element-hq/dendrite)) | Matrix homeserver for running secure, federated chat communities. | AGPL-3.0 | Active | No | 993 |
 | [Bonfire](https://bonfirenetworks.org/) ([source](https://github.com/bonfire-networks/bonfire-app)) | Federated social networking server built on ActivityPub open protocol. | AGPL-3.0 | Active | No | 949 |
 | [Scoold](https://scoold.com/) ([source](https://github.com/Erudika/scoold)) | The Stack Overflow clone for your team (or hosted). | Apache-2.0 | Active | Official | 922 |
 | [WeddingShare](https://github.com/cirx08/weddingshare) | Private website for sharing wedding information and updates with guests. | GPL-3.0 | Active | Community | 912 |
-| [NeoDB](https://neodb.net/) ([source](https://github.com/neodb-social/neodb)) | Federated tracker for books, movies, games, music, collections, ratings, and personal activity. | AGPL-3.0 | Active | Official | 906 |
+| [NeoDB](https://neodb.net/) ([source](https://github.com/neodb-social/neodb)) | Federated tracker for books, movies, games, music, collections, ratings, and personal activity. | AGPL-3.0 | Active | Official | 908 |
 | [Glitchsoc](https://glitch-soc.github.io/docs/) ([source](https://github.com/glitch-soc/mastodon)) | Libre and federated social network, fork of Mastodon. | AGPL-3.0 | Active | No | 809 |
 | [Simple Machines Forum](https://www.simplemachines.org/) ([source](https://github.com/SimpleMachines/SMF)) | Runs community forums with boards, topics, member accounts, moderation, and themes. | BSD-3-Clause | Active | Official | 759 |
 | [TC2-BBS-Mesh](https://github.com/thecommschannel/tc2-bbs-mesh) | BBS server for Meshtastic for posting bulletins, sending mail to users, and channel directory. | GPL-3.0 | Slow | Community | 744 |
@@ -60,12 +60,12 @@
 | [Hollo](https://docs.hollo.social/) ([source](https://github.com/fedify-dev/hollo)) | Single-user microblogging server for publishing posts over federated social protocols. | AGPL-3.0 | Active | Official | 496 |
 | [Admidio](https://www.admidio.org/) ([source](https://github.com/Admidio/admidio)) | Membership and user management for clubs and other organizations. | GPL-2.0 | Active | Official | 491 |
 | [hitobito](https://hitobito.com/) ([source](https://github.com/hitobito/hitobito)) | Manage complex group hierarchies with members, events and a lot more. | AGPL-3.0 | Active | Official | 485 |
-| [Loops](https://joinloops.org/) ([source](https://github.com/joinloops/loops-server)) | Federated short video app for browsing clips, posting videos, and following creators. | AGPL-3.0 | Active | Official | 466 |
+| [Loops](https://joinloops.org/) ([source](https://github.com/joinloops/loops-server)) | Federated short video app for browsing clips, posting videos, and following creators. | AGPL-3.0 | Active | Official | 467 |
 | [Agorakit](https://www.agorakit.org/en/) ([source](https://github.com/agorakit/agorakit)) | Groupware for organizing community groups, events, files, discussions, and tasks. | AGPL-3.0 | Active | No | 456 |
 | [ClearFlask](https://clearflask.com/) ([source](https://github.com/clearflask/clearflask)) | Listen to your users during product development with ClearFlask. | Apache-2.0 | Active | Official | 451 |
 | [qpixel](https://codidact.com/) ([source](https://github.com/codidact/qpixel)) | Q&A community app for questions, answers, voting, moderation, and knowledge sharing. | AGPL-3.0 | Active | Official | 443 |
 | [Ktistec](https://github.com/toddsundsted/ktistec) | Single-user ActivityPub server for posting, following accounts, and joining federated timelines. | AGPL-3.0 | Active | Official | 436 |
-| [Mbin](https://joinmbin.org/) ([source](https://github.com/MbinOrg/mbin)) | Aggregates federated posts, links, threads, and microblog updates for community discussion. | AGPL-3.0 | Active | Official | 432 |
+| [Mbin](https://joinmbin.org/) ([source](https://github.com/MbinOrg/mbin)) | Aggregates federated posts, links, threads, and microblog updates for community discussion. | AGPL-3.0 | Active | Official | 434 |
 | [Christmas Community](https://github.com/Wingysam/Christmas-Community) | Coordinates family gift lists so people can share wishes and avoid duplicate gifts. | AGPL-3.0 | Active | Official | 423 |
 | [Anonymous Overflow](https://aohub.httpjames.space/) ([source](https://github.com/httpjamesm/AnonymousOverflow)) | Stack Overflow frontend for reading questions and answers with less tracking. | MPL-2.0 | Active | Official | 381 |
 | [Socialhome](https://codeberg.org/socialhome/socialhome) ([source](https://github.com/jaywink/socialhome)) | Federated and decentralized profile builder and social network engine. | AGPL-3.0 | Active | Official | 379 |

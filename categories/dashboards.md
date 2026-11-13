@@ -1,13 +1,13 @@
 # Dashboards self-hosted apps
 
-196 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/dashboards).
+197 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/dashboards).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
-| [World Monitor](https://worldmonitor.app/) ([source](https://github.com/koala73/worldmonitor)) | Global intelligence dashboard for monitoring news, markets, flights, ships, and infrastructure signals. | AGPL-3.0 | Active | Official | 90,382 |
+| [World Monitor](https://worldmonitor.app/) ([source](https://github.com/koala73/worldmonitor)) | Global intelligence dashboard for monitoring news, markets, flights, ships, and infrastructure signals. | AGPL-3.0 | Active | Official | 90,557 |
 | [Grafana](https://grafana.com/) ([source](https://github.com/grafana/grafana)) | Dashboard app for visualizing metrics, logs, traces, and alert data. | AGPL-3.0 | Active | Official | 77,874 |
 | [Superset](https://superset.apache.org/) ([source](https://github.com/apache/superset)) | Business intelligence web app for exploring datasets and building dashboards. | Apache-2.0 | Active | Official | 75,487 |
-| [Metabase](https://metabase.com/) ([source](https://github.com/metabase/metabase)) | Easy way for everyone in your company to ask questions and learn from data. | AGPL-3.0 | Active | Official | 50,241 |
+| [Metabase](https://metabase.com/) ([source](https://github.com/metabase/metabase)) | Easy way for everyone in your company to ask questions and learn from data. | AGPL-3.0 | Active | Official | 50,311 |
 | [ToolJet](https://tooljet.com/) ([source](https://github.com/ToolJet/ToolJet)) | Low-code builder for internal tools, dashboards, forms, workflows, and database frontends. | AGPL-3.0 | Active | Official | 41,225 |
 | [PostHog](https://posthog.com/) ([source](https://github.com/PostHog/posthog)) | Product analytics suite with web analytics, session replay, feature flags, and error tracking. | MIT | Active | Official | 40,717 |
 | [Umami](https://umami.is/) ([source](https://github.com/umami-software/umami)) | Privacy-focused web analytics app for tracking page views, events, referrers, and traffic trends. | MIT | Active | Official | 40,107 |
@@ -20,9 +20,10 @@
 | [Dashy](https://dashy.to/) ([source](https://github.com/lissy93/dashy)) | Feature-rich homepage for your homelab, with easy YAML configuration. | MIT | Active | Official | 26,970 |
 | [MagicMirror²](https://magicmirror.builders/) ([source](https://github.com/MagicMirrorOrg/MagicMirror)) | Modular smart mirror platform for displaying calendars, weather, news, and custom modules. | MIT | Active | Community | 24,195 |
 | [Thingsboard](https://thingsboard.io/) ([source](https://github.com/thingsboard/thingsboard)) | IoT app - Device management, data collection, processing and visualization. | Apache-2.0 | Active | Official | 22,672 |
-| [Matomo](https://matomo.org/) ([source](https://github.com/matomo-org/matomo)) | Web analytics app for tracking visitors, events, conversions, campaigns, and site behavior. | GPL-3.0 | Active | Official | 22,014 |
-| [Kibana](https://www.elastic.co/kibana) ([source](https://github.com/elastic/kibana)) | Web interface for exploring, visualizing, and managing data stored in Elasticsearch. | Elastic-2.0 | Active | Official | 21,369 |
+| [Matomo](https://matomo.org/) ([source](https://github.com/matomo-org/matomo)) | Web analytics app for tracking visitors, events, conversions, campaigns, and site behavior. | GPL-3.0 | Active | Official | 22,027 |
+| [Kibana](https://www.elastic.co/kibana) ([source](https://github.com/elastic/kibana)) | Web interface for exploring, visualizing, and managing data stored in Elasticsearch. | Elastic-2.0 | Active | Official | 21,377 |
 | [GoAccess](https://goaccess.io/) ([source](https://github.com/allinurl/goaccess)) | Web log analyzer that turns server access logs into real-time terminal and browser reports. | MIT | Active | Official | 21,131 |
+| [Apache Druid](https://druid.apache.org/) ([source](https://github.com/apache/druid)) | Columnar, time-indexed analytics database built for streaming and batch data at scale, handling billions to trillions of rows with millisecond query response. | Apache-2.0 | Active | Official | 14,097 |
 | [OpenSearch](https://opensearch.org/docs/latest/opensearch/index) ([source](https://github.com/opensearch-project/OpenSearch)) | Search and analytics engine for indexing documents, querying data, and building dashboards. | Apache-2.0 | Active | Official | 13,986 |
 | [Rybbit](https://rybbit.com/) ([source](https://github.com/rybbit-io/rybbit)) | Web analytics app for page views, events, sessions, and privacy-friendly product metrics. | AGPL-3.0 | Active | Official | 13,268 |
 | [Formbricks](https://formbricks.com/) ([source](https://github.com/formbricks/formbricks)) | Survey and feedback app for collecting user responses, product signals, and form submissions. | AGPL-3.0 | Active | Official | 13,237 |
@@ -44,14 +45,14 @@
 | [sun-panel](http://doc.sun-panel.top/) ([source](https://github.com/hslr-s/sun-panel)) | Navigation dashboard for servers, NAS devices, and frequently used web applications. | MIT | Active | No | 5,369 |
 | [Homarr](https://homarr.dev/) ([source](https://github.com/homarr-labs/homarr)) | Dashboard for arranging service links, widgets, integrations, and status panels. | Apache-2.0 | Active | Official | 5,354 |
 | [Ackee](https://ackee.electerious.com/) ([source](https://github.com/electerious/Ackee)) | Privacy-focused web analytics app for tracking visits, referrers, pages, and events. | MIT | Active | Official | 4,724 |
-| [Your Spotify](https://github.com/Yooooomi/your_spotify) | Allows you to record your Spotify listening activity and have statistics about them served through a web app. | GPL-3.0 | Active | Official | 4,618 |
+| [Your Spotify](https://github.com/Yooooomi/your_spotify) | Allows you to record your Spotify listening activity and have statistics about them served through a web app. | GPL-3.0 | Active | Official | 4,627 |
 | [Uptrace](https://uptrace.dev/get/hosted/open-source-apm) ([source](https://github.com/uptrace/uptrace)) | Collects OpenTelemetry traces, metrics, and logs and turns them into dashboards, alerts, and service views. | AGPL-3.0 | Active | Official | 4,313 |
 | [Chartbrew](https://chartbrew.com/) ([source](https://github.com/chartbrew/chartbrew)) | Connect directly to databases and APIs and use the data to create beautiful charts. | MIT | Active | Official | 4,094 |
 | [Claude DevTools](https://claude-dev.tools/) ([source](https://github.com/matt1398/claude-devtools)) | Local web viewer for Claude Code sessions, tool calls, token usage, and project memory. | MIT | Active | Official | 4,032 |
 | [dash.](https://getdashdot.com/) ([source](https://github.com/MauriceNino/dashdot)) | Server dashboard for monitoring CPU, storage, RAM, network, and GPU stats on small private servers. | MIT | Active | Official | 3,749 |
 | [Garmin Grafana](https://github.com/arpanghosh8453/garmin-grafana) | Fetch data from Garmin servers for local storage and visualization. | BSD-3-Clause | Active | Official | 3,550 |
 | [Tianji](https://tianji.dev/) ([source](https://github.com/msgbyte/tianji)) | Web analytics, server status, and uptime monitoring application. | Apache-2.0 | Active | Official | 3,119 |
-| [Lowdefy](https://lowdefy.com/) ([source](https://github.com/lowdefy/lowdefy)) | YAML and JSON framework for building internal tools, admin panels, and dashboards. | Apache-2.0 | Active | Official | 3,021 |
+| [Lowdefy](https://lowdefy.com/) ([source](https://github.com/lowdefy/lowdefy)) | YAML and JSON framework for building internal tools, admin panels, and dashboards. | Apache-2.0 | Active | Official | 3,023 |
 | [HA-Fusion](https://github.com/matt8707/ha-fusion) | Custom Home Assistant dashboard for organizing controls and sensor views. | MIT | Active | Official | 3,020 |
 | [Open Web Analytics](http://www.openwebanalytics.com/) ([source](https://github.com/Open-Web-Analytics/Open-Web-Analytics)) | Web analytics app for tracking visits, referrers, pages, and site usage. | GPL-2.0 | Active |  | 2,697 |
 | [Parseable](https://parseable.com/) ([source](https://github.com/parseablehq/parseable)) | Log analytics system for high throughput log ingestion. | AGPL-3.0 | Active | Official | 2,573 |
@@ -63,8 +64,8 @@
 | [WeatherStar](https://github.com/netbymatt/ws4kp) | Bring back the feel of the 90's with a weather forecast that has the look and feel of The Weather Channel at that time but available in a modern way. | MIT | Active | Community | 2,083 |
 | [Vince](https://www.vinceanalytics.com/) ([source](https://github.com/vinceanalytics/vince)) | Web analytics and dashboard (alternative to Google Analytics). | AGPL-3.0 | Slow |  | 2,012 |
 | [tar1090](https://github.com/wiedehopf/tar1090) | Web interface for visualizing aircraft positions from ADS-B receiver data. | GPL-2.0-or-later | Active | Community | 1,965 |
-| [Aptabase](https://aptabase.com/) ([source](https://github.com/aptabase/aptabase)) | Privacy first and simple analytics for mobile and desktop apps. | AGPL-3.0 | Active | Official | 1,868 |
-| [Maloja](https://github.com/krateng/maloja) | Collects music scrobbles and turns listening history into charts, artists, and personal stats. | GPL-3.0 | Active | Official | 1,859 |
+| [Aptabase](https://aptabase.com/) ([source](https://github.com/aptabase/aptabase)) | Privacy first and simple analytics for mobile and desktop apps. | AGPL-3.0 | Active | Official | 1,871 |
+| [Maloja](https://github.com/krateng/maloja) | Collects music scrobbles and turns listening history into charts, artists, and personal stats. | GPL-3.0 | Active | Official | 1,862 |
 | [Litlyx](https://litlyx.com/) ([source](https://github.com/Litlyx/litlyx)) | Web analytics dashboard with event tracking, AI-assisted insights, and privacy-focused reporting. | Apache-2.0 | Active | Official | 1,748 |
 | [DataLens](https://datalens.tech/docs) ([source](https://github.com/datalens-tech/datalens)) | Connects data sources and lets teams build, explore, and share interactive dashboards and reports. | Apache-2.0 | Active | Official | 1,711 |
 | [Trench](https://trench.dev/) ([source](https://github.com/FrigadeHQ/trench)) | Ingests product events through an API and queries them in real time with ClickHouse and Kafka. | MIT | Active | Official | 1,670 |
@@ -87,8 +88,8 @@
 | [Streamystats](https://github.com/fredrikburmester/streamystats) | Jellyfin analytics service that shows playback history, library trends, user activity, recommendations, and watch statistics. | MIT | Active | Official | 847 |
 | [Ride The Lightning](https://github.com/Ride-The-Lightning/RTL) ([source](https://github.com/ride-the-lightning/rtl)) | Dashboard for monitoring and managing a Lightning Network node. | MIT | Active | Official | 801 |
 | [Fenrus](https://github.com/revenz/Fenrus) | Personal home page for quick access to personal apps. | MIT | Active | Official | 797 |
-| [Astroluma](https://github.com/Sanjeet990/Astroluma) | Homelab dashboard for managing tasks, services, and personal productivity. | GPL-3.0 | Slow | Official | 772 |
-| [Mafl](https://mafl.hywax.space/) ([source](https://github.com/hywax/mafl)) | Homepage dashboard for organizing service links, shortcuts, categories, and quick navigation panels. | MIT | Active | Official | 761 |
+| [Astroluma](https://github.com/Sanjeet990/Astroluma) | Homelab dashboard for managing tasks, services, and personal productivity. | GPL-3.0 | Slow | Official | 773 |
+| [Mafl](https://mafl.hywax.space/) ([source](https://github.com/hywax/mafl)) | Homepage dashboard for organizing service links, shortcuts, categories, and quick navigation panels. | MIT | Active | Official | 760 |
 | [Lab Dash](https://github.com/AnthonyGress/lab-dash) | Dashboard for managing apps, servers, and common lab administration tasks. | GPL-3.0 | Active | Official | 732 |
 | [GoAccess-NPMLogs](https://github.com/xavier-hernandez/goaccess-for-nginxproxymanager) | Web dashboard for analyzing Nginx Proxy Manager access logs. | MIT | Active | Community | 715 |
 | [hestia-core](https://github.com/mult1v4c/hestia-core) | Modular dashboard for custom widgets and API integrations. | MIT | Active | No | 684 |
@@ -98,10 +99,10 @@
 | [Starbase 80](https://notclickable-jordan.github.io/starbase-80) ([source](https://github.com/notclickable-jordan/starbase-80)) | Docker homepage for grouping services, links, status items, and shortcuts. | MIT | Active | Official | 562 |
 | [magic-frame](https://magicframe.dev/) ([source](https://github.com/jeremiaa/magic-frame)) | Magic Frame turns a screen into a family photo frame and dashboard, with Home Assistant and Immich integrations. | PolyForm Noncommercial License 1.0.0 | Active | Official | 519 |
 | [DashLit](https://dashlit.cwec.dev/) ([source](https://github.com/codewec/dashlit)) | Server startpage for linking services and checking lab shortcuts. | MIT | Active | Official | 482 |
-| [Prismarr](https://github.com/Shoshuo/Prismarr) | Media management dashboard that unifies Radarr, Sonarr, Prowlarr, Jellyseerr, qBittorrent, and TMDb. | AGPL-3.0 | Active | No | 474 |
+| [Prismarr](https://github.com/Shoshuo/Prismarr) | Media management dashboard that unifies Radarr, Sonarr, Prowlarr, Jellyseerr, qBittorrent, and TMDb. | AGPL-3.0 | Active | No | 477 |
 | [Dashwise](https://dashwise-next.vercel.app/) ([source](https://github.com/andreasmolnardev/dashwise)) | Homelab dashboard for grouping service links, widgets, status views, and shortcuts. | GPL-3.0 | Active | Official | 468 |
 | [wrapperr](https://github.com/aunefyren/wrapperr) | Website-based app and API for collecting Plex user stats within a set timeframe using Tautulli. | GPL-3.0 | Active | Community | 454 |
-| [AWStats](https://www.awstats.org/) ([source](https://github.com/eldy/AWStats)) | Generate statistics from web, streaming, ftp or mail server logfiles. | GPL-3.0 | Active |  | 439 |
+| [AWStats](https://www.awstats.org/) ([source](https://github.com/eldy/AWStats)) | Generate statistics from web, streaming, ftp or mail server logfiles. | GPL-3.0 | Slow |  | 439 |
 | [Daily Stars Explorer](https://emanuelef.github.io/daily-stars-explorer) ([source](https://github.com/emanuelef/daily-stars-explorer)) | Track GitHub repo trends with daily star insights to see growth and community interest over time. | MIT | Active | Official | 412 |
 | [Freebox-Ultra-Dashboard](https://github.com/hghugo/freeboxos-ultra-dashboard) | Freebox OS Ultra Dashboard est une interface web moderne (React 19 + Express 5) pour piloter une Freebox: suivi temps réel du débit, statut de connexion. | MIT | Active | Community | 409 |
 | [Jellyfin Rewind](https://jellyfin-rewind.chaphasilor.xyz/) ([source](https://github.com/Chaphasilor/jellyfin-rewind)) | Creates year-in-review summaries from Jellyfin music listening history and playback stats. | None declared | Active | Official | 375 |

@@ -1,20 +1,20 @@
 # Databases self-hosted apps
 
-128 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/databases).
+127 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/databases).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
 | [Supabase](https://supabase.com/) ([source](https://github.com/supabase/supabase)) | Backend stack with Postgres, Auth, Storage, Realtime APIs, Edge Functions, and Studio. | Apache-2.0 | Active | Official | 114,902 |
 | [Elasticsearch](https://www.elastic.co/elasticsearch) ([source](https://github.com/elastic/elasticsearch)) | Indexes, searches, and analyzes large volumes of text, structured data, logs, and vectors. | Elastic License 2.0 for default release… | Active | Official | 78,637 |
 | [Redis](https://redis.io/) ([source](https://github.com/redis/redis)) | Redis is an in-memory data store for caching, data structures, messaging, and vector search. | Redis 8+: AGPLv3, RSALv2, or SSPLv1. Re… | Active | Official | 77,475 |
-| [NocoDB](https://nocodb.com/) ([source](https://github.com/nocodb/nocodb)) | Turns databases into collaborative spreadsheets, forms, and APIs. | Sustainable Use License 1.0 | Active | Official | 65,454 |
+| [NocoDB](https://nocodb.com/) ([source](https://github.com/nocodb/nocodb)) | Turns databases into collaborative spreadsheets, forms, and APIs. | Sustainable Use License 1.0 | Active | Official | 65,521 |
 | [PocketBase](https://pocketbase.io/) ([source](https://github.com/pocketbase/pocketbase)) | Backend platform with an embedded SQLite database, user authentication, file storage, and a REST API. | MIT | Archived | Community | 61,598 |
-| [Appwrite](https://appwrite.io/) ([source](https://github.com/appwrite/appwrite)) | End to end backend server for web, native, and mobile developers . | BSD-3-Clause | Active | Official | 57,915 |
+| [Appwrite](https://appwrite.io/) ([source](https://github.com/appwrite/appwrite)) | End to end backend server for web, native, and mobile developers . | BSD-3-Clause | Active | Official | 58,075 |
 | [ClickHouse](https://clickhouse.com/) ([source](https://github.com/ClickHouse/ClickHouse)) | Stores and queries analytical data with a column-oriented SQL engine built for high-volume, low-latency workloads. | Apache-2.0 | Active | Official | 50,839 |
 | [Milvus](https://milvus.io/) ([source](https://github.com/milvus-io/milvus)) | Vector database optimized for similarity search, scaling to billions of vectors with minimal performance loss. | Apache-2.0 | Active | Official | 46,650 |
 | [Directus](https://directus.com/) ([source](https://github.com/directus/directus)) | Data app and API layer for managing SQL databases through dashboards and generated APIs. | GPL-3.0-only | Active | Official | 38,687 |
 | [SeaweedFS](https://seaweedfs.com/) ([source](https://github.com/seaweedfs/seaweedfs)) | Distributed storage system for S3 object storage, file volumes, metadata, and large file sets. | Apache-2.0 | Active | Official | 36,009 |
-| [Qdrant](https://qdrant.tech/) ([source](https://github.com/qdrant/qdrant)) | Vector database and search service for storing, filtering, and retrieving embeddings. | Apache-2.0 | Active | Official | 35,479 |
+| [Qdrant](https://qdrant.tech/) ([source](https://github.com/qdrant/qdrant)) | Vector database and search service for storing, filtering, and retrieving embeddings. | Apache-2.0 | Active | Official | 35,531 |
 | [Apache Kafka](https://kafka.apache.org/) ([source](https://github.com/apache/kafka)) | Distributed event-streaming platform for publishing, storing, and consuming event streams. | Apache-2.0 | Active | Official | 34,213 |
 | [Hasura](https://hasura.io/) ([source](https://github.com/hasura/graphql-engine)) | GraphQL engine that exposes databases as realtime APIs with permissions and event triggers. | Apache-2.0 | Active | Official | 32,125 |
 | [InfluxDB](https://influxdata.com/) ([source](https://github.com/influxdata/influxdb)) | Time-series database for storing metrics and other event data. | Apache-2.0 | Active | Official | 31,811 |
@@ -24,23 +24,23 @@
 | [PostgREST](https://postgrest.org/) ([source](https://github.com/PostgREST/postgrest)) | Turns tables, views, and functions in an existing PostgreSQL database into a REST API. | MIT | Active | Official | 27,748 |
 | [Valkey](https://valkey.io/) ([source](https://github.com/valkey-io/valkey)) | Redis-compatible key-value data store for caching, queues, and real-time workloads. | BSD-3-Clause | Active | Official | 27,709 |
 | [SQLite Browser](https://sqlitebrowser.org/) ([source](https://github.com/sqlitebrowser/sqlitebrowser)) | Database browser for opening, editing, and querying SQLite files. | GPL-3.0 | Active | Official | 24,773 |
-| [pgvector for PostgreSQL 18](https://github.com/pgvector/pgvector) | PostgreSQL extension for storing and searching vector embeddings. | PostgreSQL License | Active | Official | 23,625 |
+| [pgvector for PostgreSQL 18](https://github.com/pgvector/pgvector) | PostgreSQL extension for storing and searching vector embeddings. | PostgreSQL License | Active | Official | 23,665 |
 | [ChartDB](https://chartdb.io/) ([source](https://github.com/chartdb/chartdb)) | Database diagrams editor that allows you to visualize and design your DB with a single query. | AGPL-3.0 | Active | Official | 23,106 |
-| [PostgreSQL](https://www.postgresql.org/) ([source](https://github.com/postgres/postgres)) | The PostgreSQL object-relational database system provides reliability and data integrity. | PostgreSQL License | Active | No | 22,748 |
+| [PostgreSQL](https://www.postgresql.org/) ([source](https://github.com/postgres/postgres)) | The PostgreSQL object-relational database system provides reliability and data integrity. | PostgreSQL License | Active | No | 22,814 |
 | [Teable](https://teable.ai/) ([source](https://github.com/teableio/teable)) | Postgres-backed spreadsheet database for building tables, views, forms, and team workflows. | AGPL-3.0-only | Active | Official | 21,977 |
 | [VictoriaMetrics](https://victoriametrics.com/) ([source](https://github.com/VictoriaMetrics/VictoriaMetrics)) | Time series database and monitoring stack for storing, querying, and analyzing metrics. | Apache-2.0 | Active | Official | 18,105 |
 | [QuestDB](https://questdb.io/) ([source](https://github.com/questdb/questdb)) | Runs a time-series database for fast data ingestion and SQL analytics. | Apache-2.0 | Active | Community | 17,523 |
-| [Neo4j Community Edition](https://neo4j.com/product/community-edition/) ([source](https://github.com/neo4j/neo4j)) | Neo4j is a highly scalable, native graph database. | GPL-3.0 | Active | Official | 17,416 |
+| [Neo4j Community Edition](https://neo4j.com/product/community-edition/) ([source](https://github.com/neo4j/neo4j)) | Neo4j is a highly scalable, native graph database. | GPL-3.0 | Active | Official | 17,430 |
 | [Weaviate](https://weaviate.io/developers/weaviate/) ([source](https://github.com/weaviate/weaviate)) | Stores objects and vectors for semantic search, hybrid search, retrieval, classification, and generative AI applications. | BSD-3-Clause | Active | Official | 16,945 |
 | [EMQX](https://www.emqx.com/) ([source](https://github.com/emqx/emqx)) | The most scalable and reliable MQTT broker for AI, IoT, IIoT and connected vehicles. | BUSL-1.1 | Active | Official | 16,904 |
 | [Bytebase](https://www.bytebase.com/) ([source](https://github.com/bytebase/bytebase)) | Database change-management tool for reviewing, deploying, and auditing schema changes across multiple databases. | MIT | Active | Official | 14,691 |
 | [Memcached](https://memcached.org/) ([source](https://github.com/memcached/memcached)) | In-memory cache service for reducing database load and accelerating application responses. | BSD-3-Clause | Active | Official | 14,302 |
-| [Druid](https://druid.apache.org/) ([source](https://github.com/apache/druid)) | Distributed analytics database for storing and querying large event streams in real time. | Apache-2.0 | Active | Official | 14,097 |
+| [Apache Druid](https://druid.apache.org/) ([source](https://github.com/apache/druid)) | Columnar, time-indexed analytics database built for streaming and batch data at scale, handling billions to trillions of rows with millisecond query response. | Apache-2.0 | Active | Official | 14,097 |
 | [Apache ZooKeeper](https://zookeeper.apache.org/) ([source](https://github.com/apache/zookeeper)) | Distributed coordination service for configuration, naming, synchronization, and group services. | Apache-2.0 | Active | Community | 12,832 |
 | [Convex](https://docs.convex.dev/) ([source](https://github.com/get-convex/convex-backend)) | Runs a reactive application backend with a database, server functions, scheduled jobs, file storage, and realtime clients. | FSL-1.1-Apache-2.0 | Active | Official | 12,784 |
 | [Mysql](https://docker.nasqueron.org/) ([source](https://github.com/mysql/mysql-server)) | Relational database server for storing and querying application data. | GPL-2.0 | Active | Community | 12,510 |
 | [Grist](https://www.getgrist.com/) ([source](https://github.com/gristlabs/grist-core)) | Spreadsheet-database app for relational tables, formulas, and access-controlled business data. | Apache-2.0 | Active | Official | 12,092 |
-| [Manticore Search](https://manticoresearch.com/) ([source](https://github.com/manticoresoftware/manticoresearch)) | Search database for full-text, vector, and hybrid search with real-time indexing and SQL. | GPL-3.0 | Active | Official | 12,079 |
+| [Manticore Search](https://manticoresearch.com/) ([source](https://github.com/manticoresoftware/manticoresearch)) | Search database for full-text, vector, and hybrid search with real-time indexing and SQL. | GPL-3.0 | Active | Official | 12,082 |
 | [Datasette](https://github.com/simonw/datasette) | Explore and publish data with easy import and export and database management. | Apache-2.0 | Active | Official | 11,569 |
 | [FerretDB](https://docs.ferretdb.io/) ([source](https://github.com/FerretDB/FerretDB)) | Translates MongoDB wire-protocol queries to PostgreSQL so existing MongoDB tools can use an open database backend. | Apache-2.0 | Active | Official | 11,117 |
 | [HyperDX](https://hyperdx.io/) ([source](https://github.com/hyperdxio/hyperdx)) | Unifies logs, metrics, traces, errors, and browser session replay in a ClickHouse-backed observability interface. | MIT | Active | Official | 10,032 |
@@ -54,7 +54,7 @@
 | [Honcho](https://honcho.dev/) ([source](https://github.com/plastic-labs/honcho)) | Stores conversations and events so AI agents can retrieve memory, context, and inferred user models. | AGPL-3.0 | Active | Official | 8,104 |
 | [phpMyAdmin](https://www.phpmyadmin.net/) ([source](https://github.com/phpmyadmin/phpmyadmin)) | Web database admin tool for browsing, editing, and managing MySQL and MariaDB servers. | GPL-2.0 | Active |  | 7,975 |
 | [Adminer](https://www.adminer.org/) ([source](https://github.com/vrana/adminer)) | Single-file PHP tool for connecting to and managing database servers. | Apache License 2.0 or GNU General Publi… | Active | Community | 7,956 |
-| [Manifest](https://manifest.build/) ([source](https://github.com/mnfst/manifest)) | Backend generator that defines APIs, data models, and admin behavior from a YAML file. | MIT | Active | Official | 7,626 |
+| [Manifest](https://manifest.build/) ([source](https://github.com/mnfst/manifest)) | Backend generator that defines APIs, data models, and admin behavior from a YAML file. | MIT | Active | Official | 7,630 |
 | [DbGate](https://www.dbgate.io/) ([source](https://github.com/dbgate/dbgate)) | Database manager for browsing tables, running queries, and working across SQL and NoSQL engines. | GPL-3.0 | Active | Official | 7,378 |
 | [CouchDB](https://couchdb.apache.org/) ([source](https://github.com/apache/couchdb)) | Document-oriented NoSQL database for storing and querying application data. | Apache-2.0 | Active | No | 7,010 |
 | [Rivet](https://www.rivet.dev/) ([source](https://github.com/rivet-dev/rivet)) | Runs durable stateful actors for agents, collaborative applications, queues, and real-time workloads. | Apache-2.0 | Active | Official | 6,825 |
@@ -66,7 +66,7 @@
 | [PgDog](https://pgdog.dev/) ([source](https://github.com/pgdogdev/pgdog)) | Pools PostgreSQL connections, balances queries across replicas, and shards databases. | AGPL-3.0 | Active | Official | 5,605 |
 | [Grafana Mimir](https://grafana.com/oss/mimir/) ([source](https://github.com/grafana/mimir)) | Stores and queries Prometheus and OpenTelemetry metrics for long-term retention. | AGPL-3.0 | Active | Official | 5,278 |
 | [CloudBeaver](https://dbeaver.com/) ([source](https://github.com/dbeaver/cloudbeaver)) | Web database client for browsing, querying, and managing database connections. | Apache-2.0 | Active | Official | 5,225 |
-| [Mathesar](https://mathesar.org/) ([source](https://github.com/mathesar-foundation/mathesar)) | Postgres UI for editing, organizing, and collaborating on relational data. | GPL-3.0 | Active | Official | 5,170 |
+| [Mathesar](https://mathesar.org/) ([source](https://github.com/mathesar-foundation/mathesar)) | Postgres UI for editing, organizing, and collaborating on relational data. | GPL-3.0 | Active | Official | 5,178 |
 | [CKAN](https://ckan.org/) ([source](https://github.com/ckan/ckan)) | Data portal app for publishing datasets, metadata, organizations, and public data catalogs. | AGPL-3.0 | Active |  | 5,153 |
 | [Jitsu](https://jitsu.com/) ([source](https://github.com/jitsucom/jitsu)) | Collects event data, transforms it with code, and sends it to warehouses and operational destinations. | MIT | Active | Official | 5,135 |
 | [WhoDB](https://whodb.com/) ([source](https://github.com/clidey/whodb)) | Database explorer for browsing schemas, running queries, and inspecting data through a web UI. | Apache-2.0 | Active | Official | 5,056 |
@@ -74,7 +74,7 @@
 | [RudderStack](https://www.rudderstack.com/) ([source](https://github.com/rudderlabs/rudder-server)) | Collects customer event data and routes it to warehouses and downstream tools. | Elastic-2.0 | Active | Official | 4,516 |
 | [Kinto](http://docs.kinto-storage.org/) ([source](https://github.com/Kinto/kinto)) | JSON storage service for syncing, sharing, and versioning application data. | Apache-2.0 | Active | Official | 4,424 |
 | [Redis Commander](http://joeferner.github.io/redis-commander) ([source](https://github.com/joeferner/redis-commander)) | Web UI for browsing and editing keys across Redis servers, Sentinel setups, and clusters. | MIT | Slow | Official | 4,003 |
-| [pgAdmin](https://www.pgadmin.org/) ([source](https://github.com/pgadmin-org/pgadmin4)) | PostgreSQL administration app for managing servers, databases, queries, and schema objects. | PostgreSQL | Active | Official | 3,935 |
+| [pgAdmin 4](https://www.pgadmin.org/) ([source](https://github.com/pgadmin-org/pgadmin4)) | pgAdmin manages PostgreSQL servers, databases, and queries through a web interface. | PostgreSQL License | Active | Official | 3,935 |
 | [bknd](https://bknd.io/) ([source](https://github.com/bknd-io/bknd)) | Backend app for creating database-backed APIs, auth, and admin tools for small projects. | Apache-2.0 | Active | Official | 3,781 |
 | [VerneMQ](https://vernemq.com/) ([source](https://github.com/vernemq/vernemq)) | Distributed MQTT broker for routing IoT messages across clustered nodes and client connections. | Apache-2.0 | Active | Official | 3,653 |
 | [graph-node](https://github.com/graphprotocol/graph-node) | Indexes blockchain data for subgraphs and serves queries through a GraphQL API. | Apache-2.0 | Active | Community | 3,166 |
@@ -84,12 +84,12 @@
 | [Cozystack](https://cozystack.io/) ([source](https://github.com/cozystack/cozystack)) | Turns bare-metal servers into a Kubernetes-based cloud with managed clusters, databases, virtual machines, and storage. | Apache-2.0 | Active |  | 2,388 |
 | [Timeplus](https://timeplus.com/) ([source](https://github.com/timeplus-io/proton)) | Processes streaming events with SQL in a single binary for real-time transformations, joins, and analytics. | Apache-2.0 | Active | Official | 2,282 |
 | [PostGIS](https://postgis.net/) ([source](https://github.com/postgis/postgis)) | PostGIS extends PostgreSQL with spatial data types, indexes, and functions. | GPL-2.0 | Active | Community | 2,262 |
-| [Azimutt](https://azimutt.app/) ([source](https://github.com/azimuttapp/azimutt)) | Database explorer for visualizing schemas, relationships, documentation, and query context. | MIT | Active | Official | 2,198 |
+| [Azimutt](https://azimutt.app/) ([source](https://github.com/azimuttapp/azimutt)) | Database explorer for visualizing schemas, relationships, documentation, and query context. | MIT | Active | Official | 2,199 |
 | [Portabase](https://portabase.io/) ([source](https://github.com/Portabase/portabase)) | Creates portable custom databases with tables, forms, filters, and personal records. | Apache-2.0 | Active | Official | 1,879 |
 | [immich-vectorchord-db-unofficial](https://github.com/tensorchord/vectorchord) | PostgreSQL image bundled with VectorChord and pgvector for Immich similarity search. | None declared | Active | Community | 1,840 |
 | [Apache Solr](https://solr.apache.org/) ([source](https://github.com/apache/solr)) | Search platform for indexing and querying full-text, vector, and geospatial data. | Apache-2.0 | Active | Official | 1,700 |
 | [Trench](https://trench.dev/) ([source](https://github.com/FrigadeHQ/trench)) | Ingests product events through an API and queries them in real time with ClickHouse and Kafka. | MIT | Active | Official | 1,670 |
-| [Atomic Server](https://atomicserver.eu/) ([source](https://github.com/ontola/atomic-server)) | Serves linked records with tables, real-time updates, full-text search, and data APIs. | MIT | Active | Official | 1,638 |
+| [Atomic Server](https://atomicserver.eu/) ([source](https://github.com/ontola/atomic-server)) | Serves linked records with tables, real-time updates, full-text search, and data APIs. | MIT | Active | Official | 1,639 |
 | [db-backup](https://nfrastack.com/db-backup/) ([source](https://github.com/nfrastack/db-backup)) | db-backup schedules and manages backups for several database engines. | AGPL-3.0-or-later for Community Edition… | Active | Official | 1,565 |
 | [Databunker](https://databunker.org/) ([source](https://github.com/securitybunker/databunker)) | Secure service for tokenizing and storing personal, health, payment, and identity records. | MIT | Active | Official | 1,498 |
 | [LibreDB Studio](https://libredb.org/) ([source](https://github.com/libredb/libredb-studio)) | Browser-based SQL IDE for PostgreSQL, MySQL, Oracle, SQL Server, SQLite, MongoDB and Redis, with an optional AI assistant that writes SQL from natural. | MIT | Active | No | 1,327 |
@@ -112,7 +112,6 @@
 | [ServiceControl-Audit](https://github.com/particular/servicecontrol) | Audit event storage service for Particular ServiceControl message processing. | None declared | Active | Community | 60 |
 | [Limbas](https://github.com/limbas/limbas) | Low-code database framework for building data-driven business apps and internal tools. | GPL-2.0 | Active | Official | 59 |
 | [DynamoDB Dashboard](https://www.npmjs.com/package/dynamodb-dashboard) ([source](https://github.com/kritish-dhaubanjar/dynamodb-dashboard)) | DynamoDB web dashboard for browsing tables, inspecting records, and managing database data. | MIT | Active | Official | 55 |
-| [sqlitebrowser](https://github.com/linuxserver/docker-sqlitebrowser) | Visual SQLite database browser for creating, editing, and querying database files. | GPL-3.0 | Active | Community | 37 |
 | [borg-mysql-backup](https://github.com/laur89/docker-borg-mysql-backup) | Service for backing up mysql dumps to local and/or remote borg repos, Other files&dirs may be included in the backup, and database dumps can be excluded. | None declared | Active | Community | 17 |
 | [ServiceControl-DB](https://github.com/particular/nservicebus.ravendb) | RavenDB service that stores data for the Particular ServiceControl messaging management application. | None declared | Active | Community | 11 |
 | [BFFless](https://docs.bffless.app/deployment/umbrel/) ([source](https://github.com/bffless/ce)) | Backend service that adds authentication, data, and integrations to static websites. | None declared | Active | Official | 8 |

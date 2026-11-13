@@ -13,7 +13,7 @@
 | [Hi.Events](https://hi.events/) ([source](https://github.com/HiEventsDev/Hi.Events)) | Event management and ticketing app for conferences, concerts, and more, Offering customizable event pages and embeddable ticket widgets. | AGPL-3.0 | Active | Official | 4,171 |
 | [OpnForm](https://opnform.com/) ([source](https://github.com/OpnForm/OpnForm)) | Form builder for creating surveys, collecting responses, and publishing shareable forms. | AGPL-3.0 | Active | Official | 3,996 |
 | [LimeSurvey](https://www.limesurvey.org/) ([source](https://github.com/LimeSurvey/LimeSurvey)) | Web application for creating surveys, polls, and questionnaires with branching logic. | GPL-2.0 | Active |  | 3,795 |
-| [Loomio](https://loomio.com/) ([source](https://github.com/loomio/loomio)) | Collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. | AGPL-3.0 | Active | Official | 2,627 |
+| [Loomio](https://loomio.com/) ([source](https://github.com/loomio/loomio)) | Collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. | AGPL-3.0 | Active | Official | 2,628 |
 | [Pretix](https://pretix.eu/) ([source](https://github.com/pretix/pretix)) | Event ticketing app for sales, check-in, orders, and attendee management. | AGPL-3.0 | Active | Official | 2,563 |
 | [Astuto](https://github.com/astuto/astuto) | Feedback board for collecting ideas, bug reports, votes, and product suggestions. | AGPL-3.0 | Archived | Official | 2,342 |
 | [Usertour](https://www.usertour.io/) ([source](https://github.com/usertour/usertour)) | User onboarding app allowing you to create in-app product tours, checklists, and surveys in minutes effortlessly. | AGPL-3.0 | Active | Official | 2,338 |
@@ -40,7 +40,7 @@
 | [gathio](https://docs.gath.io/) ([source](https://github.com/lowercasename/gathio)) | Event page service for creating shareable pages that expire and require no registration. | GPL-3.0 | Active | Official | 466 |
 | [ClearFlask](https://clearflask.com/) ([source](https://github.com/clearflask/clearflask)) | Listen to your users during product development with ClearFlask. | Apache-2.0 | Active | Official | 451 |
 | [Christmas Community](https://github.com/Wingysam/Christmas-Community) | Coordinates family gift lists so people can share wishes and avoid duplicate gifts. | AGPL-3.0 | Active | Official | 423 |
-| [Nextcloud Forms](https://apps.nextcloud.com/apps/forms) ([source](https://github.com/nextcloud/forms)) | Nextcloud app for building forms, surveys, and response collection pages. | AGPL-3.0 | Active |  | 383 |
+| [Nextcloud Forms](https://apps.nextcloud.com/apps/forms) ([source](https://github.com/nextcloud/forms)) | Nextcloud app for building forms, surveys, and response collection pages. | AGPL-3.0 | Active |  | 384 |
 | [Secretsanta](http://mael.dev/secretsanta/) ([source](https://github.com/arcanis/secretsanta)) | Randomly pair participants for a Secret Santa gift exchange. | MIT | Slow | No | 377 |
 | [Quizmaster](https://github.com/nymanjens/quizmaster) | Hosts live multiplayer quizzes that participants join from their browsers. | Apache-2.0 | Active | Official | 327 |
 | [Bitpoll](https://github.com/fsinfuhh/Bitpoll) | Conduct polls about dates, times or general questions. | GPL-3.0 | Active | Official | 320 |
@@ -49,7 +49,7 @@
 | [Pønskelisten](https://github.com/aunefyren/poenskelisten) | Lets people create and share wishlists and coordinate gifts. | GPL-3.0 | Active | Official | 213 |
 | [Meetable](https://meetable.org/) ([source](https://github.com/aaronpk/Meetable)) | Event aggregator for collecting event pages, dates, locations, and attendee details. | MIT | Active | Official | 171 |
 | [derbynet\_server](http://jeffpiazza.github.io/derbynet/) ([source](https://github.com/jeffpiazza/derbynet)) | Pinewood Derby race manager with browser-based check-in, scheduling, displays, and results. | MIT | Active | Community | 165 |
-| [Motion Tools Antragsgrun](https://motion.tools/) ([source](https://github.com/CatoTH/antragsgruen)) | Web participation and decision-support tool for organizations and civic groups. | AGPL-3.0 | Active | Official | 151 |
+| [motion.tools (Antragsgrün)](https://motion.tools/) ([source](https://github.com/CatoTH/antragsgruen)) | Web tool for managing motions and amendments during political conventions. | AGPL-3.0 | Active | Official | 151 |
 | [Revel](https://www.letsrevel.io/) ([source](https://github.com/letsrevel/revel-backend)) | Manages community events, ticketing, attendees, and event publishing workflows. | MIT | Active | Official | 118 |
 | [Pytition](https://pytition.org/) ([source](https://github.com/pytition/Pytition)) | Privacy-friendly petition service for creating and collecting signatures online. | BSD-3-Clause | Active | No | 117 |
 | [Event Schedule](https://eventschedule.com/) ([source](https://github.com/eventschedule/eventschedule)) | Publishes event schedules, speaker details, tickets, and attendee updates. | Attribution Assurance License (custom) | Active | Official | 102 |
