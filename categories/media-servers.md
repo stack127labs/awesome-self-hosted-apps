@@ -1,6 +1,6 @@
 # Media servers self-hosted apps
 
-518 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/media-servers).
+519 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/media-servers).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -16,6 +16,7 @@
 | [Sonarr](https://sonarr.tv/) ([source](https://github.com/Sonarr/Sonarr)) | Automatic TV Shows downloader and manager for Usenet and BitTorrent. | GPL-3.0 | Active | Official | 17,645 |
 | [Jackett](https://github.com/Jackett/Jackett) | Exposes torrent tracker results through an API for media automation apps. | GPL-2.0 | Active | Community | 16,361 |
 | [PeerTube](https://joinpeertube.org/) ([source](https://github.com/Chocobozzz/PeerTube)) | Decentralized video streaming app using P2P (BitTorrent) directly in the web browser. | AGPL-3.0 | Active | Official | 15,402 |
+| [Peertube Remote Runner](https://docs.joinpeertube.org/admin/remote-runners) ([source](https://github.com/Chocobozzz/PeerTube)) | Runner to offload high CPU/long job from Peertube main server. | AGPL-3.0 | Active | No | 15,402 |
 | [Stremio](https://www.stremio.com/) ([source](https://github.com/Stremio/stremio-web)) | Media center for organizing and streaming movies, shows, and other video content. | GPL-2.0 | Active | No | 15,035 |
 | [Radarr](https://radarr.video/) ([source](https://github.com/Radarr/Radarr)) | Manages a movie library and sends searches to indexers and download clients. | GPL-3.0 | Active | Community | 14,742 |
 | [Stash](https://stashapp.cc/) ([source](https://github.com/stashapp/stash)) | Web library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. | AGPL-3.0 | Active | Official | 13,393 |

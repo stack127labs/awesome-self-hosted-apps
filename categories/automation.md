@@ -1,6 +1,6 @@
 # Automation self-hosted apps
 
-423 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/automation).
+424 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/automation).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -42,6 +42,7 @@
 | [Maxun](https://www.maxun.dev/) ([source](https://github.com/getmaxun/maxun)) | Web scraping app for building robots that collect data from sites without custom code. | AGPL-3.0 | Active | Official | 18,220 |
 | [Leon](https://getleon.ai/) ([source](https://github.com/leon-ai/leon)) | Personal assistant server for running voice and text skills on your own machine. | MIT | Active |  | 17,669 |
 | [Trigger.dev](https://trigger.dev/) ([source](https://github.com/triggerdotdev/trigger.dev)) | Runs durable background tasks, scheduled jobs, and AI workflows from application code. | Apache-2.0 | Active | Official | 16,757 |
+| [Peertube Remote Runner](https://docs.joinpeertube.org/admin/remote-runners) ([source](https://github.com/Chocobozzz/PeerTube)) | Runner to offload high CPU/long job from Peertube main server. | AGPL-3.0 | Active | No | 15,402 |
 | [Logstash](https://www.elastic.co/logstash) ([source](https://github.com/elastic/logstash)) | Logstash is a free and open server-side data processing pipeline that ingests data from multiple sources, transforms it, and sends it to your desired. | None declared | Active | No | 14,979 |
 | [GenericAgent](https://gaagent.ai/) ([source](https://github.com/lsdefine/GenericAgent)) | Local self-evolving agent with Streamlit, terminal, browser, and messaging interfaces. | MIT | Active | No | 14,410 |
 | [Semaphore UI](https://semaphoreui.com/) ([source](https://github.com/semaphoreui/semaphore)) | Web UI for running Ansible playbooks, Terraform jobs, OpenTofu tasks, and shell commands. | MIT | Active | Official | 14,391 |

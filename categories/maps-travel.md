@@ -1,6 +1,6 @@
 # Maps and travel self-hosted apps
 
-65 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/maps-travel).
+66 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/maps-travel).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -40,6 +40,7 @@
 | [Ulogger](https://github.com/bfabiszewski/ulogger-server) | Real-time collection of geolocation data, tracks viewing and management. | GPL-3.0 | Stale | No | 614 |
 | [PiAware](https://www.flightaware.com/adsb/piaware/) ([source](https://github.com/flightaware/piaware)) | ADS-B feeder client that forwards receiver data to FlightAware. | BSD-2-Clause | Active | Community | 580 |
 | [Owntracks](https://owntracks.org/) ([source](https://github.com/owntracks/frontend)) | Location tracking service for storing and viewing movement history. | MIT | Slow | No | 560 |
+| [OwnTracks Frontend](https://github.com/owntracks/frontend) | Web interface for viewing and managing location data from OwnTracks. | MIT | Slow | Official | 560 |
 | [Facilmap](https://facilmap.org/) ([source](https://github.com/FacilMap/facilmap)) | Collaborative maps and routing with a straightforward interface. | AGPL-3.0 | Active | No | 412 |
 | [Scratch Map](https://github.com/ad3m3r5/scratch-map) | Travel map for marking visited places with a scratch-off style view. | AGPL-3.0 | Active | Official | 412 |
 | [jetlog](https://github.com/pbogre/jetlog) | Flight tracker for recording trips and viewing personal aviation history. | GPL-2.0 | Active | Official | 352 |

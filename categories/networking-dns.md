@@ -1,6 +1,6 @@
 # Networking and DNS self-hosted apps
 
-343 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/networking-dns).
+344 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/networking-dns).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -58,6 +58,7 @@
 | [Zoraxy](https://zoraxy.aroz.org/) ([source](https://github.com/tobychui/zoraxy)) | General purpose HTTP reverse proxy and forwarding tool. | AGPL-3.0 | Active | Official | 5,576 |
 | [Cjdns](https://github.com/cjdelisle/cjdns) | Encrypted IPv6 network for managing network services and connections. | GPL-3.0 | Active | No | 5,422 |
 | [Wireguard](https://www.wireguard.com/) ([source](https://github.com/ngoduykhanh/wireguard-ui)) | Fast and modern VPN server, including a configuration webapp. | MIT | Stale | No | 5,160 |
+| [Tor Browser](https://www.torproject.org/) ([source](https://github.com/torproject/tor)) | Privacy-focused browser for accessing the web through the Tor network. | None declared | Stale | Official | 5,127 |
 | [Torrelay](https://www.torproject.org/) ([source](https://github.com/torproject/tor)) | Receive traffic on the Tor network and pass it along. | BSD-3-Clause | Stale | No | 5,127 |
 | [Pomerium](https://www.pomerium.com/) ([source](https://github.com/pomerium/pomerium)) | Identity-aware access proxy for protecting internal apps with contextual authorization. | Apache-2.0 | Active | Official | 5,100 |
 | [SpoofDPI](https://github.com/xvzc/spoofdpi) | Simple and fast software designed to bypass Deep Packet Inspection. | Apache-2.0 | Active | Community | 5,068 |

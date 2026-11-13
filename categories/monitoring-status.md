@@ -1,6 +1,6 @@
 # Monitoring and status self-hosted apps
 
-320 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/monitoring-status).
+322 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/monitoring-status).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -20,6 +20,7 @@
 | [Loki](https://grafana.com/oss/loki) ([source](https://github.com/grafana/loki)) | Log aggregation system for collecting, querying, and storing application and infrastructure logs. | AGPL-3.0 | Active | Official | 29,170 |
 | [Promtail](https://grafana.com/docs/loki/latest/send-data/promtail/) ([source](https://github.com/grafana/loki/tree/v3.6.5/clients/cmd/promtail)) | End-of-life agent for collecting host and container logs and sending them to Grafana Loki. | AGPL-3.0 | Active | Official | 29,170 |
 | [Beszel](https://beszel.dev/) ([source](https://github.com/henrygd/beszel)) | Server monitoring hub for checking resource usage, containers, systems, and alerts. | MIT | Active | Official | 27,151 |
+| [Beszel Agent](https://www.beszel.dev/) ([source](https://github.com/henrygd/beszel)) | Monitoring agent that sends host metrics to a Beszel server. | MIT | Active | No | 27,151 |
 | [Prefect](https://www.prefect.io/) ([source](https://github.com/PrefectHQ/prefect)) | Workflow activity is tracked and can be monitored with a local Prefect server instance or managed Prefect Cloud dashboard. | Apache-2.0 | Active | No | 24,152 |
 | [Opik](https://www.comet.com/docs/opik) ([source](https://github.com/comet-ml/opik)) | LLM observability and evaluation app for tracing agents, testing prompts, and monitoring production. | Apache-2.0 | Active | Official | 23,288 |
 | [Openobserve](https://openobserve.ai/) ([source](https://github.com/openobserve/openobserve)) | Alternative to Elasticsearch/Splunk/Datadog for logs, metrics, traces, RUM, and more. | AGPL-3.0 | Active | No | 23,040 |
@@ -55,6 +56,7 @@
 | [GreptimeDB](https://greptime.com/) ([source](https://github.com/greptimeteam/greptimedb)) | Cloud-native observability database unifying metrics, logs, and traces with sub-second queries, 50x cost reduction, and OpenTelemetry integration. | Apache-2.0 | Active | No | 6,804 |
 | [Tautulli](https://tautulli.com/) ([source](https://github.com/Tautulli/Tautulli)) | Monitoring and tracking tool for Plex Media Server. | GPL-3.0 | Active | Official | 6,638 |
 | [Zabbix](https://www.zabbix.com/) ([source](https://github.com/zabbix/zabbix)) | Monitoring system for tracking servers, networks, applications, and service health. | AGPL-3.0 | Active | Official | 6,569 |
+| [Zabbix Agent](https://www.zabbix.com/) ([source](https://github.com/zabbix/zabbix)) | Agent that collects host metrics and sends them to a Zabbix server. | AGPL-3.0 | Active | Official | 6,569 |
 | [xyOps](https://github.com/pixlcore/xyops) | Workflow automation and monitoring app for running jobs and watching server health. | BSD-3-Clause | Active | Official | 6,338 |
 | [Speedtest Tracker](https://speedtest-tracker.dev/) ([source](https://github.com/alexjustesen/speedtest-tracker)) | Monitor the performance and uptime of your internet connection. | MIT | Active | Official | 6,082 |
 | [Countly Community Edition](https://countly.com/) ([source](https://github.com/Countly/countly-server)) | Real time mobile and web analytics, crash reporting and push notifications app. | AGPL-3.0 | Active | Official | 5,927 |

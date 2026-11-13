@@ -1,6 +1,6 @@
 # System admin and hosting self-hosted apps
 
-383 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/system-admin-hosting).
+384 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/system-admin-hosting).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -29,6 +29,7 @@
 | [CapRover](https://caprover.com/) ([source](https://github.com/caprover/caprover)) | Deployment panel for running apps, databases, HTTPS, and web services on Docker servers. | Apache-2.0 | Active |  | 15,205 |
 | [Semaphore UI](https://semaphoreui.com/) ([source](https://github.com/semaphoreui/semaphore)) | Web UI for running Ansible playbooks, Terraform jobs, OpenTofu tasks, and shell commands. | MIT | Active | Official | 14,391 |
 | [Komodo](https://komo.do/) ([source](https://github.com/moghtech/komodo)) | Deployment dashboard for building, updating, and monitoring services across multiple servers. | GPL-3.0 | Active | Official | 12,923 |
+| [komodo-client](https://komo.do/docs/setup/connect-servers) ([source](https://github.com/moghtech/komodo)) | Client that connects Unraid hosts to Komodo for Docker management. | GPL-3.0 | Active | Community | 12,923 |
 | [umbrelOS](https://umbrel.com/) ([source](https://github.com/getumbrel/umbrel)) | Home server OS for running personal cloud services and app-store apps. | PolyForm Noncommercial 1.0.0 | Active | No | 12,552 |
 | [Nginx UI](https://nginxui.com/) ([source](https://github.com/0xJacky/nginx-ui)) | Web interface for managing NGINX configuration, certificates, logs, and server settings. | AGPL-3.0 | Active | Official | 11,767 |
 | [Tipi](https://www.runtipi.io/) ([source](https://github.com/runtipi/runtipi)) | Homeserver manager, One command setup, one click installs for your favorites apps. | GPL-3.0 | Active | Official | 9,738 |

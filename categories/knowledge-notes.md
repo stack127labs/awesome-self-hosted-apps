@@ -1,12 +1,13 @@
 # Knowledge and notes self-hosted apps
 
-113 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/knowledge-notes).
+114 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/knowledge-notes).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
 | [AFFiNE Community Edition](https://affine.pro/) ([source](https://github.com/toeverything/AFFiNE)) | Workspace app for documents, whiteboards, knowledge notes, and team collaboration. | Mixed licensing: most files outside the… | Active | Official | 74,496 |
 | [Memos](https://usememos.com/) ([source](https://github.com/usememos/memos)) | Memo and note-taking app with a SQLite-backed server and lightweight web interface. | MIT | Active | Official | 64,431 |
 | [Joplin](https://joplinapp.org/) ([source](https://github.com/laurent22/joplin)) | Note-taking and to-do app that can run in a browser through a community Docker image and sync with Joplin Server or other storage targets. | AGPL-3.0-or-later | Active | Community | 57,159 |
+| [Joplin Server](https://joplinapp.org/) ([source](https://github.com/laurent22/joplin)) | Sync server for Joplin notes, notebooks, attachments, and shared data. | Joplin Server Personal Use License | Active | Official | 57,159 |
 | [SiYuan](https://b3log.org/siyuan) ([source](https://github.com/siyuan-note/siyuan)) | Privacy-first personal knowledge management software, written in typescript and golang. | AGPL-3.0 | Active | Official | 47,172 |
 | [Logseq](https://logseq.com/) ([source](https://github.com/logseq/logseq)) | Outliner and knowledge base for linking notes, tasks, journals, and local-first research. | AGPL-3.0 | Active | Official | 45,576 |
 | [Project N.O.M.A.D.](https://github.com/Crosstalk-Solutions/project-nomad) | Offline-first knowledge base with local tools for notes, references, and field workflows. | Apache-2.0 | Active | Official | 43,060 |

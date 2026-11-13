@@ -1,6 +1,6 @@
 # Communication self-hosted apps
 
-226 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/communication).
+227 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/communication).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -14,6 +14,7 @@
 | [Zulip](https://zulip.com/) ([source](https://github.com/zulip/zulip)) | Team chat server that organizes conversations into streams and topic-based threads. | Apache-2.0 | Active | Official | 26,198 |
 | [SimpleX Chat](https://simplex.chat/) ([source](https://github.com/simplex-chat/simplex-chat)) | The most private and secure chat and applications app - now with double ratchet E2E encryption. | AGPL-3.0 | Active | Official | 19,679 |
 | [Apprise](https://github.com/caronc/apprise) | Apprise - Push Notifications that work with just about every app. | BSD-2-Clause | Active | Official | 17,751 |
+| [Ssh Apprise](https://github.com/caronc/apprise) | Get notified of any SSH connection with Apprise for transferring files securely over a network. | BSD-2-Clause | Active | No | 17,751 |
 | [OpenWA](https://www.open-wa.org/) ([source](https://github.com/rmyndharis/OpenWA)) | WhatsApp API gateway for sending and receiving messages programmatically. | MIT | Active | No | 16,789 |
 | [Gotify](https://gotify.net/) ([source](https://github.com/gotify/server)) | Notification server for sending messages to apps, browsers, and WebSocket clients. | MIT | Active | Official | 16,204 |
 | [Coturn](https://github.com/coturn/coturn) | VoIP media traffic NAT traversal server and gateway. | BSD-3-Clause | Active | No | 14,552 |

@@ -1,6 +1,6 @@
 # Email and newsletters self-hosted apps
 
-97 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/email-newsletters).
+98 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/email-newsletters).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -30,6 +30,7 @@
 | [Dittofeed](https://dittofeed.com/) ([source](https://github.com/dittofeed/dittofeed)) | Customer engagement, Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more . | MIT | Active | Official | 3,061 |
 | [Laudspeaker](https://github.com/laudspeaker/laudspeaker) | Customer messaging app for product emails, journeys, events, and engagement workflows. | AGPL-3.0-only | Active | Official | 2,635 |
 | [Rspamd](https://rspamd.com/) ([source](https://github.com/rspamd/rspamd)) | Spam filtering system for evaluating and processing email. | Apache-2.0 | Active | No | 2,565 |
+| [Rspamdui](https://rspamd.com/webui) ([source](https://github.com/rspamd/rspamd)) | Simple control interface for rspamd spam filtering system. | Apache-2.0 | Active | No | 2,565 |
 | [Open Archiver](https://openarchiver.com/) ([source](https://github.com/LogicLabs-OU/OpenArchiver)) | Email archiving app with full-text search and eDiscovery search features. | AGPL-3.0 | Active | Official | 2,468 |
 | [Inbucket](https://inbucket.org/) ([source](https://github.com/inbucket/inbucket)) | Disposable email service for testing mail delivery without sending messages to real inboxes. | MIT | Active | No | 2,313 |
 | [Notifuse](https://www.notifuse.com/) ([source](https://github.com/Notifuse/notifuse)) | Email sending app for newsletters, transactional messages, contacts, and delivery tracking. | AGPL-3.0 | Active | Official | 2,278 |

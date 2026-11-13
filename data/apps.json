@@ -6649,6 +6649,25 @@
    "ram_estimate_max_mb": 512
   },
   {
+   "slug": "beszel-agent",
+   "name": "Beszel Agent",
+   "summary": "Monitoring agent that sends host metrics to a Beszel server.",
+   "categories": [
+    "monitoring-status"
+   ],
+   "website_url": "https://www.beszel.dev/",
+   "source_code_url": "https://github.com/henrygd/beszel",
+   "other_url": "",
+   "license": "MIT",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-10",
+   "docker_support": "none",
+   "stars": 27151,
+   "ram_estimate_min_mb": 64,
+   "ram_estimate_max_mb": 256
+  },
+  {
    "slug": "betterlytics",
    "name": "Betterlytics",
    "summary": "Measures website traffic, funnels, sessions, and replay data without relying on tracking cookies.",
@@ -9282,6 +9301,25 @@
    "stars": 17,
    "ram_estimate_min_mb": 128,
    "ram_estimate_max_mb": 512
+  },
+  {
+   "slug": "borgserver",
+   "name": "Borgserver",
+   "summary": "Backup storage service for sharing a Borg repository with a trusted friend.",
+   "categories": [
+    "storage-backup"
+   ],
+   "website_url": "https://www.borgbackup.org/",
+   "source_code_url": "https://github.com/borgbackup/borg",
+   "other_url": "",
+   "license": "BSD-3-Clause",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-10",
+   "docker_support": "none",
+   "stars": 13918,
+   "ram_estimate_min_mb": 256,
+   "ram_estimate_max_mb": 1024
   },
   {
    "slug": "borg-ui",
@@ -12648,6 +12686,25 @@
    "stars": 7534,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
+  },
+  {
+   "slug": "clamdscan",
+   "name": "clamdscan",
+   "summary": "One-shot filesystem scanner that uses ClamAV to check mounted storage for malware.",
+   "categories": [
+    "security-privacy"
+   ],
+   "website_url": "",
+   "source_code_url": "https://github.com/Cisco-Talos/clamav",
+   "other_url": "",
+   "license": "GPL-2.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-06",
+   "docker_support": "community",
+   "stars": 7534,
+   "ram_estimate_min_mb": 2048,
+   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "claper",
@@ -37679,6 +37736,26 @@
    "ram_estimate_max_mb": 4096
   },
   {
+   "slug": "joplin-server",
+   "name": "Joplin Server",
+   "summary": "Sync server for Joplin notes, notebooks, attachments, and shared data.",
+   "categories": [
+    "file-sharing-sync",
+    "knowledge-notes"
+   ],
+   "website_url": "https://joplinapp.org/",
+   "source_code_url": "https://github.com/laurent22/joplin",
+   "other_url": "",
+   "license": "Joplin Server Personal Use License",
+   "source_model": "source_available",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-13",
+   "docker_support": "official",
+   "stars": 57159,
+   "ram_estimate_min_mb": 4096,
+   "ram_estimate_max_mb": 8192
+  },
+  {
    "slug": "joshgaby-tor-relay",
    "name": "joshgaby-tor-relay",
    "summary": "Tor relay for forwarding traffic through the Tor network.",
@@ -39571,6 +39648,25 @@
    "stars": 12923,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 4096
+  },
+  {
+   "slug": "komodo-client",
+   "name": "komodo-client",
+   "summary": "Client that connects Unraid hosts to Komodo for Docker management.",
+   "categories": [
+    "system-admin-hosting"
+   ],
+   "website_url": "https://komo.do/docs/setup/connect-servers",
+   "source_code_url": "https://github.com/moghtech/komodo",
+   "other_url": "",
+   "license": "GPL-3.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-09-01",
+   "docker_support": "community",
+   "stars": 12923,
+   "ram_estimate_min_mb": 2048,
+   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "kong-gateway",
@@ -55276,6 +55372,25 @@
    "ram_estimate_max_mb": 8192
   },
   {
+   "slug": "onlyoffice-docs",
+   "name": "ONLYOFFICE Docs",
+   "summary": "Online editor for documents, spreadsheets, presentations, and PDFs, Features real-time collaboration, AI integration, and accessibility tools.",
+   "categories": [
+    "documents-pdfs"
+   ],
+   "website_url": "https://www.onlyoffice.com/docs",
+   "source_code_url": "https://github.com/onlyoffice/documentserver",
+   "other_url": "",
+   "license": "AGPL-3.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-10-26",
+   "docker_support": "none",
+   "stars": 7122,
+   "ram_estimate_min_mb": 2048,
+   "ram_estimate_max_mb": 8192
+  },
+  {
    "slug": "onlyoffice-document-server",
    "name": "ONLYOFFICE Document Server",
    "summary": "Web editors and viewers for office documents with real-time collaborative editing.",
@@ -58504,6 +58619,25 @@
    "ram_estimate_max_mb": 2048
   },
   {
+   "slug": "owntracks-frontend",
+   "name": "OwnTracks Frontend",
+   "summary": "Web interface for viewing and managing location data from OwnTracks.",
+   "categories": [
+    "maps-travel"
+   ],
+   "website_url": "https://github.com/owntracks/frontend",
+   "source_code_url": "https://github.com/owntracks/frontend",
+   "other_url": "",
+   "license": "MIT",
+   "source_model": "open_source",
+   "maintenance_status": "slow",
+   "last_commit_date": "2025-04-23",
+   "docker_support": "official",
+   "stars": 560,
+   "ram_estimate_min_mb": 256,
+   "ram_estimate_max_mb": 2048
+  },
+  {
    "slug": "owntracks-recorder",
    "name": "OwnTracks Recorder",
    "summary": "Store and access data published by OwnTracks location tracking apps.",
@@ -59887,6 +60021,26 @@
    "stars": 15402,
    "ram_estimate_min_mb": 1536,
    "ram_estimate_max_mb": 4096
+  },
+  {
+   "slug": "peertube-remote-runner",
+   "name": "Peertube Remote Runner",
+   "summary": "Runner to offload high CPU/long job from Peertube main server.",
+   "categories": [
+    "automation",
+    "media-servers"
+   ],
+   "website_url": "https://docs.joinpeertube.org/admin/remote-runners",
+   "source_code_url": "https://github.com/Chocobozzz/PeerTube",
+   "other_url": "",
+   "license": "AGPL-3.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-10",
+   "docker_support": "none",
+   "stars": 15402,
+   "ram_estimate_min_mb": 2048,
+   "ram_estimate_max_mb": 8192
   },
   {
    "slug": "peertube-search-index",
@@ -69526,6 +69680,26 @@
    "ram_estimate_max_mb": 2048
   },
   {
+   "slug": "rspamdui",
+   "name": "Rspamdui",
+   "summary": "Simple control interface for rspamd spam filtering system.",
+   "categories": [
+    "email-newsletters",
+    "security-privacy"
+   ],
+   "website_url": "https://rspamd.com/webui",
+   "source_code_url": "https://github.com/rspamd/rspamd",
+   "other_url": "",
+   "license": "Apache-2.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-09",
+   "docker_support": "none",
+   "stars": 2565,
+   "ram_estimate_min_mb": 256,
+   "ram_estimate_max_mb": 2048
+  },
+  {
    "slug": "rss2email",
    "name": "RSS2EMail",
    "summary": "Service that forwards new RSS and Atom feed content to email.",
@@ -76667,6 +76841,26 @@
    "ram_estimate_max_mb": 2048
   },
   {
+   "slug": "ssh-apprise",
+   "name": "Ssh Apprise",
+   "summary": "Get notified of any SSH connection with Apprise for transferring files securely over a network.",
+   "categories": [
+    "communication",
+    "remote-access"
+   ],
+   "website_url": "",
+   "source_code_url": "https://github.com/caronc/apprise",
+   "other_url": "",
+   "license": "BSD-2-Clause",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-11",
+   "docker_support": "none",
+   "stars": 17751,
+   "ram_estimate_min_mb": 256,
+   "ram_estimate_max_mb": 2048
+  },
+  {
    "slug": "sshwifty",
    "name": "Sshwifty",
    "summary": "Browser-based SSH and Telnet client for opening remote terminal sessions through a web UI.",
@@ -82604,6 +82798,26 @@
    "stars": 9,
    "ram_estimate_min_mb": 2048,
    "ram_estimate_max_mb": 8192
+  },
+  {
+   "slug": "tor-browser",
+   "name": "Tor Browser",
+   "summary": "Privacy-focused browser for accessing the web through the Tor network.",
+   "categories": [
+    "networking-dns",
+    "security-privacy"
+   ],
+   "website_url": "https://www.torproject.org/",
+   "source_code_url": "https://github.com/torproject/tor",
+   "other_url": "",
+   "license": "None declared",
+   "source_model": "source_available",
+   "maintenance_status": "stale",
+   "last_commit_date": "2024-03-05",
+   "docker_support": "official",
+   "stars": 5127,
+   "ram_estimate_min_mb": 256,
+   "ram_estimate_max_mb": 2048
   },
   {
    "slug": "torlink-plusplus",
@@ -92295,6 +92509,25 @@
    "stars": 6569,
    "ram_estimate_min_mb": 4096,
    "ram_estimate_max_mb": 8192
+  },
+  {
+   "slug": "zabbix-agent",
+   "name": "Zabbix Agent",
+   "summary": "Agent that collects host metrics and sends them to a Zabbix server.",
+   "categories": [
+    "monitoring-status"
+   ],
+   "website_url": "https://www.zabbix.com/",
+   "source_code_url": "https://github.com/zabbix/zabbix",
+   "other_url": "",
+   "license": "AGPL-3.0",
+   "source_model": "open_source",
+   "maintenance_status": "active",
+   "last_commit_date": "2026-11-12",
+   "docker_support": "official",
+   "stars": 6569,
+   "ram_estimate_min_mb": 32,
+   "ram_estimate_max_mb": 256
   },
   {
    "slug": "zammad",

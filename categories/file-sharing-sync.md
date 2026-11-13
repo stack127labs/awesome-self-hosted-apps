@@ -1,11 +1,12 @@
 # File sharing and sync self-hosted apps
 
-323 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/file-sharing-sync).
+324 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/file-sharing-sync).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
 | [Syncthing](https://syncthing.net/) ([source](https://github.com/syncthing/syncthing)) | Peer-to-peer file sync app for keeping folders matched across computers without a central server. | MPL-2.0 | Active | Official | 90,324 |
 | [Rclone](https://rclone.org/) ([source](https://github.com/rclone/rclone)) | Command-line tool for syncing, copying, mounting, and managing files across cloud storage providers. | MIT | Active | Official | 60,993 |
+| [Joplin Server](https://joplinapp.org/) ([source](https://github.com/laurent22/joplin)) | Sync server for Joplin notes, notebooks, attachments, and shared data. | Joplin Server Personal Use License | Active | Official | 57,159 |
 | [AList](https://alistgo.com/) ([source](https://github.com/alistgo/alist)) | Web file-listing and sharing service that connects local and cloud storage providers through one interface. | AGPL-3.0 | Active | Official | 50,437 |
 | [copyparty](https://github.com/9001/copyparty) | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ file. | MIT | Active | Official | 47,312 |
 | [Cobalt](https://cobalt.tools/) ([source](https://github.com/imputnet/cobalt)) | Web app and API for saving public media links as downloadable files. | AGPL-3.0 | Active | Official | 45,952 |

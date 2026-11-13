@@ -1,6 +1,6 @@
 # Security and privacy self-hosted apps
 
-265 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/security-privacy).
+268 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/security-privacy).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -46,6 +46,7 @@
 | [Graylog](https://www.graylog.org/) ([source](https://github.com/Graylog2/graylog2-server)) | Log management server for collecting, searching, and analyzing machine data. | SSPL-1.0 | Active | Official | 8,176 |
 | [iodine](https://code.kryo.se/iodine) ([source](https://github.com/yarrick/iodine)) | IPv4 over DNS tunnel app, enabling you to start up a socks5 proxy listener. | ISC | Active |  | 8,035 |
 | [ClamAV](https://www.clamav.net/) ([source](https://github.com/Cisco-Talos/clamav)) | Antivirus engine for scanning files, mail, and streams for known malware signatures. | GPL-2.0 | Active | Community | 7,534 |
+| [clamdscan](https://github.com/Cisco-Talos/clamav) | One-shot filesystem scanner that uses ClamAV to check mounted storage for malware. | GPL-2.0 | Active | Community | 7,534 |
 | [NetAlertX](https://netalertx.com/) ([source](https://github.com/netalertx/NetAlertX)) | Network intruder and presence detector, Scans for devices connected to your network and alerts you if new and unknown devices are found. | GPL-3.0 | Active | Official | 7,408 |
 | [OnionShare](https://onionshare.org/) ([source](https://github.com/onionshare/onionshare)) | Securely and anonymously share a file of any size. | GPL-3.0 | Active |  | 7,218 |
 | [SimpleLogin](https://simplelogin.io/) ([source](https://github.com/simple-login/app)) | Email alias server for creating relay addresses and protecting personal inboxes. | AGPL-3.0 | Active | Official | 7,132 |
@@ -56,6 +57,7 @@
 | [Zoneminder](http://www.zoneminder.com/) ([source](https://github.com/ZoneMinder/zoneminder)) | Closed-circuit television (CCTV) software application which supports IP, USB and Analog cameras. | GPL-2.0 | Active | Official | 5,988 |
 | [Cjdns](https://github.com/cjdelisle/cjdns) | Encrypted IPv6 network for managing network services and connections. | GPL-3.0 | Active | No | 5,422 |
 | [LibReddit](https://spike.codes/) ([source](https://github.com/spikecodes/libreddit)) | Private alternative frontend for browsing Reddit without its standard interface. | AGPL-3.0 | Slow | Official | 5,199 |
+| [Tor Browser](https://www.torproject.org/) ([source](https://github.com/torproject/tor)) | Privacy-focused browser for accessing the web through the Tor network. | None declared | Stale | Official | 5,127 |
 | [Torrelay](https://www.torproject.org/) ([source](https://github.com/torproject/tor)) | Receive traffic on the Tor network and pass it along. | BSD-3-Clause | Stale | No | 5,127 |
 | [SpoofDPI](https://github.com/xvzc/spoofdpi) | Simple and fast software designed to bypass Deep Packet Inspection. | Apache-2.0 | Active | Community | 5,068 |
 | [AnonAddy](https://addy.io/) ([source](https://github.com/anonaddy/anonaddy)) | Email alias service for forwarding mail through disposable or private addresses. | AGPL-3.0 | Active | Official | 4,951 |
@@ -77,6 +79,7 @@
 | [Docker Socket Proxy](https://github.com/Tecnativa/docker-socket-proxy) | Docker API proxy for exposing selected socket endpoints with reduced access. | Apache-2.0 | Active | Official | 2,885 |
 | [I2P](https://i2p.net/) ([source](https://github.com/i2p/i2p.i2p)) | I2P (Invisible Internet Protocol) is a universal anonymous network layer, All communications over I2P are anonymous and end-to-end encrypted, participants. | GPL-3.0 | Active | No | 2,755 |
 | [Rspamd](https://rspamd.com/) ([source](https://github.com/rspamd/rspamd)) | Spam filtering system for evaluating and processing email. | Apache-2.0 | Active | No | 2,565 |
+| [Rspamdui](https://rspamd.com/webui) ([source](https://github.com/rspamd/rspamd)) | Simple control interface for rspamd spam filtering system. | Apache-2.0 | Active | No | 2,565 |
 | [Peergos](https://peergos.org/) ([source](https://github.com/Peergos/Peergos)) | Combines encrypted file storage, sharing, social features, and app protocol support. | AGPL-3.0 | Active | Official | 2,553 |
 | [degoog](https://degoog-org.github.io/docs) ([source](https://github.com/degoog-org/degoog)) | Aggregates searches across multiple providers through configurable plugins and query routing. | AGPL-3.0 | Active | Official | 2,537 |
 | [Aleph](https://aleph.occrp.org/) ([source](https://github.com/alephdata/aleph)) | Tool for searching and analyzing documents and data about people and companies. | MIT | Active | Official | 2,508 |

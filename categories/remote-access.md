@@ -1,6 +1,6 @@
 # Remote access self-hosted apps
 
-80 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/remote-access).
+81 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/remote-access).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -16,6 +16,7 @@
 | [Neko](https://neko.m1k1o.net/) ([source](https://github.com/m1k1o/neko)) | Virtual browser that runs in docker and uses WebRTC. | Apache-2.0 | Active | Official | 22,675 |
 | [macOS in Docker](https://github.com/dockur/macos) | Runs macOS as a virtual machine in Docker with a browser-based viewer. | MIT | Active | Official | 21,741 |
 | [Teleport](https://goteleport.com/) ([source](https://github.com/gravitational/teleport)) | The easiest, and most secure way to access and protect all of your infrastructure. | AGPL-3.0 | Active | Official | 21,092 |
+| [Ssh Apprise](https://github.com/caronc/apprise) | Get notified of any SSH connection with Apprise for transferring files securely over a network. | BSD-2-Clause | Active | No | 17,751 |
 | [Coder](https://coder.com/) ([source](https://github.com/coder/coder)) | Development environment manager for running remote workspaces on your infrastructure. | AGPL-3.0 | Active | Official | 17,344 |
 | [orcaslicer-novnc](https://github.com/softfever/orcaslicer) | Browser-accessible OrcaSlicer for preparing 3D models for printing. | AGPL-3.0 | Active | Community | 16,448 |
 | [Termix](https://termix.site/) ([source](https://github.com/Termix-SSH/Termix)) | Clientless web server management app with SSH terminal, tunneling, and file editing capabilities. | Apache-2.0 | Active | Official | 15,957 |

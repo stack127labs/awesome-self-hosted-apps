@@ -1,6 +1,6 @@
 # Storage and backup self-hosted apps
 
-158 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/storage-backup).
+159 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/storage-backup).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -15,6 +15,7 @@
 | [Duplicati](https://duplicati.com/) ([source](https://github.com/duplicati/duplicati)) | Backup tool for encrypted scheduled backups to local storage and cloud providers. | MIT | Active | Official | 15,198 |
 | [Kopia](https://kopia.io/) ([source](https://github.com/kopia/kopia)) | Backup tool for encrypted snapshots, deduplication, policies, and local or cloud storage targets. | Apache-2.0 | Active | Official | 14,667 |
 | [Borg](https://www.borgbackup.org/) ([source](https://github.com/borgbackup/borg)) | Deduplicating archiver with compression and encryption for generating keys and encrypting or decrypting files. | BSD-2-Clause | Active |  | 13,918 |
+| [Borgserver](https://www.borgbackup.org/) ([source](https://github.com/borgbackup/borg)) | Backup storage service for sharing a Borg repository with a trusted friend. | BSD-3-Clause | Active | No | 13,918 |
 | [Databasus](https://databasus.com/) ([source](https://github.com/databasus/databasus)) | PostgreSQL backup tool for scheduling dumps, storing archives, and checking backup history. | Apache-2.0 | Active | Official | 9,259 |
 | [Backrest](https://garethgeorge.github.io/backrest) ([source](https://github.com/garethgeorge/backrest)) | Web UI for managing restic backup repositories, schedules, snapshots, and restores. | GPL-3.0 | Active | Community | 7,876 |
 | [Zerobyte](https://zerobyte.app/) ([source](https://github.com/nicotsx/zerobyte)) | Backup manager for scheduling jobs and sending archives to remote storage. | AGPL-3.0 | Active | Official | 7,299 |

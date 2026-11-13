@@ -1,6 +1,6 @@
 # Documents and PDFs self-hosted apps
 
-103 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/documents-pdfs).
+104 apps you can run on your own server, sorted by GitHub stars. Search and filter them on [stack127](https://stack127.com/self-host-apps/categories/documents-pdfs).
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
@@ -25,6 +25,7 @@
 | [HedgeDoc](https://hedgedoc.org/) ([source](https://github.com/hedgedoc/hedgedoc)) | Collaborative Markdown editor for real-time notes, meeting docs, and shared writing. | AGPL-3.0 | Active | Official | 7,512 |
 | [OpenSign](https://www.opensignlabs.com/) ([source](https://github.com/OpenSignLabs/OpenSign)) | Document signing app for sending, signing, and tracking agreements. | AGPL-3.0 | Active | Official | 7,242 |
 | [ONLYOFFICE](https://www.onlyoffice.com/see-it-in-action) ([source](https://github.com/ONLYOFFICE/DocumentServer)) | Office suite that enables you to manage documents, projects, team and customer relations in one place. | AGPL-3.0 | Active | Community | 7,122 |
+| [ONLYOFFICE Docs](https://www.onlyoffice.com/docs) ([source](https://github.com/onlyoffice/documentserver)) | Online editor for documents, spreadsheets, presentations, and PDFs, Features real-time collaboration, AI integration, and accessibility tools. | AGPL-3.0 | Active | No | 7,122 |
 | [Paperless AI](https://clusterzx.github.io/paperless-ai) ([source](https://github.com/clusterzx/paperless-ai)) | AI document analyzer for classifying and extracting information in Paperless. | MIT | Active | Official | 5,992 |
 | [Papra](https://demo.papra.app/) ([source](https://github.com/papra-hq/papra)) | Minimalist document storage, management and archiving app designed to be simple to use and accessible to everyone. | AGPL-3.0 | Active | Official | 5,732 |
 | [TagSpaces](https://www.tagspaces.org/) ([source](https://github.com/tagspaces/tagspaces)) | Offline document manager for tagging, browsing, and organizing local files. | AGPL-3.0 | Active | Official | 5,375 |
