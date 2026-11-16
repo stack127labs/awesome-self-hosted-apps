@@ -4,57 +4,57 @@
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
-| [Calibre](https://calibre-ebook.com/) ([source](https://github.com/kovidgoyal/calibre)) | Ebook library manager for organizing, converting, syncing, and reading digital books. | GPL-3.0 | Active | Community | 26,398 |
-| [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Conversion tool for turning ebooks into audiobooks with chapters, metadata, and generated audio. | Apache-2.0 | Active | Official | 20,537 |
-| [Calibre Web](https://github.com/janeczku/calibre-web) | Browse, read and download eBooks using an existing Calibre database. | GPL-3.0 | Active | Community | 18,551 |
+| [Calibre](https://calibre-ebook.com/) ([source](https://github.com/kovidgoyal/calibre)) | Ebook library manager for organizing, converting, syncing, and reading digital books. | GPL-3.0 | Active | Community | 26,428 |
+| [ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) | Conversion tool for turning ebooks into audiobooks with chapters, metadata, and generated audio. | Apache-2.0 | Active | Official | 20,559 |
+| [Calibre Web](https://github.com/janeczku/calibre-web) | Browse, read and download eBooks using an existing Calibre database. | GPL-3.0 | Active | Community | 18,560 |
 | [Audiobookshelf](https://audiobookshelf.org/) ([source](https://github.com/advplyr/audiobookshelf)) | Audiobook and podcast server for libraries, listening progress, metadata, and mobile clients. | GPL-3.0 | Active | Official | 14,988 |
-| [RomM](https://romm.app/) ([source](https://github.com/rommapp/romm)) | ROM manager for organizing retro game libraries, metadata, covers, and browser play. | AGPL-3.0 | Active | Official | 14,295 |
+| [RomM](https://romm.app/) ([source](https://github.com/rommapp/romm)) | ROM manager for organizing retro game libraries, metadata, covers, and browser play. | AGPL-3.0 | Active | Official | 14,368 |
 | [Kavita](http://www.kavitareader.com/) ([source](https://github.com/Kareadita/Kavita)) | Cross-app e-book/manga/comic/pdf server and web reader with user management, ratings and reviews, and metadata support. | GPL-3.0 | Active | Official | 12,112 |
-| [Tachidesk-Docker](https://github.com/suwayomi/tachidesk-server) | Suwayomi is an independent Mihon (Tachiyomi) compatible software and is not a Fork of Mihon (Tachiyomi). | MPL-2.0 | Active | Community | 8,038 |
+| [Tachidesk-Docker](https://github.com/suwayomi/tachidesk-server) | Suwayomi is an independent Mihon (Tachiyomi) compatible software and is not a Fork of Mihon (Tachiyomi). | MPL-2.0 | Active | Community | 8,062 |
 | [Komga](https://komga.org/) ([source](https://github.com/gotson/komga)) | Comic and manga server with OPDS, library browsing, and a web reader. | MIT | Active | Community | 6,836 |
-| [Calibre Web Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | Ebook library app that pairs Calibre-Web browsing with automated Calibre management tasks. | GPL-3.0 | Active | Official | 6,590 |
-| [Libation](https://github.com/rmcrackan/libation) | Audiobook downloader for importing Audible books into a personal library. | GPL-3.0 | Active | Community | 6,433 |
+| [Calibre Web Automated](https://github.com/crocodilestick/Calibre-Web-Automated) | Ebook library app that pairs Calibre-Web browsing with automated Calibre management tasks. | GPL-3.0 | Active | Official | 6,613 |
+| [Libation](https://github.com/rmcrackan/libation) | Audiobook downloader for importing Audible books into a personal library. | GPL-3.0 | Active | Community | 6,448 |
 | [Librum](https://librumreader.com/) ([source](https://github.com/Librum-Reader/Librum)) | Ebook reader and library manager for syncing books, notes, and reading progress. | GPL-3.0 | Stale |  | 5,318 |
 | [Grimmory](https://grimmory.org/) ([source](https://github.com/grimmory-tools/grimmory)) | Digital library manager for organizing books and making a personal collection easier to browse. | AGPL-3.0 | Active | Official | 4,702 |
-| [Seanime](https://seanime.app/) ([source](https://github.com/5rahim/seanime)) | Anime and manga media server for streaming, library tracking, and managing local collections. | GPL-3.0 | Active | Community | 4,317 |
-| [Shelfmark](https://github.com/calibrain/shelfmark) | Interface for searching and requesting book downloads for organizing and reading a personal library. | MIT | Active | Official | 4,137 |
+| [Seanime](https://seanime.app/) ([source](https://github.com/5rahim/seanime)) | Anime and manga media server for streaming, library tracking, and managing local collections. | GPL-3.0 | Active | Community | 4,329 |
+| [Shelfmark](https://github.com/calibrain/shelfmark) | Interface for searching and requesting book downloads for organizing and reading a personal library. | MIT | Active | Official | 4,149 |
 | [Yamtrack](https://github.com/FuzzyGrim/Yamtrack) | Media tracker for movies, tv shows, anime, manga, video games and books. | AGPL-3.0 | Active | Official | 3,817 |
-| [ryot](https://ryot.io/) ([source](https://github.com/IgnisDa/ryot)) | Track various facets of your life - media, fitness, etc. | GPL-3.0 | Active | Official | 3,663 |
+| [ryot](https://ryot.io/) ([source](https://github.com/IgnisDa/ryot)) | Track various facets of your life - media, fitness, etc. | GPL-3.0 | Active | Official | 3,667 |
 | [Readarr](http://readarr.com/) ([source](https://github.com/Readarr/Readarr)) | Book collection manager for tracking authors, releases, downloads, and library files. | GPL-3.0 | Archived | Community | 3,457 |
-| [LANraragi](https://github.com/difegue/lanraragi) | Web app for organizing and reading manga and doujinshi archives. | MIT | Active | Community | 3,148 |
-| [BookWyrm](https://joinbookwyrm.com/) ([source](https://github.com/bookwyrm-social/bookwyrm)) | Social reading server for tracking books, writing reviews, building shelves, and federating with ActivityPub. | Anti-Capitalist Software License v1.4 | Active | Official | 2,811 |
+| [LANraragi](https://github.com/difegue/lanraragi) | Web app for organizing and reading manga and doujinshi archives. | MIT | Active | Community | 3,152 |
+| [BookWyrm](https://joinbookwyrm.com/) ([source](https://github.com/bookwyrm-social/bookwyrm)) | Social reading server for tracking books, writing reviews, building shelves, and federating with ActivityPub. | Anti-Capitalist Software License v1.4 | Active | Official | 2,814 |
 | [Stump](https://stumpapp.dev/) ([source](https://github.com/stumpapp/stump)) | Fast, and comics, manga and digital book server with OPDS support. | MIT | Active | Official | 2,782 |
-| [OpenBooks](https://evan-buss.github.io/openbooks/) ([source](https://github.com/evan-buss/openbooks)) | Web interface for searching and downloading ebooks over IRC. | MIT | Slow | Official | 2,429 |
+| [OpenBooks](https://evan-buss.github.io/openbooks/) ([source](https://github.com/evan-buss/openbooks)) | Web interface for searching and downloading ebooks over IRC. | MIT | Slow | Official | 2,430 |
 | [Openreads](https://github.com/mateusz-bak/openreads) | Book tracking app for logging reading progress, ratings, shelves, and notes. | GPL-2.0 | Active |  | 1,671 |
+| [rreading-glasses](https://github.com/blampe/rreading-glasses) | Book and audiobook metadata service for Readarr-compatible apps. | GPL-3.0 | Active | Official | 1,600 |
 | [Watcharr](https://watcharr.app/) ([source](https://github.com/sbondCo/Watcharr)) | Tracks movies, shows, anime, and games with user accounts, lists, and viewing history. | GPL-3.0 | Active | Official | 1,600 |
-| [rreading-glasses](https://github.com/blampe/rreading-glasses) | Book and audiobook metadata service for Readarr-compatible apps. | GPL-3.0 | Active | Official | 1,598 |
+| [BookLore](https://github.com/booklore-app/booklore) | Organizes ebooks and comics for browsing, reading, metadata editing, and device delivery. | AGPL-3.0 | Active | Official | 1,350 |
 | [Koillection](https://github.com/koillection/koillection/wiki) ([source](https://github.com/benjaminjonard/koillection)) | Collection manager for cataloging items, metadata, photos, and custom fields. | MIT | Active | Official | 1,348 |
-| [BookLore](https://github.com/booklore-app/booklore) | Organizes ebooks and comics for browsing, reading, metadata editing, and device delivery. | AGPL-3.0 | Active | Official | 1,346 |
 | [jcorp-nomad](http://nomad.jcorptech.net/) ([source](https://github.com/Jstudner/jcorp-nomad)) | Compact offline media server for organizing and streaming movies, shows, books, and music. | Other | Active | No | 1,250 |
-| [RetroAssembly](https://retroassembly.com/) ([source](https://github.com/arianrhodsandlot/retroassembly)) | Retro game collection app for cataloging titles, metadata, artwork, and browser-based library browsing. | MIT | Active | Official | 1,160 |
+| [RetroAssembly](https://retroassembly.com/) ([source](https://github.com/arianrhodsandlot/retroassembly)) | Retro game collection app for cataloging titles, metadata, artwork, and browser-based library browsing. | MIT | Active | Official | 1,166 |
 | [Gameyfin](https://gameyfin.org/) ([source](https://github.com/gameyfin/gameyfin)) | Video game library manager with automatic scanning, web access, downloads, and plugin support. | AGPL-3.0 | Active | Community | 1,152 |
 | [Kapowarr](https://casvt.github.io/Kapowarr) ([source](https://github.com/Casvt/Kapowarr)) | Comic library manager for tracking series, issues, downloads, and reading progress in an arr-style workflow. | GPL-3.0 | Active | Official | 1,114 |
-| [ReadMeABook](https://github.com/kikootwo/ReadMeABook) | Audiobook request app for discovering titles, collecting requests, tracking downloads, and planning libraries. | AGPL-3.0 | Active | Official | 1,057 |
-| [kiwix-serve](https://download.kiwix.org/release/kiwix-tools) ([source](https://github.com/kiwix/kiwix-tools)) | HTTP server for browsing offline ZIM archives such as Wikipedia dumps. | GPL-3.0 | Active | Official | 993 |
-| [floppy](https://github.com/dannyvfilms/floppy) | Media catalog for organizing movies, shows, anime, manga, books, comics, games, music, and podcasts. | AGPL-3.0 | Active | Community | 984 |
+| [ReadMeABook](https://github.com/kikootwo/ReadMeABook) | Audiobook request app for discovering titles, collecting requests, tracking downloads, and planning libraries. | AGPL-3.0 | Active | Official | 1,064 |
+| [floppy](https://github.com/dannyvfilms/floppy) | Media catalog for organizing movies, shows, anime, manga, books, comics, games, music, and podcasts. | AGPL-3.0 | Active | Community | 1,016 |
+| [kiwix-serve](https://download.kiwix.org/release/kiwix-tools) ([source](https://github.com/kiwix/kiwix-tools)) | HTTP server for browsing offline ZIM archives such as Wikipedia dumps. | GPL-3.0 | Active | Official | 998 |
 | [Mediatracker](https://github.com/bonukai/MediaTracker) | Media tracker for movies, tv shows, video games, books and audiobooks. | MIT | Slow | No | 938 |
 | [Listenarr](https://getlistenarr.com/) ([source](https://github.com/Listenarrs/Listenarr)) | Audiobook request and management app for tracking titles and automating downloads. | AGPL-3.0-only | Active | Official | 937 |
 | [NeoDB](https://neodb.net/) ([source](https://github.com/neodb-social/neodb)) | Federated tracker for books, movies, games, music, collections, ratings, and personal activity. | AGPL-3.0 | Active | Official | 908 |
 | [Audioserve](https://github.com/izderadicka/audioserve) | Audio server for streaming audiobooks, podcasts, and music from folders with playback position sync. | MIT | Active | Official | 865 |
 | [happypandax](https://github.com/happypandax/happypandax) | Cross-app server and client application for managing and reading manga and doujinshi. | LGPL-3.0 | Stale | Community | 821 |
-| [Bookshelf](https://github.com/pennydreadful/bookshelf) | Book library app for organizing and reading personal collections. | GPL-3.0 | Active | No | 819 |
-| [koreader-sync-server](https://github.com/koreader/koreader-sync-server) | Synchronization backend for KOReader reading positions and settings. | AGPL-3.0 | Active | Community | 814 |
+| [Bookshelf](https://github.com/pennydreadful/bookshelf) | Book library app for organizing and reading personal collections. | GPL-3.0 | Active | No | 820 |
+| [koreader-sync-server](https://github.com/koreader/koreader-sync-server) | Synchronization backend for KOReader reading positions and settings. | AGPL-3.0 | Active | Community | 817 |
 | [Movary](https://github.com/leepeuker/movary) | Movie tracker for watch history, ratings, lists, diary entries, and personal film stats. | MIT | Active | Official | 791 |
-| [Chaptarr](https://github.com/Chaptarr/chaptarr) ([source](https://github.com/chaptarr/chaptarr)) | Book collection manager for audiobooks and eBooks for organizing and reading a personal library. | GPL-3.0 | Active | No | 770 |
+| [Chaptarr](https://github.com/Chaptarr/chaptarr) ([source](https://github.com/chaptarr/chaptarr)) | Book collection manager for audiobooks and eBooks for organizing and reading a personal library. | GPL-3.0 | Active | No | 781 |
 | [Jelu](https://bayang.github.io/jelu-web) ([source](https://github.com/bayang/jelu)) | Book tracker for read lists, to-read lists, ratings, reviews, and reading history. | MIT | Active | Official | 752 |
-| [SyncYomi](https://github.com/syncyomi/syncyomi) | Synchronizes Tachiyomi manga libraries and reading progress across devices through a server. | GPL-2.0 | Active | Community | 745 |
-| [Komf](https://github.com/snd-r/komf) | Komga and Kavita webui integration Browser web extension will let configure komf and identify series directly from komga or kavita webui. | MIT | Active | Community | 738 |
+| [SyncYomi](https://github.com/syncyomi/syncyomi) | Synchronizes Tachiyomi manga libraries and reading progress across devices through a server. | GPL-2.0 | Active | Community | 748 |
+| [Komf](https://github.com/snd-r/komf) | Komga and Kavita webui integration Browser web extension will let configure komf and identify series directly from komga or kavita webui. | MIT | Active | Community | 739 |
 | [AudioBookRequest](https://github.com/markbeep/AudioBookRequest/wiki) ([source](https://github.com/markbeep/AudioBookRequest)) | Audiobook request manager for collecting title requests, tracking fulfillment, and planning library additions. | GPL-3.0 | Active | Official | 726 |
 | [lazylibrarian-calibre](https://github.com/dobytang/lazylibrarian) | LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs. | None declared | Stale | Community | 722 |
 | [Kaizoku](https://github.com/oae/kaizoku) | Downloads and organizes manga from supported sources for a self-hosted reading library. | MIT | Archived | Official | 681 |
-| [BookLogr](https://booklogr.app/) ([source](https://github.com/Mozzo1000/booklogr)) | Personal book tracker for cataloging reads, authors, notes, and reading progress. | Apache-2.0 | Active | Official | 638 |
-| [Koinsight](https://github.com/Ko-Insight/KoInsight) | Brings your KoReader reading stats to life with a clean, web dashboard. | MIT | Archived | No | 628 |
-| [Tonkatsu Box](https://github.com/hacan359/tonkatsu_box) | Cross-app collection manager for retro games, movies, TV shows, anime, manga, visual novels, and books with tier lists, visual boards, and import/export. | MIT | Active | No | 606 |
+| [BookLogr](https://booklogr.app/) ([source](https://github.com/Mozzo1000/booklogr)) | Personal book tracker for cataloging reads, authors, notes, and reading progress. | Apache-2.0 | Active | Official | 639 |
+| [Koinsight](https://github.com/Ko-Insight/KoInsight) | Brings your KoReader reading stats to life with a clean, web dashboard. | MIT | Archived | No | 629 |
+| [Tonkatsu Box](https://github.com/hacan359/tonkatsu_box) | Cross-app collection manager for retro games, movies, TV shows, anime, manga, visual novels, and books with tier lists, visual boards, and import/export. | MIT | Active | No | 609 |
 | [Koha](https://koha-community.org/) ([source](https://github.com/Koha-Community/Koha)) | Library management system for cataloging, circulation, acquisitions, and patron workflows. | GPL-3.0 | Active |  | 601 |
 | [MyBibliotheca](https://github.com/pickles4evaaaa/mybibliotheca) | Personal library tracker for cataloging books and reading activity. | MIT | Active | Official | 599 |
 | [OpenReader](https://github.com/richardr1126/openreader) | Text-to-speech reader for EPUB, PDF, TXT, Markdown, and DOCX documents with synchronized playback. | MIT | Active | Official | 568 |
@@ -64,11 +64,11 @@
 | [BiblioReads](https://biblioreads.eu.org/) ([source](https://github.com/nesaku/BiblioReads)) | Goodreads-style frontend for browsing books, reviews, and reading activity. | AGPL-3.0 | Active | Official | 359 |
 | [ComiXed](https://github.com/comixed/comixed) | ComiXed is a digital comic library management tool, Its underlying goal is to enable users to manage the contents of their library and to access that library. | GPL-3.0 | Active | Community | 297 |
 | [BookBounty](https://github.com/TheWicklowWolf/BookBounty) | Retrieve missing Readarr books from Library Genesis for organizing and reading a personal library. | MPL-2.0 | Active | Official | 295 |
-| [Comic Library Utilities](https://clucomics.org/) ([source](https://github.com/allaboutduncan/clu-comics)) | Comic library toolkit for organizing large collections, metadata, files, and reading lists. | GPL-3.0 | Active | Official | 293 |
-| [DVinyl](https://kyonew.me/dvinyl) ([source](https://github.com/Kyonew/DVinyl)) | Collection manager for cataloging physical music and other media. | MIT | Active | Official | 283 |
+| [Comic Library Utilities](https://clucomics.org/) ([source](https://github.com/allaboutduncan/clu-comics)) | Comic library toolkit for organizing large collections, metadata, files, and reading lists. | GPL-3.0 | Active | Official | 295 |
+| [DVinyl](https://kyonew.me/dvinyl) ([source](https://github.com/Kyonew/DVinyl)) | Collection manager for cataloging physical music and other media. | MIT | Active | Official | 285 |
 | [koshelf](https://github.com/paviro/koshelf) | Reading dashboard for browsing KOReader notes, highlights, ratings, and reading statistics. | EUPL-1.2 | Active | Community | 255 |
 | [Autocaliweb](https://codeberg.org/gelbphoenix/autocaliweb) ([source](https://github.com/gelbphoenix/autocaliweb)) | Calibre web interface for browsing, searching, and managing an ebook library. | GPL-3.0 | Archived | Official | 233 |
-| [Bragibooks](https://github.com/djdembeck/bragibooks) | Web app for cleaning and standardizing audiobook libraries with m4b-merge. | GPL-3.0 | Active | Community | 218 |
+| [Bragibooks](https://github.com/djdembeck/bragibooks) | Web app for cleaning and standardizing audiobook libraries with m4b-merge. | GPL-3.0 | Active | Community | 219 |
 | [BookHeaven](https://bookheaven.ggarrido.dev/) ([source](https://github.com/BookHeaven/BookHeaven.Server)) | Ebook manager and reader for organizing books, opening files, and tracking reading. | GPL-3.0 | Active | Official | 203 |
 | [Atsumeru](https://atsumeru.xyz/) ([source](https://github.com/Atsumeru-xyz/Atsumeru)) | Media server for manga, comics, and light novels with library browsing and reading. | MIT | Active | Official | 196 |
 | [ShelfBridge](https://github.com/rohit-purandare/shelfbridge) | Sync your audiobook reading progress from Audiobookshelf to Hardcover automatically. | MIT | Active | Community | 160 |
@@ -79,11 +79,11 @@
 | [BookHaven](https://github.com/HrBingR/BookHaven) | Browser ePub reader for opening books, saving progress, and reading online. | GPL-3.0 | Active | Official | 115 |
 | [GRR](https://grr.devome.com/) ([source](https://github.com/JeromeDevome/GRR)) | Assets management and booking for small/medium companies for organizing and reading a personal library. | GPL-2.0 | Active |  | 114 |
 | [kcc-cloud](https://github.com/nilsleo/kcc-cloud) | KCC Cloud transforms your manga, comics, and documents into e-reader optimized formats (EPUB, MOBI, PDF, KFX, CBZ) with a modern, responsive web interface. | ISC | Active | Community | 102 |
-| [RERO ILS](http://ils.test.rero.ch/) ([source](https://github.com/rero/rero-ils)) | Integrated Library System flavour of Invenio by RERO+. | AGPL-3.0 | Active | Official | 86 |
+| [RERO ILS](http://ils.test.rero.ch/) ([source](https://github.com/rero/rero-ils)) | Integrated Library System flavour of Invenio by RERO+. | AGPL-3.0 | Active | Official | 85 |
 | [library-manager](https://github.com/deucebucket/library-manager) | Library Manager - Audiobook library management with smart metadata matching, series detection, and organization, Scans your audiobook library, matches. | MIT | Active | Community | 73 |
 | [Bindery](https://github.com/jarynclouatre/bindery) | Folder-watching converter for e-books and comics, EPUB to Kobo KEPUB via kepubify, CBZ/CBR/PDF via Kindle Comic Converter, with per-device profiles. | MIT | Active | Official | 67 |
 | [Cantinarr](https://cantinarr.com/) ([source](https://github.com/windoze95/cantinarr)) | One app over your whole media stack, Household members browse and request movies, TV, and books, and you keep Radarr, Sonarr, Chaptarr, download clients. | AGPL-3.0 | Active | No | 52 |
-| [EPrints](http://www.eprints.org/uk/index.php/eprints-3-4) ([source](https://github.com/eprints/eprints3.4)) | Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions. | LGPL-3.0 | Active |  | 47 |
+| [EPrints](http://www.eprints.org/uk/index.php/eprints-3-4) ([source](https://github.com/eprints/eprints3.4)) | Digital document management system with a flexible metadata and workflow model primarily aimed at academic institutions. | LGPL-3.0 | Active |  | 46 |
 | [Bicbucstriim](https://github.com/mikespub-org/rvolz-BicBucStriim) | Digital books streamer, providing web access to your e-book collection. | MIT | Active | No | 42 |
 | [Livrarr](https://github.com/kkodecs/livrarr) | Ebook and audiobook library manager, Built for the \*arr ecosystem - finds, grabs, and organizes your books. | GPL-3.0 | Active | Community | 33 |
 | [Obskurnee](https://github.com/zblesk/obskurnee) | Book club app for collecting suggestions and voting on which book to read next. | None declared | Active | Official | 33 |
@@ -121,4 +121,4 @@
 | [Ubooquity](https://vaemendis.net/ubooquity/) | Home server for browsing and reading personal comic and ebook libraries from web and OPDS clients. | Ubooquity non-commercial license | Active | Community |  |
 | [YACReaderLibraryServer](https://www.yacreader.com/) | Headless comic library server for YACReader clients and collections. |  | Active | Community |  |
 
-[Back to all categories](../README.md). Data from 2026-11-13.
+[Back to all categories](../README.md). Data from 2026-11-16.

@@ -6,65 +6,65 @@
 | --- | --- | --- | --- | --- | ---: |
 | [Sunshine](http://app.lizardbyte.dev/Sunshine) ([source](https://github.com/LizardByte/Sunshine)) | Game streaming host for pairing PCs with Moonlight clients across local or remote networks. | GPL-3.0 | Active |  | 43,287 |
 | [Mindustry](https://mindustrygame.github.io/) ([source](https://github.com/Anuken/Mindustry)) | Factory-building tower defense game with automation, resource chains, and multiplayer servers. | GPL-3.0 | Active |  | 29,806 |
-| [RPCS3](https://rpcs3.net/) ([source](https://github.com/RPCS3/rpcs3)) | PlayStation 3 emulator and debugger for Windows, Linux, macOS, and FreeBSD. | GPL-2.0 | Active | Community | 20,394 |
+| [RPCS3](https://rpcs3.net/) ([source](https://github.com/RPCS3/rpcs3)) | PlayStation 3 emulator and debugger for Windows, Linux, macOS, and FreeBSD. | GPL-2.0 | Active | Community | 20,435 |
 | [Lila](https://lichess.org/) ([source](https://github.com/lichess-org/lila)) | Ad-less chess server powering lichess.org, with official iOS and Android apps. | AGPL-3.0 | Active |  | 18,981 |
 | [OpenRA](https://www.openra.net/) ([source](https://github.com/OpenRA/OpenRA)) | Mudislanders Template for mounting OpenRA's dedicated server by rmoriz OpenRA is a project that recreates and modernizes the classic Command &. | GPL-3.0 | Active | Community | 17,778 |
-| [RetroArch](https://www.retroarch.com/) ([source](https://github.com/libretro/RetroArch)) | Frontend for running libretro cores and managing emulators, games, and other interactive programs. | GPL-3.0 | Active | Community | 14,573 |
+| [RetroArch](https://www.retroarch.com/) ([source](https://github.com/libretro/RetroArch)) | Frontend for running libretro cores and managing emulators, games, and other interactive programs. | GPL-3.0 | Active | Community | 14,606 |
 | [Minecraft Server (Java)](https://www.minecraft.net/en-us) ([source](https://github.com/itzg/docker-minecraft-server)) | Minecraft Java server for hosting a multiplayer world. | Apache-2.0 | Active | No | 14,533 |
+| [RomM](https://romm.app/) ([source](https://github.com/rommapp/romm)) | ROM manager for organizing retro game libraries, metadata, covers, and browser play. | AGPL-3.0 | Active | Official | 14,368 |
 | [Habitica](https://habitica.com/) ([source](https://github.com/HabitRPG/habitica)) | Habit and task tracker that turns daily goals into a role-playing game. | GPL-3.0/CC-BY-SA-3.0 | Active | Official | 14,307 |
-| [RomM](https://romm.app/) ([source](https://github.com/rommapp/romm)) | ROM manager for organizing retro game libraries, metadata, covers, and browser play. | AGPL-3.0 | Active | Official | 14,295 |
-| [Luanti](https://www.luanti.org/) ([source](https://github.com/luanti-org/luanti)) | Luanti (formerly Minetest) is an voxel game-creation app with easy modding and game creation. | LGPL-2.1-only | Active | Official | 13,849 |
-| [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) ([source](https://github.com/justarchinet/archisteamfarm)) | ArchiSteamFarm is a tool for automatically farming Steam trading cards on multiple accounts simultaneously. | Apache-2.0 | Active | Official | 13,806 |
+| [Luanti](https://www.luanti.org/) ([source](https://github.com/luanti-org/luanti)) | Luanti (formerly Minetest) is an voxel game-creation app with easy modding and game creation. | LGPL-2.1-only | Active | Official | 13,866 |
+| [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) ([source](https://github.com/justarchinet/archisteamfarm)) | ArchiSteamFarm is a tool for automatically farming Steam trading cards on multiple accounts simultaneously. | Apache-2.0 | Active | Official | 13,814 |
 | [Nakama](https://heroiclabs.com/nakama/) ([source](https://github.com/heroiclabs/nakama)) | Provides multiplayer, matchmaking, chat, leaderboards, and social features for games. | Apache-2.0 | Active | Official | 13,712 |
 | [PumpkinMC](https://pumpkinmc.org/) ([source](https://github.com/Pumpkin-MC/Pumpkin)) | Rust-based Minecraft server software supporting Java and Bedrock clients with configuration and plugin support. | GPL-3.0 | Active | Community | 12,941 |
-| [DuckStation](https://www.duckstation.org/) ([source](https://github.com/stenzek/duckstation)) | PlayStation 1 emulator focused on accuracy, speed, and game compatibility. | Creative Commons Attribution-NonCommerc… | Active | Community | 10,975 |
+| [DuckStation](https://www.duckstation.org/) ([source](https://github.com/stenzek/duckstation)) | PlayStation 1 emulator focused on accuracy, speed, and game compatibility. | Creative Commons Attribution-NonCommerc… | Active | Community | 11,003 |
 | [mame](https://github.com/mamedev/mame) | Arcade and console emulator for running games from older hardware systems. | GNU General Public License v2.0 only | Active | Community | 10,716 |
-| [Pterodactyl](https://pterodactyl.io/) ([source](https://github.com/pterodactyl/panel)) | Management panel for game servers, with an intuitive UI for end users. | MIT | Active | Community | 9,488 |
+| [Pterodactyl](https://pterodactyl.io/) ([source](https://github.com/pterodactyl/panel)) | Management panel for game servers, with an intuitive UI for end users. | MIT | Active | Community | 9,509 |
 | [OpenTTD](https://www.openttd.org/) ([source](https://github.com/OpenTTD/OpenTTD)) | Transport simulation game for building rail, road, air, and shipping networks. | GPL-2.0 | Active | Official | 8,483 |
 | [A Dark Room](https://adarkroom.doublespeakgames.com/) ([source](https://github.com/doublespeakgames/adarkroom)) | Minimalist browser-based text adventure game. | MPL-2.0 | Slow | No | 8,394 |
 | [The Battle for Wesnoth](https://www.wesnoth.org/) ([source](https://github.com/wesnoth/wesnoth)) | An, turn-based strategy game with a high fantasy theme. | GPL-2.0 | Active |  | 6,994 |
 | [melonds](https://github.com/melonDS-emu/melonDS) | MelonDS aims at providing fast and accurate Nintendo DS emulation. | GPL-3.0 | Active | Community | 5,206 |
 | [MCSManager-Daemon](https://mcsmanager.com/) ([source](https://github.com/MCSManager/MCSManager)) | MCSManager (MCSM) Daemon - the backend component that manages and runs your game server instances, Communicates with the MCSManager Web UI panel to launch. | Apache-2.0 | Active | Community | 5,012 |
-| [Steam Headless](https://github.com/Steam-Headless/docker-steam-headless) | Headless Steam server for streaming games through Steam Link or a web browser. | GPL-2.0 | Active | Official | 5,001 |
+| [Steam Headless](https://github.com/Steam-Headless/docker-steam-headless) | Headless Steam server for streaming games through Steam Link or a web browser. | GPL-2.0 | Active | Official | 5,003 |
 | [LinuxGSM](https://linuxgsm.com/) ([source](https://github.com/GameServerManagers/LinuxGSM)) | CLI tool for deployment and management of dedicated game servers on Linux: more than 120 games are supported. | MIT | Active |  | 4,917 |
-| [Free-Games-Claimer](https://github.com/vogler/free-games-claimer) | Service that automatically claims free games from the Epic Games Store, Amazon Prime Gaming, and GOG. | AGPL-3.0 | Slow | Community | 4,285 |
-| [twitch-drops-miner](https://github.com/devilxd/twitchdropsminer) | AFK mine timed Twitch drops, with automatic drop claiming and channel switching. | MIT | Active | Community | 3,453 |
-| [Terraria TShock](https://terraria.org/) ([source](https://github.com/pryaxis/tshock)) | TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools. | GPL-3.0 | Active | No | 2,910 |
+| [Free-Games-Claimer](https://github.com/vogler/free-games-claimer) | Service that automatically claims free games from the Epic Games Store, Amazon Prime Gaming, and GOG. | AGPL-3.0 | Slow | Community | 4,289 |
+| [twitch-drops-miner](https://github.com/devilxd/twitchdropsminer) | AFK mine timed Twitch drops, with automatic drop claiming and channel switching. | MIT | Active | Community | 3,464 |
+| [Terraria TShock](https://terraria.org/) ([source](https://github.com/pryaxis/tshock)) | TShock provides Terraria servers with server-side characters, anti-cheat, and community management tools. | GPL-3.0 | Active | No | 2,912 |
 | [Modrinth App](https://github.com/modrinth/code) | Launcher for downloading, updating, and playing Minecraft mods and modpacks. | GNU General Public License v3.0 only | Active | Community | 2,524 |
 | [Hextris](http://hextris.github.io/) ([source](https://github.com/Hextris/Hextris)) | Fast paced puzzle game for playing a browser-based tile-merging game. | GPL-3.0 | Stale | No | 2,445 |
-| [Pelican Panel](https://pelican.dev/) ([source](https://github.com/pelican-dev/panel)) | Game server panel for managing servers, users, allocations, and deployment tasks. | AGPL-3.0 | Active | Official | 2,432 |
+| [Pelican Panel](https://pelican.dev/) ([source](https://github.com/pelican-dev/panel)) | Game server panel for managing servers, users, allocations, and deployment tasks. | AGPL-3.0 | Active | Official | 2,431 |
 | [Games on Whales](https://games-on-whales.github.io/wolf/stable) ([source](https://github.com/games-on-whales/wolf)) | Game streaming stack for running desktops and games in containers and streaming them remotely. | MIT | Active | Official | 2,291 |
 | [Velocity](https://papermc.io/software/velocity) ([source](https://github.com/PaperMC/Velocity)) | Proxy server for connecting Minecraft clients to backend servers. | GPL-3.0 | Active | Community | 2,289 |
-| [Retrom](https://github.com/JMBeresford/retrom) | Private cloud game library distribution server + frontend/launcher. | GPL-3.0 | Active | Official | 2,107 |
-| [Satisfactory Server](https://github.com/wolveix/satisfactory-server) | Dedicated Satisfactory server for hosting multiplayer factory-building games. | MIT | Active | No | 2,084 |
-| [epicgames-freegames](https://github.com/claabs/epicgames-freegames-node) | Automatically login, bypass Captchas, and redeem free games, Follow JSON Configuration and Cookie Import. | MIT | Active | Community | 1,926 |
+| [Retrom](https://github.com/JMBeresford/retrom) | Private cloud game library distribution server + frontend/launcher. | GPL-3.0 | Active | Official | 2,109 |
+| [Satisfactory Server](https://github.com/wolveix/satisfactory-server) | Dedicated Satisfactory server for hosting multiplayer factory-building games. | MIT | Active | No | 2,086 |
+| [epicgames-freegames](https://github.com/claabs/epicgames-freegames-node) | Automatically login, bypass Captchas, and redeem free games, Follow JSON Configuration and Cookie Import. | MIT | Active | Community | 1,927 |
 | [MTA:SA](https://multitheftauto.com/) ([source](https://github.com/multitheftauto/mtasa-blue)) | Add network play functionality to Rockstar North's Grand Theft Auto game series, in which this functionality is not originally found. | GPL-3.0 | Active | Official | 1,893 |
-| [PufferPanel](https://pufferpanel.com/) ([source](https://github.com/pufferpanel/pufferpanel)) | Game server management panel designed for both small networks and game server providers. | Apache-2.0 | Active | Official | 1,767 |
-| [archipelago-server](https://archipelago.gg/) ([source](https://github.com/ArchipelagoMW/Archipelago)) | Archipelago multiworld randomizer server, Generate your Archipelago world using the client then place your generated AP\_\*.zip in the output folder and start. | MIT | Active | Community | 1,759 |
-| [Bracket](https://docs.bracketapp.nl/) ([source](https://github.com/evroon/bracket)) | Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. | AGPL-3.0 | Active | Official | 1,754 |
+| [PufferPanel](https://pufferpanel.com/) ([source](https://github.com/pufferpanel/pufferpanel)) | Game server management panel designed for both small networks and game server providers. | Apache-2.0 | Active | Official | 1,771 |
+| [archipelago-server](https://archipelago.gg/) ([source](https://github.com/ArchipelagoMW/Archipelago)) | Archipelago multiworld randomizer server, Generate your Archipelago world using the client then place your generated AP\_\*.zip in the output folder and start. | MIT | Active | Community | 1,761 |
+| [Bracket](https://docs.bracketapp.nl/) ([source](https://github.com/evroon/bracket)) | Flexible tournament system to build a tournament setup, add teams, schedule matches, keep track of scores and present ranking live to the public. | AGPL-3.0 | Active | Official | 1,758 |
 | [Hypersomnia](https://hypersomnia.io/) ([source](https://github.com/TeamHypersomnia/Hypersomnia)) | Competitive top-down shooter blending Counter-Strike with Hotline Miami, Runs on Linux, Windows, MacOS and the Web. | AGPL-3.0 | Active | Official | 1,732 |
-| [Factorio Server](https://factorio.com/) | Dedicated server container for multiplayer Factorio worlds, saves, mods, and RCON. | MIT | Active | Community | 1,443 |
+| [Factorio Server](https://factorio.com/) | Dedicated server container for multiplayer Factorio worlds, saves, mods, and RCON. | MIT | Active | Community | 1,444 |
 | [Nukkit](https://github.com/CloudburstMC/Nukkit) | Nukkit server for hosting Minecraft Pocket Edition multiplayer worlds. | GPL-3.0 | Active | Community | 1,360 |
 | [Lodestone](https://www.lodestone.cc/) ([source](https://github.com/Lodestone-Team/lodestone)) | Hosting tool for Minecraft and other multiplayer games. | AGPL-3.0 | Active | Official | 1,314 |
-| [RetroAssembly](https://retroassembly.com/) ([source](https://github.com/arianrhodsandlot/retroassembly)) | Retro game collection app for cataloging titles, metadata, artwork, and browser-based library browsing. | MIT | Active | Official | 1,160 |
+| [RetroAssembly](https://retroassembly.com/) ([source](https://github.com/arianrhodsandlot/retroassembly)) | Retro game collection app for cataloging titles, metadata, artwork, and browser-based library browsing. | MIT | Active | Official | 1,166 |
 | [Gameyfin](https://gameyfin.org/) ([source](https://github.com/gameyfin/gameyfin)) | Video game library manager with automatic scanning, web access, downloads, and plugin support. | AGPL-3.0 | Active | Community | 1,152 |
-| [Razzia](https://github.com/Ralex91/Razzia) | Quiz app for running small events with teams, questions, scoring, and live rounds. | MIT | Active | Official | 1,109 |
+| [Razzia](https://github.com/Ralex91/Razzia) | Quiz app for running small events with teams, questions, scoring, and live rounds. | MIT | Active | Official | 1,121 |
 | [Pterodactyl-Deamons](https://github.com/pterodactyl) ([source](https://github.com/pterodactyl/wings)) | Game server management panel for deploying and operating multiplayer servers. | MIT | Active | Community | 1,079 |
 | [Terraforming Mars](https://github.com/terraforming-mars/terraforming-mars) | Web implementation of the Terraforming Mars board game for multiplayer play. | GPL-3.0 | Active | No | 964 |
+| [Ownfoil](https://github.com/a1ex4/ownfoil) | Nintendo Switch library manager for organizing titles and serving Tinfoil shop metadata. | AGPL-3.0 | Active | Official | 962 |
 | [Gaseous Server](https://github.com/gaseous-project/gaseous-server) | Game ROM manager with a built-in web emulator using multiple sources to identify and provide metadata. | AGPL-3.0 | Active | Official | 957 |
-| [Ownfoil](https://github.com/a1ex4/ownfoil) | Nintendo Switch library manager for organizing titles and serving Tinfoil shop metadata. | AGPL-3.0 | Active | Official | 957 |
 | [amongusdiscord](https://github.com/denverquane/amongusdiscord) | Discord bot that automatically mutes and unmutes Among Us players during matches. | MIT | Active | Community | 937 |
 | [Lancache](https://github.com/lancachenet/monolithic) | Game download cache for reducing repeated LAN downloads from supported stores. | MIT | Active | Official | 911 |
-| [Calagopus](https://calagopus.com/) ([source](https://github.com/calagopus/panel)) | Game server panel for deploying, monitoring, and managing Minecraft, Hytale, and other servers. | MIT | Active | Official | 899 |
-| [Zero-K](https://zero-k.info/) ([source](https://github.com/ZeroK-RTS/Zero-K)) | Real-time strategy game built on the Spring engine with online multiplayer. | GPL-2.0 | Active |  | 883 |
-| [DDraceNetwork](https://ddnet.org/) ([source](https://github.com/ddnet/ddnet)) | Cooperative Teeworlds game server and client with race maps and online play. | MIT | Active | No | 860 |
+| [Calagopus](https://calagopus.com/) ([source](https://github.com/calagopus/panel)) | Game server panel for deploying, monitoring, and managing Minecraft, Hytale, and other servers. | MIT | Active | Official | 908 |
+| [Zero-K](https://zero-k.info/) ([source](https://github.com/ZeroK-RTS/Zero-K)) | Real-time strategy game built on the Spring engine with online multiplayer. | GPL-2.0 | Active |  | 884 |
+| [DDraceNetwork](https://ddnet.org/) ([source](https://github.com/ddnet/ddnet)) | Cooperative Teeworlds game server and client with race maps and online play. | MIT | Active | No | 861 |
 | [GameVault](https://gamevau.lt/) ([source](https://github.com/Phalcode/gamevault-app)) | Server and client stack for organizing and streaming DRM-free games from a private file server. | CC BY-NC-SA 4.0 | Active | Official | 822 |
-| [Drop](https://droposs.org/) ([source](https://github.com/Drop-OSS/drop)) | Game distribution app for hosting builds, releases, downloads, version channels, and player access. | AGPL-3.0 | Active | Official | 775 |
-| [Questarr](https://github.com/doezer/questarr) | Questarr - A video game management application inspired by the -Arr apps. | GPL-3.0 | Active | Community | 717 |
+| [Drop](https://droposs.org/) ([source](https://github.com/Drop-OSS/drop)) | Game distribution app for hosting builds, releases, downloads, version channels, and player access. | AGPL-3.0 | Active | Official | 778 |
+| [Questarr](https://github.com/doezer/questarr) | Questarr - A video game management application inspired by the -Arr apps. | GPL-3.0 | Active | Community | 720 |
 | [FactorioServerManager](https://github.com/openfactorioservermanager/factorio-server-manager) | Web interface for configuring Factorio servers, saves, mods, and settings. | MIT | Stale | Community | 708 |
-| [Posio](https://posio.abrenaut.com/) ([source](https://github.com/abrenaut/posio)) | Runs a geography guessing game where players identify places and compete in multiplayer rounds. | MIT | Stale | Official | 700 |
-| [Scribble.rs](https://github.com/scribble-rs/scribble.rs) | Browser drawing game for guessing words with friends, live rooms, timers, and score rounds. | BSD-3-Clause | Active | Official | 670 |
-| [Tonkatsu Box](https://github.com/hacan359/tonkatsu_box) | Cross-app collection manager for retro games, movies, TV shows, anime, manga, visual novels, and books with tier lists, visual boards, and import/export. | MIT | Active | No | 606 |
+| [Posio](https://posio.abrenaut.com/) ([source](https://github.com/abrenaut/posio)) | Runs a geography guessing game where players identify places and compete in multiplayer rounds. | MIT | Stale | Official | 701 |
+| [Scribble.rs](https://github.com/scribble-rs/scribble.rs) | Browser drawing game for guessing words with friends, live rooms, timers, and score rounds. | BSD-3-Clause | Active | Official | 672 |
+| [Tonkatsu Box](https://github.com/hacan359/tonkatsu_box) | Cross-app collection manager for retro games, movies, TV shows, anime, manga, visual novels, and books with tier lists, visual boards, and import/export. | MIT | Active | No | 609 |
 | [PlanarAlly](https://www.planarally.io/) ([source](https://github.com/Kruptein/PlanarAlly)) | Virtual tabletop for maps, tokens, fog of war, and offline play sessions. | MIT | Active | Official | 563 |
 | [playitgg](https://playit.gg/) ([source](https://github.com/playit-cloud/playit-agent)) | Game server proxy that lets you share a local game server without port forwarding or exposing your home IP address. | BSD-2-Clause | Active | Community | 546 |
 | [Red Eclipse 2](https://www.redeclipse.net/) ([source](https://github.com/redeclipse/base)) | Arena first-person shooter with multiplayer combat inspired by Unreal Tournament. | zlib for source code; game data under v… | Active |  | 545 |
@@ -72,14 +72,14 @@
 | [auto-mcs](https://www.auto-mcs.com/) ([source](https://github.com/macarooni-man/auto-mcs)) | Minecraft server manager for creating, running, and backing up game servers across devices. | GPL-3.0 | Active | Official | 506 |
 | [LANCommander](https://lancommander.app/) ([source](https://github.com/LANCommander/LANCommander)) | Game distribution app for hosting LAN libraries, installers, metadata, and client downloads. | MIT | Active | Official | 478 |
 | [Foundry Virtual Tabletop](https://foundryvtt.com/) ([source](https://github.com/foundryvtt/foundryvtt)) | Virtual tabletop server for running browser-based role-playing game sessions. | Proprietary EULA | Active | No | 397 |
-| [SourceBans++](https://sbpp.github.io/) ([source](https://github.com/sbpp/sourcebans-pp)) | Admin, ban, and communication management system for games running on the Source engine. | CC-BY-SA-4.0 | Active | Official | 378 |
+| [SourceBans++](https://sbpp.github.io/) ([source](https://github.com/sbpp/sourcebans-pp)) | Admin, ban, and communication management system for games running on the Source engine. | CC-BY-SA-4.0 | Active | Official | 379 |
 | [MineOS](https://github.com/hexparrot/mineos-node) | Web control panel for creating, running, and monitoring Minecraft servers. | GPL-3.0 | Stale | Community | 363 |
 | [Quizmaster](https://github.com/nymanjens/quizmaster) | Hosts live multiplayer quizzes that participants join from their browsers. | Apache-2.0 | Active | Official | 327 |
-| [LanCache DNS](https://lancache.net/) ([source](https://github.com/lancachenet/lancache-dns)) | DNS service that routes game downloads through a local LanCache server. | MIT | Active | Official | 321 |
+| [ROMarr](https://github.com/blizzhacker/romarr) | Media automation service that searches indexers and files game ROMs into a library. | MIT | Active | Community | 326 |
+| [LanCache DNS](https://lancache.net/) ([source](https://github.com/lancachenet/lancache-dns)) | DNS service that routes game downloads through a local LanCache server. | MIT | Active | Official | 322 |
 | [Virtualtabletop](https://github.com/ArnoldSmith86/virtualtabletop) | Virtual surface in the browser on which you can play board, dice and card games. | GPL-3.0 | Active | No | 321 |
 | [Nomifactory-CEu](https://vaulthunters.gg/) ([source](https://github.com/Nomi-CEu/Nomi-CEu)) | Dedicated Minecraft server for the Nomifactory CEu modpack. | LGPL-3.0 | Active | Community | 302 |
 | [Chimera](https://github.com/chimeraos/chimera) | Web application for installing non-Steam games and managing game files on Linux couch-gaming systems. | MIT | Slow | Community | 288 |
-| [ROMarr](https://github.com/blizzhacker/romarr) | Media automation service that searches indexers and files game ROMs into a library. | MIT | Active | Community | 286 |
 | [Word Mastermind](https://github.com/clupasq/word-mastermind) | Runs an endless Wordle-style guessing game in a browser. | MIT | Active | Official | 278 |
 | [TModLoader](https://github.com/jacobsmile/tmodloader1.4) | Easily and quickly set up a configurable Terraria tModLoader server that automatically downloads mods using Steam Workshop IDs., Features -Easy download of. | None declared | Active | Community | 259 |
 | [EasyWI](https://easy-wi.com/) ([source](https://github.com/easy-wi/developer)) | Web control panel for managing game servers, voice servers, users, and hosting services. | GPL-3.0 | Active |  | 246 |
@@ -94,10 +94,10 @@
 | [Playerr](https://github.com/maikboarder/playerr) | Game library manager and PVR for organizing and recording game content. | MIT | Active | Community | 182 |
 | [derbynet\_server](http://jeffpiazza.github.io/derbynet/) ([source](https://github.com/jeffpiazza/derbynet)) | Pinewood Derby race manager with browser-based check-in, scheduling, displays, and results. | MIT | Active | Community | 165 |
 | [RCON-WebAdmin](https://github.com/rcon-web-admin/rcon-web-admin) | RCON web interface for monitoring player ping, VAC status, and in-game chat. | MIT | Stale | Community | 165 |
-| [AMP](https://github.com/mitchtalmadge/amp-dockerized) | Commercial game-server management panel distributed in an unofficial Docker image. | None declared | Active | Community | 162 |
+| [AMP](https://github.com/mitchtalmadge/amp-dockerized) | Commercial game-server management panel distributed in an unofficial Docker image. | None declared | Active | Community | 161 |
 | [GameAP](https://gameap.com/) ([source](https://github.com/gameap/gameap)) | Game Administration Panel for managing game servers on Linux and Windows. | MIT | Active | Official | 142 |
-| [TidyQuest](https://github.com/mellow-fox/tidyquest) | Family chore app that turns tasks into a game with rooms, coins, achievements, and goals. | AGPL-3.0 | Active | Community | 134 |
-| [clonehero](https://github.com/clonehero-game/releases) | CloneHero is an clone of the popular rhythm game, providing a fun and engaging experience for players. | None declared | Stale | Community | 133 |
+| [TidyQuest](https://github.com/mellow-fox/tidyquest) | Family chore app that turns tasks into a game with rooms, coins, achievements, and goals. | AGPL-3.0 | Active | Community | 135 |
+| [clonehero](https://github.com/clonehero-game/releases) | CloneHero is an clone of the popular rhythm game, providing a fun and engaging experience for players. | None declared | Stale | Community | 134 |
 | [PS3NetSrv](https://github.com/shawly/docker-ps3netsrv) | PS3netsrv is a program that allows Multiman or Webman to play game backups that are stored on your Unraid server. | GPL-3.0 | Active | Community | 133 |
 | [ipxbox](https://github.com/fragglet/ipxbox) | IPX network server for connecting DOSBox clients to multiplayer games. | GPL-2.0 | Active | Community | 105 |
 | [MeepleStats---Backend](https://github.com/tommythehuman/meeplestats) | Web app designed to track board game statistics for your group of friends. | MIT | Active | Community | 101 |
@@ -115,12 +115,12 @@
 | [Krystal Bull](https://suredbits.com/) ([source](https://github.com/bitcoin-s/krystal-bull)) | Bitcoin betting app for creating and participating in user-funded wagers. | MIT | Stale | Official | 42 |
 | [MatchExec](https://matchexec.com/) ([source](https://github.com/slamanna212/MatchExec)) | Video game tournament manager for registration, brackets, matches, and results. | GPL-3.0 | Active | Community | 40 |
 | [AQtion-Server---3-Team](https://github.com/actionquake/distrib) | Dedicated Action Quake 2 server configured for three-team multiplayer matches. | GPL-2.0 | Active | Community | 31 |
-| [Kino-Swipe](https://github.com/bergasha/kino-swipe) | Movie discovery game where groups swipe through titles and match on shared choices. | MIT | Active | Community | 27 |
+| [Kino-Swipe](https://github.com/bergasha/kino-swipe) | Movie discovery game where groups swipe through titles and match on shared choices. | MIT | Active | Community | 26 |
 | [TrackMania2020-Server](https://github.com/evoesports/docker-trackmania) | Dedicated TrackMania 2020 server for multiplayer racing sessions. | Apache-2.0 | Stale | Community | 26 |
 | [ProjectZomboidReporter-API](https://github.com/chrisashtear/zomboid-server-stats-reporter) | API service that exposes Project Zomboid server statistics from a SQL database to reporting tools. | None declared | Stale | Community | 24 |
+| [LAN-Games](https://github.com/kbennett2000/lan-games) | Collection of eight turn-based games for playing over a local network. | MIT | Active | Community | 23 |
 | [Palisade](https://github.com/shakes63/palisade) | Palisade - a web control panel for game dedicated servers. | MIT | Active | Community | 23 |
-| [LAN-Games](https://github.com/kbennett2000/lan-games) | Collection of eight turn-based games for playing over a local network. | MIT | Active | Community | 22 |
-| [GameNight](https://github.com/abhijatchaturvedi/gamenight) | Local-network party game that turns phones, tablets, and laptops into controllers. | None declared | Active | Community | 21 |
+| [GameNight](https://github.com/abhijatchaturvedi/gamenight) | Local-network party game that turns phones, tablets, and laptops into controllers. | None declared | Active | Community | 22 |
 | [Compressatorium](https://github.com/pacnpal/compressatorium) | Web tool for converting and processing game-disc images. | None declared | Active | Community | 18 |
 | [dolphin](https://github.com/linuxserver/docker-dolphin) | Dolphin Emulator lets you play GameCube and Wii games with various graphical enhancements and other features are available to. | GPL-3.0 | Active | Community | 16 |
 | [factorio-stack-manager](https://github.com/brennanwoodbury/factorio-stack-manager) | Web manager for running and controlling multiple Factorio dedicated servers. | MIT | Active | Community | 16 |
@@ -130,8 +130,8 @@
 | [Rumpus](https://github.com/rodwilco/rumpus) | Local-network party game where players use phones as controllers for a shared screen. | AGPL-3.0 | Active | Community | 13 |
 | [scummvm](https://github.com/linuxserver/docker-scummvm) | Compatibility layer for running classic adventure and role-playing games. | GPL-3.0 | Active | Community | 13 |
 | [SteamBee](https://github.com/ill-yes/steam-bee) | SteamBee is a operations console for managing your own Steam accounts, with a browser UI, multi-account control, QR/mobile approval, encrypted refresh-token. | AGPL-3.0 | Active | Community | 12 |
+| [datoso](https://github.com/laromicas/datoso) | Datoso is a WIP Python command line tool to download and organize your Dat Roms, As today the tool supports dat-omatic, redump, and translated-english dats. | MIT | Active | Community | 11 |
 | [eden](https://github.com/linuxserver/docker-eden) | Experimental Nintendo Switch emulator for running games on desktop operating systems. | GPL-3.0 | Active | Community | 11 |
-| [datoso](https://github.com/laromicas/datoso) | Datoso is a WIP Python command line tool to download and organize your Dat Roms, As today the tool supports dat-omatic, redump, and translated-english dats. | MIT | Active | Community | 10 |
 | [HyOS - Hytale Server](https://hyos.io/) ([source](https://github.com/editmysave/hyos)) | Hytale dedicated game server with web management UI, OAuth authentication, auto-updates, mod support, and REST API for server control. | MIT | Active | No | 10 |
 | [ut99-server](https://github.com/phasecorex/docker-ut99-server) | Dedicated Unreal Tournament 1999 server for hosting multiplayer matches. | GPL-3.0 | Active | Community | 10 |
 | [20euros](https://jatekos101.github.io/20euros/) ([source](https://github.com/jatekos101/20euros)) | Browser-based 2048 variant using euro coins and banknotes. | MIT app code; bundled assets are non-fr… | Stale | No | 9 |
@@ -252,4 +252,4 @@
 | [Vintage-Story](https://www.vintagestory.at/) | This docker will run a Vintage-Story server, UPDATE NOTICE: The container can check on every start/restart if if you leave the version blank, CONSOLE: To. |  | Active | Community |  |
 | [XLink-Kai-Evolution](https://www.teamxlink.co.uk/) | Network service that connects console users for multiplayer games across the internet. |  | Active | Community |  |
 
-[Back to all categories](../README.md). Data from 2026-11-13.
+[Back to all categories](../README.md). Data from 2026-11-16.

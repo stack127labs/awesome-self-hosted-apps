@@ -4,100 +4,100 @@
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
-| [bitcoind](https://bitcoincore.org/) ([source](https://github.com/bitcoin/bitcoin)) | Bitcoin Core node that validates blocks and transactions and provides wallet services. | MIT | Active | Community | 90,653 |
-| [OpenBB](https://openbb.co/) ([source](https://github.com/OpenBB-finance/OpenBB)) | Financial data platform with Python, command-line, and REST API access to market data providers. | AGPL-3.0 | Active | Official | 75,275 |
+| [bitcoind](https://bitcoincore.org/) ([source](https://github.com/bitcoin/bitcoin)) | Bitcoin Core node that validates blocks and transactions and provides wallet services. | MIT | Active | Community | 90,678 |
+| [OpenBB](https://openbb.co/) ([source](https://github.com/OpenBB-finance/OpenBB)) | Financial data platform with Python, command-line, and REST API access to market data providers. | AGPL-3.0 | Active | Official | 75,397 |
 | [Maybe](https://maybefinance.com/) ([source](https://github.com/maybe-finance/maybe)) | Tracks accounts, transactions, budgets, investments, and net worth in one personal finance workspace. | AGPL-3.0 | Archived | Official | 54,188 |
-| [Go Ethereum (Geth)](https://geth.ethereum.org/) ([source](https://github.com/ethereum/go-ethereum)) | Ethereum execution client for running a full node and serving JSON-RPC requests. | LGPL-3.0 | Active | Official | 51,476 |
-| [Vibe-Trading](https://vibetrading.wiki/) ([source](https://github.com/HKUDS/Vibe-Trading)) | Trading research workspace with a web interface, REST API, backtests, and MCP tools. | MIT | Active | Official | 38,001 |
+| [Go Ethereum (Geth)](https://geth.ethereum.org/) ([source](https://github.com/ethereum/go-ethereum)) | Ethereum execution client for running a full node and serving JSON-RPC requests. | LGPL-3.0 | Active | Official | 51,480 |
+| [Vibe-Trading](https://vibetrading.wiki/) ([source](https://github.com/HKUDS/Vibe-Trading)) | Trading research workspace with a web interface, REST API, backtests, and MCP tools. | MIT | Active | Official | 38,228 |
 | [Actual Budget](https://actualbudget.org/) ([source](https://github.com/actualbudget/actual)) | Personal finance app for budgeting, account tracking, and transaction review. | MIT | Active | Official | 30,212 |
-| [Firefly III](https://firefly-iii.org/) ([source](https://github.com/firefly-iii/firefly-iii)) | Personal finance manager for tracking accounts, budgets, bills, transactions, and reports. | AGPL-3.0 | Active | Community | 25,229 |
-| [Doge-Node](https://dogecoin.com/) ([source](https://github.com/dogecoin/dogecoin)) | Dogecoin node for participating in the peer-to-peer network and validating transactions. | MIT | Active | Community | 15,207 |
+| [Firefly III](https://firefly-iii.org/) ([source](https://github.com/firefly-iii/firefly-iii)) | Personal finance manager for tracking accounts, budgets, bills, transactions, and reports. | AGPL-3.0 | Active | Community | 25,259 |
+| [Doge-Node](https://dogecoin.com/) ([source](https://github.com/dogecoin/dogecoin)) | Dogecoin node for participating in the peer-to-peer network and validating transactions. | MIT | Active | Community | 15,205 |
 | [Sure](https://sure.am/) ([source](https://github.com/we-promise/sure)) | Personal finance application for everyone (fork of Maybe). | AGPL-3.0 | Active | Community | 13,162 |
-| [Invoice Ninja](https://invoiceninja.com/) ([source](https://github.com/invoiceninja/invoiceninja)) | Billing app for invoices, quotes, expenses, payments, projects, and client portals. | Elastic-2.0 | Active | Official | 10,574 |
+| [Invoice Ninja](https://invoiceninja.com/) ([source](https://github.com/invoiceninja/invoiceninja)) | Billing app for invoices, quotes, expenses, payments, projects, and client portals. | Elastic-2.0 | Active | Official | 10,590 |
 | [Ghostfolio](https://ghostfol.io/) ([source](https://github.com/ghostfolio/ghostfolio)) | Wealth management software to keep track of stocks, ETFs and cryptocurrencies. | AGPL-3.0 | Active | Official | 9,699 |
 | [Wealthfolio](https://wealthfolio.app/) ([source](https://github.com/wealthfolio/wealthfolio)) | Tracks investments, net worth, spending, and financial projections across desktop, mobile, and web clients. | AGPL-3.0 | Active | Official | 9,429 |
 | [Wallos](https://wallosapp.com/) ([source](https://github.com/ellite/Wallos)) | Lightweight personal subscription tracker with statistics and optional notifications. | GPL-3.0 | Active | Official | 8,829 |
-| [LND](https://github.com/lightningnetwork/lnd) | LND is the Lightning Network Daemon, a complete Lightning Network node implementation. | MIT | Active | Community | 8,215 |
-| [BTCPay Server](https://btcpayserver.org/) ([source](https://github.com/btcpayserver/btcpayserver)) | Bitcoin payment processor for accepting cryptocurrency payments from customers. | MIT | Active | Official | 7,901 |
-| [OctoBot](https://www.octobot.cloud/) ([source](https://github.com/Drakkar-Software/OctoBot)) | Cryptocurrency trading bot for running strategies, backtesting ideas, and monitoring markets. | GPL-3.0 | Active | Official | 6,888 |
+| [LND](https://github.com/lightningnetwork/lnd) | LND is the Lightning Network Daemon, a complete Lightning Network node implementation. | MIT | Active | Community | 8,217 |
+| [BTCPay Server](https://btcpayserver.org/) ([source](https://github.com/btcpayserver/btcpayserver)) | Bitcoin payment processor for accepting cryptocurrency payments from customers. | MIT | Active | Official | 7,920 |
+| [OctoBot](https://www.octobot.cloud/) ([source](https://github.com/Drakkar-Software/OctoBot)) | Cryptocurrency trading bot for running strategies, backtesting ideas, and monitoring markets. | GPL-3.0 | Active | Official | 6,938 |
 | [TaxHacker](https://taxhacker.app/) ([source](https://github.com/vas3k/TaxHacker)) | Accounting assistant for tracking expenses, invoices, and tax-related business records. | MIT | Active | Official | 6,823 |
-| [ezbookkeeping](https://ezbookkeeping.mayswind.net/) ([source](https://github.com/mayswind/ezbookkeeping)) | Self-hosted personal finance app for recording daily transactions. | MIT | Active | Official | 6,062 |
-| [Securo](https://usesecuro.com/) ([source](https://github.com/securo-finance/securo)) | Personal finance manager that keeps financial data on the local server. | AGPL-3.0 | Active | Official | 4,264 |
-| [Rotki](https://rotki.com/) ([source](https://github.com/rotki/rotki)) | Portfolio tracker for crypto assets, trades, balances, and tax-related reports. | AGPL-3.0 | Active | Official | 4,087 |
+| [ezbookkeeping](https://ezbookkeeping.mayswind.net/) ([source](https://github.com/mayswind/ezbookkeeping)) | Self-hosted personal finance app for recording daily transactions. | MIT | Active | Official | 6,080 |
+| [Securo](https://usesecuro.com/) ([source](https://github.com/securo-finance/securo)) | Personal finance manager that keeps financial data on the local server. | AGPL-3.0 | Active | Official | 4,484 |
+| [Rotki](https://rotki.com/) ([source](https://github.com/rotki/rotki)) | Portfolio tracker for crypto assets, trades, balances, and tax-related reports. | AGPL-3.0 | Active | Official | 4,091 |
 | [Prysm Beacon Node](https://prysm.offchainlabs.com/docs/) ([source](https://github.com/OffchainLabs/prysm)) | Runs Prysm, an Ethereum proof-of-stake client for beacon nodes and validators. | GPL-3.0 | Active | Official | 3,793 |
-| [Cardano-Node](https://github.com/IntersectMBO/cardano-node) | Cardano node for participating in the network and validating blockchain data. | Apache-2.0 | Active | Community | 3,172 |
-| [Spliit](https://spliit.app/) ([source](https://github.com/spliit-app/spliit)) | Shared expense tracker for groups who need balances, payments, and settlement totals. | MIT | Active | Official | 3,052 |
+| [Cardano-Node](https://github.com/IntersectMBO/cardano-node) | Cardano node for participating in the network and validating blockchain data. | Apache-2.0 | Active | Community | 3,173 |
+| [Spliit](https://spliit.app/) ([source](https://github.com/spliit-app/spliit)) | Shared expense tracker for groups who need balances, payments, and settlement totals. | MIT | Active | Official | 3,062 |
 | [LubeLogger](https://lubelogger.com/) ([source](https://github.com/hargata/lubelog)) | Vehicle maintenance tracker for service records, fuel logs, reminders, and costs. | MIT | Active | Official | 2,956 |
 | [Mempool](https://mempool.space/) ([source](https://github.com/mempool/mempool)) | Bitcoin mempool visualizer, block explorer, and API service. | AGPL-3.0 | Active | No | 2,892 |
-| [Fava](https://beancount.github.io/fava) ([source](https://github.com/beancount/fava)) | Web frontend of Beancount, a text based double-entry accounting system. | MIT | Active | Official | 2,602 |
+| [Fava](https://beancount.github.io/fava) ([source](https://github.com/beancount/fava)) | Web frontend of Beancount, a text based double-entry accounting system. | MIT | Active | Official | 2,603 |
 | [InvoiceShelf](https://invoiceshelf.com/) ([source](https://github.com/InvoiceShelf/InvoiceShelf)) | Track expenses, payments & create professional invoices & estimates (fork of Crater). | AGPL-3.0 | Active | Official | 1,968 |
-| [BTC RPC Explorer](https://bitcoinexplorer.org/) ([source](https://github.com/janoside/btc-rpc-explorer)) | Database-free web explorer for inspecting Bitcoin blocks, transactions, and addresses. | MIT | Slow | Official | 1,794 |
+| [BTC RPC Explorer](https://bitcoinexplorer.org/) ([source](https://github.com/janoside/btc-rpc-explorer)) | Database-free web explorer for inspecting Bitcoin blocks, transactions, and addresses. | MIT | Slow | Official | 1,795 |
 | [nethermind-ethereum](https://github.com/nethermindeth/nethermind) | Ethereum execution client for running and synchronizing an Ethereum node. | GPL-3.0 | Active | Community | 1,628 |
 | [open-ethereum](https://github.com/openethereum/openethereum) | The fast, light, and client for the Ethereum mainnet. | GPL-3.0 | Archived | Community | 1,623 |
-| [ExpenseOwl](https://github.com/tanq16/expenseowl) ([source](https://github.com/Tanq16/ExpenseOwl)) | Extremely simple expense tracker with a beautiful UI. | MIT | Slow | Official | 1,531 |
+| [ExpenseOwl](https://github.com/tanq16/expenseowl) ([source](https://github.com/Tanq16/ExpenseOwl)) | Extremely simple expense tracker with a beautiful UI. | MIT | Slow | Official | 1,532 |
 | [Invoice Builder](https://github.com/piratuks/invoice-builder) | Invoicing app for creating quotes, bills, and client payment records. | MIT | Active | Official | 1,521 |
 | [P2Pool](https://p2pool.io/) ([source](https://github.com/SChernykh/p2pool)) | Runs a decentralized mining pool for Monero without a central pool operator. | GPL-3.0 | Active | Official | 1,519 |
-| [Split Pro](https://splitpro.app/) ([source](https://github.com/oss-apps/split-pro)) | Expense-sharing app for dividing costs among groups and tracking balances. | MIT | Active | Official | 1,490 |
+| [Split Pro](https://splitpro.app/) ([source](https://github.com/oss-apps/split-pro)) | Expense-sharing app for dividing costs among groups and tracking balances. | MIT | Active | Official | 1,492 |
 | [IHateMoney](https://ihatemoney.org/) ([source](https://github.com/spiral-project/ihatemoney)) | Shared budget app for tracking expenses, who paid, who benefited, and how to settle balances. | BSD beerware derivative | Active | Official | 1,395 |
-| [LNbits](https://github.com/lnbits/lnbits-legend) | Multi-user wallet management system for building Lightning applications. | MIT | Active | Official | 1,250 |
-| [DumbAssets](https://dumbassets.dumbware.io/) ([source](https://github.com/DumbWareio/DumbAssets)) | Catalogs personal assets with item records, locations, values, ownership details, and notes. | GPL-3.0 | Slow | Official | 1,246 |
+| [LNbits](https://github.com/lnbits/lnbits-legend) | Multi-user wallet management system for building Lightning applications. | MIT | Active | Official | 1,251 |
+| [DumbAssets](https://dumbassets.dumbware.io/) ([source](https://github.com/DumbWareio/DumbAssets)) | Catalogs personal assets with item records, locations, values, ownership details, and notes. | GPL-3.0 | Slow | Official | 1,245 |
 | [Invio](https://github.com/kittendevv/Invio) | Invoicing app for freelancers who manage clients, invoices, payment tracking, and billing records. | Unlicense | Active | Official | 1,203 |
-| [Elements Core](https://elementsproject.org/) ([source](https://github.com/elementsproject/elements)) | Liquid Network full node for managing network services and connections. | MIT | Active | Official | 1,171 |
+| [Elements Core](https://elementsproject.org/) ([source](https://github.com/elementsproject/elements)) | Liquid Network full node for managing network services and connections. | MIT | Active | Official | 1,173 |
 | [RavencoinP2P](https://github.com/ravenproject/ravencoin) | The Ravencoin project is launched based on the hard work and continuous effort of over 400 Bitcoin developers who made over 14,000 commits over the life to. | MIT | Stale | Community | 1,123 |
-| [BlueWallet Lightning](https://lndhub.io/) ([source](https://github.com/bluewallet/lndhub)) | Service for connecting BlueWallet to a personal Lightning node. | MIT | Archived | Official | 1,076 |
-| [Budget](https://usebudget.com/) ([source](https://github.com/range-of-motion/budget)) | Web app that helps you keep track of your finances. | MIT | Stale | Community | 1,068 |
-| [RoboSats](https://learn.robosats.org/) ([source](https://github.com/robosats/robosats)) | Private peer-to-peer Bitcoin exchange for trading without account registration. | AGPL-3.0 | Active | Official | 1,045 |
+| [BlueWallet Lightning](https://lndhub.io/) ([source](https://github.com/bluewallet/lndhub)) | Service for connecting BlueWallet to a personal Lightning node. | MIT | Archived | Official | 1,078 |
+| [Budget](https://usebudget.com/) ([source](https://github.com/range-of-motion/budget)) | Web app that helps you keep track of your finances. | MIT | Stale | Community | 1,069 |
+| [RoboSats](https://learn.robosats.org/) ([source](https://github.com/robosats/robosats)) | Private peer-to-peer Bitcoin exchange for trading without account registration. | AGPL-3.0 | Active | Official | 1,047 |
 | [Tracktor](https://github.com/javedh-dev/tracktor) | Vehicle manager for tracking maintenance, fuel logs, ownership records, costs, and service history. | MIT | Active | Official | 1,040 |
-| [Bitcart](https://bitcart.ai/) ([source](https://github.com/bitcart/bitcart)) | Runs a cryptocurrency payment processor with merchant APIs, admin tools, stores, and coin daemons. | MIT | Active | Official | 1,008 |
+| [Bitcart](https://bitcart.ai/) ([source](https://github.com/bitcart/bitcart)) | Runs a cryptocurrency payment processor with merchant APIs, admin tools, stores, and coin daemons. | MIT | Active | Official | 1,009 |
 | [Firefly-Pico](https://github.com/cioraneanu/firefly-pico) | Firefly III companion for recording and reviewing personal transactions. | AGPL-3.0 | Active | Community | 974 |
-| [OpenBudgeteer](https://axelander.dev/) ([source](https://github.com/TheAxelander/OpenBudgeteer)) | Budgeting app based on the Bucket Budgeting Principle. | AGPL-3.0 | Active | Official | 973 |
+| [OpenBudgeteer](https://axelander.dev/) ([source](https://github.com/TheAxelander/OpenBudgeteer)) | Budgeting app based on the Bucket Budgeting Principle. | AGPL-3.0 | Active | Official | 974 |
 | [Investbrain](https://investbra.in/) ([source](https://github.com/investbrainapp/investbrain)) | Investment portfolio tracker for monitoring holdings, performance, and allocation. | CC-BY-NC-4.0 | Active | Official | 940 |
 | [WYGIWYH](https://wygiwyh-demo.herculino.com/) ([source](https://github.com/eitchtee/WYGIWYH)) | Personal finance tracker for recording expenses, income, budgets, account balances, and spending history. | AGPL-3.0 | Active | Official | 913 |
-| [Budget Board](https://budgetboard.net/) ([source](https://github.com/teelur/budget-board)) | Simple app for tracking monthly spending and working towards financial goals. | AGPL-3.0 | Active | Official | 896 |
+| [Budget Board](https://budgetboard.net/) ([source](https://github.com/teelur/budget-board)) | Simple app for tracking monthly spending and working towards financial goals. | AGPL-3.0 | Active | Official | 897 |
 | [Rusty Kaspad](https://github.com/kaspanet/rusty-kaspa) | Rust implementation of a Kaspa full node for participating in the network. | ISC | Active | Official | 878 |
-| [Firefly III Data Importer](https://firefly-iii.org/) ([source](https://github.com/firefly-iii/data-importer)) | Imports bank transactions and files into the self-hosted Firefly III finance manager. | AGPL-3.0 | Active | Official | 857 |
-| [Specter Desktop](https://specter.solutions/) ([source](https://github.com/cryptoadvance/specter-desktop)) | Desktop wallet for managing Bitcoin multisignature setups with hardware wallets. | MIT | Active | Official | 852 |
-| [Ride The Lightning](https://github.com/Ride-The-Lightning/RTL) ([source](https://github.com/ride-the-lightning/rtl)) | Dashboard for monitoring and managing a Lightning Network node. | MIT | Active | Official | 801 |
+| [Firefly III Data Importer](https://firefly-iii.org/) ([source](https://github.com/firefly-iii/data-importer)) | Imports bank transactions and files into the self-hosted Firefly III finance manager. | AGPL-3.0 | Active | Official | 858 |
+| [Specter Desktop](https://specter.solutions/) ([source](https://github.com/cryptoadvance/specter-desktop)) | Desktop wallet for managing Bitcoin multisignature setups with hardware wallets. | MIT | Active | Official | 851 |
+| [Ride The Lightning](https://github.com/Ride-The-Lightning/RTL) ([source](https://github.com/ride-the-lightning/rtl)) | Dashboard for monitoring and managing a Lightning Network node. | MIT | Active | Official | 799 |
 | [spacemesh](https://github.com/spacemeshos/go-spacemesh) | Spacemesh is a decentralized blockchain computer using a new race-free consensus protocol that doesn't involve energy-wasteful proof of work. | MIT | Slow | Community | 780 |
 | [Invoicerr](https://docs.invoicerr.app/) ([source](https://github.com/invoicerr-app/invoicerr)) | Invoicing app for freelancers to manage clients, invoices, payments, taxes, and billing history. | AGPL-3.0 | Active | Official | 731 |
 | [Fedimint](https://fedimint.org/) ([source](https://github.com/fedimint/fedimint)) | Federated Bitcoin ecash mint for issuing and managing private digital cash. | MIT | Active | Official | 707 |
 | [groestlcoind](https://groestlcoin.org/) ([source](https://github.com/Groestlcoin/groestlcoin)) | Groestlcoin (GRS) is a cryptocurrency that has Instant and Private transactions with almost ZERO fees. | MIT | Active | Community | 702 |
 | [monetr](https://monetr.app/) ([source](https://github.com/monetr/monetr)) | Budgeting application focused on planning for recurring expenses. | FSL-1.1-MIT | Active | Official | 692 |
-| [BudgetBee](https://budgetbee.github.io/budgetbee) ([source](https://github.com/budgetbee/budgetbee)) | Personal finance manager for budgets, transactions, accounts, categories, and spending reports. | MIT | Active | Official | 647 |
-| [SHKeeper](https://shkeeper.io/) ([source](https://github.com/vsys-host/shkeeper.io)) | Cryptocurrency payment gateway for accepting coin payments through stores, CMS integrations, or custom apps. | GPL-3.0 | Active | Official | 646 |
+| [SHKeeper](https://shkeeper.io/) ([source](https://github.com/vsys-host/shkeeper.io)) | Cryptocurrency payment gateway for accepting coin payments through stores, CMS integrations, or custom apps. | GPL-3.0 | Active | Official | 649 |
+| [BudgetBee](https://budgetbee.github.io/budgetbee) ([source](https://github.com/budgetbee/budgetbee)) | Personal finance manager for budgets, transactions, accounts, categories, and spending reports. | MIT | Active | Official | 648 |
 | [GridcoinWalletGUI](https://gridcoin.world/) ([source](https://github.com/gridcoin-community/Gridcoin-Research)) | Get some Gridcoins from Boinc and Folding@home work. | MIT | Active | Community | 613 |
-| [crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) | PYour gateway to the world of crypto !/p pspan style="color: rgb(184, 49, 47);"strongThis project cannot be considered in any way as trading. | None declared | Archived | Community | 609 |
+| [crypto-exchanges-gateway](https://github.com/aloysius-pgast/crypto-exchanges-gateway) | PYour gateway to the world of crypto !/p pspan style="color: rgb(184, 49, 47);"strongThis project cannot be considered in any way as trading. | None declared | Archived | Community | 608 |
 | [Lightning Terminal](https://lightning.engineering/) ([source](https://github.com/lightninglabs/lightning-terminal)) | Interface for managing liquidity across Lightning payment channels. | MIT | Active | Official | 596 |
-| [Ocular](https://simonwep.github.io/ocular) ([source](https://github.com/simonwep/ocular)) | Simplistic and straightforward budgeting app to track your budget across months and years. | MIT | Active | Official | 579 |
+| [Ocular](https://simonwep.github.io/ocular) ([source](https://github.com/simonwep/ocular)) | Simplistic and straightforward budgeting app to track your budget across months and years. | MIT | Active | Official | 582 |
 | [LedgerSMB](https://ledgersmb.org/) ([source](https://github.com/ledgersmb/LedgerSMB)) | Accounting and ERP system for invoices, orders, projects, budgeting, and double-entry bookkeeping. | GPL-2.0 | Active | Official | 578 |
-| [electrumx](https://github.com/spesmilo/electrumx) | Serve your Electrum clients from your own Bitcoin node, Avoid trusting public Electrum nodes, and maintain your own privacy, Expose ElectrumX to the public. | MIT | Active | Community | 573 |
+| [electrumx](https://github.com/spesmilo/electrumx) | Serve your Electrum clients from your own Bitcoin node, Avoid trusting public Electrum nodes, and maintain your own privacy, Expose ElectrumX to the public. | MIT | Active | Community | 574 |
 | [Subs](https://subs.ajnart.fr/) ([source](https://github.com/ajnart/subs)) | Subscription cost tracker for monitoring recurring payments and services. | MIT | Active | Community | 515 |
 | [VoucherVault](https://github.com/l4rm4nd/VoucherVault/wiki) ([source](https://github.com/l4rm4nd/VoucherVault)) | Digital wallet for storing and managing vouchers, coupons, loyalty cards, and gift cards. | GPL-3.0 | Active | Official | 515 |
-| [Fulcrum](https://fulcrumserver.org/) ([source](https://github.com/cculianu/fulcrum)) | Fast Electrum server for serving wallet history and transaction data. | AGPL-3.0 | Active | Official | 510 |
+| [Fulcrum](https://fulcrumserver.org/) ([source](https://github.com/cculianu/fulcrum)) | Fast Electrum server for serving wallet history and transaction data. | AGPL-3.0 | Active | Official | 511 |
 | [gupax](https://github.com/gupax-io/gupax) | Gupax is a Monero mining app that combines P2Pool and XMRig, with options to connect to a local or remote node. | GPL-3.0 | Active | Community | 490 |
 | [Subtrackr](https://subtrackr.xyz/) ([source](https://github.com/bscott/subtrackr)) | Subscription tracker for recording recurring costs, renewals, and service details. | AGPL-3.0 | Active | Official | 483 |
 | [ThunderHub](https://thunderhub.io/) ([source](https://github.com/apotdevin/thunderhub)) | Web dashboard for managing channels, payments, and liquidity on a Lightning node. | MIT | Active | Official | 468 |
 | [Public Pool](https://web.public-pool.io/#/) ([source](https://github.com/benjamin-wilson/public-pool)) | Solo Bitcoin mining pool for miners who want to mine without pool fees. | GPL-3.0 | Active | Official | 452 |
-| [Family Accounting Tool](https://github.com/nymanjens/facto) | Tracks shared expenses, personal spending, and household finance splits for partners. | Apache-2.0 | Active | Official | 380 |
+| [Family Accounting Tool](https://github.com/nymanjens/facto) | Tracks shared expenses, personal spending, and household finance splits for partners. | Apache-2.0 | Active | Official | 381 |
 | [Subscription Manager](https://github.com/dh1011/subscription-manager) | Subscription tracker for monitoring recurring expenses and renewal dates. | MIT | Active | Official | 361 |
-| [TradeTally](https://tradetally.io/) ([source](https://github.com/GeneBO98/tradetally)) | Trading journal and analytics app for recording trades and reviewing performance. | Apache-2.0 | Active | No | 352 |
+| [TradeTally](https://tradetally.io/) ([source](https://github.com/GeneBO98/tradetally)) | Trading journal and analytics app for recording trades and reviewing performance. | Apache-2.0 | Active | No | 355 |
 | [Kresus](https://kresus.org/) ([source](https://github.com/kresusapp/kresus)) | Personal finance manager for tracking accounts, transactions, budgets, and recurring expenses. | AGPL-3.0 | Active | Official | 344 |
 | [DumbBudget](https://github.com/DumbWareio/DumbBudget) | Personal budgeting app for tracking income, expenses, and spending categories. | GPL-3.0 | Slow | Official | 342 |
 | [Machinaris](https://github.com/guydavis/machinaris) | Machinaris helps manage Chia farming, plotting, and node activity through a web interface. | Apache-2.0 | Active | Community | 341 |
-| [Jam](https://jamapp.org/) ([source](https://github.com/joinmarket-webui/jam)) | Bitcoin service for earning and managing sats through a web interface. | MIT | Active | Official | 335 |
+| [Jam](https://jamapp.org/) ([source](https://github.com/joinmarket-webui/jam)) | Bitcoin service for earning and managing sats through a web interface. | MIT | Active | Official | 337 |
 | [DollarDollar Bill Y'all](https://github.com/harung1993/dollardollar) | Expense tracker for splitting bills and tracking shared costs. | AGPL-3.0 | Active | Official | 325 |
-| [Bisq 2 Node](https://bisq.network/) ([source](https://github.com/bisq-network/bisq2)) | Run your own Bisq 2 node for private Bitcoin trading. | AGPL-3.0 | Active | Official | 321 |
+| [Bisq 2 Node](https://bisq.network/) ([source](https://github.com/bisq-network/bisq2)) | Run your own Bisq 2 node for private Bitcoin trading. | AGPL-3.0 | Active | Official | 322 |
 | [MyFin Budget](https://myfinbudget.com/) ([source](https://github.com/afaneca/myfin)) | Personal finances app (web + REST API + Android) that'll help you budget, keep track of your income/spending and forecast your financial future. | GPL-3.0 | Active | Official | 320 |
 | [Receipt Wrangler](https://receiptwrangler.io/) ([source](https://github.com/Receipt-Wrangler/receipt-wrangler)) | Receipt tracker for storing purchase records, organizing expenses, and reviewing spending history. | AGPL-3.0 | Active |  | 297 |
 | [Ignidash](https://ignidash.com/) ([source](https://github.com/schelskedevco/ignidash)) | Personal finance planning app for organizing budgets, accounts, and long-term money goals. | AGPL-3.0 | Active | Official | 296 |
-| [Alby Hub ✨](https://albyhub.com/) ([source](https://github.com/getalby/hub)) | Self-custodial Lightning wallet with integrated node and app connections. | Apache-2.0 | Active | Official | 286 |
+| [Alby Hub ✨](https://albyhub.com/) ([source](https://github.com/getalby/hub)) | Self-custodial Lightning wallet with integrated node and app connections. | Apache-2.0 | Active | Official | 288 |
 | [May](https://github.com/dannymcc/may) | Vehicle maintenance tracker for service history, fuel use, and mileage. | MIT | Active | No | 273 |
 | [SatSale](https://satsale.org/) ([source](https://github.com/nickfarrow/satsale)) | Bitcoin payment processor for accepting Lightning and on-chain payments. | MIT | Active | Official | 255 |
 | [LNDg](https://github.com/cryptosharks131) ([source](https://github.com/cryptosharks131/lndg)) | Dashboard for analyzing and automating Lightning node management. | MIT | Active | Official | 254 |
 | [Sphinx Relay](https://sphinx.chat/) ([source](https://github.com/stakwork/sphinx-relay)) | Chat and payment relay for communicating over the Lightning Network. | MIT | Stale | Official | 247 |
 | [chantools CLI](https://github.com/lightninglabs/chantools) | Command-line recovery tools for rescuing funds from LND and Core Lightning channels. | MIT | Active | Official | 239 |
 | [Bison Wallet](https://dex.decred.org/) ([source](https://github.com/decred/dcrdex)) | Multi-asset cryptocurrency wallet with an integrated decentralized exchange. | None declared | Active | Official | 223 |
-| [Cashu.me Wallet](https://cashu.space/) ([source](https://github.com/cashubtc/cashu.me)) | Bitcoin ecash wallet for sending and receiving private digital cash. | MIT | Active | Official | 221 |
+| [Cashu.me Wallet](https://cashu.space/) ([source](https://github.com/cashubtc/cashu.me)) | Bitcoin ecash wallet for sending and receiving private digital cash. | MIT | Active | Official | 222 |
 | [Chia](https://www.chia.net/) ([source](https://github.com/chia-network/chia-docker)) | Cryptocurrency node and wallet software for the Chia network. | Apache-2.0 | Active | No | 216 |
 | [Monero Node](https://www.getmonero.org/) ([source](https://github.com/sethforprivacy/simple-monerod-docker)) | Monero is a private, decentralized cryptocurrency that keeps your finances confidential and secure. | MIT | Active | No | 190 |
 | [Assets](https://github.com/venil7/assets) | Tracks portfolios, transactions, net worth, and market data across brokers with a local web dashboard. | Source available for inspection and per… | Active | Official | 185 |
@@ -106,7 +106,7 @@
 | [hammond](https://github.com/alfhou/hammond) | Vehicle expense tracking system with support for multiple users. | AGPL-3.0 | Stale | Community | 160 |
 | [DATUM](https://ocean.xyz/) ([source](https://github.com/ocean-xyz/datum_gateway)) | Bitcoin mining service for coordinating work without a central pool. | None declared | Active | Official | 149 |
 | [fredbet](https://github.com/fred4jupiter/fredbet) | Football betting application with a responsive web interface. | MIT | Active | Community | 133 |
-| [Econumo](https://econumo.com/) ([source](https://github.com/econumo/econumo)) | Budgeting application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets. | MIT | Active | Official | 126 |
+| [Econumo](https://econumo.com/) ([source](https://github.com/econumo/econumo)) | Budgeting application for managing personal and family finances, supporting multiple currencies, joint accounts, and budgets. | MIT | Active | Official | 127 |
 | [SparkyBudget](https://github.com/CodeWithCJ/SparkyBudget) | Tracks accounts, income, expenses, and spending plans for personal budgeting. | AGPL-3.0-only | Active | Official | 126 |
 | [Circuit Breaker](https://github.com/joostjager) ([source](https://github.com/lightningequipment/circuitbreaker)) | Service for monitoring and managing local Lightning infrastructure. | MIT | Stale | Official | 124 |
 | [Bitfeed](https://monospace.live/) ([source](https://github.com/bitfeed-project/bitfeed)) | Bitcoin mempool visualizer and block explorer for inspecting transactions and blocks. | MIT | Stale | Official | 121 |
@@ -127,13 +127,13 @@
 | [budge](https://github.com/linuxserver/docker-budge) | Budge is an 'budgeting with envelopes' personal finance app. | GPL-3.0 | Active | Community | 62 |
 | [ItchySats](https://itchysats.network/) ([source](https://github.com/get10101/itchysats)) | Bitcoin derivatives trading app for opening peer-to-peer contracts. | MIT | Archived | Official | 62 |
 | [Nutstash Wallet](https://nutstash.app/) ([source](https://github.com/gandlafbtc/nutstash-wallet)) | Browser-based Cashu wallet for sending and receiving ecash. | GPL-3.0 | Active | Official | 62 |
-| [Budgero](https://budgero.app/) ([source](https://github.com/tombadilo-bombadilo/budgero)) | End-to-end encrypted envelope-budgeting app for planning and tracking personal finances. | AGPL-3.0 | Active | Community | 57 |
+| [Budgero](https://budgero.app/) ([source](https://github.com/tombadilo-bombadilo/budgero)) | End-to-end encrypted envelope-budgeting app for planning and tracking personal finances. | AGPL-3.0 | Active | Community | 58 |
 | [Core Lightning](https://blockstream.com/lightning/) ([source](https://github.com/elementsproject/cln-application)) | Core Lightning node for routing payments and operating a Lightning network service. | MIT | Active | Official | 52 |
+| [Savvy](https://github.com/truenormis/savvy) | Expense tracker with multi-currency support for personal finances. | MIT | Active | Community | 48 |
 | [Squeak Road](https://github.com/yzernik/squeakroad) | Anonymous marketplace application that supports Lightning payments and withdrawals. | MIT | Stale | Official | 48 |
 | [nolooking](https://nolooking.chaincase.app/) ([source](https://github.com/chaincase-app/nolooking)) | Bitcoin service for opening multiple Lightning channels in one transaction. | None declared | Archived | Official | 47 |
-| [Savvy](https://github.com/truenormis/savvy) | Expense tracker with multi-currency support for personal finances. | MIT | Active | Community | 47 |
+| [BTC Tracker](https://github.com/wilqq-the) ([source](https://github.com/wilqq-the/btc-tracker)) | Privacy-focused tracker for monitoring Bitcoin investment performance over time. | MIT | Active | Official | 42 |
 | [Krystal Bull](https://suredbits.com/) ([source](https://github.com/bitcoin-s/krystal-bull)) | Bitcoin betting app for creating and participating in user-funded wagers. | MIT | Stale | Official | 42 |
-| [BTC Tracker](https://github.com/wilqq-the) ([source](https://github.com/wilqq-the/btc-tracker)) | Privacy-focused tracker for monitoring Bitcoin investment performance over time. | MIT | Active | Official | 41 |
 | [Squeaknode](https://squeaknode.org/) ([source](https://github.com/squeaknode/squeaknode)) | Peer-to-peer status feed with Lightning-based payments and monetization. | MIT | Stale | Official | 34 |
 | [Tallycoin Connect](https://tallycoin.app/connect/) ([source](https://github.com/djbooth007/tallycoin_connect)) | Crowdfund donations directly to your Umbrel node with Tallycoin. | GPL-3.0 | Stale | Official | 33 |
 | [PeerSwap](https://peerswap.dev/) ([source](https://github.com/impa10r/peerswap-web)) | Lightning tool for balancing payment channels with Liquid Bitcoin. | MIT | Active | Official | 29 |
@@ -175,6 +175,7 @@
 | [bitBalance](https://github.com/egzola/bitbalance) | Private Bitcoin wallet tracker for monitoring balances across addresses. | MIT | Active | Official | 3 |
 | [concise](https://github.com/observe-1/concise) | Concise is a minimalist, personal finance / net-worth tracker, One small Node.js process serves BOTH the web UI and the REST API from a single internal port. | AGPL-3.0 | Active | Community | 3 |
 | [pocketlog](https://github.com/anym001/pocketlog) | Household finance tracker for recording income and expenses. | AGPL-3.0 | Active | Community | 3 |
+| [Arca](https://github.com/damianeickhoff/arca) | Arca is a personal finance dashboard for tracking income, expenses, budgets, subscriptions, and financial goals. | AGPL-3.0 | Active | Community | 2 |
 | [Arkalib](https://github.com/BaptisteCHRPN/arkalib) | Create and track budgets without requiring advanced accounting knowledge. | MIT | Active | No | 2 |
 | [Bitcoin Cash Node](https://bitcoincashnode.org/) ([source](https://github.com/danhaus93-ops/umbrel-bch-apps)) | Bitcoin Cash full node for validating and relaying transactions on the network. | None declared | Active | Official | 2 |
 | [Decred Pulse](https://decred.org/) ([source](https://github.com/karamble/dcrpulse)) | Full Decred node with watch-only wallet and database-free block explorer. | ISC | Active | Official | 2 |
@@ -183,7 +184,6 @@
 | [Omnibank-local](https://github.com/aschefr/omnibank-local) | Local financial backend for tracking accounts and transactions without a hosted service. | None declared | Active | Community | 2 |
 | [Samourai Server](https://samouraiwallet.com/) ([source](https://github.com/louneskmt/umbrel-samourai-dojo)) | Backend service that supports Samourai Wallet connections and transactions. | AGPL-3.0 | Stale | Official | 2 |
 | [Toshi Moto](https://toshimoto.app/) ([source](https://github.com/toshimoto821/toshi-moto)) | Private Bitcoin portfolio tracker for monitoring balances and transactions. | None declared | Active | Official | 2 |
-| [Arca](https://github.com/damianeickhoff/arca) | Arca is a personal finance dashboard for tracking income, expenses, budgets, subscriptions, and financial goals. | AGPL-3.0 | Active | Community | 1 |
 | [Bitcoin Regtest Dashboard](https://github.com/coreyphillips/bitcoin-regtest-dashboard) | Dashboard and tools for developing and testing Bitcoin applications on regtest. | MIT | Active | Official | 1 |
 | [GasMoney](https://github.com/mmenanno/gasmoney) | Single-screen calculator that estimates the gas cost of any trip you've driven (or are about to drive), Feed it GasBuddy CSV exports, or wire up the optional. | MIT | Active | Community | 1 |
 | [Lademonitor](https://github.com/idomi94/lademonitor-server) | Selbstgehostete Ladevorgang-Tracking-App fuer E-Autos (z.B, Skoda Enyaq via MySkoda/Home-Assistant-Integration), inspiriert von Spritmonitor, Backend, Web-UI. | AGPL-3.0 | Active | Community | 1 |
@@ -220,4 +220,4 @@
 | [Value-4-Value-Calculator](https://dwvisser.github.io/v4v_exchange/) | Quickly find out the SAT rate for podcasts in cryptocurrency. |  | Active | Community |  |
 | [witnet\_node](https://witnet.io/) | Witnet oracle node that supplies external data to blockchain applications. |  | Active | Community |  |
 
-[Back to all categories](../README.md). Data from 2026-11-13.
+[Back to all categories](../README.md). Data from 2026-11-16.

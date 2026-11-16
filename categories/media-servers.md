@@ -4,92 +4,92 @@
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
-| [FFmpeg (NVIDIA)](https://ffmpeg.org/) ([source](https://github.com/FFmpeg/FFmpeg)) | FFmpeg (NVIDIA) runs the command-line media transcoder in Docker with NVIDIA hardware encoding and decoding. | FFmpeg core: LGPL-2.1-or-later. Optiona… | Active | Community | 66,844 |
-| [Jellyfin](https://jellyfin.org/) ([source](https://github.com/jellyfin/jellyfin)) | Media server for organizing, streaming, and managing movies, shows, music, and live TV. | GPL-2.0 | Active | Community | 59,263 |
-| [copyparty](https://github.com/9001/copyparty) | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ file. | MIT | Active | Official | 47,312 |
-| [Cobalt](https://cobalt.tools/) ([source](https://github.com/imputnet/cobalt)) | Web app and API for saving public media links as downloadable files. | AGPL-3.0 | Active | Official | 45,952 |
+| [FFmpeg (NVIDIA)](https://ffmpeg.org/) ([source](https://github.com/FFmpeg/FFmpeg)) | FFmpeg (NVIDIA) runs the command-line media transcoder in Docker with NVIDIA hardware encoding and decoding. | FFmpeg core: LGPL-2.1-or-later. Optiona… | Active | Community | 67,221 |
+| [Jellyfin](https://jellyfin.org/) ([source](https://github.com/jellyfin/jellyfin)) | Media server for organizing, streaming, and managing movies, shows, music, and live TV. | GPL-2.0 | Active | Community | 59,415 |
+| [copyparty](https://github.com/9001/copyparty) | Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ file. | MIT | Active | Official | 47,354 |
+| [Cobalt](https://cobalt.tools/) ([source](https://github.com/imputnet/cobalt)) | Web app and API for saving public media links as downloadable files. | AGPL-3.0 | Active | Official | 46,218 |
 | [Invidious](https://invidious.io/) ([source](https://github.com/iv-org/invidious)) | YouTube frontend for browsing videos and subscriptions without using the official web client. | AGPL-3.0 | Active | Official | 25,973 |
-| [HandBrake](https://handbrake.fr/) ([source](https://github.com/HandBrake/HandBrake)) | Video transcoder with browser access through a community Docker container. | GPL-2.0 | Active | Community | 24,979 |
+| [HandBrake](https://handbrake.fr/) ([source](https://github.com/HandBrake/HandBrake)) | Video transcoder with browser access through a community Docker container. | GPL-2.0 | Active | Community | 25,014 |
 | [Kodi](https://kodi.tv/) ([source](https://github.com/xbmc/xbmc)) | Multimedia/Entertainment center, formerly known as XBMC, Runs on Android, BSD, Linux, macOS, iOS and Windows. | GPL-2.0 | Active |  | 21,472 |
-| [VHS-Server](https://github.com/charmbracelet/vhs) | Command-line home video recorder for capturing and managing local recordings. | MIT | Active | Community | 21,311 |
+| [VHS-Server](https://github.com/charmbracelet/vhs) | Command-line home video recorder for capturing and managing local recordings. | MIT | Active | Community | 21,322 |
 | [MediaMTX](https://mediamtx.org/) ([source](https://github.com/bluenviron/mediamtx)) | Realtime media server for publishing, proxying, recording, and playing video or audio streams. | MIT | Active | Official | 20,676 |
-| [Sonarr](https://sonarr.tv/) ([source](https://github.com/Sonarr/Sonarr)) | Automatic TV Shows downloader and manager for Usenet and BitTorrent. | GPL-3.0 | Active | Official | 17,645 |
+| [Sonarr](https://sonarr.tv/) ([source](https://github.com/Sonarr/Sonarr)) | Automatic TV Shows downloader and manager for Usenet and BitTorrent. | GPL-3.0 | Active | Official | 17,711 |
 | [Jackett](https://github.com/Jackett/Jackett) | Exposes torrent tracker results through an API for media automation apps. | GPL-2.0 | Active | Community | 16,361 |
 | [PeerTube](https://joinpeertube.org/) ([source](https://github.com/Chocobozzz/PeerTube)) | Decentralized video streaming app using P2P (BitTorrent) directly in the web browser. | AGPL-3.0 | Active | Official | 15,402 |
 | [Peertube Remote Runner](https://docs.joinpeertube.org/admin/remote-runners) ([source](https://github.com/Chocobozzz/PeerTube)) | Runner to offload high CPU/long job from Peertube main server. | AGPL-3.0 | Active | No | 15,402 |
-| [Stremio](https://www.stremio.com/) ([source](https://github.com/Stremio/stremio-web)) | Media center for organizing and streaming movies, shows, and other video content. | GPL-2.0 | Active | No | 15,035 |
-| [Radarr](https://radarr.video/) ([source](https://github.com/Radarr/Radarr)) | Manages a movie library and sends searches to indexers and download clients. | GPL-3.0 | Active | Community | 14,742 |
-| [Stash](https://stashapp.cc/) ([source](https://github.com/stashapp/stash)) | Web library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. | AGPL-3.0 | Active | Official | 13,393 |
+| [Stremio](https://www.stremio.com/) ([source](https://github.com/Stremio/stremio-web)) | Media center for organizing and streaming movies, shows, and other video content. | GPL-2.0 | Active | No | 15,085 |
+| [Radarr](https://radarr.video/) ([source](https://github.com/Radarr/Radarr)) | Manages a movie library and sends searches to indexers and download clients. | GPL-3.0 | Active | Community | 14,770 |
+| [Stash](https://stashapp.cc/) ([source](https://github.com/stashapp/stash)) | Web library organizer and player for your adult media stash, with auto-tagging and metadata scraping support. | AGPL-3.0 | Active | Official | 13,410 |
 | [Seerr](https://docs.seerr.dev/) ([source](https://github.com/seerr-team/seerr)) | Media request manager for Plex, Jellyfin, and Emby libraries. | MIT | Active | Official | 13,192 |
-| [Piped](https://piped.video/) ([source](https://github.com/TeamPiped/Piped)) | YouTube frontend for watching videos with subscriptions, feeds, and fewer tracking calls. | AGPL-3.0 | Active | Official | 10,319 |
-| [Streama](https://streamaserver.org/) ([source](https://github.com/streamaserver/streama)) | Streaming media server for organizing and playing a personal video library. | MIT | Active | No | 9,821 |
+| [Piped](https://piped.video/) ([source](https://github.com/TeamPiped/Piped)) | YouTube frontend for watching videos with subscriptions, feeds, and fewer tracking calls. | AGPL-3.0 | Active | Official | 10,332 |
+| [Streama](https://streamaserver.org/) ([source](https://github.com/streamaserver/streama)) | Streaming media server for organizing and playing a personal video library. | MIT | Active | No | 9,823 |
 | [Tube Archivist](https://www.tubearchivist.com/) ([source](https://github.com/tubearchivist/tubearchivist)) | YouTube archiver for downloading videos, indexing channels, and browsing saved media. | GPL-3.0 | Active | Official | 8,595 |
-| [IPTVnator](https://4gray.github.io/iptvnator/) ([source](https://github.com/4gray/iptvnator)) | IPTV player for playlists, live TV, and on-demand media with a self-hosted browser app. | MIT | Active | No | 7,684 |
-| [Prowlarr](https://prowlarr.com/) ([source](https://github.com/Prowlarr/Prowlarr)) | Indexer manager for connecting media automation apps to search providers. | GPL-3.0 | Active | Official | 7,536 |
+| [IPTVnator](https://4gray.github.io/iptvnator/) ([source](https://github.com/4gray/iptvnator)) | IPTV player for playlists, live TV, and on-demand media with a self-hosted browser app. | MIT | Active | No | 7,738 |
+| [Prowlarr](https://prowlarr.com/) ([source](https://github.com/Prowlarr/Prowlarr)) | Indexer manager for connecting media automation apps to search providers. | GPL-3.0 | Active | Official | 7,571 |
 | [Tautulli](https://tautulli.com/) ([source](https://github.com/Tautulli/Tautulli)) | Monitoring and tracking tool for Plex Media Server. | GPL-3.0 | Active | Official | 6,638 |
 | [Lidarr](http://lidarr.audio/) ([source](https://github.com/Lidarr/Lidarr)) | Music collection manager for Usenet and BitTorrent users. | GPL-3.0 | Active | Community | 5,821 |
-| [Pinchflat](https://github.com/kieraneglin/pinchflat) | YouTube media downloader built around yt-dlp, with scheduling and library management. | AGPL-3.0 | Active | Official | 5,448 |
-| [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine) ([source](https://github.com/automatic-ripping-machine/automatic-ripping-machine)) | Media ripping server that detects optical discs and automates Blu-ray, DVD, CD, and data extraction. | MIT | Active | Official | 5,421 |
+| [Pinchflat](https://github.com/kieraneglin/pinchflat) | YouTube media downloader built around yt-dlp, with scheduling and library management. | AGPL-3.0 | Active | Official | 5,457 |
+| [Automatic Ripping Machine](https://b3n.org/automatic-ripping-machine) ([source](https://github.com/automatic-ripping-machine/automatic-ripping-machine)) | Media ripping server that detects optical discs and automates Blu-ray, DVD, CD, and data extraction. | MIT | Active | Official | 5,431 |
 | [MediaCMS](https://mediacms.io/) ([source](https://github.com/mediacms-io/mediacms)) | Video and media CMS for publishing libraries, user uploads, playlists, and API-backed catalogs. | AGPL-3.0 | Active | Official | 5,193 |
 | [Overseerr](https://overseerr.dev/) ([source](https://github.com/sct/overseerr)) | Media request and discovery app for finding titles and sending requests to download services. | MIT | Archived | Official | 4,957 |
-| [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) | IPTV manager for organizing streams, channel lineups, electronic program guides, and playback sources. | AGPL-3.0 | Active | Official | 4,493 |
-| [Bazarr](https://www.bazarr.media/) ([source](https://github.com/morpheus65535/bazarr)) | Subtitle manager for searching and syncing subtitles for movie and TV libraries. | GPL-3.0 | Active | Official | 4,413 |
+| [Dispatcharr](https://github.com/Dispatcharr/Dispatcharr) | IPTV manager for organizing streams, channel lineups, electronic program guides, and playback sources. | AGPL-3.0 | Active | Official | 4,514 |
+| [Bazarr](https://www.bazarr.media/) ([source](https://github.com/morpheus65535/bazarr)) | Subtitle manager for searching and syncing subtitles for movie and TV libraries. | GPL-3.0 | Active | Official | 4,424 |
 | [Tdarr](https://github.com/HaveAGitGat/Tdarr) | Coordinates server and node workers to transcode, remux, and health-check media libraries with FFmpeg or HandBrake. | Tdarr EULA | Active | Official | 4,395 |
-| [Seanime](https://seanime.app/) ([source](https://github.com/5rahim/seanime)) | Anime and manga media server for streaming, library tracking, and managing local collections. | GPL-3.0 | Active | Community | 4,317 |
-| [Dim](https://github.com/Dusk-Labs/dim) | Media manager for organizing movies, shows, and library metadata with a lightweight setup. | AGPL-3.0 | Slow | Official | 4,122 |
-| [Ombi](http://ombi.io/) ([source](https://github.com/Ombi-app/Ombi)) | Content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. | GPL-2.0 | Active | Official | 4,110 |
-| [AzuraCast](https://www.azuracast.com/) ([source](https://github.com/AzuraCast/AzuraCast)) | Radio station manager for streams, media libraries, playlists, DJs, relays, and listener pages. | AGPL-3.0 | Active | Official | 4,091 |
+| [Seanime](https://seanime.app/) ([source](https://github.com/5rahim/seanime)) | Anime and manga media server for streaming, library tracking, and managing local collections. | GPL-3.0 | Active | Community | 4,329 |
+| [Dim](https://github.com/Dusk-Labs/dim) | Media manager for organizing movies, shows, and library metadata with a lightweight setup. | AGPL-3.0 | Slow | Official | 4,121 |
+| [Ombi](http://ombi.io/) ([source](https://github.com/Ombi-app/Ombi)) | Content request system for Plex/Emby, connects to SickRage, CouchPotato, Sonarr, with a growing feature set. | GPL-2.0 | Active | Official | 4,108 |
+| [AzuraCast](https://www.azuracast.com/) ([source](https://github.com/AzuraCast/AzuraCast)) | Radio station manager for streams, media libraries, playlists, DJs, relays, and listener pages. | AGPL-3.0 | Active | Official | 4,098 |
 | [go-vod](https://memories.gallery/) ([source](https://github.com/pulsejet/memories/tree/master/go-vod)) | An external video transcoder for Nextcloud Memories that can use CPU or GPU acceleration. | AGPL-3.0 | Active | Community | 3,876 |
 | [CouchPotato](https://github.com/CouchPotato/CouchPotatoServer) | Finds wanted movies on NZB or torrent sources and sends the results to SABnzbd or a configured folder. | GPL-3.0 | Archived | Community | 3,864 |
 | [Ampache](http://ampache.org/) ([source](https://github.com/ampache/ampache)) | Web audio and video streaming app for browsing, playing, and managing a media library. | AGPL-3.0 | Active | Official | 3,849 |
 | [Headphones](https://github.com/rembo10/headphones) | Finds and downloads music releases through configured Usenet and torrent clients. | GPL-3.0 | Slow |  | 3,767 |
-| [TVHeadend](https://tvheadend.org/) ([source](https://github.com/tvheadend/tvheadend)) | TV streaming and DVR server for tuners, channels, recordings, and EPG data. | GPL-3.0 | Active | Official | 3,579 |
+| [TVHeadend](https://tvheadend.org/) ([source](https://github.com/tvheadend/tvheadend)) | TV streaming and DVR server for tuners, channels, recordings, and EPG data. | GPL-3.0 | Active | Official | 3,582 |
 | [Kometa](https://kometa.wiki/) ([source](https://github.com/Kometa-Team/Kometa)) | Plex metadata automation script for updating collections, overlays, posters, and library organization. | MIT | Active | Official | 3,463 |
 | [Readarr](http://readarr.com/) ([source](https://github.com/Readarr/Readarr)) | Book collection manager for tracking authors, releases, downloads, and library files. | GPL-3.0 | Archived | Community | 3,457 |
 | [MediaManager](https://maxdorninger.github.io/MediaManager) ([source](https://github.com/maxdorninger/MediaManager)) | TV and movie library manager for tracking media files, metadata, and collections. | AGPL-3.0 | Active | Official | 3,291 |
 | [Wizarr](https://docs.wizarr.dev/) ([source](https://github.com/wizarrrr/wizarr)) | Invitation management service for adding users to supported media servers. | MIT | Active | Official | 3,279 |
 | [mjpg-streamer](https://github.com/jacksonliam/mjpg-streamer) | Command-line service that routes JPEG frames from input plugins to output plugins. | None declared | Stale | Community | 3,253 |
+| [TorrServer](https://github.com/yourok/torrserver) | Simple and tool for streaming torrents, Introduction TorrServer is a program that allows users to view torrents online without the need for preliminary file. | GPL-3.0 | Active | Community | 3,228 |
+| [Tartube](https://github.com/axcore/tartube) | Graphical frontend for downloading videos with yt-dlp and compatible tools. | LGPL-2.1 | Active | Community | 3,210 |
 | [autobrr](https://autobrr.com/introduction) ([source](https://github.com/autobrr/autobrr)) | Download automation app for matching indexer announces and sending releases to torrent or Usenet clients. | GPL-2.0 | Active | Official | 3,208 |
-| [TorrServer](https://github.com/yourok/torrserver) | Simple and tool for streaming torrents, Introduction TorrServer is a program that allows users to view torrents online without the need for preliminary file. | GPL-3.0 | Active | Community | 3,208 |
-| [Tartube](https://github.com/axcore/tartube) | Graphical frontend for downloading videos with yt-dlp and compatible tools. | LGPL-2.1 | Active | Community | 3,205 |
 | [YoutubeDL-Material](https://github.com/Tzahi12345/YoutubeDL-Material) | Material Design web app for downloading videos, managing queues, and organizing media from supported sites. | MIT | Active | Official | 3,201 |
-| [AIOStreams](https://docs.aiostreams.viren070.me/) ([source](https://github.com/Viren070/AIOStreams)) | Combines Stremio add-ons and media services into one configurable streaming add-on. | AGPL-3.0 | Active | Official | 3,129 |
-| [ErsatzTV Legacy](https://ersatztv.org/) ([source](https://github.com/ersatztv/legacy)) | Server for creating custom live TV channels from a personal media library. | Zlib | Active | Official | 3,039 |
-| [ytdl-sub](https://ytdl-sub.readthedocs.io/) ([source](https://github.com/jmbannon/ytdl-sub)) | Video subscription downloader for saving YouTube media, metadata, and channel updates. | GPL-3.0 | Active | Official | 3,032 |
+| [AIOStreams](https://docs.aiostreams.viren070.me/) ([source](https://github.com/Viren070/AIOStreams)) | Combines Stremio add-ons and media services into one configurable streaming add-on. | AGPL-3.0 | Active | Official | 3,156 |
+| [ErsatzTV Legacy](https://ersatztv.org/) ([source](https://github.com/ersatztv/legacy)) | Server for creating custom live TV channels from a personal media library. | Zlib | Active | Official | 3,045 |
+| [ytdl-sub](https://ytdl-sub.readthedocs.io/) ([source](https://github.com/jmbannon/ytdl-sub)) | Video subscription downloader for saving YouTube media, metadata, and channel updates. | GPL-3.0 | Active | Official | 3,037 |
 | [tubesync](https://github.com/meeb/tubesync) | Syncs YouTube channels and playlists to a locally hosted media server. | AGPL-3.0 | Active | Official | 2,810 |
-| [Profilarr](https://dictionarry.dev/) ([source](https://github.com/Dictionarry-Hub/profilarr)) | Import, export, and sync profiles and custom formats via Radarr and Sonarr API. | AGPL-3.0 | Active | Official | 2,773 |
+| [Profilarr](https://dictionarry.dev/) ([source](https://github.com/Dictionarry-Hub/profilarr)) | Import, export, and sync profiles and custom formats via Radarr and Sonarr API. | AGPL-3.0 | Active | Official | 2,784 |
+| [Fladder](https://donutware.github.io/Fladder) ([source](https://github.com/DonutWare/Fladder)) | Jellyfin frontend for browsing media libraries and playing content across devices. | GPL-3.0 | Active | Official | 2,744 |
 | [Tracearr](https://www.tracearr.com/) ([source](https://github.com/connorgallopo/Tracearr)) | Streaming access manager for Plex, Jellyfin, and Emby. | AGPL-3.0 | Active | Official | 2,742 |
-| [Fladder](https://donutware.github.io/Fladder) ([source](https://github.com/DonutWare/Fladder)) | Jellyfin frontend for browsing media libraries and playing content across devices. | GPL-3.0 | Active | Official | 2,737 |
 | [Tunarr](https://tunarr.com/) ([source](https://github.com/chrisbenincasa/tunarr)) | Create and configure live TV channels from personal media. | Zlib | Active | Official | 2,724 |
-| [Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) | Automated cleanup of unwanted or blocked media files. | GPL-3.0 | Active | Official | 2,708 |
-| [Ums](https://www.universalmediaserver.com/) ([source](https://github.com/UniversalMediaServer/UniversalMediaServer)) | DLNA, UPnP, and HTTP media server for streaming files to compatible devices. | GPL-2.0 | Active | No | 2,669 |
+| [Cleanuparr](https://github.com/Cleanuparr/Cleanuparr) | Automated cleanup of unwanted or blocked media files. | GPL-3.0 | Active | Official | 2,721 |
+| [Ums](https://www.universalmediaserver.com/) ([source](https://github.com/UniversalMediaServer/UniversalMediaServer)) | DLNA, UPnP, and HTTP media server for streaming files to compatible devices. | GPL-2.0 | Active | No | 2,671 |
 | [yt-dlp Web UI](https://github.com/marcopiovanello/yt-dlp-web-ui) | Web interface for yt-dlp downloads, queues, video metadata, and download history. | GPL-3.0 | Archived | Official | 2,595 |
-| [binhex-get-iplayer](https://github.com/get-iplayer/get_iplayer) | PVR-style downloader for BBC iPlayer programmes with scheduled searches and automatic recording. | GPL-3.0 | Slow | Community | 2,566 |
+| [binhex-get-iplayer](https://github.com/get-iplayer/get_iplayer) | PVR-style downloader for BBC iPlayer programmes with scheduled searches and automatic recording. | GPL-3.0 | Slow | Community | 2,571 |
 | [Kyoo](https://kyoo.zoriya.dev/) ([source](https://github.com/zoriya/Kyoo)) | Media browser for anime, shows, and movies with transcoding and watch history. | GPL-3.0 | Active | Official | 2,565 |
-| [Unmanic](https://github.com/Unmanic/unmanic) ([source](https://github.com/unmanic/unmanic)) | Media library optimizer that converts and organizes files to reduce storage use. | GPL-3.0 | Active | No | 2,553 |
+| [Unmanic](https://github.com/Unmanic/unmanic) ([source](https://github.com/unmanic/unmanic)) | Media library optimizer that converts and organizes files to reduce storage use. | GPL-3.0 | Active | No | 2,559 |
 | [Jellystat](https://github.com/CyferShepard/Jellystat) | Jellyfin statistics dashboard for playback history, users, libraries, and viewing trends. | MIT | Active | Official | 2,508 |
-| [SickChill](https://sickchill.github.io/) ([source](https://github.com/SickChill/sickchill)) | Automatic TV library manager that tracks shows, finds releases, and organizes episodes. | GPL-3.0 | Active | Community | 2,446 |
+| [SickChill](https://sickchill.github.io/) ([source](https://github.com/SickChill/sickchill)) | Automatic TV library manager that tracks shows, finds releases, and organizes episodes. | GPL-3.0 | Active | Community | 2,447 |
 | [Maintainerr](https://maintainerr.info/) ([source](https://github.com/Maintainerr/Maintainerr)) | Plex cleanup app for finding watched media and automating removal rules. | MIT | Active | Official | 2,404 |
-| [Reiverr](https://github.com/aleksilassila/reiverr) | Clean, combined interface for Jellyfin, TMDB, Radarr, and Sonarr. | AGPL-3.0 | Active | Official | 2,344 |
+| [Reiverr](https://github.com/aleksilassila/reiverr) | Clean, combined interface for Jellyfin, TMDB, Radarr, and Sonarr. | AGPL-3.0 | Active | Official | 2,350 |
+| [Recyclarr](https://recyclarr.dev/) ([source](https://github.com/recyclarr/recyclarr)) | Automatically sync TRaSH Guides to Sonarr and Radarr. | MIT | Active | Official | 2,162 |
 | [PlexTraktSync](https://github.com/taxel/plextraktsync) | Tool that synchronizes watch history and ratings between Plex and Trakt. | MIT | Active | Community | 2,160 |
-| [Recyclarr](https://recyclarr.dev/) ([source](https://github.com/recyclarr/recyclarr)) | Automatically sync TRaSH Guides to Sonarr and Radarr. | MIT | Active | Official | 2,153 |
 | [MediaInfo](https://github.com/MediaArea/MediaInfo) | MediaInfo is a convenient unified display of the most relevant technical and tag data for video and audio files. | BSD-2-Clause | Active | Community | 2,064 |
 | [µStreamer](https://pikvm.org/) ([source](https://github.com/pikvm/ustreamer)) | Lightweight and very quick server to stream MJPEG video from any V4L2 device to the net. | GPL-3.0 | Active | Official | 2,051 |
 | [Medusa](https://github.com/pymedusa/Medusa) | TV show library manager that watches for episodes and automates downloads. | GPL-3.0 | Active | Official | 1,994 |
 | [Aurral](https://aurral.org/) ([source](https://github.com/lklynet/aurral)) | Handles Lidarr artist requests, music discovery, collection planning, and library additions. | MIT | Active | Official | 1,944 |
-| [jbops](https://github.com/blacktwin/jbops) | Collection of scripts for automating Plex library and media management tasks. | None declared | Slow | Community | 1,921 |
-| [Edit Mind](https://edit-mind.com/) ([source](https://github.com/IliasHad/edit-mind)) | Video knowledge base for indexing footage, transcribing audio, analyzing frames, and searching scenes. | AGPL-3.0 | Active | Official | 1,833 |
+| [jbops](https://github.com/blacktwin/jbops) | Collection of scripts for automating Plex library and media management tasks. | None declared | Slow | Community | 1,920 |
+| [Edit Mind](https://edit-mind.com/) ([source](https://github.com/IliasHad/edit-mind)) | Video knowledge base for indexing footage, transcribing audio, analyzing frames, and searching scenes. | AGPL-3.0 | Active | Official | 1,836 |
 | [Youtarr](https://github.com/DialmasterOrg/Youtarr) | Web app that automates downloading, organizing, and scheduling YouTube channel content with support for Plex, Kodi, Emby and Jellyfin. | ISC | Active | Official | 1,813 |
-| [Vertex](https://github.com/vertex-app/vertex) | Vertex 是一款集 监控, 刷流, 站点, 搜索, 追剧 于一身的 PT 管理软件 主要有以下功能: 监控 - 监控服务器以及下载器的各项指标信息 刷流 - 提供 RSS - 删种 全自动化流程 站点 - 站点管理, 数据增长记录, 数据可视化 搜索 - 提供全站种子聚合搜索, 可直接推送至下载器 追剧 -. | MIT | Active | Community | 1,801 |
-| [Threadfin](https://github.com/threadfin/threadfin) | M3U proxy that connects IPTV playlists with Plex, Jellyfin, and Emby clients. | MIT | Slow | Community | 1,768 |
+| [Vertex](https://github.com/vertex-app/vertex) | Vertex 是一款集 监控, 刷流, 站点, 搜索, 追剧 于一身的 PT 管理软件 主要有以下功能: 监控 - 监控服务器以及下载器的各项指标信息 刷流 - 提供 RSS - 删种 全自动化流程 站点 - 站点管理, 数据增长记录, 数据可视化 搜索 - 提供全站种子聚合搜索, 可直接推送至下载器 追剧 -. | MIT | Active | Community | 1,802 |
+| [Threadfin](https://github.com/threadfin/threadfin) | M3U proxy that connects IPTV playlists with Plex, Jellyfin, and Emby clients. | MIT | Slow | Community | 1,770 |
 | [NZBHydra 2](https://github.com/theotherp/nzbhydra2) | Usenet metasearch for NZB indexers and Torznab trackers, with search results for connected apps. | GPL-3.0 | Active | Community | 1,747 |
-| [BitPlay](https://github.com/aculix/bitplay) | Web application that streams video from torrent files or magnet links in a browser. | MIT | Active | Official | 1,721 |
-| [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) | Web client for browsing and controlling a Jellyfin media server. | GPL-3.0 | Active | No | 1,720 |
-| [RTSPtoWeb](https://github.com/deepch/rtsptoweb) | RTSPtoWeb converts your RTSP streams to formats consumable in a web browser like MSE (Media Source Extensions), WebRTC, or HLS. | MIT | Active | Community | 1,701 |
+| [Jellyfin Vue](https://github.com/jellyfin/jellyfin-vue) | Web client for browsing and controlling a Jellyfin media server. | GPL-3.0 | Active | No | 1,721 |
+| [BitPlay](https://github.com/aculix/bitplay) | Web application that streams video from torrent files or magnet links in a browser. | MIT | Active | Official | 1,720 |
+| [RTSPtoWeb](https://github.com/deepch/rtsptoweb) | RTSPtoWeb converts your RTSP streams to formats consumable in a web browser like MSE (Media Source Extensions), WebRTC, or HLS. | MIT | Active | Community | 1,702 |
 | [WatchState](https://github.com/arabcoders/watchstate) | Service to sync your plex, jellyfin and emby play state, without relying on 3rd-party external services. | MIT | Active | Official | 1,611 |
 | [nodecast-tv](https://github.com/technomancer702/nodecast-tv) | Plays IPTV channels and stream playlists through a browser-based TV viewer. | GPL-3.0 | Active | Official | 1,600 |
-| [cross-seed](https://github.com/cross-seed/cross-seed) | Torrent automation service that finds matching releases across configured indexers. | Apache-2.0 | Active | Community | 1,591 |
-| [CyTube](https://github.com/calzoneman/sync) | Synchronize media, chat, and more for an arbitrary number of channels. | MIT | Active |  | 1,588 |
+| [cross-seed](https://github.com/cross-seed/cross-seed) | Torrent automation service that finds matching releases across configured indexers. | Apache-2.0 | Active | Community | 1,595 |
+| [CyTube](https://github.com/calzoneman/sync) | Synchronize media, chat, and more for an arbitrary number of channels. | MIT | Active |  | 1,589 |
 | [HomeTube](https://github.com/EgalitarianMonkey/hometube) | Video downloader for saving internet videos, tracking downloads, and managing local media files. | AGPL-3.0 | Active | Official | 1,564 |
 | [Musicseerr](https://musicseerr.com/) ([source](https://github.com/HabiRabbu/Musicseerr)) | Sends music requests to Lidarr after users discover albums and artists. | AGPL-3.0 | Active | Official | 1,551 |
 | [Unpackerr](https://unpackerr.zip/) ([source](https://github.com/Unpackerr/unpackerr)) | Extracts downloaded media archives before Sonarr, Radarr, and other arr tools import them. | MIT | Active | Official | 1,532 |
@@ -99,76 +99,76 @@
 | [MyTube](https://franklioxygen.github.io/mytube) ([source](https://github.com/franklioxygen/MyTube)) | Downloader and player for yt-dlp-supported sites with channel subscriptions, cloud upload support, and local library organization. | MIT | Active | Official | 1,291 |
 | [jcorp-nomad](http://nomad.jcorptech.net/) ([source](https://github.com/Jstudner/jcorp-nomad)) | Compact offline media server for organizing and streaming movies, shows, books, and music. | Other | Active | No | 1,250 |
 | [Materialious](https://materialio.us/) ([source](https://github.com/Materialious/Materialious)) | Browses and watches videos through an Invidious frontend styled with Material Design. | AGPL-3.0 | Active | Official | 1,244 |
-| [Nzb DAV](https://github.com/nzbdav-dev/nzbdav) | Mounts Usenet NZB downloads through WebDAV for streaming and file access. | MIT | Active | Official | 1,191 |
-| [jfa-go](https://github.com/hrfee/jfa-go) | Jfa-go is a user management app for Jellyfin (and now Emby) that provides invite-based account creation as well as other features that make one's instance. | None declared | Active | Community | 1,190 |
-| [Comet](https://github.com/g0ldyy/comet) | Stremio addon that searches torrent and debrid services for streaming media. | GPL-3.0 | Active | Community | 1,147 |
+| [Nzb DAV](https://github.com/nzbdav-dev/nzbdav) | Mounts Usenet NZB downloads through WebDAV for streaming and file access. | MIT | Active | Official | 1,194 |
+| [jfa-go](https://github.com/hrfee/jfa-go) | Jfa-go is a user management app for Jellyfin (and now Emby) that provides invite-based account creation as well as other features that make one's instance. | None declared | Active | Community | 1,191 |
+| [Comet](https://github.com/g0ldyy/comet) | Stremio addon that searches torrent and debrid services for streaming media. | GPL-3.0 | Active | Community | 1,152 |
 | [MediaElch](https://github.com/komet/mediaelch) | Mediaelch is a Tool to manage your movie and show libary regarding the metadata and artwork. | LGPL-3.0 | Active | Community | 1,123 |
 | [Kapowarr](https://casvt.github.io/Kapowarr) ([source](https://github.com/Casvt/Kapowarr)) | Comic library manager for tracking series, issues, downloads, and reading progress in an arr-style workflow. | GPL-3.0 | Active | Official | 1,114 |
-| [jellyplex-watched](https://github.com/luigi311/jellyplex-watched) | Sync watched state between Plex, Jellyfin, and Emby. | GPL-3.0 | Active | Community | 1,063 |
-| [YTPTube](https://github.com/arabcoders/ytptube) | Web interface for yt-dlp downloads, video URLs, queues, formats, and saved media files. | MIT | Active | Official | 1,062 |
-| [ReadMeABook](https://github.com/kikootwo/ReadMeABook) | Audiobook request app for discovering titles, collecting requests, tracking downloads, and planning libraries. | AGPL-3.0 | Active | Official | 1,057 |
+| [YTPTube](https://github.com/arabcoders/ytptube) | Web interface for yt-dlp downloads, video URLs, queues, formats, and saved media files. | MIT | Active | Official | 1,067 |
+| [jellyplex-watched](https://github.com/luigi311/jellyplex-watched) | Sync watched state between Plex, Jellyfin, and Emby. | GPL-3.0 | Active | Community | 1,064 |
+| [ReadMeABook](https://github.com/kikootwo/ReadMeABook) | Audiobook request app for discovering titles, collecting requests, tracking downloads, and planning libraries. | AGPL-3.0 | Active | Official | 1,064 |
 | [Agregarr](https://agregarr.org/) ([source](https://github.com/agregarr/agregarr)) | Organizes Plex Home and Recommended screens with collections from lists and other media services. | GPL-3.0 | Active | Official | 1,038 |
 | [Ganymede](https://github.com/Zibbp/ganymede) | Twitch VOD and live stream archiving app, Includes a rendered chat for each archive. | GPL-3.0 | Active | Official | 1,027 |
 | [soularr](https://soularr.net/) ([source](https://github.com/mrusse/soularr)) | Lidarr integration that downloads wanted music from Soulseek through Slskd. | GPL-3.0 | Active | Community | 1,013 |
-| [CrossWatch](https://wiki.crosswatch.app/) ([source](https://github.com/cenodude/CrossWatch)) | Media tracker sync app for keeping watch states, progress, and history aligned across services. | AGPL-3.0 | Active | Official | 997 |
+| [CrossWatch](https://wiki.crosswatch.app/) ([source](https://github.com/cenodude/CrossWatch)) | Media tracker sync app for keeping watch states, progress, and history aligned across services. | AGPL-3.0 | Active | Official | 1,008 |
 | [Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) | Media interface that combines libraries from multiple Jellyfin servers. | GPL-2.0 | Active | Official | 973 |
 | [MediaFusion](https://github.com/mhdzumair/mediafusion) | MediaFusion is a Stremio add-on service that aggregates scraping sources and requires PostgreSQL and Redis backends, with optional Prowlarr and Browserless. | MIT | Active | Community | 971 |
 | [Posterizarr](https://github.com/fscorrupt/posterizarr) | Automate the creation of posters for media libraries. | GPL-3.0 | Active | Official | 946 |
 | [zurg](https://github.com/debridmediamanager/zurg-public) | WebDAV server that exposes a Real-Debrid torrent library for mounting with compatible clients. | None declared | Active | Community | 942 |
 | [8mb.local](https://8mb.campuscal.tech/) ([source](https://github.com/JMS1717/8mb.local)) | Compresses uploaded videos to target sizes with FFmpeg, GPU acceleration, and CPU fallback. | CC BY-NC 4.0 | Active | Official | 939 |
 | [Listenarr](https://getlistenarr.com/) ([source](https://github.com/Listenarrs/Listenarr)) | Audiobook request and management app for tracking titles and automating downloads. | AGPL-3.0-only | Active | Official | 937 |
+| [Decypharr](https://github.com/sirrobot01/decypharr) | Debrid-backed media downloader with a qBittorrent-compatible workflow for automation tools. | MIT | Active | Official | 936 |
 | [youtube-dl-server](https://github.com/manbearwiz/youtube-dl-server) | Downloads videos to your server through a web interface or REST API using yt-dlp. | MIT | Active | Community | 935 |
-| [Decypharr](https://github.com/sirrobot01/decypharr) | Debrid-backed media downloader with a qBittorrent-compatible workflow for automation tools. | MIT | Active | Official | 934 |
 | [Karaoke Eternal](https://www.karaoke-eternal.com/) ([source](https://github.com/bhj/KaraokeEternal)) | Browser-based karaoke server where guests can search and queue songs from their phones. | ISC | Active |  | 928 |
-| [Rapidbay](https://github.com/hauxir/rapidbay) | Videostreaming service/torrent that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. | MIT | Active | Official | 908 |
+| [Cinephage](https://github.com/MoldyTaint/Cinephage) | Organizes movie and show libraries with collection metadata and media browsing. | GPL-3.0 | Active | Official | 910 |
+| [Rapidbay](https://github.com/hauxir/rapidbay) | Videostreaming service/torrent that allows searching and playing videos from torrents in the browser or from a Chromecast/AppleTV/Smart TV. | MIT | Active | Official | 909 |
 | [Lingarr](https://github.com/lingarr-translate/lingarr) | Translates subtitle files into chosen languages for media libraries and video workflows. | AGPL-3.0-only | Active | Official | 907 |
-| [Cinephage](https://github.com/MoldyTaint/Cinephage) | Organizes movie and show libraries with collection metadata and media browsing. | GPL-3.0 | Active | Official | 906 |
-| [Decluttarr](https://github.com/manimatter/decluttarr) | Media cleanup service that removes unwanted downloads from Usenet and BitTorrent workflows. | GPL-3.0 | Active | Community | 902 |
+| [Decluttarr](https://github.com/manimatter/decluttarr) | Media cleanup service that removes unwanted downloads from Usenet and BitTorrent workflows. | GPL-3.0 | Active | Community | 905 |
 | [m3u-editor](https://m3ue.sparkison.dev/) ([source](https://github.com/m3ue/m3u-editor)) | Edits IPTV M3U playlists, channel groups, filters, and source updates from a web UI. | CC-BY-NC-SA-4.0 | Active | Official | 891 |
 | [Subvert](https://github.com/aschmelyun/subvert) | Generate subtitles, chapters, and summaries of videos in seconds with the help of OpenAI, Keep in mind, that the OpenAI API is not free. | MIT | Stale | Community | 868 |
-| [TitleCardMaker](https://titlecardmaker.com/) ([source](https://github.com/TitleCardMaker/TitleCardMaker)) | Automated title-card generator for Plex, Emby, and Jellyfin media libraries. | GPL-3.0 | Active | Community | 867 |
-| [Javinizer](https://github.com/jvlflame/javinizer) | Commandline and GUI based PowerShell module used to scrape metadata and sort your local Japanese Adult Video (JAV) files into a media library compatible. | MIT | Archived | Community | 862 |
+| [TitleCardMaker](https://titlecardmaker.com/) ([source](https://github.com/TitleCardMaker/TitleCardMaker)) | Automated title-card generator for Plex, Emby, and Jellyfin media libraries. | GPL-3.0 | Active | Community | 868 |
+| [Javinizer](https://github.com/jvlflame/javinizer) | Commandline and GUI based PowerShell module used to scrape metadata and sort your local Japanese Adult Video (JAV) files into a media library compatible. | MIT | Archived | Community | 861 |
 | [Streamystats](https://github.com/fredrikburmester/streamystats) | Jellyfin analytics service that shows playback history, library trends, user activity, recommendations, and watch statistics. | MIT | Active | Official | 847 |
-| [Riven](https://riven.tv/) ([source](https://github.com/rivenmedia/riven)) | Media streaming service with integrations for automated libraries and playback. | GPL-3.0 | Active | Official | 821 |
+| [Riven](https://riven.tv/) ([source](https://github.com/rivenmedia/riven)) | Media streaming service with integrations for automated libraries and playback. | GPL-3.0 | Active | Official | 820 |
 | [YT-DLP Web Player](https://github.com/Matszwe02/ytdlp_web_player) | Web player for streaming videos through yt-dlp from a browser. | GPL-2.0 | Active | Official | 813 |
 | [HandBrake Web](https://github.com/TheNickOfTime/handbrake-web) | Web interface for managing HandBrake video transcoding jobs on headless servers. | AGPL-3.0 | Active | Official | 807 |
 | [Mydia](http://www.mydia.dev/) ([source](https://github.com/getmydia/mydia)) | Media manager for organizing libraries, metadata, collections, playback records, and personal catalogs. | AGPL-3.0 | Active | Official | 807 |
-| [Swiparr](https://swiparr.com/) ([source](https://github.com/m3sserstudi0s/swiparr)) | Swiparr is a media discovery tool featuring a Tinder-like swipe interface for browsing movies and TV shows from Jellyfin, Emby, Plex, or TMDB. | MIT | Active | No | 804 |
-| [SickGear](https://github.com/SickGear/SickGear) ([source](https://github.com/sickgear/sickgear)) | SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation. | GPL-3.0 | Active | No | 799 |
+| [SickGear](https://github.com/SickGear/SickGear) ([source](https://github.com/sickgear/sickgear)) | SickGear has proven the most reliable stable TV fork of the great Sick-Beard to fully automate TV enjoyment with innovation. | GPL-3.0 | Active | No | 801 |
+| [Swiparr](https://swiparr.com/) ([source](https://github.com/m3sserstudi0s/swiparr)) | Swiparr is a media discovery tool featuring a Tinder-like swipe interface for browsing movies and TV shows from Jellyfin, Emby, Plex, or TMDB. | MIT | Active | No | 801 |
 | [Managarr](https://github.com/Dark-Alex-17/managarr) | Terminal manager for Sonarr, Radarr, and related media automation apps from the command line. | MIT | Active | Official | 794 |
-| [Shoko Server](https://shokoanime.com/) ([source](https://github.com/shokoanime/shokoserver)) | The Cross-app Anime Management System Built For You. | MIT | Active | No | 787 |
-| [Janitorr](https://github.com/schaka/janitorr) | Media cleanup service that removes watched content from Radarr, Sonarr, Jellyseerr, and Jellyfin. | GPL-3.0 | Active | Community | 765 |
-| [Pulsarr](https://jamcalli.github.io/Pulsarr) ([source](https://github.com/jamcalli/Pulsarr)) | Plex watchlist service that routes requests to Sonarr and Radarr and sends notifications. | AGPL-3.0 | Active | Official | 764 |
-| [IPTV-Proxy](https://github.com/pierre-emmanuelj/iptv-proxy) | Reverse proxy for M3U and XtreamCodes IPTV streams. | GPL-3.0 | Active | Community | 751 |
+| [Shoko Server](https://shokoanime.com/) ([source](https://github.com/shokoanime/shokoserver)) | The Cross-app Anime Management System Built For You. | MIT | Active | No | 789 |
+| [Janitorr](https://github.com/schaka/janitorr) | Media cleanup service that removes watched content from Radarr, Sonarr, Jellyseerr, and Jellyfin. | GPL-3.0 | Active | Community | 766 |
+| [Pulsarr](https://jamcalli.github.io/Pulsarr) ([source](https://github.com/jamcalli/Pulsarr)) | Plex watchlist service that routes requests to Sonarr and Radarr and sends notifications. | AGPL-3.0 | Active | Official | 766 |
+| [IPTV-Proxy](https://github.com/pierre-emmanuelj/iptv-proxy) | Reverse proxy for M3U and XtreamCodes IPTV streams. | GPL-3.0 | Active | Community | 755 |
 | [Webtor](https://github.com/webtor-io/self-hosted) | Web torrent app for streaming video and audio from torrent files without a desktop client. | MIT | Active | Official | 724 |
 | [lazylibrarian-calibre](https://github.com/dobytang/lazylibrarian) | LazyLibrarian is a program to follow authors and grab metadata for all your digital reading needs. | None declared | Stale | Community | 722 |
 | [MakeMKV](https://www.makemkv.com/) ([source](https://github.com/jlesage/docker-makemkv)) | MakeMKV is your one-click app to convert video that you own into free and patents-unencumbered format that can be played everywhere. | MIT | Active | No | 721 |
-| [Reaparr](https://www.reaparr.rocks/) ([source](https://github.com/Reaparr/Reaparr)) | Plex media downloader for copying content from shared servers into local libraries. | GPL-3.0 | Active | Official | 701 |
+| [Reaparr](https://www.reaparr.rocks/) ([source](https://github.com/Reaparr/Reaparr)) | Plex media downloader for copying content from shared servers into local libraries. | GPL-3.0 | Active | Official | 703 |
 | [Kaizoku](https://github.com/oae/kaizoku) | Downloads and organizes manga from supported sources for a self-hosted reading library. | MIT | Archived | Official | 681 |
 | [Configarr](https://configarr.de/) ([source](https://github.com/raydak-labs/configarr)) | Configuration sync tool for keeping Radarr and Sonarr settings aligned across instances. | AGPL-3.0 | Active | Official | 674 |
-| [Remux](https://github.com/lostb1t/remux) | Remux is a media server with a Jellyfin-compatible API that brings Stremio add-ons, local files, and WebDAV sources together under one roof. | AGPL-3.0 | Active | No | 664 |
+| [Remux](https://github.com/lostb1t/remux) | Remux is a media server with a Jellyfin-compatible API that brings Stremio add-ons, local files, and WebDAV sources together under one roof. | AGPL-3.0 | Active | No | 670 |
 | [Autoscan](https://github.com/cloudbox/autoscan) | Autoscan replaces the default Plex and Emby behaviour for picking up file changes on the file system, Autoscan integrates with Sonarr, Radarr, Readarr. | MIT | Archived | Community | 659 |
 | [posterr](https://github.com/petersem/posterr) | Media poster display software for Plex, Sonarr, Radarr, and Readarr, (Just like the display screens in movie theatre foyers). | MIT | Active | Community | 653 |
-| [Sportarr](https://sportarr.net/) ([source](https://github.com/Sportarr/Sportarr)) | Sports PVR that monitors events, fetches releases, and organizes recordings for media servers. | GPL-3.0 | Active | Official | 634 |
+| [Sportarr](https://sportarr.net/) ([source](https://github.com/Sportarr/Sportarr)) | Sports PVR that monitors events, fetches releases, and organizes recordings for media servers. | GPL-3.0 | Active | Official | 639 |
 | [Youlag](https://github.com/civilblur/youlag) | FreshRSS extension for changing themes and adding video features. | GPL-3.0 | Active |  | 620 |
-| [Scrob](https://scrob.app/) ([source](https://github.com/ellite/scrob)) | Media tracking app for recording history, ratings, and personal lists. | GPL-3.0 | Active | Official | 604 |
-| [checkrr](https://github.com/aetaric/checkrr) | Media library checker that finds corrupt files and replaces them through Sonarr and Radarr. | MIT | Active | Community | 591 |
+| [Scrob](https://scrob.app/) ([source](https://github.com/ellite/scrob)) | Media tracking app for recording history, ratings, and personal lists. | GPL-3.0 | Active | Official | 610 |
+| [checkrr](https://github.com/aetaric/checkrr) | Media library checker that finds corrupt files and replaces them through Sonarr and Radarr. | MIT | Active | Community | 593 |
+| [Reclaimerr](https://github.com/jessielw/reclaimerr) | Automatically reclaim space in your media library using customizable rules, Integrates with Jellyfin and/or Plex to analyze and manage your content. | GPL-3.0 | Active | Community | 579 |
 | [gaps](https://github.com/jasonhhouse/gaps) | Search your movies and find missing movies from MovieDB collections. | MIT | Slow | Community | 577 |
-| [Reclaimerr](https://github.com/jessielw/reclaimerr) | Automatically reclaim space in your media library using customizable rules, Integrates with Jellyfin and/or Plex to analyze and manage your content. | GPL-3.0 | Active | Community | 577 |
 | [ViniPlay](https://github.com/ardoviniandrea/ViniPlay) | Plays IPTV playlists and manages streaming channels through a browser interface. | Creative Commons Attribution-NonCommerc… | Active | Official | 573 |
-| [AIOMetadata](https://github.com/cedya77/aiometadata) | Adds customizable movie, TV, and anime metadata catalogs to Stremio from multiple sources. | GPL-3.0 | Active | Official | 563 |
-| [autopulse](https://github.com/dan-online/autopulse) | Autopulse is a lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr, Radarr. | MIT | Active | Community | 558 |
+| [AIOMetadata](https://github.com/cedya77/aiometadata) | Adds customizable movie, TV, and anime metadata catalogs to Stremio from multiple sources. | GPL-3.0 | Active | Official | 570 |
+| [autopulse](https://github.com/dan-online/autopulse) | Autopulse is a lightweight service that updates media servers like Plex and Jellyfin based on notifications from media organizers like Sonarr, Radarr. | MIT | Active | Community | 556 |
 | [MistServer](https://mistserver.org/) ([source](https://github.com/DDVTECH/mistserver)) | Public domain streaming media server that works with any device and any format. | Unlicense | Active | Official | 520 |
 | [Frames](https://github.com/eleven-am/frames) | Video-on-demand app for organizing streams, libraries, and browser playback. | GPL-3.0 | Slow | Official | 516 |
 | [Medialyze](https://www.medialyze.app/) ([source](https://github.com/frederikemmer/MediaLyze)) | Media library analyzer for scanning large collections and reporting file details. | AGPL-3.0 | Active | Official | 511 |
 | [MovieMatch](https://github.com/lukechannings/moviematch) | Plex movie picker that helps groups choose a film together. | None declared | Stale | Community | 511 |
+| [UAV-Downloader](https://github.com/Alos21750/UAV-Downloader/releases/latest) ([source](https://github.com/Alos21750/UAV-Downloader)) | UAV Downloader for JableTV, MissAV, SupJav & Hanime1 - UAV Browser, unattended UAV Watcher, Docker/CLI, and local-first AI subtitles. | Apache-2.0 | Active | No | 504 |
+| [DUMB](https://github.com/i-am-puid-0/dumb) | Debrid Unlimited Media Bridge Debrid Unlimited Media Bridge (DUMB) is an (AIO). | GPL-3.0 | Active | Community | 502 |
 | [ygege](https://github.com/uwudev/ygege) | Ygege - high-performance public YGG indexer relay for Prowlarr and Jackett. | MIT | Active | Community | 502 |
-| [Flixor](https://github.com/flixorui/flixor) | Plex client with web, Android, iOS, and macOS apps for browsing and playing a media library. | None declared | Active | Community | 501 |
-| [DUMB](https://github.com/i-am-puid-0/dumb) | Debrid Unlimited Media Bridge Debrid Unlimited Media Bridge (DUMB) is an (AIO). | GPL-3.0 | Active | Community | 498 |
+| [Flixor](https://github.com/flixorui/flixor) | Plex client with web, Android, iOS, and macOS apps for browsing and playing a media library. | None declared | Active | Community | 500 |
 | [locatarr.github.io](https://locatarr.github.io/) ([source](https://github.com/Locatarr/locatarr.github.io)) | Locating \*Arr services and aggregating them into a single list, Thus, Locatarr. | Apache-2.0 | Active | No | 491 |
 | [Requestrr](https://github.com/thomst08/requestrr) | Chat bot that sends media requests to Sonarr, Radarr, Lidarr, Ombi, or Overseerr. | MIT | Active | Community | 489 |
 | [Nevu](https://github.com/Ipmake/NevuForPlex) | Alternative web interface for browsing and playing Plex movie and TV libraries. | GPL-3.0 | Active | Official | 487 |
-| [UAV-Downloader](https://github.com/Alos21750/UAV-Downloader/releases/latest) ([source](https://github.com/Alos21750/UAV-Downloader)) | UAV Downloader for JableTV, MissAV, SupJav & Hanime1 - UAV Browser, unattended UAV Watcher, Docker/CLI, and local-first AI subtitles. | Apache-2.0 | Active | No | 486 |
 | [Trailarr](https://nandyalu.github.io/trailarr) ([source](https://github.com/nandyalu/trailarr)) | Media trailer manager for downloading and organizing trailers alongside movie libraries. | GPL-3.0 | Active | Official | 485 |
 | [Prismarr](https://github.com/Shoshuo/Prismarr) | Media management dashboard that unifies Radarr, Sonarr, Prowlarr, Jellyseerr, qBittorrent, and TMDb. | AGPL-3.0 | Active | No | 477 |
 | [VERTd](https://github.com/vert-sh/vertd) | VERT's app to crappy video conversion services, For Nvidia GPU support, add "--gpus all" to the Extra Parameters field under Advanced, For Intel iGPU. | GPL-3.0 | Active | Community | 454 |
@@ -176,54 +176,54 @@
 | [Movie-Roulette](https://github.com/sahara101/movie-roulette) | Can't decide what to watch, Movie Roulette helps you pick random movies from your Plex and/or Jellyfin libraries, with features like cinema poster mode. | MIT | Active | Community | 433 |
 | [youtube-dl](https://github.com/jeeaaasus/youtube-dl) | Automated yt-dlp Docker image for downloading YouTube subscriptions. | MIT | Active | Community | 402 |
 | [vod2pod-rss](https://github.com/madiele/vod2pod-rss) | Convert YouTube and Twitch channels to podcasts, no storage required, Transcodes VoDs to MP3 192k on the fly, generates an RSS feed to use in podcast. | MIT | Active | Official | 392 |
+| [dashboarr](https://github.com/renzobeux/dashboarr) | Dashboarr is a native mobile app (Android & iOS) that connects directly to your \*arr stack and media services, No backend server required - the app talks to. | GPL-3.0 | Active | Community | 389 |
 | [Lunarr](https://github.com/lunarr-app/lunarr-go) | Media streaming server designed as an alternative to Plex, allowing you to monitor and manage your movie and TV show files on a headless server. | Apache-2.0 | Active | Community | 386 |
-| [dashboarr](https://github.com/renzobeux/dashboarr) | Dashboarr is a native mobile app (Android & iOS) that connects directly to your \*arr stack and media services, No backend server required - the app talks to. | GPL-3.0 | Active | Community | 385 |
 | [Sonobarr](https://github.com/Dodelidoo-Labs/sonobarr) | Lidarr companion for discovering music recommendations from Last.fm. | MIT | Active | Official | 381 |
 | [MediathekArr](https://github.com/pcjones/mediathekarr) | Indexer integration that adds ARD and ZDF Mediathek searches to Prowlarr, Sonarr, and Radarr. | None declared | Active | Community | 380 |
 | [cabernet](https://github.com/cabernetwork/cabernet) | IPTV stream manager that loads provider plugins and exposes channel listings through a web interface. | MIT | Active | Community | 379 |
+| [Plex Rewind](https://github.com/RaunoT/plex-rewind) | Present Plex user statistics and habits in a beautiful and organized manner. | GPL-3.0 | Active | Official | 375 |
 | [antennas](https://gitlab.com/yayitazale/unraid-templates/-/raw/main/yayitazale/antennas.xml) ([source](https://github.com/thejf/antennas)) | Connects Tvheadend to Plex DVR by presenting its TV streams as an HDHomeRun tuner. | MIT | Stale | Community | 374 |
 | [minisatip](https://github.com/catalinii/minisatip) | SAT\>IP server for streaming DVB tuner channels to compatible clients. | GPL-2.0 | Active | Community | 374 |
 | [Jellyplist](https://github.com/kamilkosek/jellyplist) | Playlist sync tool for copying Spotify playlists into Jellyfin. | GPL-3.0 | Archived | Official | 370 |
 | [LidaTube](https://github.com/TheWicklowWolf/LidaTube) | Finding and fetch missing Lidarr albums via yt-dlp. | GPL-3.0 | Active | Official | 367 |
 | [Watchlistarr](https://github.com/nylonee/watchlistarr) | Sync RSS Plex watchlists in realtime with Sonarr and Radarr. | GPL-3.0 | Slow | Community | 361 |
-| [Plex Rewind](https://github.com/RaunoT/plex-rewind) | Present Plex user statistics and habits in a beautiful and organized manner. | GPL-3.0 | Active | Official | 358 |
 | [Fetcharr](https://github.com/egg82/fetcharr) | Automation service that coordinates downloads across Sonarr, Radarr, Lidarr, and other arr applications. | MIT | Active | Community | 348 |
 | [ListSync](https://github.com/woahai321/list-sync) | ListSync automatically syncs your watchlists from IMDb, Trakt, and Letterboxd with Overseerr/Jellyseerr, No more manual adding - just add movies and shows to. | MIT | Active | Community | 344 |
 | [Deleterr](https://rfsbraz.github.io/deleterr) ([source](https://github.com/rfsbraz/deleterr)) | Automated media cleanup tool that removes watched and stale content from Plex, Sonarr, and Radarr based on configurable rules. | MIT | Active | Official | 339 |
-| [ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) | Download video or audio from YouTube channels on a schedule via yt-dlp. | GPL-3.0 | Active | Official | 335 |
+| [ChannelTube](https://github.com/TheWicklowWolf/ChannelTube) | Download video or audio from YouTube channels on a schedule via yt-dlp. | GPL-3.0 | Active | Official | 336 |
 | [plex-utills](https://github.com/jkirkcaldy/plex-utills) | Plex library utility that adds artwork and speeds up later media scans. | MIT | Stale | Community | 326 |
 | [Arr Dashboard](https://github.com/Kha-kis/arr-dashboard) ([source](https://github.com/kha-kis/arr-dashboard)) | Dashboard for managing Sonarr, Radarr, Lidarr, Readarr, Prowlarr, Plex, Tautulli, Jellyfin, Emby, and Seerr. | MIT | Active | No | 324 |
 | [Trakt-Tools](https://github.com/xbgmsharp/trakt) | Command-line utility for importing and exporting Trakt, Kodi, and CouchPotato data as CSV files. | GPL-3.0 | Active | Community | 320 |
 | [YoutubeDL-Server](https://github.com/nbr23/youtube-dl-server) | Web and REST interface to Youtube-DL for downloading videos onto a server. | MIT | Active | Official | 320 |
 | [daps](https://github.com/drazzilb08/daps) | DAPS (Drazzilb's Arr PMM Scripts) A collection of useful scripts for media management and automation Support for this container can be found on Trash's. | None declared | Slow | Community | 318 |
 | [Ripper](https://github.com/rix1337/docker-ripper) | Rips optical discs automatically after identifying their media type. | MIT | Archived | Community | 317 |
+| [houndarr](https://github.com/av1155/houndarr) | Houndarr is a companion for Radarr, Sonarr, Lidarr, Readarr, and Whisparr that schedules missing, cutoff-unmet, and optional upgrade searches in small. | AGPL-3.0 | Active | Community | 312 |
 | [umlautadaptarr](https://github.com/pcjones/umlautadaptarr) | Compatibility service that helps arr applications handle media titles with foreign-language characters. | None declared | Active | Community | 312 |
-| [houndarr](https://github.com/av1155/houndarr) | Houndarr is a companion for Radarr, Sonarr, Lidarr, Readarr, and Whisparr that schedules missing, cutoff-unmet, and optional upgrade searches in small. | AGPL-3.0 | Active | Community | 310 |
-| [SeerrBridge](https://soluify.com/) ([source](https://github.com/Woahai321/SeerrBridge)) | Integration service connecting Jellyseerr or Overseerr with DebridMediaManager. | MIT | Active | Official | 308 |
-| [searcharr](https://github.com/toddrob99/searcharr) | Telegram Bot for Sonarr and Radarr for searching and retrieving information from the web. | MIT | Active | Community | 304 |
+| [SeerrBridge](https://soluify.com/) ([source](https://github.com/Woahai321/SeerrBridge)) | Integration service connecting Jellyseerr or Overseerr with DebridMediaManager. | MIT | Active | Official | 309 |
+| [searcharr](https://github.com/toddrob99/searcharr) | Telegram Bot for Sonarr and Radarr for searching and retrieving information from the web. | MIT | Active | Community | 305 |
 | [dmb-fastapi](https://github.com/i-am-puid-0/dmb) | FastAPI service for the DMB media management application. | GPL-3.0 | Archived | Community | 301 |
+| [Boxarr](https://github.com/iongpt/boxarr) | Automatically add trending box office movies to Radarr. | GPL-3.0 | Active | Official | 298 |
 | [Plaxt](https://github.com/xanderstrike/goplaxt) | This Tools provides a way to keep your watched history synced FROM Plex Server To Trakt.tv (IT will not do history prior to tool Installation) it uses. | MIT | Archived | Community | 298 |
-| [Boxarr](https://github.com/iongpt/boxarr) | Automatically add trending box office movies to Radarr. | GPL-3.0 | Active | Official | 296 |
 | [EPlusTV](https://github.com/tonywagner/EPlusTV) | Turns supported streaming services into virtual live TV channels for IPTV players. | MIT | Active | Official | 296 |
 | [Specifically Clementines](https://davideshay.github.io/groceries) ([source](https://github.com/davideshay/groceries)) | Media request app for collecting watch ideas, tracking lists, and organizing recommendations. | MIT | Slow | Official | 294 |
 | [Embystat](https://github.com/IceWhaleTech/CasaOS-AppStore/tree/main/Apps/Embystat) ([source](https://github.com/mregni/embystat)) | Calculate all kinds of statistics from your (local) Emby or Jellyfin server. | MIT | Stale | Official | 291 |
-| [Petio](https://petio.tv/) ([source](https://github.com/petio-team/petio)) | Request, review, and discover companion app for Plex. | MIT | Slow | Official | 289 |
-| [Jellyfin-Auto-Collections](https://github.com/ghomashudson/jellyfin-auto-collections) | Automatically create and manage collections in Jellyfin based on configurable rules, Runs on a schedule to keep your collections up to date. | MIT | Active | Community | 287 |
+| [Jellyfin-Auto-Collections](https://github.com/ghomashudson/jellyfin-auto-collections) | Automatically create and manage collections in Jellyfin based on configurable rules, Runs on a schedule to keep your collections up to date. | MIT | Active | Community | 289 |
+| [Petio](https://petio.tv/) ([source](https://github.com/petio-team/petio)) | Request, review, and discover companion app for Plex. | MIT | Slow | Official | 288 |
 | [Addarr](https://github.com/Waterboy1602/Addarr) | Telegram bot for requesting series and movies through Sonarr and Radarr and changing Transmission or SABnzbd speeds. | MIT | Slow | Official | 284 |
 | [prefetcharr](https://github.com/p-hueber/prefetcharr) | Let Sonarr fetch episodes on demand for a show you are watching on Jellyfin/Emby/Plex. | None declared | Active | Community | 282 |
 | [Cleanarr](https://github.com/se1exin/cleanarr) | Simple UI to help find and delete duplicate and sample files from your Plex server. | MIT | Stale | Community | 275 |
 | [Floatplane-Downloader](https://github.com/inrixia/floatplane-downloader) | Floatplane-Downloader - Automagically downloads the latest videos from Floatplane and optionally formats them to be viewed in Plex, Both downloading videos. | AGPL-3.0 | Active | Community | 271 |
 | [Plex Auto Languages](https://github.com/JourneyDocker/Plex-Auto-Languages) ([source](https://github.com/journeydocker/plex-auto-languages)) | Plex Auto Languages offer automated language selection for Plex TV Shows. | MIT | Active | No | 270 |
-| [CouchTube](https://couchtube.fly.dev/) ([source](https://github.com/ozencb/couchtube)) | YouTube frontend that plays videos like live TV channels on a couch-friendly screen. | GPL-3.0 | Active | Official | 269 |
+| [CouchTube](https://couchtube.fly.dev/) ([source](https://github.com/ozencb/couchtube)) | YouTube frontend that plays videos like live TV channels on a couch-friendly screen. | GPL-3.0 | Active | Official | 268 |
 | [go-auto-yt](https://github.com/xiovv/go-auto-yt) | GoAutoYT makes it easy for you to automatically download videos from as many YouTube channels as you'd like, Clean, very simple design - The dashboard only. | GPL-3.0 | Slow | Community | 267 |
 | [Rangarr](https://github.com/JudoChinX/rangarr) | Media automation tool for running searches across \*arr applications. | MIT | Active | Official | 266 |
 | [Jellysweep](https://github.com/jon4hz/jellysweep) | Jellyfin cleanup tool for finding stale media, reviewing libraries, and removing unwanted files. | GPL-3.0 | Active | Official | 261 |
 | [Replex](https://github.com/lostb1t/replex) | Transforms traffic between Plex servers and clients for custom proxy workflows. | None declared | Archived | Official | 252 |
 | [streamdock](https://github.com/limmer55/streamdock) | Web IPTV player for browsing and streaming television channels. | GPL-3.0 | Archived | Community | 251 |
+| [Bragibooks](https://github.com/djdembeck/bragibooks) | Web app for cleaning and standardizing audiobook libraries with m4b-merge. | GPL-3.0 | Active | Community | 219 |
 | [plexautoskip](https://github.com/mdhiggins/plexautoskip) | Plex utility that skips tagged intros, credits, and other marked content. | MIT | Slow | Community | 219 |
-| [Bragibooks](https://github.com/djdembeck/bragibooks) | Web app for cleaning and standardizing audiobook libraries with m4b-merge. | GPL-3.0 | Active | Community | 218 |
 | [AniBridge](https://anibridge.eliasbenb.dev/) ([source](https://github.com/anibridge/anibridge)) | Anime activity sync tool for keeping watch progress aligned between tracking services. | MIT | Active | Official | 215 |
-| [SPIS](https://github.com/gbbirkisson/spis) | Simple, lightweight and fast media server with decent mobile support. | GPL-3.0 | Active | Official | 214 |
+| [SPIS](https://github.com/gbbirkisson/spis) | Simple, lightweight and fast media server with decent mobile support. | GPL-3.0 | Active | Official | 215 |
 | [ONVIF-Server](https://github.com/InstantCassette) ([source](https://github.com/BigTonyTones/Tonys-Onvf-RTSP-Server)) | ONVIF and RTSP server for managing network cameras and AI video streams. | MIT | Active | Community | 213 |
 | [Kometa-Quickstart](https://github.com/kometa-team/quickstart) | Web tool that guides users through creating a Kometa configuration file. | MIT | Active | Community | 211 |
 | [botdarr](https://github.com/shayaantx/botdarr) | Chat bot that accesses Radarr, Sonarr, and Lidarr for media searches, additions, and status updates. | GPL-3.0 | Active | Community | 207 |
@@ -232,30 +232,30 @@
 | [youtube-dl-nas](https://github.com/hyeonsangjeon/youtube-dl-nas) | Queues video and audio downloads from shared links and stores the results on a NAS. | MIT | Active | Official | 201 |
 | [NewtArr](https://github.com/elfhosted/newtarr) | Media automation service that searches for missing or upgrade-worthy items in arr libraries. | GPL-3.0 | Active | Community | 199 |
 | [cli\_debrid](https://github.com/godver3/cli_debrid) | Cli\_debrid is a successor to, and pays homage to plex\_debrid, cli\_debrid is designed to automatically manage and upgrade your media collection, leveraging. | None declared | Active | Community | 197 |
+| [Clonarr](https://github.com/ProphetSe7en/clonarr) ([source](https://github.com/prophetse7en/clonarr)) | Sync, build and manage quality profiles and custom formats for Radarr and Sonarr - powered by TRaSH Guides. | MIT | Active | No | 197 |
 | [homescreen-hero](https://github.com/trentferguson/homescreen-hero) | Plex companion for customizing home-library browsing and presentation. | MIT | Active | Community | 196 |
 | [cmyflix](https://github.com/farfalleflickan/cmyflix) | Media catalog app with a Netflix-style interface for browsing movies and shows. | AGPL-3.0 | Active |  | 195 |
-| [Clonarr](https://github.com/ProphetSe7en/clonarr) ([source](https://github.com/prophetse7en/clonarr)) | Sync, build and manage quality profiles and custom formats for Radarr and Sonarr - powered by TRaSH Guides. | MIT | Active | No | 194 |
 | [Sortarr](https://github.com/Jaredharper1/Sortarr) | Sonarr and Radarr insights tool for reviewing media libraries, sorting, and collection status. | MIT | Active | Official | 191 |
 | [ClipBucket](https://clipbucket.oxygenz.fr/) ([source](https://github.com/MacWarrior/clipbucket-v5)) | Start your own video sharing website (YouTube/Netflix Clone) in a matter of minutes. | AAL | Active | Official | 184 |
-| [Pixelfin](https://github.com/nothing2obvi/pixelfin) | Generates browsable HTML photo galleries from Jellyfin image libraries. | None declared | Active | Official | 178 |
+| [Pixelfin](https://github.com/nothing2obvi/pixelfin) | Generates browsable HTML photo galleries from Jellyfin image libraries. | None declared | Active | Official | 179 |
 | [Dasharr](https://github.com/frenchgithubuser/dasharr) | Dashboard for monitoring indexer usage across an Arr media stack. | GPL-3.0 | Archived | Community | 176 |
-| [TVApp2](https://github.com/thebinaryninja/tvapp2) | Automatic M3U playlist and XML guide updater for TheTvApp, TVPass, and MoveOnJoy utilized within your IPTV client, GitHub Project:. | MIT | Archived | Community | 176 |
 | [Guardian](https://github.com/HydroshieldMKII/Guardian) | Plex access-control dashboard for approving devices, blocking sessions, and applying user policies. | PolyForm-Noncommercial-1.0.0 | Active | Official | 175 |
+| [TVApp2](https://github.com/thebinaryninja/tvapp2) | Automatic M3U playlist and XML guide updater for TheTvApp, TVPass, and MoveOnJoy utilized within your IPTV client, GitHub Project:. | MIT | Archived | Community | 175 |
 | [Odin](https://github.com/ad-on-is/odin-server) | Streaming service that sends Real-Debrid or AllDebrid media to Android devices. | GPL-3.0 | Archived | Community | 171 |
+| [Quasarr](https://github.com/rix1337/quasarr) | Download automation bridge connecting JDownloader with the Arr media tools. | MIT | Active | Community | 169 |
 | [storm](https://github.com/relvacode/storm) | Introducing Storm A slick remote interface for Deluge that fully supports mobile devices (including as a home-screen app) Some neccesary steps: - You'll need. | MIT | Stale | Community | 167 |
-| [Quasarr](https://github.com/rix1337/quasarr) | Download automation bridge connecting JDownloader with the Arr media tools. | MIT | Active | Community | 166 |
 | [Subatic](https://subatic.com/) ([source](https://github.com/orthdron/subatic)) | Simple video hosting site that scales with content. | GPL-3.0 | Active | Official | 162 |
 | [NeXroll](https://github.com/jflxcloud/nexroll) | NeXroll is a modern preroll manager for Plex and Jellyfin featuring automatic scheduling, category organization, visual sequence builder, and community. | MIT | Active | Community | 160 |
+| [Tiramisu](https://github.com/MrRobotoGit/tiramisu) | BitTorrent engine with a FUSE virtual filesystem that streams torrents live to Plex/Jellyfin without downloading (alternative to Real-Debrid), GPL-2.0. | AGPL-3.0 | Active | No | 158 |
 | [Blockbusterr](https://github.com/mahcks/blockbusterr) | Media discovery service that finds and tracks content for personal libraries. | MIT | Active | Community | 157 |
-| [Tiramisu](https://github.com/MrRobotoGit/tiramisu) | BitTorrent engine with a FUSE virtual filesystem that streams torrents live to Plex/Jellyfin without downloading (alternative to Real-Debrid), GPL-2.0. | AGPL-3.0 | Active | No | 157 |
-| [Spottarr](https://github.com/Spottarr/Spottarr) ([source](https://github.com/spottarr/spottarr)) | Spottarr is a small application that can index the spotnet messages (spots) and exposes them as a newznab indexer. | MIT | Active | No | 154 |
+| [Spottarr](https://github.com/Spottarr/Spottarr) ([source](https://github.com/spottarr/spottarr)) | Spottarr is a small application that can index the spotnet messages (spots) and exposes them as a newznab indexer. | MIT | Active | No | 155 |
 | [Overr-Syncerr](https://github.com/gssariev/overr-syncerr) | Webhook handler for coordinating subtitle requests, media events, and subtitle management tasks. | MIT | Archived | Official | 151 |
 | [mediastorm](https://github.com/godver3/mediastorm) | Media streaming server with mobile and TV apps for playing a personal library. | None declared | Active | Community | 149 |
 | [subarr](https://github.com/coaxk/subarr) | Subtitle manager that finds missing subtitles and selects providers for downloading or transcription. | MIT | Active | Community | 149 |
-| [Redirecterr](https://github.com/varthe/Redirecterr) | Routes Overseerr media requests through custom filters before sending them to automation tools. | MIT | Slow | Official | 144 |
-| [iPlayarr](https://github.com/nikorag/iplayarr) | IPlayarr is a companion tool for Sonarr and Radarr, making it easy to integrate get iplayer for searching and downloading iPlayer content directly. | GPL-3.0 | Active | Community | 143 |
+| [iPlayarr](https://github.com/nikorag/iplayarr) | IPlayarr is a companion tool for Sonarr and Radarr, making it easy to integrate get iplayer for searching and downloading iPlayer content directly. | GPL-3.0 | Active | Community | 145 |
+| [Redirecterr](https://github.com/varthe/Redirecterr) | Routes Overseerr media requests through custom filters before sending them to automation tools. | MIT | Slow | Official | 145 |
 | [Anchorr](https://github.com/openvessl/anchorr) | Helpful Discord bot for requesting media via Seerr and receiving Jellyfin notifications for new content in your library. | Unlicense | Active | Community | 137 |
-| [bbergle-zap2xml](https://github.com/jef/zap2xml) | Service for converting TV guide data into XMLTV listings. | MIT | Slow | Community | 134 |
+| [bbergle-zap2xml](https://github.com/jef/zap2xml) | Service for converting TV guide data into XMLTV listings. | MIT | Slow | Community | 135 |
 | [DynamiX](https://github.com/theimaginear/dynamix) | Plex collection automation tool for pinning and unpinning collections on a schedule. | MIT | Slow | Community | 133 |
 | [Plexcache-D](https://github.com/studionirin/plexcache-d) | Plex utility that moves watched media from SSD cache back to storage. | MIT | Active | Community | 132 |
 | [media-roller](https://github.com/rroller/media-roller) | Mobile friendly tool for downloading videos from social media. | None declared | Active | Community | 130 |
@@ -266,13 +266,13 @@
 | [UMTK](https://github.com/netplexflix/upcoming-movies-tv-shows-for-kometa) | UMTK (Upcoming Movies and TV Shows for Kometa) creates 'Coming Soon' collections in your Plex server. | None declared | Active | Community | 115 |
 | [shortlist](https://github.com/stevezau/shortlist) | Plex companion that creates per-user movie and TV recommendations. | MIT | Active | Community | 111 |
 | [Monitarr](https://github.com/nickshanks347/monitarr) | Radarr and Sonarr monitor for checking downloads, media requests, and automation status. | GPL-3.0 | Active | Official | 105 |
-| [Streamsphere](https://github.com/rs-anantmishra/streamsphere) | Media library for organizing and streaming channels, playlists, and videos. | AGPL-3.0 | Active | Community | 100 |
+| [Streamsphere](https://github.com/rs-anantmishra/streamsphere) | Media library for organizing and streaming channels, playlists, and videos. | AGPL-3.0 | Active | Community | 101 |
 | [AuthPortal](https://github.com/modom-ofn/auth-portal) | Authentication gateway for Plex, Jellyfin, and Emby accounts in home media environments. | GPL-3.0 | Active | Official | 99 |
 | [Conjurr](https://www.newsletterr.org/) ([source](https://github.com/yungsnuzzy/conjurr)) | Conjurr is an AI recommendation tool that uses Tautulli watch data to recommend what users should watch next. |  | Active | Community | 98 |
 | [Membarr](https://github.com/yoruio/membarr) | Membarr is a discord bot that invites discord users to Plex and/or Jellyfin, Manually create users and invite server members with a single command, or let. | GPL-3.0 | Stale | Community | 84 |
 | [Preroll-Plus](https://github.com/chadwpalm/prerollplus) | Plex preroll manager for updating and scheduling introductory videos. | GPL-3.0 | Active | Community | 83 |
+| [CinePlete](https://github.com/sdblepas/cineplete) | CinePlete scans your Plex or Jellyfin movie library and shows exactly what you are missing. | MIT | Active | Community | 81 |
 | [SonaShow](https://github.com/TheWicklowWolf/SonaShow) | Web GUI for finding similar shows to selected Sonarr shows. | MIT | Active | Official | 81 |
-| [CinePlete](https://github.com/sdblepas/cineplete) | CinePlete scans your Plex or Jellyfin movie library and shows exactly what you are missing. | MIT | Active | Community | 80 |
 | [Streamyfin---Optimised-Versions](https://github.com/streamyfin/optimized-versions-server) | Transcoding service that prepares Streamyfin videos in formats supported for offline downloads. | None declared | Archived | Community | 80 |
 | [mdblistarr](https://github.com/linaspurinis/mdblistarr) | Companion app for mdblist.com for Radarr and Sonarr integration. | None declared | Active | Community | 79 |
 | [Immaculaterr](https://github.com/ohmzi/immaculaterr) | Plex collection automation tool for pinning and unpinning collections on a schedule. | None declared | Active | Community | 78 |
@@ -285,16 +285,16 @@
 | [Liquid-dl](https://github.com/kthulu120/liquid_dl) | Command-line utility image containing download and media-processing tools. | MIT | Stale | Community | 70 |
 | [SeekAndWatch](https://github.com/softerfish/seekandwatch) | The Plex companion, Now featuring SeekAndWatch Cloud: allow your users to request content easily without VPNs or reverse proxies, Includes Smart Discovery. | None declared | Active | Community | 70 |
 | [P-StreamRec](https://github.com/raccommode/P-StreamRec) | Records live video streams and provides a web interface to manage recordings. | Non-Commercial Open Source License | Archived | Official | 67 |
+| [emby-watchparty-legacy](https://github.com/oratorian/emby-watchparty) | Legacy Emby watch-party service that shares synchronized HLS playback with viewers. | MIT | Active | Community | 65 |
 | [masqueradarr.aio](https://thebinaryninja.github.io/masqueradarr/) ([source](https://github.com/TheBinaryNinja/masqueradarr)) | IPTV aggregator for organizing and streaming channel playlists. | MIT | Active | Community | 65 |
 | [Plex-TVTime](https://github.com/zggis/plex-tvtime) | Plex-TVTime is a Plex webhook handler that automatically updates your TVTime watch history, TV episodes are automatically marked as watched once you complete. | None declared | Slow | Community | 65 |
 | [RadaRec](https://github.com/TheWicklowWolf/RadaRec) | Finds movie recommendations from a Radarr library and can send selected movies back to Radarr. | GPL-3.0 | Active | Official | 65 |
-| [emby-watchparty-legacy](https://github.com/oratorian/emby-watchparty) | Legacy Emby watch-party service that shares synchronized HLS playback with viewers. | MIT | Active | Community | 64 |
 | [Pullbox](https://pullbox.app/) ([source](https://github.com/pullboxapp/pullbox)) | Pullbox is a comic library manager and acquisition application, Monitor series, search configured indexers and direct sources, send selected releases to. | GPL-3.0 | Active | Community | 64 |
 | [JellyHub](https://github.com/zigl3ur/jellyhub) | Indexes all content from multiple Jellyfin servers, allowing you to see which items are available on which server. | AGPL-3.0 | Active | Community | 63 |
 | [amarr](https://github.com/vexdev/amarr) | Connects Sonarr and Radarr to an existing aMule installation so they can search for and manage downloads. | MIT | Active | Community | 61 |
 | [CommercialBreaker](https://github.com/theweebcoders/commercialbreaker) | Relive Toonami with a custom marathon generator that slices anime, injects ads, and builds a full channel, Because your anime deserves commercial breaks. | None declared | Active | Community | 59 |
+| [Server-Manager-Portal](https://github.com/jl94x4/server-manager-portal) | Plex management portal for user onboarding, access expiry, analytics, and server monitoring. | MIT | Active | Community | 59 |
 | [whatseerr](https://github.com/sufxgit/whatseerr) | Request management app for sending media requests to automation services. | MIT | Active | Community | 58 |
-| [Server-Manager-Portal](https://github.com/jl94x4/server-manager-portal) | Plex management portal for user onboarding, access expiry, analytics, and server monitoring. | MIT | Active | Community | 57 |
 | [Forgotten-Movies](https://github.com/pyroghostx/forgottenmovies) | Forgotten Movies keeps Plex requests from gathering dust. | GPL-3.0 | Active | Community | 55 |
 | [youtube-dl-material](https://github.com/voc0der/ytdl-material) | Web interface for downloading and managing media with yt-dlp. | MIT | Active | Community | 55 |
 | [oscam](https://github.com/linuxserver/docker-oscam) | Oscam is an Conditional Access Module software used for descrambling DVB transmissions using smart cards. | GPL-3.0 | Active | Community | 54 |
@@ -305,8 +305,8 @@
 | [tvh-iptv-config](https://github.com/josh5/tvh-iptv-config) | TVH-IPTV-Config - A simple IPTV config frontend for playlist filtering providing a M3U proxy for Plex, Emby, Jellyfin and (of course) Tvheadend. | Apache-2.0 | Archived | Community | 49 |
 | [ColleXions](https://github.com/jl94x4/collexions-webui) | ColleXions is a web interface designed to automate and manage your Plex collections. | MIT | Archived | Community | 47 |
 | [Reclaimarr](https://github.com/okhr/reclaimarr) | Media cleanup service that reclaims disk space using watch history from Jellyfin, Sonarr, and Radarr. | None declared | Active | Community | 47 |
+| [Healarr](https://github.com/mescon/healarr) | Health Evaluation And Library Auto-Recovery for aRR Healarr monitors your media library for corrupted files and automatically triggers re-downloads through. | GPL-3.0 | Active | Community | 46 |
 | [Compressarr](https://github.com/ofark/compressarr) | Media processing tool that filters Radarr files before applying custom FFmpeg compression presets. | None declared | Stale | Community | 45 |
-| [Healarr](https://github.com/mescon/healarr) | Health Evaluation And Library Auto-Recovery for aRR Healarr monitors your media library for corrupted files and automatically triggers re-downloads through. | GPL-3.0 | Active | Community | 45 |
 | [Mirumoji](https://svdc1.github.io/mirumoji/docs) ([source](https://github.com/svdC1/mirumoji)) | Japanese immersion toolkit providing clickable, tokenized subtitles with dictionary lookups and transcription generation, (Demo, Source Code) MIT. | MIT | Active | Official | 45 |
 | [Onboarderr](https://github.com/secretlycarl/onboarderr) | Onboarderr is a customizable onboarding site for your Plex and (optional) Audiobookshelf servers. | Apache-2.0 | Active | Community | 45 |
 | [sstvproxy](https://github.com/vorghahn/sstvproxy) | Flask proxy that forwards SmoothStreams.tv streams to Plex and other media clients. | None declared | Stale | Community | 44 |
@@ -351,7 +351,7 @@
 | [Plex-Poster-Helper-2](https://github.com/molexxxx/plex-poster-set-helper-2) | Browse your Plex library and apply MediUX / ThePosterDB poster sets. | MIT | Active | Community | 24 |
 | [Rollerblades](https://github.com/jcostom/rollerblades) | Plex utility for scheduling and managing preroll videos. | None declared | Active | Community | 24 |
 | [AccessFlow](https://github.com/Pantanet96/AccessFlow) | Self-hosted portal for managing Plex users, invites, subscriptions, and renewals. | MIT | Active | Official | 23 |
-| [Coming-Soon](https://github.com/chadwpalm/coming-soon) | This is a Python script for generating a "Coming Soon" pre-roll using iCAL data from Radarr or Sonarr. | None declared | Active | Community | 23 |
+| [Coming-Soon](https://github.com/chadwpalm/coming-soon) | This is a Python script for generating a "Coming Soon" pre-roll using iCAL data from Radarr or Sonarr. | None declared | Slow | Community | 23 |
 | [Maki](https://github.com/orbitmpgh/maki) | Maki is a manga collection manager for the arr ecosystem. | GPL-3.0 | Active | Community | 23 |
 | [Active Streams](https://github.com/gthrift/activestreams-unraid) | Adds an Unraid dashboard widget showing streams from Plex, Emby, and Jellyfin. | MIT | Active | No | 22 |
 | [plex\_discord\_role\_management](https://github.com/cyaondanet/plex_discord_role_management) | Discord bot that synchronizes with Tautulli and Sonarr to deliver tailored notifications,. | MIT | Stale | Community | 22 |
@@ -429,7 +429,7 @@
 | [Teleradarr](https://github.com/ulisses1478/teleradarr) | Telegram inline bot for searching and requesting media through Radarr and Sonarr. | None declared | Stale | Community | 4 |
 | [x265-butler](https://github.com/masterjb/x265-butler) | X265-butler reclaims disk space on Unraid by automatically transcoding video files to HEVC (x265), Scans library shares for non-x265 files, transcodes them. | None declared | Archived | Community | 4 |
 | [Babel](https://github.com/therealshadoh/babel) | Babel - Media Dub Detection and Upgrade Tool, Monitors your media library via Sonarr and Plex, detects sub-only episodes, and automatically searches for. | MIT | Active | Community | 3 |
-| [CinemaStatus](https://github.com/keenaanee/cinemastatus) | Discord bot that polls Plex for the currently playing item, sets its own Discord Rich Presence, and renames a cinema voice channel based on that media. | MIT | Active | Community | 3 |
+| [CinemaStatus](https://github.com/keenaanee/cinemastatus) | Discord bot that polls Plex for the currently playing item, sets its own Discord Rich Presence, and renames a cinema voice channel based on that media. | MIT | Slow | Community | 3 |
 | [decide](https://github.com/hk21x/decide) | Decide - Swipe, Decide, Watch, A swipe-to-match film picker for your Plex library, Two to four people swipe through the same small, filtered deck of films. | MIT | Active | Community | 3 |
 | [fetchly](https://github.com/gill-bates/fetchly) | Media downloader for saving videos from YouTube, TikTok, Instagram, and Facebook. | MIT | Active | Community | 3 |
 | [FFmpeg-Easy-Unraid](https://github.com/metronade/ffmpeg-easy-unraid) | Unraid batch transcoder for converting video files with FFmpeg. | GPL-3.0 | Active | Community | 3 |
@@ -524,4 +524,4 @@
 | [xplex](https://xplex.me/) | Personal media streaming server for serving multiple streams. |  | Active | Community |  |
 | [xteve-vpn](https://github.com/brycelarge/xteve-vpn/issues) | Deprecated xTeVe M3U proxy for Plex, Emby, and other HLS-compatible clients. |  | Active | Community |  |
 
-[Back to all categories](../README.md). Data from 2026-11-13.
+[Back to all categories](../README.md). Data from 2026-11-16.

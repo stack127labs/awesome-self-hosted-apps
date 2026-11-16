@@ -4,69 +4,69 @@
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
-| [AUTOMATIC1111-Stable-Diffusion-Web-UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ([source](https://github.com/automatic1111/stable-diffusion-webui)) | Web interface for generating and editing images with Stable Diffusion models. | AGPL-3.0 | Stale | Community | 165,285 |
-| [Excalidraw](https://excalidraw.com/) ([source](https://github.com/excalidraw/excalidraw)) | Sketch-style whiteboard for diagrams, notes, and quick visual planning. | MIT | Active | Official | 135,508 |
+| [AUTOMATIC1111-Stable-Diffusion-Web-UI](https://github.com/AUTOMATIC1111/stable-diffusion-webui) ([source](https://github.com/automatic1111/stable-diffusion-webui)) | Web interface for generating and editing images with Stable Diffusion models. | AGPL-3.0 | Stale | Community | 165,307 |
+| [Excalidraw](https://excalidraw.com/) ([source](https://github.com/excalidraw/excalidraw)) | Sketch-style whiteboard for diagrams, notes, and quick visual planning. | MIT | Active | Official | 135,728 |
 | [Storybook](https://storybook.js.org/) ([source](https://github.com/storybookjs/storybook)) | Frontend workshop for developing, testing, and documenting UI components in isolation. | MIT | Active | No | 91,540 |
 | [AFFiNE Community Edition](https://affine.pro/) ([source](https://github.com/toeverything/AFFiNE)) | Workspace app for documents, whiteboards, knowledge notes, and team collaboration. | Mixed licensing: most files outside the… | Active | Official | 74,496 |
-| [revealjs](https://revealjs.com/) ([source](https://github.com/hakimel/reveal.js)) | HTML presentation framework for building slide decks that run in a browser. | MIT | Active |  | 72,548 |
-| [Penpot](https://penpot.app/) ([source](https://github.com/penpot/penpot)) | Collaborative design tool for creating interface layouts, prototypes, and design systems. | MPL-2.0 | Active | Official | 62,217 |
-| [HandBrake](https://handbrake.fr/) ([source](https://github.com/HandBrake/HandBrake)) | Video transcoder with browser access through a community Docker container. | GPL-2.0 | Active | Community | 24,979 |
-| [Cap](https://cap.so/) ([source](https://github.com/CapSoftware/Cap)) | Records, edits, stores, and shares screen videos through desktop capture tools and a web application. | AGPL-3.0 core; MIT capture libraries | Active | Official | 24,817 |
-| [ChartDB](https://chartdb.io/) ([source](https://github.com/chartdb/chartdb)) | Database diagrams editor that allows you to visualize and design your DB with a single query. | AGPL-3.0 | Active | Official | 23,106 |
+| [revealjs](https://revealjs.com/) ([source](https://github.com/hakimel/reveal.js)) | HTML presentation framework for building slide decks that run in a browser. | MIT | Active |  | 72,571 |
+| [Penpot](https://penpot.app/) ([source](https://github.com/penpot/penpot)) | Collaborative design tool for creating interface layouts, prototypes, and design systems. | MPL-2.0 | Active | Official | 62,327 |
+| [Cap](https://cap.so/) ([source](https://github.com/CapSoftware/Cap)) | Records, edits, stores, and shares screen videos through desktop capture tools and a web application. | AGPL-3.0 core; MIT capture libraries | Active | Official | 25,025 |
+| [HandBrake](https://handbrake.fr/) ([source](https://github.com/HandBrake/HandBrake)) | Video transcoder with browser access through a community Docker container. | GPL-2.0 | Active | Community | 25,014 |
+| [ChartDB](https://chartdb.io/) ([source](https://github.com/chartdb/chartdb)) | Database diagrams editor that allows you to visualize and design your DB with a single query. | AGPL-3.0 | Active | Official | 23,120 |
 | [orcaslicer-novnc](https://github.com/softfever/orcaslicer) | Browser-accessible OrcaSlicer for preparing 3D models for printing. | AGPL-3.0 | Active | Community | 16,448 |
 | [VERT](https://vert.sh/) ([source](https://github.com/VERT-sh/VERT)) | File conversion app that runs conversions in the browser or on-device workers. | AGPL-3.0 | Active | Official | 16,245 |
-| [waoowaoo](https://www.waoowaoo.com/) ([source](https://github.com/waooAI/waoowaoo)) | Docker-deployable AI video workspace for generating scripts, storyboards, voices, and finished clips. | None declared | Active | Official | 14,828 |
-| [Luanti](https://www.luanti.org/) ([source](https://github.com/luanti-org/luanti)) | Luanti (formerly Minetest) is an voxel game-creation app with easy modding and game creation. | LGPL-2.1-only | Active | Official | 13,849 |
+| [waoowaoo](https://www.waoowaoo.com/) ([source](https://github.com/waooAI/waoowaoo)) | Docker-deployable AI video workspace for generating scripts, storyboards, voices, and finished clips. | None declared | Active | Official | 14,863 |
+| [Luanti](https://www.luanti.org/) ([source](https://github.com/luanti-org/luanti)) | Luanti (formerly Minetest) is an voxel game-creation app with easy modding and game creation. | LGPL-2.1-only | Active | Official | 13,866 |
 | [google-webfonts-helper](https://gwfh.mranftl.com/) ([source](https://github.com/majodev/google-webfonts-helper)) | Hassle-Way to Self-Host Google Fonts, Get eot, ttf, svg, woff and woff2 files + CSS snippets. | MIT | Active | Official | 13,084 |
 | [Presenton](https://presenton.ai/) ([source](https://github.com/presenton/presenton)) | Local AI presentation generator and API with editable templates and local model support. | Apache-2.0 | Active | Official | 11,885 |
 | [imgproxy](https://imgproxy.net/) ([source](https://github.com/imgproxy/imgproxy)) | Fast and secure standalone server for resizing and converting remote images. | Apache-2.0 | Active | Official | 11,196 |
-| [OmniTools](https://omnitools.app/) ([source](https://github.com/iib0011/omni-tools)) | Collection of web tools for everyday tasks (coding, manipulating images/videos, PDFs or crunching numbers...). | MIT | Active | Official | 10,671 |
+| [OmniTools](https://omnitools.app/) ([source](https://github.com/iib0011/omni-tools)) | Collection of web tools for everyday tasks (coding, manipulating images/videos, PDFs or crunching numbers...). | MIT | Active | Official | 10,718 |
 | [Thumbor](http://thumbor.org/) ([source](https://github.com/thumbor/thumbor)) | Smart imaging service and enables on-demand cropping, resizing, applying filters and optimizing images. | MIT | Active | Official | 10,533 |
-| [draw.io](https://www.drawio.com/) ([source](https://github.com/jgraph/drawio)) | Browser diagram editor for flowcharts, architecture diagrams, whiteboards, and general visual planning. | Apache-2.0 | Active | Community | 9,298 |
+| [draw.io](https://www.drawio.com/) ([source](https://github.com/jgraph/drawio)) | Browser diagram editor for flowcharts, architecture diagrams, whiteboards, and general visual planning. | Apache-2.0 | Active | Community | 9,370 |
 | [Webstudio](https://webstudio.is/) ([source](https://github.com/webstudio-is/webstudio)) | Builds responsive websites visually and connects them to external content sources. | AGPL-3.0 | Active |  | 9,169 |
-| [SVG-Edit](https://github.com/SVG-Edit/svgedit) | Creates and edits SVG drawings in a browser with shape, path, text, and export tools. | MIT | Active |  | 7,898 |
-| [DramaClaw](https://dramaclaw.ai/) ([source](https://github.com/dramaclaw/dramaclaw)) | Local AI video pipeline for turning scripts into storyboards, voice-over, and finished films. | Elastic-2.0 | Active | Official | 7,678 |
-| [cura-novnc](https://ultimaker.com/software/ultimaker-cura) ([source](https://github.com/Ultimaker/Cura)) | Browser-accessible container for running UltiMaker Cura with a remote desktop interface. | LGPL-3.0 | Active | Community | 7,078 |
-| [ArcReel](https://arc-reel.com/) ([source](https://github.com/ArcReel/ArcReel)) | AI video workspace for turning stories into characters, scenes, storyboards, and short videos. | AGPL-3.0 | Active | Official | 6,377 |
+| [SVG-Edit](https://github.com/SVG-Edit/svgedit) | Creates and edits SVG drawings in a browser with shape, path, text, and export tools. | MIT | Active |  | 7,902 |
+| [DramaClaw](https://dramaclaw.ai/) ([source](https://github.com/dramaclaw/dramaclaw)) | Local AI video pipeline for turning scripts into storyboards, voice-over, and finished films. | Elastic-2.0 | Active | Official | 7,711 |
+| [cura-novnc](https://ultimaker.com/software/ultimaker-cura) ([source](https://github.com/Ultimaker/Cura)) | Browser-accessible container for running UltiMaker Cura with a remote desktop interface. | LGPL-3.0 | Active | Community | 7,082 |
+| [ArcReel](https://arc-reel.com/) ([source](https://github.com/ArcReel/ArcReel)) | AI video workspace for turning stories into characters, scenes, storyboards, and short videos. | AGPL-3.0 | Active | Official | 6,494 |
 | [Svg Path Editor](https://github.com/Yqnn/svg-path-editor) | Browser-based editor for creating and manipulating SVG paths. | Apache-2.0 | Active | No | 5,348 |
-| [superslicer-novnc](https://github.com/supermerill/superslicer) | Browser-accessible SuperSlicer for preparing 3D models for printing. | AGPL-3.0 | Active | Community | 4,319 |
-| [pad.ws](https://github.com/coderamp-labs/pad.ws) | Browser whiteboard IDE for sketching, coding, and collaborating in a shared workspace. | MIT | Slow | Official | 4,204 |
+| [superslicer-novnc](https://github.com/supermerill/superslicer) | Browser-accessible SuperSlicer for preparing 3D models for printing. | AGPL-3.0 | Active | Community | 4,317 |
+| [pad.ws](https://github.com/coderamp-labs/pad.ws) | Browser whiteboard IDE for sketching, coding, and collaborating in a shared workspace. | MIT | Slow | Official | 4,206 |
 | [miniPaint](https://viliusle.github.io/miniPaint/) ([source](https://github.com/viliusle/miniPaint)) | Edits raster images in a browser with layers, drawing tools, filters, and common image formats. | MIT | Active |  | 3,497 |
 | [theme.park](https://theme-park.dev/) ([source](https://github.com/themepark-dev/theme.park)) | Collection of themes and skins for popular web applications. | MIT | Active | Official | 3,110 |
 | [AudioMass](https://audiomass.co/) ([source](https://github.com/pkalogiros/AudioMass)) | Edits and mixes audio tracks directly in a browser. | MIT | Active |  | 3,050 |
-| [Silex](https://www.silex.me/) ([source](https://github.com/silexlabs/Silex)) | No-code website builder for designing pages visually and exporting static sites. | AGPL-3.0 | Active | Official | 3,037 |
-| [Spoolman](https://github.com/Donkie/Spoolman) | Keep track of your inventory of 3D-printer filament spools. | MIT | Active |  | 3,025 |
-| [SnapOtter](https://snapotter.com/) ([source](https://github.com/snapotter-hq/SnapOtter)) | File processing suite for image, video, audio, PDF, document, batch, and local AI workflows. | AGPL-3.0 | Active | Official | 2,971 |
+| [Spoolman](https://github.com/Donkie/Spoolman) | Keep track of your inventory of 3D-printer filament spools. | MIT | Active |  | 3,043 |
+| [Silex](https://www.silex.me/) ([source](https://github.com/silexlabs/Silex)) | No-code website builder for designing pages visually and exporting static sites. | AGPL-3.0 | Active | Official | 3,041 |
+| [SnapOtter](https://snapotter.com/) ([source](https://github.com/snapotter-hq/SnapOtter)) | File processing suite for image, video, audio, PDF, document, batch, and local AI workflows. | AGPL-3.0 | Active | Official | 2,977 |
 | [quant-ux-backend](https://github.com/klausschaefers/quant-ux) | Research and prototyping tool for testing designs and collecting usability data. | GPL-3.0 | Active | Community | 2,757 |
 | [Mazanoke](https://mazanoke.com/) ([source](https://github.com/civilblur/mazanoke)) | Browser image compressor for shrinking images locally before upload or sharing. | GPL-3.0 | Active | Official | 2,740 |
 | [Matchering](https://pypi.org/project/matchering) ([source](https://github.com/sergree/matchering)) | Audio mastering app for matching a track's loudness and tone against a reference. | GPL-3.0 | Active | Official | 2,689 |
 | [WBO](https://wbo.ophir.dev/) ([source](https://github.com/lovasoa/whitebophir)) | Web Whiteboard to collaborate in real-time on schemas, drawings, and notes. | AGPL-3.0 | Active | Official | 2,682 |
 | [Mini QR](https://mini-qr-code-generator.vercel.app/) ([source](https://github.com/lyqht/mini-qr)) | QR code app for generating, scanning, styling, and sharing custom QR codes. | GPL-3.0 | Active | Official | 2,452 |
 | [Manyfold](https://manyfold.app/) ([source](https://github.com/manyfold3d/manyfold)) | Digital asset manager for organizing, previewing, and sharing 3D printing files. | AGPL-3.0 | Active | Official | 2,245 |
-| [PlantUML Server](https://plantuml.com/) ([source](https://github.com/plantuml/plantuml-server)) | Web app that turns PlantUML text into UML diagrams. | GPL-3.0 | Active | Official | 2,230 |
+| [PlantUML Server](https://plantuml.com/) ([source](https://github.com/plantuml/plantuml-server)) | Web app that turns PlantUML text into UML diagrams. | GPL-3.0 | Active | Official | 2,234 |
 | [QuickChart](https://github.com/typpo/quickchart) | QuickChart is a service that generates images of charts from a URL. | AGPL-3.0 | Stale | Community | 2,058 |
-| [Rackula](https://racku.la/) ([source](https://github.com/RackulaLives/Rackula)) | Designs rack layouts and saves them in a browser or a self-hosted server. | MIT | Active | Official | 1,783 |
-| [ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) | Organizes Excalidraw boards, sketches, files, dashboards, and workspace shortcuts. | LGPL-3.0 | Active | Official | 1,778 |
+| [ExcaliDash](https://github.com/ZimengXiong/ExcaliDash) | Organizes Excalidraw boards, sketches, files, dashboards, and workspace shortcuts. | LGPL-3.0 | Active | Official | 1,796 |
+| [Rackula](https://racku.la/) ([source](https://github.com/RackulaLives/Rackula)) | Designs rack layouts and saves them in a browser or a self-hosted server. | MIT | Active | Official | 1,789 |
 | [Transmute](https://transmute.sh/) ([source](https://github.com/transmute-app/transmute)) | File converter for images, video, audio, JSON, spreadsheets, and other formats. | MIT | Active | Official | 1,470 |
-| [Drawpile](https://drawpile.net/) ([source](https://github.com/drawpile/Drawpile)) | Lets multiple artists draw on the same canvas through a shared drawing server. | GPL-3.0 | Active | Official | 1,356 |
+| [Drawpile](https://drawpile.net/) ([source](https://github.com/drawpile/Drawpile)) | Lets multiple artists draw on the same canvas through a shared drawing server. | GPL-3.0 | Active | Official | 1,357 |
 | [withoutbg](https://withoutbg.com/) ([source](https://github.com/withoutbg/withoutbg-python)) | Background removal toolkit with local open-weight inference, Python and CLI use, Docker, and a hosted API. | Apache-2.0 | Active | Official | 1,308 |
-| [Flyimg](https://flyimg.io/) ([source](https://github.com/flyimg/flyimg)) | Resize and crop images on the fly, Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. | AGPL-3.0 | Active | Official | 1,234 |
-| [sketchforge](https://github.com/formsmith746/sketchforge-3d) | Browser-based 3D design editor for building shapes, importing STL files, and exporting models. | AGPL-3.0 | Active | Community | 1,184 |
-| [ESPHomeDesigner](https://koosoli.github.io/ESPHomeDesigner/) ([source](https://github.com/koosoli/ESPHomeDesigner)) | Visual editor for designing ESPHome display layouts for E-Ink, OLED, LCD, and touch devices. | GPL-3.0 | Active |  | 1,157 |
+| [Flyimg](https://flyimg.io/) ([source](https://github.com/flyimg/flyimg)) | Resize and crop images on the fly, Get optimised images with MozJPEG, WebP or PNG using ImageMagick, with an efficient caching system. | AGPL-3.0 | Active | Official | 1,233 |
+| [sketchforge](https://github.com/formsmith746/sketchforge-3d) | Browser-based 3D design editor for building shapes, importing STL files, and exporting models. | AGPL-3.0 | Active | Community | 1,187 |
+| [ESPHomeDesigner](https://koosoli.github.io/ESPHomeDesigner/) ([source](https://github.com/koosoli/ESPHomeDesigner)) | Visual editor for designing ESPHome display layouts for E-Ink, OLED, LCD, and touch devices. | GPL-3.0 | Active |  | 1,161 |
 | [Spacedeck](https://github.com/spacedeck/spacedeck-open) | Real time, collaborative whiteboard application with rich media support. | AGPL-3.0 | Stale | No | 1,140 |
 | [selfh.st/icons](https://selfh.st/icons) ([source](https://github.com/selfhst/icons)) | Dashboard icon library for service logos, color variants, and custom icon downloads. | CC-BY-4.0 | Active | Official | 994 |
 | [8mb.local](https://8mb.campuscal.tech/) ([source](https://github.com/JMS1717/8mb.local)) | Compresses uploaded videos to target sizes with FFmpeg, GPU acceleration, and CPU fallback. | CC BY-NC 4.0 | Active | Official | 939 |
-| [TitleCardMaker](https://titlecardmaker.com/) ([source](https://github.com/TitleCardMaker/TitleCardMaker)) | Automated title-card generator for Plex, Emby, and Jellyfin media libraries. | GPL-3.0 | Active | Community | 867 |
+| [TitleCardMaker](https://titlecardmaker.com/) ([source](https://github.com/TitleCardMaker/TitleCardMaker)) | Automated title-card generator for Plex, Emby, and Jellyfin media libraries. | GPL-3.0 | Active | Community | 868 |
 | [OurBoard](https://www.ourboard.io/) ([source](https://github.com/raimohanska/ourboard)) | Provides a shared whiteboard for drawing and arranging ideas with other participants. | MIT | Active | Official | 814 |
-| [FableCut](https://fablecut.space/) ([source](https://github.com/ronak-create/FableCut)) | Edits video in a browser and exposes editing operations through REST and MCP interfaces. | MIT | Active |  | 790 |
+| [FableCut](https://fablecut.space/) ([source](https://github.com/ronak-create/FableCut)) | Edits video in a browser and exposes editing operations through REST and MCP interfaces. | MIT | Active |  | 797 |
 | [Kitsu](https://kitsu.cg-wire.com/) ([source](https://github.com/cgwire/kitsu)) | Production collaboration app for VFX and animation projects, tasks, assets, shots, and reviews. | AGPL-3.0 | Active |  | 765 |
-| [Tracefinity](https://www.tracefinity.net/) ([source](https://github.com/tracefinity/tracefinity)) | Generate custom 3D-printable Gridfinity bins from photos of your tools using AI. | MIT | Active | No | 750 |
+| [Tracefinity](https://www.tracefinity.net/) ([source](https://github.com/tracefinity/tracefinity)) | Generate custom 3D-printable Gridfinity bins from photos of your tools using AI. | MIT | Active | No | 762 |
 | [Fast Music Remover](https://github.com/omeryusufyagci/fast-music-remover) | Removes background music and noise from audio tracks for cleaner speech or media clips. | MIT | Slow | Official | 732 |
-| [Reubah](https://github.com/dendianugerah/reubah) | Simple web tool for processing images and converting documents with a simple interface. | MIT | Active | Community | 701 |
+| [Reubah](https://github.com/dendianugerah/reubah) | Simple web tool for processing images and converting documents with a simple interface. | MIT | Active | Community | 703 |
 | [The One File](https://therecanonlybe.one/) ([source](https://github.com/gelatinescreams/The-One-File)) | Diagramming app with an optional Docker collaboration server for shared editable rooms. | Unlicense | Active | Official | 551 |
-| [cadquery\_jupyter](https://github.com/bernhard-42/jupyter-cadquery) | Jupyter extension for viewing CadQuery and build123d 3D objects interactively in JupyterLab. | Apache-2.0 | Active | Community | 404 |
+| [cadquery\_jupyter](https://github.com/bernhard-42/jupyter-cadquery) | Jupyter extension for viewing CadQuery and build123d 3D objects interactively in JupyterLab. | Apache-2.0 | Active | Community | 405 |
 | [ImgCompress](https://imgcompress.karimzouine.com/) ([source](https://github.com/karimz1/imgcompress)) | Docker image tool for compressing, resizing, converting, and background-removing images locally. | GPL-3.0 | Active | Official | 351 |
-| [BitMappery](https://www.igorski.nl/bitmappery) ([source](https://github.com/igorski/bitmappery)) | Edits bitmap images in a browser with layers, filters, and drawing tools. | MIT | Active | Official | 347 |
+| [BitMappery](https://www.igorski.nl/bitmappery) ([source](https://github.com/igorski/bitmappery)) | Edits bitmap images in a browser with layers, filters, and drawing tools. | MIT | Active | Official | 349 |
 | [MKVToolNix](https://mkvtoolnix.download/docs.html) ([source](https://github.com/jlesage/docker-mkvtoolnix)) | MKVToolNix is a set of tools to create, alter and inspect Matroska files. | MIT | Active | No | 335 |
 | [Moocup](https://moocup.jaydip.me/) ([source](https://github.com/jellydeck/moocup)) | Screenshot editor for creating polished mockups from browser or app captures. | MIT | Active | Official | 315 |
 | [Scratch](https://scratch.mit.edu/) ([source](https://github.com/scratchfoundation/scratch-editor)) | Programming language to create your own interactive stories, games, and animations. | AGPL-3.0 | Active | No | 313 |
@@ -89,7 +89,7 @@
 | [Avatar](https://frncsdrk.github.io/avatar) ([source](https://github.com/frncsdrk/avatar)) | Web service for generating random avatars from configurable styles and inputs. | MIT | Active | Community | 112 |
 | [Mp4Forge](https://github.com/jessielw/mp4forge) | Graphical interface for converting media files to MP4 with MP4Box. | MIT | Active | Community | 112 |
 | [bambustudio](https://github.com/linuxserver/docker-bambustudio) | 3D-printer slicer for preparing models and generating toolpaths. | GPL-3.0 | Active | Community | 93 |
-| [SpoolmanSync](https://github.com/gibz104/spoolmansync) | Automatic filament tracking for Bambu Lab and Creality printers with Spoolman, Provides a web dashboard for assigning spools to AMS/CFS trays, QR/barcode. | MIT | Active | Community | 84 |
+| [SpoolmanSync](https://github.com/gibz104/spoolmansync) | Automatic filament tracking for Bambu Lab and Creality printers with Spoolman, Provides a web dashboard for assigning spools to AMS/CFS trays, QR/barcode. | MIT | Active | Community | 86 |
 | [Lens](https://github.com/FreeCAD/Ondsel-Server) | Collaborative browser workspace for uploading, viewing, versioning, and sharing 3D CAD models. | AGPL-3.0-or-later | Active | Community | 83 |
 | [ViTransfer](https://www.vitransfer.com/) ([source](https://github.com/mansivisuals/vitransfer)) | Video review service for sharing work with clients, collecting feedback, and managing approvals. | AGPL-3.0 | Active | Official | 72 |
 | [Lottie Tools](https://github.com/marciogranzotto/lottie-tools) | Edits Lottie animations and SVG files in a browser with timeline and export controls. | MIT | Active | Official | 56 |
@@ -97,7 +97,7 @@
 | [kdenlive](https://github.com/linuxserver/docker-kdenlive) | Video editor for creating and refining projects on Linux, macOS, and Windows. | GPL-3.0 | Active | Community | 45 |
 | [chaptertool](https://mtillmann.github.io/chaptertool/) ([source](https://github.com/Mtillmann/chaptertool)) | Create and convert chapters for podcasts, youtube, matroska, mkvmerge/nero/vorbis, webvtt, ffmpeginfo, ffmetadata, pyscenedetect, apple chapters, edl. |  | Active | Community | 44 |
 | [Memegen](https://github.com/as-a-service/meme) | Web service for creating meme images from source image URLs with optional top and bottom text. | Apache-2.0 | Stale | Community | 44 |
-| [cura](https://github.com/linuxserver/docker-cura) | 3D-printing application for preparing models, generating toolpaths, and controlling compatible printers. | GPL-3.0 | Active | Community | 41 |
+| [cura](https://github.com/linuxserver/docker-cura) | 3D-printing application for preparing models, generating toolpaths, and controlling compatible printers. | GPL-3.0 | Active | Community | 42 |
 | [Fontcompare](https://github.com/markrai/fontcompare) | Web tool for comparing locally hosted fonts side by side. | MIT | Slow | No | 38 |
 | [Avidemux](https://github.com/jlesage/docker-avidemux) | Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks. | MIT | Active | Community | 37 |
 | [krita](https://github.com/linuxserver/docker-krita) | Krita is a professional FREE and painting program. | GPL-3.0 | Active | Community | 34 |
@@ -108,7 +108,7 @@
 | [ardour](https://github.com/linuxserver/docker-ardour) | Digital audio workstation for recording, editing, mixing, and mastering music. | GPL-3.0 | Active | Community | 15 |
 | [backdrop-generator](https://github.com/vlx42/backdrop-generator) | Tool that generates FFmpeg backdrop clips from Jellyfin and Emby media libraries. | MIT | Slow | Community | 13 |
 | [shotcut](https://github.com/linuxserver/docker-shotcut) | Video editor for creating and exporting media projects across desktop operating systems. | GPL-3.0 | Active | Community | 13 |
-| [STL Quest](https://github.com/richardsolomou/stl.quest) | STL Quest is a private, 3D-print request and production queue for resin and filament printers. | AGPL-3.0 | Active | No | 12 |
+| [STL Quest](https://github.com/richardsolomou/stl.quest) | STL Quest is a private, 3D-print request and production queue for resin and filament printers. | AGPL-3.0 | Active | No | 13 |
 | [FarFetched](https://github.com/pumpkinpieman/farfetched) | FarFetched is a browser and paced downloader for free 3D models from Printables, plus a local library organizer for files you have already downloaded from. | None declared | Active | Community | 11 |
 | [Makershelf](https://github.com/nilsn3dp/makershelf) | MakerShelf organizes 3D print files, tracks filament, and helps manage workshop projects and printers. | AGPL-3.0 | Active | Community | 11 |
 | [MKVMuxingBatchGUI](https://github.com/jlesage/docker-mkv-muxing-batch-gui) | Batch tool for muxing video, audio, subtitles, chapters, and attachments. | MIT | Active | Community | 11 |
@@ -146,4 +146,4 @@
 | [prusaslicer-novnc](https://www.prusa3d.com/prusaslicer/) | Browser-accessible PrusaSlicer for preparing 3D models for printing. |  | Active | Community |  |
 | [Qr](https://code.antopie.org/miraty/libreqr) | QR code application for creating and managing codes from a web interface. | AGPL-3.0-or-later | Active | No |  |
 
-[Back to all categories](../README.md). Data from 2026-11-13.
+[Back to all categories](../README.md). Data from 2026-11-16.
