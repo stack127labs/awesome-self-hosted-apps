@@ -2,7 +2,7 @@
 
 A list of 4,815 apps you can run on your own server, in 42 categories. Each app shows its license, whether it is still maintained, Docker support, and GitHub stars.
 
-The list is generated from the [stack127 self-hosted apps directory](https://stack127.com/self-host-apps), where you can search, filter, and sort the same apps. Data from 2026-11-16.
+The list is generated from the [stack127 self-hosted apps directory](https://stack127.com/self-host-apps), where you can search, filter, and sort the same apps. Data from 2026-11-23.
 
 ## Categories
 

@@ -4,32 +4,32 @@
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
-| [Kodi](https://kodi.tv/) ([source](https://github.com/xbmc/xbmc)) | Multimedia/Entertainment center, formerly known as XBMC, Runs on Android, BSD, Linux, macOS, iOS and Windows. | GPL-2.0 | Active |  | 21,472 |
-| [go2rtc](https://github.com/AlexxIT/go2rtc) ([source](https://github.com/alexxit/go2rtc)) | Streams camera video using formats and protocols such as RTSP and WebRTC. | MIT | Active | Official | 14,663 |
-| [Snapcast](https://github.com/snapcast/snapcast) | Multiroom audio server for syncing playback across speakers and network clients. | GPL-3.0 | Active |  | 8,072 |
-| [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) | Companion service that skips sponsored segments and mutes ads on YouTube TV clients. | GPL-3.0 | Active | Official | 7,131 |
-| [AirConnect](https://github.com/philippe44/AirConnect) | Bridges AirPlay audio to UPnP, Sonos, and Chromecast players. | MIT | Active | Community | 4,238 |
-| [Hyperion](https://github.com/hyperion-project/hyperion.ng) | Software that analyzes video and audio to control ambient LED lighting around displays. | MIT | Active | Community | 3,983 |
-| [Music Assistant](https://music-assistant.io/) ([source](https://github.com/music-assistant/server)) | Music library controller for combining local libraries, streaming services, players, and multi-room playback. | Apache-2.0 | Active | Official | 3,323 |
-| [Syncplay](https://syncplay.pl/) ([source](https://github.com/Syncplay/syncplay)) | Pausing, unpausing and seeking are synchronized over the Internet, giving everyone playing the same file in the same virtual room a shared viewing experience. | Apache-2.0 | Active | Community | 2,724 |
-| [owntone](https://github.com/owntone/owntone-server) | OwnTone is a media server that lets you play audio sources such as local files, Spotify, pipe input or internet radio to AirPlay 1 and 2 receivers. | GPL-2.0 | Active | Community | 2,589 |
-| [NymphCast](http://nyanko.ws/nymphcast.php) ([source](https://github.com/MayaPosch/NymphCast)) | Audio and video casting system with support for custom applications. | BSD-3-Clause | Active |  | 2,575 |
-| [Immich-Frame](https://immichframe.dev/) ([source](https://github.com/immichFrame/ImmichFrame)) | Awesome way to display photos as a digital photo frame. | GPL-3.0 | Active | Official | 2,429 |
-| [Companion](https://bitfocus.io/companion/) ([source](https://github.com/bitfocus/companion)) | Control surface software that turns Stream Deck devices into tools for live production equipment. | MIT | Active | Community | 2,368 |
-| [HyperHDR](https://www.hyperhdr.eu/) ([source](https://github.com/awawa-dev/HyperHDR)) | Analyzes video and audio to control ambient LED lighting. | MIT | Active | Community | 2,315 |
-| [Lyrion Music Server](https://lyrion.org/) ([source](https://github.com/LMS-Community/slimserver)) | Server software which controls a wide range of Squeezebox/Slim Devices audio players and compatible hardware (formerly Logitech Media Server). | GPL-2.0 | Active | Community | 1,823 |
-| [Immich Kiosk](https://immichkiosk.app/) ([source](https://github.com/damongolding/immich-kiosk)) | Lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. | AGPL-3.0 | Active | Official | 1,746 |
-| [teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) | Local alternative cloud server for Toniebox devices that keeps their media service on your network. | GPL-2.0 | Active | Community | 1,109 |
-| [posterr](https://github.com/petersem/posterr) | Media poster display software for Plex, Sonarr, Radarr, and Readarr, (Just like the display screens in movie theatre foyers). | MIT | Active | Community | 653 |
-| [CastSponsorSkip](https://github.com/gabe565/castsponsorskip) | Service that skips SponsorBlock-marked segments on Google Cast devices. | Apache-2.0 | Active | Community | 637 |
-| [OpenTogetherTube](https://opentogethertube.com/) ([source](https://github.com/dyc3/opentogethertube)) | Web app for watching YouTube videos together with remote participants. | AGPL-3.0 | Active | No | 579 |
-| [MyMpd](https://jcorporation.github.io/myMPD/) ([source](https://github.com/jcorporation/myMPD)) | MPD web client preconfigured for Snapcast multi-room audio. | GPL-3.0 | Active | Community | 562 |
-| [dashboarr](https://github.com/renzobeux/dashboarr) | Dashboarr is a native mobile app (Android & iOS) that connects directly to your \*arr stack and media services, No backend server required - the app talks to. | GPL-3.0 | Active | Community | 389 |
+| [Kodi](https://kodi.tv/) ([source](https://github.com/xbmc/xbmc)) | Multimedia/Entertainment center, formerly known as XBMC, Runs on Android, BSD, Linux, macOS, iOS and Windows. | GPL-2.0 | Active |  | 21,525 |
+| [go2rtc](https://github.com/AlexxIT/go2rtc) ([source](https://github.com/alexxit/go2rtc)) | Streams camera video using formats and protocols such as RTSP and WebRTC. | MIT | Active | Official | 14,698 |
+| [Snapcast](https://github.com/snapcast/snapcast) | Multiroom audio server for syncing playback across speakers and network clients. | GPL-3.0 | Active |  | 8,086 |
+| [iSponsorBlockTV](https://github.com/dmunozv04/iSponsorBlockTV) | Companion service that skips sponsored segments and mutes ads on YouTube TV clients. | GPL-3.0 | Active | Official | 7,302 |
+| [AirConnect](https://github.com/philippe44/AirConnect) | Bridges AirPlay audio to UPnP, Sonos, and Chromecast players. | MIT | Active | Community | 4,247 |
+| [Hyperion](https://github.com/hyperion-project/hyperion.ng) | Software that analyzes video and audio to control ambient LED lighting around displays. | MIT | Active | Community | 3,988 |
+| [Music Assistant](https://music-assistant.io/) ([source](https://github.com/music-assistant/server)) | Music library controller for combining local libraries, streaming services, players, and multi-room playback. | Apache-2.0 | Active | Official | 3,364 |
+| [Syncplay](https://syncplay.pl/) ([source](https://github.com/Syncplay/syncplay)) | Pausing, unpausing and seeking are synchronized over the Internet, giving everyone playing the same file in the same virtual room a shared viewing experience. | Apache-2.0 | Active | Community | 2,728 |
+| [owntone](https://github.com/owntone/owntone-server) | OwnTone is a media server that lets you play audio sources such as local files, Spotify, pipe input or internet radio to AirPlay 1 and 2 receivers. | GPL-2.0 | Active | Community | 2,595 |
+| [NymphCast](http://nyanko.ws/nymphcast.php) ([source](https://github.com/MayaPosch/NymphCast)) | Audio and video casting system with support for custom applications. | BSD-3-Clause | Active |  | 2,574 |
+| [Immich-Frame](https://immichframe.dev/) ([source](https://github.com/immichFrame/ImmichFrame)) | Awesome way to display photos as a digital photo frame. | GPL-3.0 | Active | Official | 2,445 |
+| [Companion](https://bitfocus.io/companion/) ([source](https://github.com/bitfocus/companion)) | Control surface software that turns Stream Deck devices into tools for live production equipment. | MIT | Active | Community | 2,370 |
+| [HyperHDR](https://www.hyperhdr.eu/) ([source](https://github.com/awawa-dev/HyperHDR)) | Analyzes video and audio to control ambient LED lighting. | MIT | Active | Community | 2,335 |
+| [Lyrion Music Server](https://lyrion.org/) ([source](https://github.com/LMS-Community/slimserver)) | Server software which controls a wide range of Squeezebox/Slim Devices audio players and compatible hardware (formerly Logitech Media Server). | GPL-2.0 | Active | Community | 1,828 |
+| [Immich Kiosk](https://immichkiosk.app/) ([source](https://github.com/damongolding/immich-kiosk)) | Lightweight slideshow for running on kiosk devices and browsers that uses Immich as a data source. | AGPL-3.0 | Active | Official | 1,755 |
+| [teddycloud](https://github.com/toniebox-reverse-engineering/teddycloud) | Local alternative cloud server for Toniebox devices that keeps their media service on your network. | GPL-2.0 | Active | Community | 1,119 |
+| [posterr](https://github.com/petersem/posterr) | Media poster display software for Plex, Sonarr, Radarr, and Readarr, (Just like the display screens in movie theatre foyers). | MIT | Active | Community | 654 |
+| [CastSponsorSkip](https://github.com/gabe565/castsponsorskip) | Service that skips SponsorBlock-marked segments on Google Cast devices. | Apache-2.0 | Active | Community | 639 |
+| [OpenTogetherTube](https://opentogethertube.com/) ([source](https://github.com/dyc3/opentogethertube)) | Web app for watching YouTube videos together with remote participants. | AGPL-3.0 | Active | No | 585 |
+| [MyMpd](https://jcorporation.github.io/myMPD/) ([source](https://github.com/jcorporation/myMPD)) | MPD web client preconfigured for Snapcast multi-room audio. | GPL-3.0 | Active | Community | 567 |
+| [dashboarr](https://github.com/renzobeux/dashboarr) | Dashboarr is a native mobile app (Android & iOS) that connects directly to your \*arr stack and media services, No backend server required - the app talks to. | GPL-3.0 | Active | Community | 393 |
 | [bonob](https://github.com/simojenki/bonob) | Bridge that connects Sonos speakers to a Navidrome music server. | GPL-3.0 | Active | Community | 343 |
-| [sponsorblockcast](https://github.com/nichobi/sponsorblockcast) | Service that detects sponsored segments in YouTube videos played on Chromecast devices. | GPL-3.0 | Archived | Community | 331 |
-| [tronbyt-server](https://github.com/tronbyt) ([source](https://github.com/tronbyt/server)) | Server for configuring Tronbyt apps and serving them to compatible display hardware. | Apache-2.0 | Active | Community | 229 |
-| [Odin](https://github.com/ad-on-is/odin-server) | Streaming service that sends Real-Debrid or AllDebrid media to Android devices. | GPL-3.0 | Archived | Community | 171 |
-| [BotWave](https://botwave.dpip.lol/) ([source](https://github.com/dpipstudio/botwave)) | FM broadcasting system with server- architecture for managing multiple Raspberry Pi transmitters remotely. | GPL-3.0 | Active |  | 149 |
+| [sponsorblockcast](https://github.com/nichobi/sponsorblockcast) | Service that detects sponsored segments in YouTube videos played on Chromecast devices. | GPL-3.0 | Archived | Community | 329 |
+| [tronbyt-server](https://github.com/tronbyt) ([source](https://github.com/tronbyt/server)) | Server for configuring Tronbyt apps and serving them to compatible display hardware. | Apache-2.0 | Active | Community | 230 |
+| [Odin](https://github.com/ad-on-is/odin-server) | Streaming service that sends Real-Debrid or AllDebrid media to Android devices. | GPL-3.0 | Archived | Community | 170 |
+| [BotWave](https://botwave.dpip.lol/) ([source](https://github.com/dpipstudio/botwave)) | FM broadcasting system with server- architecture for managing multiple Raspberry Pi transmitters remotely. | GPL-3.0 | Active |  | 148 |
 | [android-tv-background](https://github.com/adelatour11/androidtvbackground) | Docker for adelatour11's androidtvbackground, Create background wallpapers from Plex/Jellyfin/TMDB/Trakt, Useful to use with alternative android tv launchers. | MIT | Active | Community | 99 |
 | [Spotify-Connect-EQ](https://github.com/giof71/librespot-docker) | Spotify Connect receiver for Unraid configured to stream high-quality audio through the companion CamillaDSP EQ container. | Apache-2.0 | Active | Community | 65 |
 | [CamViewerPlus](https://github.com/fanman03/camviewerplus) | Browser-based RTSP viewer with customizable layouts for multiple camera streams. | GPL-3.0 | Slow | Community | 21 |
@@ -55,4 +55,4 @@
 | [serviio](https://serviio.org/) | Serviio media and DLNA server, Based on Alpine Linux Edge. | Serviio End User Licence Agreement | Active | Community |  |
 | [zf-bridge-unraid](https://relay.zonefoundry.dev/) | ZoneFoundry Bridge - connects your Sonos system to ZoneFoundry's iOS app, voice assistant, and IM bots (Telegram, WeChat, QQ) via the cloud relay, First. |  | Active | Community |  |
 
-[Back to all categories](../README.md). Data from 2026-11-16.
+[Back to all categories](../README.md). Data from 2026-11-23.

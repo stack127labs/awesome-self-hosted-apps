@@ -4,54 +4,54 @@
 
 | App | What it does | License | Status | Docker | Stars |
 | --- | --- | --- | --- | --- | ---: |
-| [TREK](https://demo.liketrek.com/) ([source](https://github.com/mauriceboe/TREK)) | Collaborative travel planner for building itineraries, sharing trips, and coordinating plans in real time. | AGPL-3.0 | Active | Official | 15,524 |
-| [Dawarich](https://dawarich.app/?utm_source=github&amp;utm_medium=project_description) ([source](https://github.com/Freika/dawarich)) | Visualize your location history, track your movements, and analyze your travel patterns with complete privacy and control. | AGPL-3.0 | Active | Official | 10,958 |
-| [Tile38](https://tile38.com/) ([source](https://github.com/tidwall/tile38)) | In-memory geospatial database for spatial queries and real-time geofencing. | MIT | Active | Official | 9,762 |
-| [TeslaMate](https://docs.teslamate.org/) ([source](https://github.com/teslamate-org/teslamate)) | Tesla data logger for trips, charging sessions, vehicle metrics, and dashboards. | AGPL-3.0 | Active | Official | 9,255 |
-| [Open Source Routing Machine (OSRM)](https://discord.gg/CpWzBC9G7Z) ([source](https://github.com/Project-OSRM/osrm-backend)) | Routing engine for calculating directions, travel times, and map matching from OpenStreetMap data. | BSD-2-Clause | Active | Official | 8,204 |
-| [Traccar](https://www.traccar.org/) ([source](https://github.com/traccar/traccar)) | GPS tracking server for devices, trips, live positions, geofences, and mobile clients. | Apache-2.0 | Active | Official | 8,121 |
-| [GraphHopper](https://www.graphhopper.com/open-source) ([source](https://github.com/graphhopper/graphhopper)) | Routing engine and server for calculating paths from OpenStreetMap data. | Apache-2.0 | Active |  | 6,812 |
-| [Valhalla](https://github.com/valhalla/valhalla) | Routing engine for OpenStreetMap data with distance matrices, isochrones, and map-matching support. | None declared | Active | Community | 6,462 |
-| [Nominatim](https://nominatim.org/) ([source](https://github.com/osm-search/Nominatim)) | Server application for geocoding (address -\> coordinates) and reverse geocoding (coordinates -\> address) on OpenStreetMap data. | GPL-3.0 | Active |  | 4,562 |
-| [wanderer](https://wanderer.to/) ([source](https://github.com/open-wanderer/wanderer)) | Saves GPS trails in a searchable map-based catalogue, with route planning and sharing. | AGPL-3.0 | Active | Official | 4,066 |
-| [AdventureLog](https://adventurelog.app/) ([source](https://github.com/seanmorley15/AdventureLog)) | Travel tracker for logging trips, planning adventures, saving locations, and sharing travel history. | GPL-3.0 | Active | Official | 3,878 |
-| [LubeLogger](https://lubelogger.com/) ([source](https://github.com/hargata/lubelog)) | Vehicle maintenance tracker for service records, fuel logs, reminders, and costs. | MIT | Active | Official | 2,956 |
+| [TREK](https://demo.liketrek.com/) ([source](https://github.com/mauriceboe/TREK)) | Collaborative travel planner for building itineraries, sharing trips, and coordinating plans in real time. | AGPL-3.0 | Active | Official | 15,886 |
+| [Dawarich](https://dawarich.app/?utm_source=github&amp;utm_medium=project_description) ([source](https://github.com/Freika/dawarich)) | Visualize your location history, track your movements, and analyze your travel patterns with complete privacy and control. | AGPL-3.0 | Active | Official | 10,990 |
+| [Tile38](https://tile38.com/) ([source](https://github.com/tidwall/tile38)) | In-memory geospatial database for spatial queries and real-time geofencing. | MIT | Active | Official | 9,761 |
+| [TeslaMate](https://docs.teslamate.org/) ([source](https://github.com/teslamate-org/teslamate)) | Tesla data logger for trips, charging sessions, vehicle metrics, and dashboards. | AGPL-3.0 | Active | Official | 9,303 |
+| [Open Source Routing Machine (OSRM)](https://discord.gg/CpWzBC9G7Z) ([source](https://github.com/Project-OSRM/osrm-backend)) | Routing engine for calculating directions, travel times, and map matching from OpenStreetMap data. | BSD-2-Clause | Active | Official | 8,238 |
+| [Traccar](https://www.traccar.org/) ([source](https://github.com/traccar/traccar)) | GPS tracking server for devices, trips, live positions, geofences, and mobile clients. | Apache-2.0 | Active | Official | 8,137 |
+| [GraphHopper](https://www.graphhopper.com/open-source) ([source](https://github.com/graphhopper/graphhopper)) | Routing engine and server for calculating paths from OpenStreetMap data. | Apache-2.0 | Active |  | 6,827 |
+| [Valhalla](https://github.com/valhalla/valhalla) | Routing engine for OpenStreetMap data with distance matrices, isochrones, and map-matching support. | None declared | Active | Community | 6,476 |
+| [Nominatim](https://nominatim.org/) ([source](https://github.com/osm-search/Nominatim)) | Server application for geocoding (address -\> coordinates) and reverse geocoding (coordinates -\> address) on OpenStreetMap data. | GPL-3.0 | Active |  | 4,575 |
+| [wanderer](https://wanderer.to/) ([source](https://github.com/open-wanderer/wanderer)) | Saves GPS trails in a searchable map-based catalogue, with route planning and sharing. | AGPL-3.0 | Active | Official | 4,077 |
+| [AdventureLog](https://adventurelog.app/) ([source](https://github.com/seanmorley15/AdventureLog)) | Travel tracker for logging trips, planning adventures, saving locations, and sharing travel history. | GPL-3.0 | Active | Official | 3,897 |
+| [LubeLogger](https://lubelogger.com/) ([source](https://github.com/hargata/lubelog)) | Vehicle maintenance tracker for service records, fuel logs, reminders, and costs. | MIT | Active | Official | 2,979 |
 | [TileServer GL](https://tileserver.readthedocs.io/en/latest) ([source](https://github.com/maptiler/tileserver-gl)) | Map tile server for vector and raster maps with GL styles and server-side rendering. | Apache-2.0 | Active | Official | 2,922 |
-| [OpenStreetMap](https://www.openstreetmap.org/) ([source](https://github.com/openstreetmap/openstreetmap-website)) | Collaborative project to create a editable map of the world. | GPL-2.0 | Active | Official | 2,885 |
-| [OpenTripPlanner](http://www.opentripplanner.org/) ([source](https://github.com/opentripplanner/OpenTripPlanner)) | Trip planner for routing across walking, cycling, transit, and multimodal journeys. | LGPL-3.0 | Active |  | 2,772 |
-| [Reitti](https://www.dedicatedcode.com/projects/reitti) ([source](https://github.com/dedicatedcode/reitti)) | Location tracking app for maps, movement history, visits, and travel analysis. | AGPL-3.0 | Active | Official | 2,716 |
-| [PostGIS](https://postgis.net/) ([source](https://github.com/postgis/postgis)) | PostGIS extends PostgreSQL with spatial data types, indexes, and functions. | GPL-2.0 | Active | Community | 2,264 |
-| [OpenRouteService](https://openrouteservice.org/) ([source](https://github.com/GIScience/openrouteservice)) | Route service with directions, isochrones, time-distance matrix, route optimization, etc. | GPL-3.0 | Active | Official | 1,990 |
-| [ChronoFrame](https://chronoframe.bh8.ga/) ([source](https://github.com/HoshinoSuzumi/chronoframe)) | Personal gallery application with online photo management, supporting Live/Motion Photos, and explore map. | AGPL-3.0 | Active | Official | 1,985 |
-| [tar1090](https://github.com/wiedehopf/tar1090) | Web interface for visualizing aircraft positions from ADS-B receiver data. | GPL-2.0-or-later | Active | Community | 1,965 |
-| [TRIP](https://itskovacs-trip.netlify.app/) ([source](https://github.com/itskovacs/trip)) | Saves points of interest on a map for trip planning and place lists. | MIT | Active | Official | 1,959 |
-| [Global Threat Map](https://globalthreatmap.up.railway.app/) ([source](https://github.com/unicodeveloper/globalthreatmap)) | Threat intelligence map for viewing real-time security events and global activity. | ISC | Active | Official | 1,869 |
-| [AirTrail](http://airtrail.johan.ohly.dk/) ([source](https://github.com/johanohly/AirTrail)) | Personal flight tracker for logging trips, aircraft, airports, and travel history. | GPL-3.0 | Active | Official | 1,709 |
+| [OpenStreetMap](https://www.openstreetmap.org/) ([source](https://github.com/openstreetmap/openstreetmap-website)) | Collaborative project to create a editable map of the world. | GPL-2.0 | Active | Official | 2,898 |
+| [OpenTripPlanner](http://www.opentripplanner.org/) ([source](https://github.com/opentripplanner/OpenTripPlanner)) | Trip planner for routing across walking, cycling, transit, and multimodal journeys. | LGPL-3.0 | Active |  | 2,781 |
+| [Reitti](https://www.dedicatedcode.com/projects/reitti) ([source](https://github.com/dedicatedcode/reitti)) | Location tracking app for maps, movement history, visits, and travel analysis. | AGPL-3.0 | Active | Official | 2,718 |
+| [PostGIS](https://postgis.net/) ([source](https://github.com/postgis/postgis)) | PostGIS extends PostgreSQL with spatial data types, indexes, and functions. | GPL-2.0 | Active | Community | 2,267 |
+| [OpenRouteService](https://openrouteservice.org/) ([source](https://github.com/GIScience/openrouteservice)) | Route service with directions, isochrones, time-distance matrix, route optimization, etc. | GPL-3.0 | Active | Official | 1,996 |
+| [ChronoFrame](https://chronoframe.bh8.ga/) ([source](https://github.com/HoshinoSuzumi/chronoframe)) | Personal gallery application with online photo management, supporting Live/Motion Photos, and explore map. | AGPL-3.0 | Active | Official | 1,987 |
+| [tar1090](https://github.com/wiedehopf/tar1090) | Web interface for visualizing aircraft positions from ADS-B receiver data. | GPL-2.0-or-later | Active | Community | 1,979 |
+| [TRIP](https://itskovacs-trip.netlify.app/) ([source](https://github.com/itskovacs/trip)) | Saves points of interest on a map for trip planning and place lists. | MIT | Active | Official | 1,968 |
+| [Global Threat Map](https://globalthreatmap.up.railway.app/) ([source](https://github.com/unicodeveloper/globalthreatmap)) | Threat intelligence map for viewing real-time security events and global activity. | ISC | Active | Official | 1,874 |
+| [AirTrail](http://airtrail.johan.ohly.dk/) ([source](https://github.com/johanohly/AirTrail)) | Personal flight tracker for logging trips, aircraft, airports, and travel history. | GPL-3.0 | Active | Official | 1,726 |
 | [Umap](https://umap-project.org/) ([source](https://github.com/umap-project/umap)) | Create maps with OpenStreetMap layers in a minute and embed them in your site. | AGPL-3.0 | Active | No | 1,634 |
-| [Open DroneLog](https://www.opendronelog.com/) ([source](https://github.com/arpanghosh8453/open-dronelog)) | Drone flight log dashboard for analyzing flights, aircraft, batteries, and pilot records. | AGPL-3.0 | Active | Official | 1,589 |
-| [GeoPulse](https://tess1o.github.io/geopulse) ([source](https://github.com/tess1o/geopulse)) | Records trips, visited places, timelines, and movement history for personal location tracking. | BUSL-1.1 | Active | Official | 1,484 |
-| [OpenStreetMap-Tile-Server](https://github.com/overv/openstreetmap-tile-server) | Server that turns regional OpenStreetMap data into map tiles for local map applications. | Apache-2.0 | Stale | Community | 1,454 |
+| [Open DroneLog](https://www.opendronelog.com/) ([source](https://github.com/arpanghosh8453/open-dronelog)) | Drone flight log dashboard for analyzing flights, aircraft, batteries, and pilot records. | AGPL-3.0 | Active | Official | 1,597 |
+| [GeoPulse](https://tess1o.github.io/geopulse) ([source](https://github.com/tess1o/geopulse)) | Records trips, visited places, timelines, and movement history for personal location tracking. | BUSL-1.1 | Active | Official | 1,500 |
+| [OpenStreetMap-Tile-Server](https://github.com/overv/openstreetmap-tile-server) | Server that turns regional OpenStreetMap data into map tiles for local map applications. | Apache-2.0 | Stale | Community | 1,456 |
 | [farmOS](https://farmos.org/) ([source](https://github.com/farmOS/farmOS)) | Manages farm records, maps, logs, assets, people, and agricultural planning data. | GPL-2.0 | Active | Official | 1,390 |
-| [OwnTracks Recorder](https://github.com/owntracks/recorder) | Store and access data published by OwnTracks location tracking apps. | GPL-2.0 | Active |  | 1,224 |
-| [FitTrackee](https://docs.fittrackee.org/) ([source](https://github.com/SamR1/FitTrackee)) | Tracks workouts, routes, sports, activity history, and personal fitness progress. | AGPL-3.0 | Active | Official | 1,177 |
-| [Tracktor](https://github.com/javedh-dev/tracktor) | Vehicle manager for tracking maintenance, fuel logs, ownership records, costs, and service history. | MIT | Active | Official | 1,040 |
-| [Readsb](https://github.com/wiedehopf/readsb) | ADS-B decoder that processes aircraft signals from a receiver and shares decoded data with other services. | GPL-3.0 | Active | Community | 709 |
+| [OwnTracks Recorder](https://github.com/owntracks/recorder) | Store and access data published by OwnTracks location tracking apps. | GPL-2.0 | Active |  | 1,228 |
+| [FitTrackee](https://docs.fittrackee.org/) ([source](https://github.com/SamR1/FitTrackee)) | Tracks workouts, routes, sports, activity history, and personal fitness progress. | AGPL-3.0 | Active | Official | 1,179 |
+| [Tracktor](https://github.com/javedh-dev/tracktor) | Vehicle manager for tracking maintenance, fuel logs, ownership records, costs, and service history. | MIT | Active | Official | 1,041 |
+| [Readsb](https://github.com/wiedehopf/readsb) | ADS-B decoder that processes aircraft signals from a receiver and shares decoded data with other services. | GPL-3.0 | Active | Community | 707 |
 | [TeslaLogger](https://www.teslalogger.de/) ([source](https://github.com/bassmaster187/TeslaLogger)) | TeslaLogger is a data logger for your Tesla Model S/3/X/Y, Actually it supports RaspberryPi 3B, 3B+, 4B, Docker and Synology NAS. | GPL-3.0 | Active | Official | 645 |
-| [Ulogger](https://github.com/bfabiszewski/ulogger-server) | Real-time collection of geolocation data, tracks viewing and management. | GPL-3.0 | Stale | No | 615 |
-| [PiAware](https://www.flightaware.com/adsb/piaware/) ([source](https://github.com/flightaware/piaware)) | ADS-B feeder client that forwards receiver data to FlightAware. | BSD-2-Clause | Active | Community | 580 |
-| [Owntracks](https://owntracks.org/) ([source](https://github.com/owntracks/frontend)) | Location tracking service for storing and viewing movement history. | MIT | Slow | No | 560 |
-| [OwnTracks Frontend](https://github.com/owntracks/frontend) | Web interface for viewing and managing location data from OwnTracks. | MIT | Slow | Official | 560 |
-| [Facilmap](https://facilmap.org/) ([source](https://github.com/FacilMap/facilmap)) | Collaborative maps and routing with a straightforward interface. | AGPL-3.0 | Active | No | 413 |
-| [Scratch Map](https://github.com/ad3m3r5/scratch-map) | Travel map for marking visited places with a scratch-off style view. | AGPL-3.0 | Active | Official | 412 |
-| [jetlog](https://github.com/pbogre/jetlog) | Flight tracker for recording trips and viewing personal aviation history. | GPL-2.0 | Active | Official | 352 |
-| [Photon](https://github.com/rtuszik/photon-docker) | Geocoding service for searching OpenStreetMap data and resolving coordinates. | Apache-2.0 | Active | Community | 328 |
-| [fr24feed-piaware](https://github.com/thom-x/docker-fr24feed-piaware-dump1090-mutability) | Image for feeding FlightRadar24/FlightAware ADS-B/MLAT data with an RTL-SDR device and local web server for displaying aircraft positions on a map. | MIT | Active | Community | 310 |
+| [Ulogger](https://github.com/bfabiszewski/ulogger-server) | Real-time collection of geolocation data, tracks viewing and management. | GPL-3.0 | Stale | No | 614 |
+| [PiAware](https://www.flightaware.com/adsb/piaware/) ([source](https://github.com/flightaware/piaware)) | ADS-B feeder client that forwards receiver data to FlightAware. | BSD-2-Clause | Active | Community | 583 |
+| [Owntracks](https://owntracks.org/) ([source](https://github.com/owntracks/frontend)) | Location tracking service for storing and viewing movement history. | MIT | Active | No | 561 |
+| [OwnTracks Frontend](https://github.com/owntracks/frontend) | Web interface for viewing and managing location data from OwnTracks. | MIT | Active | Official | 561 |
+| [Scratch Map](https://github.com/ad3m3r5/scratch-map) | Travel map for marking visited places with a scratch-off style view. | AGPL-3.0 | Active | Official | 413 |
+| [Facilmap](https://facilmap.org/) ([source](https://github.com/FacilMap/facilmap)) | Collaborative maps and routing with a straightforward interface. | AGPL-3.0 | Active | No | 412 |
+| [jetlog](https://github.com/pbogre/jetlog) | Flight tracker for recording trips and viewing personal aviation history. | GPL-2.0 | Active | Official | 353 |
+| [Photon](https://github.com/rtuszik/photon-docker) | Geocoding service for searching OpenStreetMap data and resolving coordinates. | Apache-2.0 | Active | Community | 333 |
+| [fr24feed-piaware](https://github.com/thom-x/docker-fr24feed-piaware-dump1090-mutability) | Image for feeding FlightRadar24/FlightAware ADS-B/MLAT data with an RTL-SDR device and local web server for displaying aircraft positions on a map. | MIT | Active | Community | 309 |
 | [NextGIS Web](https://nextgis.com/nextgis-web/) ([source](https://github.com/nextgis/nextgisweb)) | Web GIS server for geospatial data management, web map publishing, and QGIS-centered collaborative workflows, (Demo, Source Code) GPL-3.0 Docker. | GPL-3.0 | Active | No | 294 |
-| [Surmai](https://surmai.app/) ([source](https://github.com/rohitkumbhar/surmai)) | Travel organizer for planning and tracking personal or family trips. | MIT | Active | Official | 291 |
-| [May](https://github.com/dannymcc/may) | Vehicle maintenance tracker for service history, fuel use, and mileage. | MIT | Active | No | 273 |
+| [Surmai](https://surmai.app/) ([source](https://github.com/rohitkumbhar/surmai)) | Travel organizer for planning and tracking personal or family trips. | MIT | Active | Official | 292 |
+| [May](https://github.com/dannymcc/may) | Vehicle maintenance tracker for service history, fuel use, and mileage. | MIT | Active | No | 275 |
 | [Ikuyo](https://github.com/kenrick95/ikuyo) | Plans trips with day-by-day itineraries, places, notes, and shareable views. | MIT | Active |  | 186 |
 | [GeoMetrikks](https://github.com/GilbN/geometrikks) | Tracks and maps requests from reverse-proxy access logs. | MIT | Active | Official | 155 |
-| [docker-staticmaps](https://dietrichmax.github.io/docker-staticmaps) ([source](https://github.com/dietrichmax/docker-staticmaps)) | Serves static map images from tile data through a containerized map rendering API. | AGPL-3.0-only | Active | Official | 131 |
+| [docker-staticmaps](https://dietrichmax.github.io/docker-staticmaps) ([source](https://github.com/dietrichmax/docker-staticmaps)) | Serves static map images from tile data through a containerized map rendering API. | AGPL-3.0-only | Active | Official | 132 |
 | [ADS-B Exchange Feeder](https://www.adsbexchange.com/) ([source](https://github.com/ADSBexchange/feedclient)) | Feeds data from an existing ADS-B receiver to ADS-B Exchange. | MIT | Active | Community | 101 |
 | [Geo2tz](https://github.com/noandrea/geo2tz) | Timezone lookup service for converting latitude and longitude coordinates into time zone data. | MIT | Active | Official | 99 |
 | [TeslaMate-ABRP](https://github.com/fetzu/teslamate-abrp) | Sync TeslaMate data to A Better Route Planner to avoid issues with your Tesla sleeping. | MIT | Active | Community | 78 |
@@ -71,4 +71,4 @@
 | [Flightradar24 Feeder](https://www.flightradar24.com/) | Feeder client that sends ADS-B receiver data to Flightradar24. |  | Active | Community |  |
 | [TravelBuff](https://travelbuff.app/) | Offline-first travel planner, location tracker, and itinerary manager. |  | Active | No |  |
 
-[Back to all categories](../README.md). Data from 2026-11-16.
+[Back to all categories](../README.md). Data from 2026-11-23.
